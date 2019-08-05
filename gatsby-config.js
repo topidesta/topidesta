@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Topidesta`,
     description: `Hanya Menjadi Penulis dan Developer di Indonesia yang Kita Tahu`,
-    author: `@flexdinesh`,
+    author: `@emang_dasar`,
     fullName: `Horror The Code (HTC)`,
     twitterHandle: `https://twitter.com/emang_dasar`,
     baseOn: `https://github.com/flexdinesh/gatsby-boilerplate`,
