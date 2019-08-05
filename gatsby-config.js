@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
     title: `Topidesta`,
-    description: `Hanya meramaikan khasanah Penulis dan Developer di Indonesia`,
+    description: `Hanya Menjadi Penulis dan Developer di Indonesia yang Kita Tahu`,
     author: `@flexdinesh`,
-    fullName: `Much Desta Fadilah`,
+    fullName: `Horror The Code (HTC) Group's`,
     twitterHandle: `https://twitter.com/emang_dasar`,
     baseOn: `https://github.com/flexdinesh/gatsby-boilerplate`,
     wordpressOld: `https://topidesta.wordpress.com`
