@@ -3,7 +3,7 @@ module.exports = {
     title: `Topidesta`,
     description: `Hanya Menjadi Penulis dan Developer di Indonesia yang Kita Tahu`,
     author: `@flexdinesh`,
-    fullName: `Horror The Code (HTC) Group's`,
+    fullName: `Horror The Code (HTC), WhatsApp Group`,
     twitterHandle: `https://twitter.com/emang_dasar`,
     baseOn: `https://github.com/flexdinesh/gatsby-boilerplate`,
     wordpressOld: `https://topidesta.wordpress.com`

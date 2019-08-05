@@ -6,7 +6,7 @@ import HelloWorld from '@components/HelloWorld'
 const IndexPage = ({ data }) => (
   <Layout showHome={false}>
     <SEO
-      title="MUCH DESTA FADILAH (TOPIDESTA)"
+      title="HORROR THE CODE (HTC) GROUP - TOPIDESTA BLOG"
       keywords={[`developer`, `react`, `javascript`, `codeigniters`, `coffelovers`]}
     />
     <HelloWorld />
