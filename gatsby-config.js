@@ -1,17 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Topidesta`,
-    description: `Hanya Menjadi Penulis dan Developer di Indonesia yang Kita Tahu`,
-    author: `@emang_dasar`,
-    fullName: `Horror The Code (HTC)`,
-    twitterHandle: `https://twitter.com/emang_dasar`,
-    baseOn: `https://github.com/flexdinesh/gatsby-boilerplate`,
-    wordpressOld: `https://topidesta.wordpress.com`
+    title: `Gatsby Default Starter`,
+    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    author: `@gatsbyjs`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
-    // markdown to pages for blog
-    `gatsby-transformer-remark`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -19,51 +13,22 @@ module.exports = {
         path: `${__dirname}/src/images`,
       },
     },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `data`,
-        path: `${__dirname}/src/data`,
-      },
-    },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `blog`,
-        path: `${__dirname}/src/blog/`,
-      },
-    },
-    // loading static data through GraphQL query
-    `gatsby-transformer-javascript-frontmatter`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
-    // favicon generator
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `favicon`,
-        short_name: `favicon`,
+        name: `gatsby-starter-default`,
+        short_name: `starter`,
         start_url: `/`,
-        background_color: `#5badf0`,
-        theme_color: `#5badf0`,
+        background_color: `#663399`,
+        theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/moustache.png`, // This path is relative to the root of the site.
+        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
       },
     },
-    `gatsby-plugin-sass`,
-    /*
-    // google-analytics
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: 'your-tracking-code',
-        // Puts tracking script in the head instead of the body
-        head: false,
-        // Setting this parameter is optional
-        anonymize: true,
-        // Setting this parameter is also optional
-        respectDNT: true,
-      },
-    },*/
+    // this (optional) plugin enables Progressive Web App + Offline functionality
+    // To learn more, visit: https://gatsby.dev/offline
+    // `gatsby-plugin-offline`,
   ],
 }
