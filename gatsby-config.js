@@ -1,8 +1,12 @@
 module.exports = {
-  siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+ siteMetadata: {
+    title: `Topidesta`,
+    description: `Hanya Menjadi Penulis dan Developer di Indonesia yang Kita Tahu`,
+    author: `@emang_dasar`,
+    fullName: `Horror The Code (HTC)`,
+    twitterHandle: `https://twitter.com/emang_dasar`,
+    baseOn: `https://github.com/gatsbyjs/gatsby-starter-blog`,
+    wordpressOld: `https://topidesta.wordpress.com`
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -27,8 +31,14 @@ module.exports = {
         icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
       },
     },
-    // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`,
+    `gatsby-plugin-offline`,
+    `gatsby-transformer-remark`,
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/content`,
+        name: "posts",
+      }
+    }
   ],
 }
