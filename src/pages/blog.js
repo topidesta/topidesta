@@ -1,23 +1,52 @@
 import React from 'react'
-import { Link } from 'gatsby'
+import { Link,graphql } from 'gatsby'
 import Layout from '@components/Layout'
-import SEO from '@components/seo'
 
 /* eslint-disable jsx-a11y/accessible-emoji */
-const BlogPage = () => (
-  <Layout>
-    <SEO title="Blog" />
-    <h1>Halaman Blog</h1>
-    <p>Halaman List Blog Disini</p>
+const BlogPage = (props) => {
+  const blogList = props.data.allMarkdownRemark;
+  return(
+    <Layout>
+      {blogList.edges.map(({ node },i) => (
+        <Link to={node.fields.slug} key={i} className="link">
+          <div className="post-list">
+            <h1>{node.frontmatter.title}</h1>
+            <span>{node.frontmatter.date}</span>
+            <p>{node.excerpt}</p>
+          </div>
+        </Link>
+      ))}
+
     <p>
-      Back&nbsp;
+      You can go back&nbsp;
       <span>
         <Link to="/">home</Link>
       </span>
       .
     </p>
-  </Layout>
-)
+    </Layout>
+  );
+}
 /* eslint-enable jsx-a11y/accessible-emoji */
 
-export default BlogPage
+export default BlogPage;
+
+export const listQuery = graphql`
+query ListQuery{
+  allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }) {
+    edges {
+      node {
+        fields {
+          slug
+        }
+        excerpt(pruneLength: 250)
+        frontmatter {
+          title
+          date
+          tags
+        }
+      }
+    }
+  }
+}
+`
