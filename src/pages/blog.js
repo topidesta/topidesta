@@ -18,7 +18,7 @@ const BlogPage = (props) => {
       ))}
 
     <p>
-      You can go back&nbsp;
+      Kembali ke &nbsp;
       <span>
         <Link to="/">home</Link>
       </span>
