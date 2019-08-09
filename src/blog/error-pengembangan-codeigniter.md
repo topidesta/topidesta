@@ -14,7 +14,7 @@ date: '2019-08-09'
 
 Solusinya ini
 
-```
+```php
 into your library don’t use
 $this->db->query();
 but
@@ -25,7 +25,7 @@ Ciao!
 sumber: [sumber link](http://goo.gl/xk61d)
 ```
 
-```
+```php
 A PHP Error was encountered
 Severity: Notice
 Message: Undefined variable: kd_wil

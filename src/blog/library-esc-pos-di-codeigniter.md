@@ -14,7 +14,7 @@ Kebetulah dikantor lagi dapet maenan baru, printer epson series tm-u220d kayak g
 
 Terus, karena ngoding langsung pake RAW-TEXT dari printer ribet, contoh RAW-TEXT dari Vendor Zebra kayak gini neh:
 
-```
+```javascript
 ^FN11 : NO Rekam medis
 ^FN12 : Nama Pasien
 ^FN13 : No Rekam medis bentuk barcode
