@@ -1,9 +1,9 @@
 ---
-title: Daftar Error 
+title: Daftar Error Pengembangan Web Codeigniter
 published: true
 description: Daftar Error Pengembangan Web Codeigniter buat pemula
 tags: wordpress, codeigniter, php, error
-date: '2019-08-08'
+date: '2019-08-09'
 ---
 
 ## Bismillah...

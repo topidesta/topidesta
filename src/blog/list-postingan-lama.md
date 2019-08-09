@@ -8,8 +8,8 @@ date: '2019-08-08'
 
 Daftar Tulisan yang akan di Import ke Website Git Style.
 
-- [Menambahkan Library ESC/POS di Codeigniter](https://www.google.com)
-- [Error Yang Sering Muncul Dalam Pengembangan Web Codeigniter](https://www.google.com)
+- [Menambahkan Library ESC/POS di Codeigniter](library-esc-pos-di-codeigniter.md)
+- [Error Yang Sering Muncul Dalam Pengembangan Web Codeigniter](error-pengembangan-codeigniter.md)
 - Upload Docusaurus Localhost ke Github Pages
 - Belajar Translate E-Book React FullStack
 - 1 Perintah Bash Untuk Buat Virtual Host di Apache 2.4
