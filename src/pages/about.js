@@ -32,11 +32,12 @@ const AboutPage = () => (
     </p>
 
     <p>
-      TODO:
+      TODO: <br />
       1. Change Template More humanisme<br />
       2. Add Commenting (staticman or disqus ~masih cari tau)<br />
       3. Add Searching (algolia)<br />
-      4. Add Image? 
+      4. Add Image? <br />
+      5. Add Google Analytic
     </p>
 
     <p>Akhir kata, happy coding!</p>
