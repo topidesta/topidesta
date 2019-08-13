@@ -33,9 +33,9 @@ const AboutPage = () => (
 
     <p>
       TODO:
-      1. Change Template More humanisme
-      2. Add Commenting (staticman or disqus ~masih cari tau)
-      3. Add Searching (algolia)
+      1. Change Template More humanisme<br />
+      2. Add Commenting (staticman or disqus ~masih cari tau)<br />
+      3. Add Searching (algolia)<br />
       4. Add Image? 
     </p>
 
