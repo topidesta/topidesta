@@ -31,6 +31,14 @@ const AboutPage = () => (
       jadi nikmati dulu suguhan tampilan sekarang ya 😅
     </p>
 
+    <p>
+      TODO:
+      1. Change Template More humanisme
+      2. Add Commenting (staticman or disqus ~masih cari tau)
+      3. Add Searching (algolia)
+      4. Add Image? 
+    </p>
+
     <p>Akhir kata, happy coding!</p>
     
     <p>
