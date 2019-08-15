@@ -11,10 +11,10 @@ date: '2019-08-15'
 Sekedar catatan kecil gw ajah, karena keseringan digunakan untuk update data master yang ribet input lewat interface, mending dalam format excel, lebih cepet.
 
 Pertama, buat fungsi seperti ini:
-<script src="https://gist.github.com/mdestafadilah/e261f5c4cd33f89a4c705f7a56c45650.js"></script>
+`gist:mdestafadilah/e261f5c4cd33f89a4c705f7a56c45650#syntax.text`
 
 Kedua, buat form upload seperti ini:
-<script src="https://gist.github.com/mdestafadilah/ca77ee86bc8ed898951711edfc487ae1.js"></script>
+`gist:mdestafadilah/ca77ee86bc8ed898951711edfc487ae1#syntax.text`
 
 Jangan lupa untuk load library, kalo belum ada silahkan download/ clone aja dialamat ini:
 

@@ -33,6 +33,20 @@ module.exports = {
         path: `${__dirname}/src/blog/`,
       },
     },
+    {
+      resolve: "gatsby-remark-embed-gist",
+      options: {
+        // Optional:
+
+        // the github handler whose gists are to be accessed
+        username: 'mdestafadilah',
+
+        // a flag indicating whether the github default gist css should be included or not
+        // default: true
+        includeDefaultCss: true
+      }
+    },
+
     // loading static data through GraphQL query
     `gatsby-transformer-javascript-frontmatter`,
     `gatsby-transformer-sharp`,
