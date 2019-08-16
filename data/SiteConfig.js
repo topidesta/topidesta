@@ -50,21 +50,25 @@ const config = {
   latestPostsWidgetTitle: "Latest posts",
   linksWidgetTitle: "Links",
   // Use for Google custom search
-  searchWidgetTitle: "Looking for?",
-  searchWidgetPlaceHolder: "Enter keyword",
-  searchEngineID: "008548374781244864787:9ybvtnkbt7o",
+  searchWidgetTitle: "Pencarian Global?",
+  searchWidgetPlaceHolder: "Kata Kunci",
+  searchEngineID: "001989067992894107395:bqxk4ijd5",
   hasSearch: true,
   // Use for links widget
   sidebarSticky: true,
   sidebarLinks: [
     {
-      label: "Gatsby Template",
-      url: "https://github.com/completejavascript/gatsby-blog-template"
+		label: "Gatsby Template",
+		url: "https://github.com/completejavascript/gatsby-blog-template"
     },
     {
-      label: "RSUP PERSAHABATAN",
-      url: "https://rsuppersahabatan.co.id/"
+		label: "RSUP Persahabatan",
+		url: "https://rsuppersahabatan.co.id/"
     },
+	{
+		label: "Tania Rascia",
+		url: "https://www.taniarascia.com/"
+	},
   ],
   // Use for user info
   userName: "Topidesta", // Username to display in the author segment.
@@ -103,7 +107,7 @@ const config = {
     },
   ],
   // Use for navigation
-  navTitle: "GB Template",
+  navTitle: "Topidesta",
   navLinks: [
     { label: "About", url: "/about" },
     { label: "Contact", url: "/contact" },
