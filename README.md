@@ -1,15 +1,14 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/89b8cdfb-af7f-48d5-863f-64fbbdfe8986/deploy-status)](https://app.netlify.com/sites/gb-template/deploys) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![Maintainability](https://api.codeclimate.com/v1/badges/b23277cf6232a88f59ec/maintainability)](https://codeclimate.com/github/completejavascript/gatsby-blog-template/maintainability)
+# TOPIDESTA BLOG
 
-# gatsby-blog-template
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3aaf1d50-9df4-4af9-9997-f3278c59633b/deploy-status)](https://app.netlify.com/sites/topidesta/deploys)
 
-A GatsbyJS Blog Template for blogging purpose.
 
 ## Installation
 
 Install this template (assuming [Gatsby](https://github.com/gatsbyjs/gatsby/) is installed and updated) by running from your CLI:
 
 ```bash
-gatsby new YourProjectName https://github.com/completejavascript/gatsby-blog-template
+gatsby new YourProjectName https://github.com/mdestafadilah/topidesta
 npm run develop # or gatsby develop
 ```
 
@@ -18,7 +17,7 @@ Or you can fork the project, make your changes there and merge new features when
 Alternatively:
 
 ```bash
-git clone https://github.com/completejavascript/gatsby-blog-template YourProjectName # Clone the project
+git clone https://github.com/mdestafadilah/topidesta YourProjectName # Clone the project
 cd YourProjectname
 rm -rf .git # So you can have your own changes stored in VCS.
 npm install # or yarn install
