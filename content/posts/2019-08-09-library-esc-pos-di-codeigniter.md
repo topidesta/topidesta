@@ -1,6 +1,6 @@
 ---
 template: "post"
-title: Library ESC/ POS di COdeigniter, Menambahkan Fiture cetak Server Side di Codeigniter
+title: Library ESC/ POS, Menambahkan Fungsi cetak Server Side di Codeigniter
 cover: "../images/placeholder-660x400-464662.png"
 date: "2019-08-08T08:00:00Z"
 slug: "library-esc-post-dicodeigniter-server-side-printing"
