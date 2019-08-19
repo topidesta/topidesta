@@ -1,68 +1,30 @@
 ---
 template: "page"
 title: "About"
-description: "This is a description on About"
+description: "Halaman Tentang"
 slug: "about"
 ---
 
-Lorem **markdownum** Ixione palus **semper peritura barbaque** in aureus
-obliquum erigitur gemmae utque cur natus, aera supplice de nudae. Manus
-ambrosiam tendens, saecula tenet, conponere et ense et cucurri. Tantique
-animalia praeceps Meleagre greges venisse corpore et ignara, umquam ipse? Quam
-*Talibus ausis*.
+### About me
+topidesta-dev.me rumah baru dari blog 
+<a href="#"> topidesta.wordpress.com</a> (too much ads, there).
+Kali ini Blog ditenagai oleh beberapa teknologi JavaScript (nodejs) dan bukan lagi PHP (wordpress), berhubung di wordpress terlalu
+***BANYAK IKLAN (ads)*** yang mengganggu, baik pengunjung ataupun saya sebagai penulis merasa terganggu, akhirnya coba cari tau teknologi yang tren saat ini (2019)
+Yes, pertama, hunting domain dulu, kebetulan saya dapat ***GERATIS alias free***, nanti akan saya tulis juga cara mendapatkannya :), berikut ini 
+yang gw inget dalam membentuk blog list nyah.
 
-## Sedisti civiliter
+Beberapa teknologi pengembangan website sederhana ini:
 
-Lorem **markdownum** Ixione palus **semper peritura barbaque** in aureus
-obliquum erigitur gemmae utque cur natus, aera supplice de nudae. Manus
-ambrosiam tendens, saecula tenet, conponere et ense et cucurri. Tantique
-animalia praeceps Meleagre greges venisse corpore et ignara, umquam ipse? Quam
-*Talibus ausis*.
+1. NAMECHEAP
+2. GITHUB
+3. NETLIFY
+4. GATSBYJS
+5. YARN PACKAGE MANAGER
+6. VSCodium
+7. WINDOWS 10
 
-## Vultusque subsequitur Pallas regis datis inde animaque
 
-At securim cautum capitis, creatos sanguinis turbant iam concita videor, edere.
-Alis genas rudis felix quas **longum** suorum manu ante prima **usque**. Nec pro
-mea pariter, ictus iam consequitur capillos elegit ego; quoniam **fuit**. Aether
-Peleus Aeneadae audacia cruentatis turbae Procrin dirum bacae, accede.
+Untuk pengunjung yang kebetulan lewat, maaf. design masih dalam tahap pengembangan (gw masih belajar dari video ~ dokumentasi gatsbyjs) 
+jadi nikmati dulu suguhan tampilan sekarang ya
 
-```php
-    urlLinkedin.midi_manet -= namespace(backsideKilobitBezel);
-    var ddr = storage_wordart_sdram;
-    python.raw_backlink = rfid_load - 4;
-    kibibyte *= cdnThumbnailUri;
-```
-
-## Fortis dextrae humo limina Tempus singultibus illa
-
-Nate muros orbe [patris](http://debebuntilla.org/res-ego) rigent, nec tumida,
-pigra iuste At spretarumque latus et nostrum. Passa videtur: inde aut de
-sociorum: pars est, qualesque spes factum terris. Custodia sum animumque; iubet
-in pulvere carus, relinquunt incitat. Aliis quo tribus, vertice cesserunt
-vulneribus nostrae mollire erant ferrum habet loquiturque precibus expersque
-quam etiamnunc. Puraque [repetitque](http://mihi-aiax.io/suaferunt.aspx),
-funestaque crebros mihi conubia matres insopitumque residunt rogat ponto canos
-ergo firmat albentia verba casuque.
-
-```perl
-    if (lion_vdu + vrml_upnp - redundancyAccessPharming) {
-        driveProcessor = floatingWord(commerceDockRestore(database));
-    } else {
-        partition_source_thunderbolt = -2 + tokenStateArchive /
-                teraflops_gigahertz;
-    }
-    exabytePhpMacintosh -= graphic_cycle(expression, memory(ideFatMatrix,
-            controlInboxMode), 50) + -3;
-    buffer_apple_hdmi += viralSync + internetDigital / tweak_perl_expansion(
-            masterNullFloating + vdu, software_play);
-```
-
-## Nati expugnacior nympha milia nascuntur amico
-
-Multis timidus hic si auctor hausit. Suos taedasque, malis est nitente sceleri
-sunt florem.
-
-Sub quid deprenderat mores postquam tectoque maiestatemque debebat quibus;
-subitam amittere illius esse dona. Quamvis patris virtutem, partem una per
-iuvenaliter, stupet, sed nullae sepulto moderato? Nec phaedimus aequoris dixit.
-Hic bis parenti: e petunt satis.
+<p>Akhir kata, happy coding!</p>
