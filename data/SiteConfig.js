@@ -38,7 +38,7 @@ const config = {
   pageNotFoundContent: "Wow, Halaman benar benar tidak ada woy!.",
   // Use for tag
   pathPrefixTag: "/tag", // Prefix path for tags
-  tagHeader: "Taggar", // use in header of tag-template page
+  tagHeader: "#", // use in header of tag-template page
   tagHasThumbnail: true,
   // Use for category
   pathPrefixCategory: "/category", // Prefix path for category
