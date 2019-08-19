@@ -1,6 +1,6 @@
 const config = {
   // Site info
-  siteTitle: "Topidesta - Tulisan Ringan Bukan Cacian Ringan Seputar Pengalaman Dunia Koding", // Site title.
+  siteTitle: "Topidesta - Tulisan Ringan Dunia Perkodingan", // Site title.
   siteTitleShort: "TOPIDESTA", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
   siteTitleAlt: "Topidesta Blog - Dulu topidesta.wordpress.com", // Alternative site title for SEO.
   siteLogo: "/logos/logo-1024x1024.png", // Logo used for SEO and manifest.
