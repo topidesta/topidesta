@@ -7,10 +7,8 @@ slug: "upload-docusaurus-local-ke-github-pages"
 categories: 
     - react
     - github
-    - docusaurus
 tags:
     - trick
-    - topidesta-dev.me
 ---
 
 ## Bismillah...

@@ -5,15 +5,9 @@ cover: "../images/placeholder-660x400-464662.png"
 date: "2017-02-01T08:00:00Z"
 slug: "the-fallen-time"
 categories: 
-    - another one
-    - moar
-    - something
-    - basic category
+    - draft
 tags:
-    - test
-    - something
-    - tagging
-    - common tag
+    - draft
 ---
 
 Lorem markdownum huc suo ara, dubites celeri mihi bicolor. Secuti non? Suo opus

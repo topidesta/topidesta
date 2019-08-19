@@ -10,7 +10,6 @@ categories:
     - php
 tags:
     - trick
-    - topidesta-dev.me
     - error
 ---
 

@@ -5,12 +5,10 @@ cover: "../images/placeholder-660x400-464662.png"
 date: "2019-08-08T08:00:00Z"
 slug: "library-esc-post-dicodeigniter-server-side-printing"
 categories: 
-    - cetak
     - codeigniter
     - printer
 tags:
     - trick
-    - topidesta-dev.me
 ---
 
 ## Bismillah...

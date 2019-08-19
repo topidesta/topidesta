@@ -10,7 +10,6 @@ categories:
     - bash
 tags:
     - trick
-    - topidesta-dev.me
 ---
 
 #### Bismillah...

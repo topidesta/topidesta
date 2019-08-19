@@ -10,7 +10,6 @@ categories:
     - github
 tags:
     - trick
-    - topidesta-dev.me
 ---
 
 ### TODO :p

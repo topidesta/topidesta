@@ -7,10 +7,8 @@ slug: "daftar-postingan-wordpress-yang-akan-diposting-ulang"
 categories: 
     - windows
     - wordpress
-    - tulisan
 tags:
     - blog
-    - topidesta-dev.me
 ---
 
 Daftar Tulisan yang akan di Import ke Website Git Style.

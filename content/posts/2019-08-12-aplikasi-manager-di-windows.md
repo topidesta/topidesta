@@ -6,7 +6,6 @@ date: "2017-02-01T08:00:00Z"
 slug: "aplikasi-manager-aplikasi-di-windows"
 categories: 
     - windows
-    - aplikasi
 tags:
     - chocolatey
     - management
