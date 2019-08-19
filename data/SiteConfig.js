@@ -1,8 +1,8 @@
 const config = {
   // Site info
-  siteTitle: "Topidesta Blog", // Site title.
-  siteTitleShort: "topidesta", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
-  siteTitleAlt: "Topidesta Blog", // Alternative site title for SEO.
+  siteTitle: "Topidesta - Tulisan Ringan Bukan Cacian Ringan Seputar Pengalaman Dunia Koding", // Site title.
+  siteTitleShort: "TOPIDESTA", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
+  siteTitleAlt: "Topidesta Blog - Dulu topidesta.wordpress.com", // Alternative site title for SEO.
   siteLogo: "/logos/logo-1024x1024.png", // Logo used for SEO and manifest.
   siteUrl: "https://topidesta-dev.me/", // Domain of your website without pathPrefix.
   pathPrefix: "", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
@@ -20,14 +20,14 @@ const config = {
   dateFormat: "DD-MMMM-YYYY", // Date format for display.
   postTagged: "",
   postInCategories: "",
-  postOnDate: "Posted on",
+  postOnDate: "Tampil pada ",
   // Use for comment
   lazyLoadComments: true,
   disqusShortname: "", // Disqus shortname.
-  btnLoadComments: "Load comments",
+  btnLoadComments: "Lihat Komentar",
   // Use for home page
   numberLoadmore: 6,
-  btnLoadmore: "Load more",
+  btnLoadmore: "Halaman selanjutnya ..",
   homeHasLoadmore: true,
   homeHasThumbnail: true,
   homeHeader: "Home",
@@ -38,16 +38,16 @@ const config = {
   pageNotFoundContent: "Wow, Halaman benar benar tidak ada woy!.",
   // Use for tag
   pathPrefixTag: "/tag", // Prefix path for tags
-  tagHeader: "Posts tagged as", // use in header of tag-template page
+  tagHeader: "Taggar", // use in header of tag-template page
   tagHasThumbnail: true,
   // Use for category
   pathPrefixCategory: "/category", // Prefix path for category
-  categoryHeader: "Posts in category", // use in header of category-template page
+  categoryHeader: "Kategori ", // use in header of category-template page
   categoryHasThumbnail: true,
   // Use for widget
   categoryWidgetTitle: "Categories",
   tagWidgetTitle: "Tags",
-  latestPostsWidgetTitle: "Latest posts",
+  latestPostsWidgetTitle: "Post baru",
   linksWidgetTitle: "Links",
   // Use for Google custom search
   searchWidgetTitle: "Pencarian Global?",
@@ -58,7 +58,7 @@ const config = {
   sidebarSticky: true,
   sidebarLinks: [
     {
-		label: "Gatsby Template",
+		label: "Gatsby",
 		url: "https://github.com/completejavascript/gatsby-blog-template"
     },
     {
