@@ -17,7 +17,7 @@ const config = {
   postsPerPage: 6,
   // Use for post
   dateFromFormat: "YYYY-MM-DDTHH:mm:ssZ", // Date format used in the frontmatter.
-  dateFormat: "Do-MMMM-YYYY", // Date format for display.
+  dateFormat: "DD-MMMM-YYYY", // Date format for display.
   postTagged: "",
   postInCategories: "",
   postOnDate: "Posted on",
@@ -52,7 +52,7 @@ const config = {
   // Use for Google custom search
   searchWidgetTitle: "Pencarian Global?",
   searchWidgetPlaceHolder: "Kata Kunci",
-  searchEngineID: "001989067992894107395:bqxk4ijd5",
+  searchEngineID: "001989067992894107395:bqxk4ijd5_s",
   hasSearch: true,
   // Use for links widget
   sidebarSticky: true,
@@ -110,7 +110,6 @@ const config = {
   navTitle: "Topidesta",
   navLinks: [
     { label: "About", url: "/about" },
-    { label: "Contact", url: "/contact" },
   ],
   // Use for footer
   socialLinks: [
@@ -158,7 +157,7 @@ const config = {
     { label: "Privacy Policy", url: "/privacy" },
     { label: "Sitemap", url: "https://topidesta-dev.me/sitemap.xml" },
   ],
-  copyright: "Copyright © 2019 Lam Pham. Unless otherwise noted, all code MIT license.",
+  copyright: "Copyright © 2019 Topidesta. MIT license.",
   // Use for manifest
   themeColor: "#2196F3", // Used for setting manifest and progress theme colors.
   backgroundColor: "#FFF" // Used for setting manifest background color.
