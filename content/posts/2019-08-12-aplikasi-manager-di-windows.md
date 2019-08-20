@@ -1,7 +1,7 @@
 ---
 template: "post"
 title: Aplikasi Manager di Windows
-cover: "../images/placeholder-660x400-464662.png"
+cover: "../images/choco.png"
 date: "2017-02-01T08:00:00Z"
 slug: "aplikasi-manager-aplikasi-di-windows"
 categories: 
@@ -20,7 +20,9 @@ Kebetulan **laptop** dan **komputer kantor** pakai windows original, jadi sekara
 
 Silahkan baca sendiri cara installnya, bisa lewat commandpromt (CMD) atau Windows Powershell (WPS), harus **admin** saat hendak install yah. 
 
-Kurang lebih dengan perintah ``choco list --local-only`` kita akan lihat daftar yang sudah terinstall.
+Kurang lebih dengan perintah ``choco list --local-only`` kita akan lihat daftar yang sudah terinstall, kurang lebih seperti gambar dibawah ini daftar list yang terinstall
+![Choco Installed Thinkpad](../images/chocolist-laptop-thinkpad.png)
+
 
 tanpa download file lagi, choco akan mengdownload lalu install, otomatis dengan perintah yang simple, ``choco install nama_aplikasi -y``, tunggu dan boom. done.
 

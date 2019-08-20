@@ -1,7 +1,7 @@
 ---
 template: "post"
 title: Upload docusaurus local ke github pages
-cover: "../images/placeholder-660x400-464662.png"
+cover: "../images/docusaurus.png"
 date: "2019-08-09T08:00:00Z"
 slug: "upload-docusaurus-local-ke-github-pages"
 categories: 
