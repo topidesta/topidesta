@@ -1,7 +1,7 @@
 ---
 template: "post"
 title: Daftar Error Pengembangan Web Codeigniter buat pemula
-cover: "../images/placeholder-660x400-464662.png"
+cover: "../images/ci.png"
 date: "2019-08-08T08:00:00Z"
 slug: "daftar-error-pengembangan-web-codeigniter-buat-pemula"
 categories: 

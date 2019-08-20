@@ -1,7 +1,7 @@
 ---
 template: "post"
 title: Daftar List Postingan Wordpress Yang akan Digunakan kembali di Rumah Baru
-cover: "../images/placeholder-660x400-464662.png"
+cover: "../images/wordpress.png"
 date: "2019-08-08T08:00:00Z"
 slug: "daftar-postingan-wordpress-yang-akan-diposting-ulang"
 categories: 
