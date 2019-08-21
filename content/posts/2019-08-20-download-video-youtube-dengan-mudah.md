@@ -5,10 +5,10 @@ cover: "../images/4kdownloader.png"
 date: "2019-08-20T08:00:00Z"
 slug: "cara-jitu-download-video-youtube"
 categories: 
+    - trick
+tags:
     - download
     - youtube
-tags:
-    - trick
 ---
 
 ### Bismillah

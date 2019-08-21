@@ -5,10 +5,10 @@ cover: "../images/wordpress.png"
 date: "2019-08-08T08:00:00Z"
 slug: "daftar-postingan-wordpress-yang-akan-diposting-ulang"
 categories: 
+    - blog
+tags:
     - windows
     - wordpress
-tags:
-    - blog
 ---
 
 Daftar Tulisan yang akan di Import ke Website Git Style.

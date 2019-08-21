@@ -5,11 +5,11 @@ cover: "../images/eksel.png"
 date: "2019-08-15T08:00:00Z"
 slug: "fungsi-upload-data-excel-ke-tabel-dengan-codeigniter"
 categories: 
-    - windows
+		- trick
+tags:
+		- windows
     - codeigniter
     - excel
-tags:
-    - trick
 ---
 
 

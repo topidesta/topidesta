@@ -5,12 +5,12 @@ cover: "../images/ci.png"
 date: "2019-08-08T08:00:00Z"
 slug: "daftar-error-pengembangan-web-codeigniter-buat-pemula"
 categories: 
+    - trick
+    - error
+tags:
     - wordpress
     - codeigniter
     - php
-tags:
-    - trick
-    - error
 ---
 
 ## Bismillah...

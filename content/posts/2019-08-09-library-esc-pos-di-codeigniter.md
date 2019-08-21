@@ -5,10 +5,10 @@ cover: "../images/esc.png"
 date: "2019-08-08T08:00:00Z"
 slug: "library-esc-post-dicodeigniter-server-side-printing"
 categories: 
+    - trick
+tags:
     - codeigniter
     - printer
-tags:
-    - trick
 ---
 
 ## Bismillah...

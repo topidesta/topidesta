@@ -5,10 +5,10 @@ cover: "../images/docusaurus.png"
 date: "2019-08-09T08:00:00Z"
 slug: "upload-docusaurus-local-ke-github-pages"
 categories: 
-    - react
-    - github
+	- trick
 tags:
-    - trick
+	- react
+    - github
 ---
 
 ## Bismillah...
