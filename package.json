@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-blog-template",
-  "description": "GatsbyJS Blog Template for blogging purpose.",
-  "version": "1.1.0",
-  "author": "Lam Pham <completejavascript.super@gmail.com>",
+  "name": "topidesta",
+  "description": "Topidesta seorang Programmer, Seorang Suami, Seorang Bapak, kadang Seorang Koki",
+  "version": "1.0.0",
+  "author": "Desta <desta@rsuppersahabatan.co.id>",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.19",
     "@fortawesome/free-brands-svg-icons": "^5.9.0",
