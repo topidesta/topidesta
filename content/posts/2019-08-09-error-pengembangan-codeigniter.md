@@ -4,6 +4,7 @@ title: Daftar Error Pengembangan Web Codeigniter buat pemula
 cover: "../images/ci.png"
 date: "2019-08-08T08:00:00Z"
 slug: "daftar-error-pengembangan-web-codeigniter-buat-pemula"
+keywords: "Daftar error Web Codeigniter Pemula"
 categories: 
     - trick
     - error

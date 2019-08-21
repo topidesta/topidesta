@@ -4,6 +4,7 @@ title: Upload docusaurus local ke github pages
 cover: "../images/docusaurus.png"
 date: "2019-08-09T08:00:00Z"
 slug: "upload-docusaurus-local-ke-github-pages"
+keywords: "Upload docusaurus local ke remote github pages"
 categories: 
 	- trick
 tags:

@@ -4,6 +4,7 @@ title: Daftar List Postingan Wordpress Yang akan Digunakan kembali di Rumah Baru
 cover: "../images/wordpress.png"
 date: "2019-08-08T08:00:00Z"
 slug: "daftar-postingan-wordpress-yang-akan-diposting-ulang"
+keywords: "Daftar Postingan Wordpress"
 categories: 
     - blog
 tags:

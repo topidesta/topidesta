@@ -4,6 +4,7 @@ title: Aplikasi Manager di Windows
 cover: "../images/choco.png"
 date: "2017-02-01T08:00:00Z"
 slug: "aplikasi-manager-aplikasi-di-windows"
+keywords: "Aplikasi Manager di Windows"
 categories: 
     - windows
 tags:
