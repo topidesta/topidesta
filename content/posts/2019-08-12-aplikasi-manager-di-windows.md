@@ -2,7 +2,7 @@
 template: "post"
 title: Aplikasi Manager di Windows
 cover: "../images/choco.png"
-date: "2017-02-01T08:00:00Z"
+date: "2019-08-09T08:00:00Z"
 slug: "aplikasi-manager-aplikasi-di-windows"
 keywords: "Aplikasi Manager di Windows"
 categories: 
