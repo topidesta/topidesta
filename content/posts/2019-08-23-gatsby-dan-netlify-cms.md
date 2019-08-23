@@ -1,0 +1,20 @@
+---
+template: "post"
+title: Belajar Merge Netlify CMS dengan Gatsby JS Starter
+cover: "../images/4kdownloader.png"
+date: "2019-08-20T08:00:00Z"
+slug: "belajar-merge-netlify-cms-gatsbyjs-starter"
+keywords: "Belajar Merge Netlify CMS dengan Gatsby JS Starter"
+categories: 
+    - tutorial
+tags:
+    - gatsbyjs
+    - netlify
+    - CMS
+---
+
+### Bismillah
+
+TODO :)
+
+source: https://kutt.it/gatsby-netlify-cms
