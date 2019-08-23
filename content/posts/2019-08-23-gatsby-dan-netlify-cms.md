@@ -2,7 +2,7 @@
 template: "post"
 title: Belajar Merge Netlify CMS dengan Gatsby JS Starter
 cover: "../images/netlify.png"
-date: "2019-08-20T08:00:00Z"
+date: "2019-08-23T08:00:00Z"
 slug: "belajar-merge-netlify-cms-gatsbyjs-starter"
 keywords: "Belajar Merge Netlify CMS dengan Gatsby JS Starter"
 categories: 
