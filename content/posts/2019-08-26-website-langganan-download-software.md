@@ -19,10 +19,10 @@ Hanya sekedar berbagi informasi, sebaiknya ..
 
 dikarenakan beberapa software gw ada yang pake jamu ada yang pakai serial fake atau user fake atau register fake dll, dan juga biar gak ribet klak kliknya, berikut ini list website penyedia software gratis yang sering gw kunjungin, diantaranya:
 
-1. Kuyhaa
-2. Bagas31
-3. GigaPurbalingga
-4. Ad4m-San
+1. [Kuyhaa](https://go.topidesta-dev.me/jsqvz1)
+2. [Bagas31](https://go.topidesta-dev.me/4LrFbX)
+3. [GigaPurbalingga](https://go.topidesta-dev.me/292VW9)
+4. [Ad4m-San](https://go.topidesta-dev.me/yh6oVK)
 5. [Yasir252](http://go.topidesta-dev.me/sMmJ4m)
 
 Tambahan: 
