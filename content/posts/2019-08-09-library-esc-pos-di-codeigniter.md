@@ -16,7 +16,7 @@ tags:
 
 Kebetulah dikantor lagi dapet maenan baru, printer epson series tm-u220d kayak gini:
 
-<img class="aligncenter size-full" src="https://www.epson.eu/files/assets/converted/510m-310m/e/p/s/o/epson_tm-u220_web.png.png" width="211" height="298" />
+<img class="aligncenter size-full" src="../images/epson_tm-u220_web.png" width="211" height="298" />
 
 Terus, karena ngoding langsung pake RAW-TEXT dari printer ribet, contoh RAW-TEXT dari Vendor Zebra kayak gini neh:
 
