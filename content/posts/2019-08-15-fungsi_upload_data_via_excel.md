@@ -8,13 +8,11 @@ keywords: "Fungsi Upload data Excel di Codeigniter"
 categories: 
 		- trick
 tags:
-		- windows
     - codeigniter
     - excel
 ---
 
-
-***bismillah***
+### Bismillah
 
 Sekedar catatan kecil gw ajah, karena keseringan digunakan untuk update data master yang ribet input lewat interface, mending dalam format excel, lebih cepet.
 
