@@ -5,7 +5,6 @@ cover: "../images/eksel.png"
 date: "2019-08-15T08:00:00Z"
 slug: "fungsi-upload-data-excel-ke-tabel-dengan-codeigniter"
 keywords: "Fungsi Upload data Excel di Codeigniter"
-
 categories: 
 		- trick
 tags:
