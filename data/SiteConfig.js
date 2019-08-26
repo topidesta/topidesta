@@ -1,6 +1,6 @@
 const config = {
   // Site info
-  siteTitle: "Topidesta - Tulisan Ringan Dunia Perkodingan", // Site title.
+  siteTitle: "Topidesta - Tulisan Ringan Bukan Cacian", // Site title.
   siteTitleShort: "TOPIDESTA", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
   siteTitleAlt: "Topidesta Blog - Dulu topidesta.wordpress.com", // Alternative site title for SEO.
   siteLogo: "/logos/logo-1024x1024.png", // Logo used for SEO and manifest.
@@ -8,10 +8,10 @@ const config = {
   pathPrefix: "", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   siteDescription: "Rumah baru topidesta.wordpress.com blog.", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
-  siteLang: "id",
+  siteLang: "id-ID",
   siteFBAppID: "", // FB Application ID for using app insights
-  googleAnalyticsID: "", // GA tracking ID.
-  postDefaultCategoryID: "", // Default category for posts.
+  googleAnalyticsID: "146436102", // GA tracking ID.
+  postDefaultCategoryID: "trick", // Default category for posts.
   // Common for tag, category pages and widget
   numberLatestPost: 8,
   postsPerPage: 6,
@@ -30,7 +30,7 @@ const config = {
   btnLoadmore: "Halaman selanjutnya ..",
   homeHasLoadmore: true,
   homeHasThumbnail: true,
-  homeHeader: "Home",
+  homeHeader: "Indek",
   // Use for page
   pathPrefixPagination: "/page", // Prefix path for pagination
   pageNotFoundTitle: "Halaman Tidak Ditemukan", // 
@@ -45,12 +45,12 @@ const config = {
   categoryHeader: "Kategori ", // use in header of category-template page
   categoryHasThumbnail: true,
   // Use for widget
-  categoryWidgetTitle: "Categories",
+  categoryWidgetTitle: "Kategori",
   tagWidgetTitle: "Tags",
   latestPostsWidgetTitle: "Post baru",
   linksWidgetTitle: "Links",
   // Use for Google custom search
-  searchWidgetTitle: "Pencarian Global?",
+  searchWidgetTitle: "Pencarian",
   searchWidgetPlaceHolder: "Kata Kunci",
   searchEngineID: "001989067992894107395:bqxk4ijd5_s",
   hasSearch: true,
@@ -58,17 +58,17 @@ const config = {
   sidebarSticky: true,
   sidebarLinks: [
     {
-		label: "Gatsby",
-		url: "https://github.com/completejavascript/gatsby-blog-template"
+		  label: "Gatsby Template",
+		  url: "https://github.com/completejavascript/gatsby-blog-template"
     },
     {
-		label: "RSUP Persahabatan",
-		url: "https://rsuppersahabatan.co.id/"
+		  label: "RSUP Persahabatan",
+		  url: "https://rsuppersahabatan.co.id/"
     },
-	{
-		label: "Tania Rascia",
-		url: "https://www.taniarascia.com/"
-	},
+    {
+      label: "Tania Rascia",
+      url: "https://www.taniarascia.com/"
+    },
   ],
   // Use for user info
   userName: "Topidesta", // Username to display in the author segment.
@@ -77,7 +77,7 @@ const config = {
   userLocation: "Jakarta, Indonesia", // User location to display in the author segment.
   userAvatar: "", // User avatar to display in the author segment.
   userDescription:
-    "Software Engineer, Web Developer, JavaScript Lover & Blogger @completejavascript.", // User description to display in the author segment.
+    "Developer PHP, JavaSript, GO dan Python Learner", // User description to display in the author segment.
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
     {
@@ -110,6 +110,8 @@ const config = {
   navTitle: "Topidesta",
   navLinks: [
     { label: "About", url: "/about" },
+    { label: "Lagu", url: "/lagu" },
+
   ],
   // Use for footer
   socialLinks: [
@@ -152,9 +154,8 @@ const config = {
   footerLinks: [
     { label: "Home", url: "/" },
     { label: "About", url: "/about" },
-    { label: "Contact", url: "/contact" },
-    { label: "Terms of Use", url: "/terms" },
-    { label: "Privacy Policy", url: "/privacy" },
+    { label: "Alat Tempur", url: "/alat" },
+    { label: "Belajar", url: "/belajar" },
     { label: "Sitemap", url: "https://topidesta-dev.me/sitemap.xml" },
   ],
   copyright: "Copyright © 2019 Topidesta. MIT license.",
