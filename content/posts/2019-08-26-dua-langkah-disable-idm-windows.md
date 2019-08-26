@@ -6,7 +6,7 @@ date: "2019-08-26T03:00:00Z"
 slug: "dua-langkah-disable-idm-windows-regedit"
 keywords: "Dua Langkah Disable IDM Windows dengan Regedit - Register Editor"
 categories: 
-    - tutorial
+    - trick
 tags:
     - idm
     - windows
