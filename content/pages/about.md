@@ -1,11 +1,10 @@
 ---
 template: "page"
-title: "About"
+title: "About me"
 description: "Halaman Tentang"
 slug: "about"
 ---
 
-### About me
 topidesta-dev.me rumah baru dari blog 
 <a href="#"> topidesta.wordpress.com</a> (too much ads, there).
 Kali ini Blog ditenagai oleh beberapa teknologi JavaScript (nodejs) dan bukan lagi PHP (wordpress), berhubung di wordpress terlalu
