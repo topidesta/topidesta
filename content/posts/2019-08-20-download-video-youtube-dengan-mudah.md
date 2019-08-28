@@ -14,7 +14,7 @@ tags:
 
 ### Bismillah
 
-Sekedar berbagi informasi tentang downloader di youtube namanya 4kdownloader .. lumayan bisa download video youtube dengan mudah, ada juga yang melalui website, tapi ini yang sangat mudah dan cepat.
+Sekedar berbagi informasi tentang downloader di youtube namanya [4kdownloader](http://go.topidesta-dev.me/4kdownloader) .. lumayan bisa download video youtube dengan mudah, ada juga yang melalui website, tapi ini yang sangat mudah dan cepat.
 
 bisa download lalu install via chocolatey atau searching di google, ada banyak linknya.
 
