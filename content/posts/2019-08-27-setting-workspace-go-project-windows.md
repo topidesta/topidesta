@@ -24,6 +24,16 @@ Secara eksplisit, **workspace** bahasa GO, merupakan ruang kerja, dimana didalam
 * `src` source file go disini
 * `bin` source exe go disini
 
+## UPDATE 
+___
+
+Ternyata ada 1 folder, setelah dieksekusi, nama foldernya:
+* `pkg` 
+
+jadi semacam folder yang menghubungkan *object go yang sudah dicompile* dari folder `src` yang saling terhubung ke folder `bin`, contohnya: paket `fmt` hampir ada disemua program Go, ketika kita compile akan muncul di pkg tapi sekali saja, dan tersimpan di folder `pkg`, dan akan *terlink otomatis*, penghematan!.
+
+info didapat dari sini: [StackOverFlow](https://stackoverflow.com/a/47369867)
+___
 GO akan membuat file binaries saat build project yang akan disimpan di `bin` folder dan folder `src` lah yang akan menjadi tempat project dibuat dalam bentuk **subdirectory** , kurang lebih workspce seperti ini:
 
 ![directory windows](../images/directory-windows.png)
