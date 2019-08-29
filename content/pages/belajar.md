@@ -39,7 +39,7 @@ Jika dalam perkembangan Go, saya lebih fokus pada sisi **back-End** tapi tidak m
 
 #### Konsep
 - [ ] Variabel, Tipe Data dan Operator 
-- [ ] Array, Slice, Map dan Fungsi
+- [ ] [Array, Slice](/memahami-slice-array-di-golang), Map dan Fungsi
 - [ ] Pointer, Struct, Method dan Properti
 - [ ] Regex, Layout dan Exec
 - [ ] Web Service, Parsing dan JSON
