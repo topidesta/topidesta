@@ -2,7 +2,7 @@
 template: "post"
 title: Memahami Slice atau Array di Golang
 cover: "../images/tipe-dinamik.png"
-date: "2019-08-28T12:50:00Z"
+date: "2019-08-29T16:00:00Z"
 slug: "memahami-slice-array-di-golang"
 keywords: "Memahami Slice atau Array di Golang"
 categories: 
