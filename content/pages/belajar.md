@@ -21,6 +21,9 @@ Dalam perkembangan PHP, saya dapat beradaptasi baik dari sisi **front-End** atau
 ### JavaScript
 Dalam perkembangan JavaScript, saya lebih fokus pada sisi **front-End** dan sedang mencoba untuk sisi back-end.
 
+#### Konsep JS
+- [x] Variabel, Tipe Data, Mutation, dan Coersion Type
+
 #### Konsep ReactJS
 - [ ] Variabel
 - [ ] et 
