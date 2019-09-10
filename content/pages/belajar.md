@@ -23,6 +23,7 @@ Dalam perkembangan JavaScript, saya lebih fokus pada sisi **front-End** dan seda
 
 #### Konsep JS
 - [x] Variabel, Tipe Data, Mutation, dan Coersion Type
+- [x] Function Declaration dan Function Expression
 
 #### Konsep ReactJS
 - [ ] Variabel
