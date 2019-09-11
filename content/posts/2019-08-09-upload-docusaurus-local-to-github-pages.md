@@ -8,7 +8,6 @@ keywords: "Upload docusaurus local ke remote github pages"
 categories: 
 	- trick
 tags:
-	- react
     - github
 ---
 
