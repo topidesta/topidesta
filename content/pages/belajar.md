@@ -43,6 +43,7 @@ Jika dalam perkembangan Go, saya lebih fokus pada sisi **back-End** tapi tidak m
 
 #### Konsep
 - [ ] Variabel, Tipe Data dan Operator 
+- [x] Library/ Package and Import Package/ Library
 - [ ] [Array, Slice](/memahami-slice-array-di-golang), Map dan Fungsi
 - [ ] Pointer, Struct, Method dan Properti
 - [ ] Regex, Layout dan Exec
