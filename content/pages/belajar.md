@@ -27,7 +27,7 @@ Dalam perkembangan JavaScript, saya lebih fokus pada sisi **front-End** dan seda
 
 #### Konsep ReactJS
 - [ ] Variabel
-- [ ] et 
+- [x] State
 
 #### Konsep React Native
 - [ ] Variabel
@@ -43,6 +43,7 @@ Jika dalam perkembangan Go, saya lebih fokus pada sisi **back-End** tapi tidak m
 
 #### Konsep
 - [ ] Variabel, Tipe Data dan Operator 
+- [x] Library/ Package and Import Package/ Library
 - [ ] [Array, Slice](/memahami-slice-array-di-golang), Map dan Fungsi
 - [ ] Pointer, Struct, Method dan Properti
 - [ ] Regex, Layout dan Exec
@@ -55,6 +56,8 @@ Jika dalam perkembangan Go, saya lebih fokus pada sisi **back-End** tapi tidak m
 - [x] Git
   - [x] Push, Pull, Commit
   - [x] Merge, Rebase, Branch, Stash, Pull Request
+
+- [ ] Docker
 
 ### Network
 
