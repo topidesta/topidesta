@@ -95,7 +95,7 @@ shutdown.exe /r /t 00
 
 dan sekarang lisensi ada 2 dikomputer gw, **home retailer** dan **education**  hehe, dan bisa install Docker untuk belajar.
 
-Have a nice Day!
+Have a nice Day!!
 
 source: 
 * http://go.topidesta-dev.me/TcYCv2
