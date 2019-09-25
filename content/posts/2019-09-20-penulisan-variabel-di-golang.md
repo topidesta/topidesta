@@ -15,7 +15,7 @@ tags:
 
 Sekedar catatan dari belajar Golang, ada beberapa style penulisan variabel di golang, 1 baris atau lebih dari 1 baris. berikut ini contoh penulisan variabel
 
-```golang
+```go
 package main
 
 func main() {
