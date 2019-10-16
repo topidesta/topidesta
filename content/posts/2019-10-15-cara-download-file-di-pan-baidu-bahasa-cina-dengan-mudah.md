@@ -1,6 +1,6 @@
 ---
 template: "post"
-title: Cara Download File Di Pan Baidu Cina Dengan WEb Downloader
+title: Cara Download File Di Pan Baidu Cina Dengan Web Downloader
 cover: "../images/speedbaidu.png"
 date: "2019-10-15T03:40:00Z"
 slug: "cara-download-file-di-pan-baidu-bahasa-cina-dengan-mudah-dengan-web-downloader"
@@ -25,13 +25,13 @@ Ok, cari digogel tricknya, secara ringkas, menggunakan
 
 dengan tampermonkey .. nothing works!
 
-Akhirnya pakai cara ke-2, menggunakan jasa web-downloader, buatan orang rusia, alamatnya: [https://speedbaidu.ru/](https://speedbaidu.ru/) silahkan pakai chrome agar bisa translate otomatis ke english atau indonesia. kurang lebih langkahnya seperti digambar bawah ini:
+Akhirnya pakai cara ke-2, menggunakan jasa web-downloader, buatan orang rusia, alamatnya: [https://speedbaidu.ru/enindex.php](https://speedbaidu.ru/enindex.php). kurang lebih langkahnya seperti digambar bawah ini:
 
 ![speedbaidu](../images/caradispeedbaidu.png)
 
 *Gratisnya sekali doang sayangnya*, karena mereka juga sewa server dan membayar tim, dan file yang gw kirim ke mereka, ternyata [salah](https://cl.ly/0799a38e3bfb) ... sedih ... :( 
 
-**UPDATE**: mereka benar benar baik ... speedbaidu.ru telah mendownloadkan ulang file yang gw [minta](https://cl.ly/88ef465768aa), alhamdulillah.
+**UPDATE**: mereka benar benar baik ... Tim speedbaidu telah mendownloadkan ulang file yang gw [minta](https://cl.ly/88ef465768aa), alhamdulillah.
 
 Buat temen temen yang punya dollar atau online payment ... silahkan donasi kemereka berapapun ... gw belum bisa karena memang gw gak punya dollar apalagi paypall.
 
