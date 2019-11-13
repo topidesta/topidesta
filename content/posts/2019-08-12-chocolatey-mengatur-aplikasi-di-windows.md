@@ -1,10 +1,10 @@
 ---
 template: "post"
-title: Aplikasi Manager di Windows
+title: Aplikasi Install Program dengan Chocolatey di Windows
 cover: "../images/choco.png"
 date: "2019-08-09T08:00:00Z"
-slug: "aplikasi-manager-aplikasi-di-windows"
-keywords: "Aplikasi Manager di Windows"
+slug: "aplikasi-install-program-dengan-chocolatey-di-windows"
+keywords: "Majemen aplikasi di Windows"
 categories: 
     - windows
 tags:
@@ -25,9 +25,16 @@ Kurang lebih dengan perintah ``choco list --local-only`` kita akan lihat daftar 
 ![Choco Installed Thinkpad](../images/chocolist-laptop-thinkpad.png)
 
 
+
 tanpa download file lagi, choco akan mengdownload lalu install, otomatis dengan perintah yang simple, ``choco install nama_aplikasi -y``, tunggu dan boom. done.
+
+## Update
+Ternyata aplikasi yang terinstall oleh choco ada beberapa yang perlu update ... gak mungkin kan satu satu ... nah ada satu perintah lagi untuk update aplikasi yang tersedia ``cup all -y`` dengan catatan choco versi *0.9.8.33+.* kurang lebih nanti tampilannya seperti ini:
+
+![Choco Installed Office PC](../images/cocoupdate.png)
 
 Have a nice day!
 
 source:
 1. https://superuser.com/questions/1270151/how-to-list-installed-chocolatey-packages
+2. https://superuser.com/a/890257
