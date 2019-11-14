@@ -10,4 +10,7 @@ slug: "link"
 2. https://kutt.it/gatsbyJS-2
 3. https://kutt.it/gatsbyJS-3
 4. https://kutt.it/gatsbyJS-4
-   
+
+
+### TODO
+https://github.com/infinitered/ignite (Pelajari Jangan Lupa!)
