@@ -6,9 +6,9 @@ date: "2019-11-20T08:40:00Z"
 slug: "contoh-surat-resmi-untuk-daftar-kerja-di-pemerintahan-atau-swasta"
 keywords: "Contoh Surat Resmi Untuk Daftar Kerja di Pemerintahan atau Swasta"
 categories: 
-    - windows 
+    - relax
 tags:
-    - editor
+    - download
 ---
 
 ### Bismillah
