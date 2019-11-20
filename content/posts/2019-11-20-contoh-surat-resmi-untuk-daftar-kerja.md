@@ -15,10 +15,4 @@ tags:
 
 Langsung ajah ini gw share surat resmi untuk mendaftar pekerjaan, baik pemerintahan atau swasta ya.
 
-1. ![SURAT-BEBAS-HUKUM](../images/SURAT-BEBAS-HUKUM.pdf)
-2. ![SURAT-BEBAS-NARKOBA](../images/SURAT-BEBAS-NARKOBA.pdf)
-3. ![SURAT-BEBAS-STUDI](../images/SURAT-BEBAS-STUDI.pdf)
-4. ![SURAT-LAMARAN-CONTOH](../images/SURAT-LAMARAN-CONTOH.pdf)
-5. ![SURAT-SEDIA-DIMANA-SAJA](../images/SURAT-SEDIA-DIMANA-SAJA.pdf)
-
 1. <img src="../images/SURAT-BEBAS-HUKUM.pdf" alt="SURAT BEBAS HUKUM"  width="4200" height="4200">
