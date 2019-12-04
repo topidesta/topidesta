@@ -23,3 +23,7 @@ pastikan buka **CMD** atau **BASH** terminal dalam posisi *Run Administrator* ka
 cek dengan perintah ini: **react-native -v** nanti akan muncul versi nyah.
 
 Done, have a nice day!
+
+source: 
+1. https://stackoverflow.com/a/55224044
+2. https://stackoverflow.com/a/54778838
