@@ -6,9 +6,10 @@ date: "2019-12-05T05:40:00Z"
 slug: "command-not-found-react-native-run-android"
 keywords: "Command Not Found React Native Run Android"
 categories: 
-    - react
-tags:
     - trick
+tags:
+    - react
+    - android
 ---
 
 ## bismillah
