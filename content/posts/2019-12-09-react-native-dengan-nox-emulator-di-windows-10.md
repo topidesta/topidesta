@@ -34,3 +34,6 @@ nox_adb.exe connect 127.0.0.1:62001
 ```
 
 done, sekarang bisa pake nox emulator deh! :)
+
+sumber:
+1. https://github.com/facebook/react-native/issues/13397#issuecomment-360830691
