@@ -23,7 +23,7 @@ const config = {
   postOnDate: "Tampil pada ",
   // Use for comment
   lazyLoadComments: true,
-  disqusShortname: "topidesta", // Disqus shortname.
+  disqusShortname: "topidesta-dev", // Disqus shortname.
   btnLoadComments: "Lihat Komentar",
   // Use for home page
   numberLoadmore: 6,
