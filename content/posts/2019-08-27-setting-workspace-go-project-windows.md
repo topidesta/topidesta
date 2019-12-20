@@ -1,6 +1,6 @@
 ---
 template: "post"
-title: Setting Workspace Go Lang Project di Windows
+title: [trick] Setting Workspace Go Lang Project di Windows
 cover: "../images/go-project.png"
 date: "2019-08-27T11:50:00Z"
 slug: "setting-workspace-go-lang-project-di-windows"

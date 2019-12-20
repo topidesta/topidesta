@@ -1,6 +1,6 @@
 ---
 template: "post"
-title: Bermain Konstanta di Golang
+title: [belajar] Bermain Konstanta di Golang
 cover: "../images/golang.png"
 date: "2019-09-11T08:00:00Z"
 slug: "bermain-konstanta-di-golang"

@@ -1,15 +1,16 @@
 ---
 template: "post"
-title: Aplikasi Install Program dengan Chocolatey di Windows
+title: [trick] Aplikasi Install Program dengan Chocolatey di Windows
 cover: "../images/choco.png"
 date: "2019-08-09T08:00:00Z"
 slug: "aplikasi-install-program-dengan-chocolatey-di-windows"
 keywords: "Majemen aplikasi di Windows"
 categories: 
-    - windows
+    - trick
 tags:
     - chocolatey
     - management
+    - windows
 ---
 
 Bismillah

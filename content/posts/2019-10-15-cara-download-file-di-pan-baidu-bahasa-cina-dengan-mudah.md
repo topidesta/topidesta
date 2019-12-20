@@ -1,6 +1,6 @@
 ---
 template: "post"
-title: Cara Download File Di Pan Baidu Cina Dengan Web Downloader
+title: [trick] Cara Download File Di Pan Baidu Cina Dengan Web Downloader
 cover: "../images/speedbaidu.png"
 date: "2019-10-15T03:40:00Z"
 slug: "cara-download-file-di-pan-baidu-bahasa-cina-dengan-mudah-dengan-web-downloader"

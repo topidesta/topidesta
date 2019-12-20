@@ -1,6 +1,6 @@
 ---
 template: "post"
-title: Rendering Arrays di React JS
+title: [belajar] Rendering Arrays di React JS
 cover: "../images/react-js.png"
 date: "2019-09-17T13:00:00Z"
 slug: "rendering-arrays-di-react-js"

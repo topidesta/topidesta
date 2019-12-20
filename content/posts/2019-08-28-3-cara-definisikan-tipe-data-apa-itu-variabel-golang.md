@@ -1,6 +1,6 @@
 ---
 template: "post"
-title: 3 Cara mencari tahu tipe data apa di golang
+title: [belajar] 3 Cara mencari tahu tipe data apa di golang
 cover: "../images/golang.png"
 date: "2019-08-28T11:50:00Z"
 slug: "3-cara-mencari-tahu-tipe-data-apa-di-golang"

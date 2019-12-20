@@ -1,14 +1,15 @@
 ---
 template: "post"
-title: Plugin VSCodium (VSCode Opensource) Editor di Windows
+title: [share] Plugin VSCodium (VSCode Opensource) Editor di Windows
 cover: "../images/vscodium.png"
 date: "2019-11-11T08:40:00Z"
 slug: "plugin-vscodium-vscode-opensouce-editor-di-windows"
 keywords: "Plugin VSCodium (VSCode Opensource) Editor di Windows"
 categories: 
-    - windows 
+    - share 
 tags:
     - editor
+    - windows
 ---
 
 ### Bismillah
