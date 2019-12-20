@@ -1,6 +1,6 @@
 ---
 template: "post"
-title: [belajar] Deklarasi Tipe data secara dinamik di Golang
+title: Deklarasi Tipe data secara dinamik di Golang
 cover: "../images/golang.png"
 date: "2019-08-28T12:50:00Z"
 slug: "deklarasi-tipe-data-dinamik-di-golang"

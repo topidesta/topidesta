@@ -1,6 +1,6 @@
 ---
 template: "post"
-title: [share] React Native dengan Nox Emulator di Windows 10
+title: React Native dengan Nox Emulator di Windows 10
 cover: "../images/react-native.png"
 date: "2019-12-09T05:40:00Z"
 slug: "react-native-dengan-nox-emulator-di-windows-10"

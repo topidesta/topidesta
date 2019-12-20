@@ -1,6 +1,6 @@
 ---
 template: "post"
-title: [trick] Satu Perintah Bash Untuk Virtual Host 2.4 Di Linux Lite
+title: Satu Perintah Bash Untuk Virtual Host 2.4 Di Linux Lite
 cover: "../images/bash.png"
 date: "2019-08-09T08:00:00Z"
 slug: "satu-perintah-bash-untuk-virtual-host-2-4-linux-lite"

@@ -1,6 +1,6 @@
 ---
 template: "post"
-title: [trick] Function Sederhana Upload Data Via Sheet Excel di Codeigniter
+title: Function Sederhana Upload Data Via Sheet Excel di Codeigniter
 cover: "../images/eksel.png"
 date: "2019-08-15T08:00:00Z"
 slug: "fungsi-upload-data-excel-ke-tabel-dengan-codeigniter"

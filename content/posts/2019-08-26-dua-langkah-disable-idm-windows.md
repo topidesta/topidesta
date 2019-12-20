@@ -1,6 +1,6 @@
 ---
 template: "post"
-title: [trick] Dua Langkah Disable IDM Windows dengan Regedit - Register Editor
+title: Dua Langkah Disable IDM Windows dengan Regedit - Register Editor
 cover: "../images/idm.png"
 date: "2019-08-26T03:00:00Z"
 slug: "dua-langkah-disable-idm-windows-regedit"

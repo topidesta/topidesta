@@ -1,6 +1,6 @@
 ---
 template: "post"
-title: [trick] Aplikasi Install Program dengan Chocolatey di Windows
+title: Aplikasi Install Program dengan Chocolatey di Windows
 cover: "../images/choco.png"
 date: "2019-08-09T08:00:00Z"
 slug: "aplikasi-install-program-dengan-chocolatey-di-windows"

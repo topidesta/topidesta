@@ -1,6 +1,6 @@
 ---
 template: "post"
-title: [belajar] Penulisan Variabel di Go Lang
+title: Penulisan Variabel di Go Lang
 cover: "../images/golang.png"
 date: "2019-09-20T03:40:00Z"
 slug: "penulisan-variabel-di-bahasa-go-lang"

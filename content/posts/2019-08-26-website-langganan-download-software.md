@@ -1,6 +1,6 @@
 ---
 template: "post"
-title: [share] 5 Website Penyedia Software Gratis Link Download
+title: 5 Website Penyedia Software Gratis Link Download
 cover: "../images/gratis.png"
 date: "2019-08-26T09:00:00Z"
 slug: "5-website-penyedia-software-gratis-link-download"

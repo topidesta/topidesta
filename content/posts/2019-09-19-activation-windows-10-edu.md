@@ -1,6 +1,6 @@
 ---
 template: "post"
-title: [trick] Activation Windows 10 Edu dengan KMS Server
+title: Activation Windows 10 Edu dengan KMS Server
 cover: "../images/windows10.png"
 date: "2019-09-19T11:00:00Z"
 slug: "activation-windows-10-edu-dengan-kms-server"

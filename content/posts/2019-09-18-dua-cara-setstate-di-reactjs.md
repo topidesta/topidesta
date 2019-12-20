@@ -1,6 +1,6 @@
 ---
 template: "post"
-title: [belajar] dua Cara Rendering Data dengan setState ReactJS
+title: dua Cara Rendering Data dengan setState ReactJS
 cover: "../images/react-js.png"
 date: "2019-09-18T08:00:00Z"
 slug: "dua-cara-rendering-data-dengan-setstate-reactjs"
