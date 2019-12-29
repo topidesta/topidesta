@@ -41,6 +41,24 @@ const element = <ol>
     ))
   }
 </ol>
+
+/* DALAM FORMAT KOMPONEN TERSENDIRI */
+class ContactList extends React.Component {
+  render() {
+    const orang = [{ nama: "desta" }, { nama: "putri" }, { nama: "haikal" }];
+
+    return (
+      <ol>
+        {orang.map(orangs => (
+          <li>{orangs.nama}</li>
+        ))}
+      </ol>
+    );
+  }
+}
+
+ReactDOM.render(<ContactList />, document.getElementById("root"));
+
 ```
 
 resultnya sama seperti ini:
