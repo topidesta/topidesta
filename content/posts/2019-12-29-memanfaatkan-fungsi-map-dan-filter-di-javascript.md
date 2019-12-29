@@ -2,7 +2,7 @@
 template: "post"
 title: Memanfaatkan Fungsi Map dan Filter Di Javascript
 cover: "../images/react-js.png"
-date: "2019-12-09T05:40:00Z"
+date: "2019-12-29T13:40:00Z"
 slug: "memanfaatkan-fungsi-map-dan-filter-di-javascript"
 keywords: "Memanfaatkan Fungsi Map dan Filter Di Javascript"
 categories: 
