@@ -85,4 +85,25 @@ export default ListContacts
 
 jadi apa bedanya, yaps, perbedaan ada pada pelemparan data, ketika dalam class style, sebuah data masih dalam state (otomatis binding) dengan memanfaatkan keyword global di javascript, yaitu *this* sedangkan dengan memanfaatkan *function* style, data harus ada variabel parameter untuk menampung lemparan data yang belom ter-state (belum binding), kurang lebih itu yang gw fahami.
 
+
+## bonus
+
+```javascript
+class Email extends React.Component {
+ render() {
+   return (
+     <div>
+       {this.props.text}
+     </div>
+   );
+ }
+}
+
+const Email = (props) => (
+ <div>
+   {props.text}
+ </div>
+);
+```
+
 have a nice day!

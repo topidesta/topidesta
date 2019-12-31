@@ -2,11 +2,11 @@ const config = {
   // Site info
   siteTitle: "Topidesta - Tulisan Ringan Bukan Cacian", // Site title.
   siteTitleShort: "TOPIDESTA", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
-  siteTitleAlt: "Topidesta Blog - Dulu topidesta.wordpress.com", // Alternative site title for SEO.
+  siteTitleAlt: "Topidesta", // Alternative site title for SEO.
   siteLogo: "/logos/logo-1024x1024.png", // Logo used for SEO and manifest.
   siteUrl: "https://topidesta-dev.me/", // Domain of your website without pathPrefix.
   pathPrefix: "", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
-  siteDescription: "Rumah baru topidesta.wordpress.com blog.", // Website description used for RSS feeds/meta description tag.
+  siteDescription: "Topidesta - Tulisan Ringan Bukan Cacian", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
   siteLang: "id-ID",
   siteFBAppID: "", // FB Application ID for using app insights
