@@ -1,7 +1,7 @@
 ---
 template: "post"
 title: Balsamiq Keyboard Shortcut Di Windows
-cover: "../images/balsem.png"
+cover: "../images/react.png"
 date: "2019-12-31T16:40:00Z"
 slug: "balsamiq-keyboard-shortcut-di-windows"
 keywords: "Balsamiq Keyboard Shortcut Di Windows"

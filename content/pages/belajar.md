@@ -26,8 +26,9 @@ Dalam perkembangan JavaScript, saya lebih fokus pada sisi **front-End** dan seda
 - [x] Function Declaration dan Function Expression
 
 #### Konsep ReactJS
-- [ ] Variabel
+- [x] Variabel, Let, Const
 - [x] State
+- [x] Komponen - Class atau Function
 
 #### Konsep React Native
 - [ ] Variabel
