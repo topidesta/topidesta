@@ -11,6 +11,8 @@ Ada banyak teknologi yang berkembang, halaman ini sebagai pengingat saya dalam b
 
 Dalam belajar, saya bisa menjadi apa saja, artinya selama hal itu tidak menggangu kegiatan/ pekerjaan, bahkan dapat membantu maka saya akan pelajari, saya tertarik pada **front-End** ataupun **back-End**. Saat ini fokus belajar saya, pada bahasa Go-Lang dan JavaScript-Lang.
 
+Link [Thief](thief) adalah halaman untuk menampilkan video tutorial yang saya ikuti, mohon maaf kebanyakan didapatkan dengan cara Torrent, sekali lagi, kalo punya duit yang gak kepake, mending beli buat tutorialnya, kalo saya kepake buat bayar kuota internetnya.
+
 ### php
 Dalam perkembangan PHP, saya dapat beradaptasi baik dari sisi **front-End** atau **back-End** dengan PHP.
 
