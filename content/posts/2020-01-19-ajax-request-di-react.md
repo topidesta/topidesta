@@ -26,3 +26,8 @@ Jika di Javascript kita mengenal *Ajax request* untuk menghandle tampilan data s
 ingat, method *Render()* hanya untuk menampilkan data, jangan sesekali menambahkan fungsi fetch data didalamnya!, gunakanlah **componentDidMount()** untuk menghandle fetch/ request data.
 
 dah itu ajah, contohnya bisa cek disini: https://reactjs.org/docs/react-component.html
+
+bonus:
+1. ![lifecycle-react-in-table](../images/lifecycle-react-in-table.png)
+
+sumber: http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/
