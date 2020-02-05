@@ -1,7 +1,7 @@
 ---
 template: "post"
 title: Trick Membuat Video Streaming Full HD
-cover: "../images/reactjs.png"
+cover: "../images/react-js.png"
 date: "2020-02-06T03:40:00Z"
 slug: "trick-memubat-video-streaming-fullhd"
 keywords: "Trick Membuat Video Streaming Full HD"
