@@ -27,3 +27,5 @@ nah, karena gw subscribe beberapa video pembelajaran yang terbatas (ada waktu 2-
 Ini hanya sebagai list pengingat ajah, kalo ada yang kebetulan sama lagi belajar, yuk sama sama belajar, yuk kita punya kemampuan _frontend_ yang lebih baik, semoga pendapatan kita juga membaik.
 
 Have A Nice Day!
+
+#done
