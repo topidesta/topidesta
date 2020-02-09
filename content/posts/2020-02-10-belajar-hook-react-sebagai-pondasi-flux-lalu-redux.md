@@ -21,8 +21,10 @@ Gw pengen belajar dasar dulu, redux udah level advanced level kebutuhan aplikasi
 nah, karena gw subscribe beberapa video pembelajaran yang terbatas (ada waktu 2-3bulan), dapat pembahasan tentang hooks, sanpai pembuatan project realnya di `skillshare.com` diantaranya:
 
 1. https://www.skillshare.com/classes/Introducing-the-React-Hooks/1058267682
-2. https://www.skillshare.com/classes/React-Hooks-Building-Real-Project-From-Scratch/1029373557
-3. https://www.skillshare.com/classes/Beginner-React-Movie-App-Hooks-API-and-Styled-Components-2019/1385179036
+
+2. https://www.skillshare.com/classes/Beginner-React-Movie-App-Hooks-API-and-Styled-Components-2019/1385179036
+
+3. https://www.skillshare.com/classes/React-Hooks-Building-Real-Project-From-Scratch/1029373557
 
 Ini hanya sebagai list pengingat ajah, kalo ada yang kebetulan sama lagi belajar, yuk sama sama belajar, yuk kita punya kemampuan _frontend_ yang lebih baik, semoga pendapatan kita juga membaik.
 
