@@ -1,15 +1,15 @@
 ---
-template: "post"
+template: 'post'
 title: Belajar Hook di React Pondasi FLUX
-cover: "../images/react-js.png"
-date: "2020-02-10T03:40:00Z"
-slug: "belajar-hook-direact-sebagai-pondasi-flux"
-keywords: "Belajar Hook di React Pondasi FLUX 
-categories: 
-    - belajar
+cover: '../images/react-js.png'
+date: '2020-02-10T03:40:00Z'
+slug: 'belajar-hook-direact-sebagai-pondasi-flux'
+keywords: 'Belajar Hook di React Pondasi FLUX'
+categories:
+  - belajar
 tags:
-    - react
-    - skillshare
+  - react
+  - skillshare
 ---
 
 ## bismillah
