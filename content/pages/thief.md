@@ -44,8 +44,30 @@ Baiklah, Kali ini gw lagi beleajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Ski
 
 ## SkillShare.com
 
+### RANDOM
+
 1. Create Authentication React and Laravel RESTFull API ✔️
 2. ...
+
+### REDUX
+
+1. Learn React Redux in less than 1 hour - Sandy Ludosky
+2. Redux Framework in React Native 2020 (with Hooks, Middleware & More) - Proficient Courses
+3. React Native For Beginners: Learn React Native With Hands On Practices
+
+### HOOK
+
+1. Introducing the React Hooks - Sandy Ludosky
+2. React Hooks - Building Real Project From Scratch - Oleksandr Kocherhin
+3. React Video Player - Hooks API - Thomas Weibenfalk
+
+### PROJECT
+
+1. Intro to React: Building a Gallery - Travis Arnold
+2. Beginner React - Movie App - Hooks API and Styled Components (2019) - Thomas Weibenfalk
+3. Learn React by creating a Chart generator - Raymundo CH
+4. Simple Todo List with using React & HTML5 Localstorage - Sandy Ludosky
+5. React.js Academy for Beginners with Firebase - Chris Dixon
 
 ---
 
