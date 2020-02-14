@@ -30,7 +30,9 @@ Oya, karena tipe belajar gw **ATM** (Amati, Tiru, Modifikasi) akhirnya 2 website
 1. https://stackoverflow.com/
 2. https://github.com/
 
-dan, pada saat ikutin tutorial di skillshare pun, tak luput gw cari tau dengan keyword `react-movie`, bum ... hasilnya menakjubkan, banyak programmer dibelahaan dunia lainpun yang bikin project sama, jadi ATM gw otomatis bekerja, hehe.
+dan, pada saat ikutin tutorial di skillshare pun, tak luput gw cari tau dengan keyword `react-movie`, bum ... hasilnya menakjubkan, ada 6.811 project!, banyak programmer dibelahaan dunia lainpun yang bikin project sama, jadi ATM gw otomatis bekerja, hehe.
+
+`https://github.com/search?o=desc&p=1&q=react-movie&s=stars&type=Repositories`
 
 Postingan lain mungkin gw bakal bahas, project di github yang membuat project pencarian film dengan teknik webbase ataupun nativebase, gw udah list tinggal coba atu atu, gw tiru, modifikasi, comot sana comot sini, buat project gw selanjutnya. masih rahasia. hehe
 
