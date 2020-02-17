@@ -16,12 +16,12 @@ tags:
 
 Langsung ajah ini alamatnya:
 
-`https://www.skillshare.com/classes/Beginner-React-Movie-App-Hooks-API-and-Styled-Components-2019/1385179036`
+[https://www.skillshare.com/classes/Beginner-React-Movie-App-Hooks-API-and-Styled-Components-2019/1385179036](https://www.skillshare.com/classes/Beginner-React-Movie-App-Hooks-API-and-Styled-Components-2019/1385179036)
 
 dan gw masih proses ikutin tutorialnya, lumayan, meski penjelasannya bukan level **noob/ basic banget**, lebih ke intermediet, alhamdulillah masih bisa gw ikutin, karena sebelumnya gw ikut tutorial di Lynda.com ... `became react js developer` jadi sedikit faham, kurang lebih syntact ES2016 script, dan beberapa logic script yang dividio skillshare. 
 
 Setiap Progres gw upload di Github pribadi, bisa diakses dihalaman ini:
-`https://github.com/mdestafadilah/react-movie`
+[https://github.com/mdestafadilah/react-movie](https://github.com/mdestafadilah/react-movie)
 
 Dan, lagi lagi ... gw kudu belajar dari script orang juga ... dulu belajar PHP/ Codeigniter, eh sekarang belajar JavaScript/ React, kudu dari script orang juga ;( ;( emang sih nantinya gw punya logic sendiri, cuman, gak pro banget kayaknya haha, gpp lah yang menting gw usaha dan baca dokumentasi juga, bismillah paksakan ...
 
