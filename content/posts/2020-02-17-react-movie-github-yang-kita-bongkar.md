@@ -1,10 +1,10 @@
 ---
 template: 'post'
-title: Source React Movie di Github yang Kita Bongkar!
+title: Source React Movie di Github Siap Dibedah!
 cover: '../images/react-js-movie.png'
 date: '2020-02-17T08:40:00Z'
-slug: 'source-react-movie-di-github-yang-kita-bongkar'
-keywords: 'Source React Movie di Github yang Kita Bongkar!'
+slug: 'source-react-movie-di-github-siap-dibedah'
+keywords: 'Source React Movie di Github Siap Dibedah!'
 categories:
   - belajar
 tags:
