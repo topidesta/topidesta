@@ -64,7 +64,7 @@ Baiklah, Kali ini gw lagi beleajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Ski
 ### PROJECT
 
 1. Intro to React: Building a Gallery - Travis Arnold
-2. Beginner React - Movie App - Hooks API and Styled Components (2019) - Thomas Weibenfalk
+2. Beginner React - Movie App - Hooks API and Styled Components (2019) - Thomas Weibenfalk ✔️
 3. Learn React by creating a Chart generator - Raymundo CH
 4. Simple Todo List with using React & HTML5 Localstorage - Sandy Ludosky
 5. React.js Academy for Beginners with Firebase - Chris Dixon
