@@ -68,7 +68,12 @@ Baiklah, Kali ini gw lagi beleajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Ski
 3. Learn React by creating a Chart generator - Raymundo CH
 4. Simple Todo List with using React & HTML5 Localstorage - Sandy Ludosky
 5. React.js Academy for Beginners with Firebase - Chris Dixon
+6. Getting Started with React by Building App - Paritosh Pundir
 
 ---
 
-Login didapat dengan cara dari Forum/ Mendaftar dengan Terbatas (2-3bulan) aktif.
+Login didapat dengan cara dari Forum/ Mendaftar dengan **Terbatas** (2-3bulan) aktif, jadi bisa kita manfaatkan, kita rekam dan edit lalu simpan.
+
+---
+
+`Tools: GiliSoft video Editor dan Screen Recorder IceCream.`
