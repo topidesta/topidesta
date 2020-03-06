@@ -40,6 +40,4 @@ terlihat kan, kalo hooks itu re-render dari DOM, sedangkan tanpa hooks, merubah 
 
 bingung ya? gw jg bingung jelasinnya... hehe.
 
-~ todo: https://www.robinwieruch.de/react-fetching-data ~
-
 Have a nice day!
