@@ -2,7 +2,7 @@
 template: 'post'
 title: Fetch Data di ReactJS
 cover: '../images/react-js.png'
-date: '2026-02-22T13:40:00Z'
+date: '2020-02-26T13:40:00Z'
 slug: 'fetch-data-di-reactjs'
 keywords: 'Fetch Data di ReactJS'
 categories:
