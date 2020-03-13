@@ -8,7 +8,7 @@ keywords: "React Native dengan Nox Emulator di Windows 10"
 categories: 
     - share
 tags:
-    - react
+    - native
     - android
 ---
 

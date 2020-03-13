@@ -8,7 +8,7 @@ keywords: "Command Not Found React Native Run Android"
 categories: 
     - trick
 tags:
-    - react
+    - native
     - android
 ---
 
