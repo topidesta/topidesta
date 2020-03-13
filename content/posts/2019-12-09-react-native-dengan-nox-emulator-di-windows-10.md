@@ -33,7 +33,22 @@ jangan panik, jalankan lagi ajah perintah koneksi ke nox, liat gambar pertama, p
 nox_adb.exe connect 127.0.0.1:62001
 ```
 
+eh muncul error
+```script
+unable to connect to 127.0.0.1:62001: cannot connect to 127.0.0.1:62001: No connection could be made because th
+e target machine actively refused it.
+```
+langsung ajah jalankan perintah dibawah ini...
+```bash
+nox_adb.exe kill-server
+nox_adb.exe connect 127.0.0.1:5037
+```
+berikut ini gambarnya:
+![nox error](../images/nox-error.png)
+
+
 done, sekarang bisa pake nox emulator deh! :)
 
 sumber:
 1. https://github.com/facebook/react-native/issues/13397#issuecomment-360830691
+2. https://codingrakitan.blogspot.com/2018/11/cara-mengatasi-unable-to-connect-to.html
