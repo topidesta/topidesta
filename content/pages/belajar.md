@@ -66,6 +66,10 @@ Jika dalam perkembangan Go, saya lebih fokus pada sisi **back-End** tapi tidak m
 - [ ] AJAX
 - [ ] SOKET
 
+### Python 3
+
+Jika dalam perkembangan Python, saya lebih fokus pada sisi **back-End** tapi tidak menutup kemungkinan akan mix pada sisi **front-End**.
+
 ### Tools
 
 - [x] Git
