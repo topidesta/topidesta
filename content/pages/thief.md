@@ -73,13 +73,13 @@ Baiklah, Kali ini gw lagi beleajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Ski
 
 ## Youtube.com
 
-1. https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG (React Redux)
-2. https://www.youtube.com/playlist?list=PL4cUxeGkcC9iWstfXntcj8f-dFZ4UtlN3 (React Redux Firebase)
-3. https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI (React Hooks and Context)
-4. https://www.youtube.com/playlist?list=PLOg2mrFoc1TuKfcp4Ll-h2AFzSmujppnZ (React Native air BNB Clone)
-5. https://www.youtube.com/playlist?list=PLOg2mrFoc1TvMN_3vtvTLXGHwhSbHhxgI (Docker as Backend)
-6. https://www.youtube.com/playlist?list=PLJ0ZwcKLb1MHFEJB0LhjjpgqMrQqwrtWA (Using Hook React App)
-7. https://www.youtube.com/playlist?list=PLJ0ZwcKLb1MEnIJNDvVUPbX2it3t27Dsb (React Native and Hooks)
+1. [React Redux by The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
+2. [React Redux Firebase by The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iWstfXntcj8f-dFZ4UtlN3)
+3. [React Hooks and Context by The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI)
+4. [React Native air BNB Clone by cubUI](https://www.youtube.com/playlist?list=PLOg2mrFoc1TuKfcp4Ll-h2AFzSmujppnZ)
+5. [Docker as Backend by cubUI](https://www.youtube.com/playlist?list=PLOg2mrFoc1TvMN_3vtvTLXGHwhSbHhxgI)
+6. [Using Hook React App by Djamware Tutorial](https://www.youtube.com/playlist?list=PLJ0ZwcKLb1MHFEJB0LhjjpgqMrQqwrtWA)
+7. [React Native and Hooks by Djamware Tutorial](https://www.youtube.com/playlist?list=PLJ0ZwcKLb1MEnIJNDvVUPbX2it3t27Dsb)
 
 ---
 
