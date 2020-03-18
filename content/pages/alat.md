@@ -5,7 +5,7 @@ description: "Halaman Alat Tempur Dalam Pengembangan Aplikasi - Backend atau Fro
 slug: "alat"
 ---
 
-Berikut Ini Daftar Alat/ Perkakas yang dipake gw dalam pengembangan aplikasi, diantaranya:
+Berikut Ini Daftar Alat/ Perkakas yang dipake gw dalam pengembangan aplikasi ataupun belajar Teknologi Baru!, diantaranya:
 
 0. Lenovo Thinkpad [t440p](http://go.topidesta-dev.me/xkgBYz) (2 SSD + DUALCHANEL 16GB OF RAM)
 1. Window 10 EDU Version
