@@ -1,10 +1,10 @@
 ---
 template: 'post'
-title: Upgrade Manual Prima Docusaurus V1 ke V2
+title: Upgrade Docusaurus Manual Book Prima
 cover: '../images/react-js.png'
 date: '2020-03-07T11:00:00Z'
 slug: 'upgrade-manual-prima-docusaurus'
-keywords: 'Upgrade Manual Prima Docusaurus V1 ke V2'
+keywords: 'Upgrade Docusaurus Manual Book Prima '
 categories:
   - relax
 tags:
