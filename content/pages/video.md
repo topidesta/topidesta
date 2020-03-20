@@ -1,8 +1,8 @@
 ---
 template: 'page'
 title: 'Pencari Ilmu'
-description: 'Ini Adalah Halaman Daftar Ilmu Yang Udah Pelajari!'
-slug: 'thief'
+description: 'Ini Adalah Halaman Daftar Video Tutorial!'
+slug: 'video'
 ---
 
 Baiklah, Kali ini gw lagi beleajar di Lynda.Com, Udemy.Com, Udacity.Com, dan SkillShare.com, semuanya berbahasa inggris.
@@ -40,14 +40,12 @@ Baiklah, Kali ini gw lagi beleajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Ski
 ### Nanodegree Program
 
 1. Basic ✔️
-2. ...
 
 ## SkillShare.com
 
 ### RANDOM
 
 1. Create Authentication React and Laravel RESTFull API ✔️
-2. ...
 
 ### REDUX
 
@@ -69,7 +67,6 @@ Baiklah, Kali ini gw lagi beleajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Ski
 4. Simple Todo List with using React & HTML5 Localstorage - Sandy Ludosky
 5. React.js Academy for Beginners with Firebase - Chris Dixon
 6. Getting Started with React by Building App - Paritosh Pundir
-
 
 ## Youtube.com
 
