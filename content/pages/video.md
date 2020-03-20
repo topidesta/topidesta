@@ -70,6 +70,17 @@ Baiklah, Kali ini gw lagi beleajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Ski
 5. React.js Academy for Beginners with Firebase - Chris Dixon
 6. Getting Started with React by Building App - Paritosh Pundir
 
+
+## Youtube.com
+
+1. [React Redux by The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
+2. [React Redux Firebase by The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iWstfXntcj8f-dFZ4UtlN3)
+3. [React Hooks and Context by The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI)
+4. [React Native air BNB Clone by cubUI](https://www.youtube.com/playlist?list=PLOg2mrFoc1TuKfcp4Ll-h2AFzSmujppnZ)
+5. [Docker as Backend by cubUI](https://www.youtube.com/playlist?list=PLOg2mrFoc1TvMN_3vtvTLXGHwhSbHhxgI)
+6. [Using Hook React App by Djamware Tutorial](https://www.youtube.com/playlist?list=PLJ0ZwcKLb1MHFEJB0LhjjpgqMrQqwrtWA)
+7. [React Native and Hooks by Djamware Tutorial](https://www.youtube.com/playlist?list=PLJ0ZwcKLb1MEnIJNDvVUPbX2it3t27Dsb)
+
 ---
 
 Login didapat dengan cara dari Forum/ Mendaftar dengan **Terbatas** (2-3bulan) aktif, jadi bisa kita manfaatkan, kita rekam dan edit lalu simpan.
