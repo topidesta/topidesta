@@ -109,6 +109,7 @@ const config = {
   navTitle: 'Topidesta',
   navLinks: [
     { label: 'About', url: '/about' },
+    { label: 'Projek', url: '/projek' },
     { label: 'Lagu', url: '/lagu' },
   ],
   // Use for footer
