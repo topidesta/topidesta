@@ -1,6 +1,6 @@
 ---
 template: 'page'
-title: 'Pencari Ilmu'
+title: 'Pencari Ilmu dari Buku'
 description: 'Ini Adalah Halaman Daftar Ebook Tutorial!'
 slug: 'buku'
 ---

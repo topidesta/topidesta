@@ -13,7 +13,7 @@ Dalam belajar, saya bisa menjadi apa saja, artinya selama hal itu tidak menggang
 
 Link [Video](video) adalah halaman untuk menampilkan video tutorial yang saya ikuti, mohon maaf kebanyakan didapatkan dengan cara Torrent, dan beberapa akses dengan user/password terbatas (hanya 2-3 ), sekali lagi, kalo punya duit yang gak kepake, mending beli buat tutorialnya, kalo saya kepake buat bayar kuota internetnya.
 
-Link [Book](book) adalah halaman untuk buku tutorial yang gw coba baca. hehe. kadang pengen baca kadang pengen liat video, tutorialnya.
+Link [Buku](buku) adalah halaman untuk buku tutorial yang gw coba baca. hehe. kadang pengen baca kadang pengen liat video, tutorialnya.
 
 ### php
 

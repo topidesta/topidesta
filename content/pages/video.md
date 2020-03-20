@@ -1,6 +1,6 @@
 ---
 template: 'page'
-title: 'Pencari Ilmu'
+title: 'Pencari Ilmu dari Video'
 description: 'Ini Adalah Halaman Daftar Video Tutorial!'
 slug: 'video'
 ---
