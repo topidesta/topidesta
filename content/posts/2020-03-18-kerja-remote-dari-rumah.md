@@ -9,6 +9,7 @@ categories:
   - relax
 tags:
   - home
+  - covid19
 ---
 
 ## bismillah
