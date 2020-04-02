@@ -16,11 +16,11 @@ tags:
 Kebetulan baca berita online danjuga dikasih tau Istri, bahwa Tiket Mudik bisa dikembalikan full 100% tanpa potongan 25% seperti biasa, alhasil gw cari info dan langsung hubungi KAI untuk cari kebenarannya, gw coba email ke alamat ini `cs@kai.id` Pada tgl 25 Maret 2020 dan dibalas kembali pada tanggal 28 Maret 2020 dengan email pengirim `kontak_pelanggan@kai.id`, berikut isinya:
 
 ```email
-Dear, 
+Dear,
 
-Bukankah pembatalan di masa pandemi corona tidak ada potongan sebesar 25%? 
+Bukankah pembatalan di masa pandemi corona tidak ada potongan sebesar 25%?
 
-Mohon kejelasan informasi.  
+Mohon kejelasan informasi.
 ```
 
 itu gw kirim ke `cs@kai.id`, dan dapat balasan seperti ini:
@@ -28,7 +28,7 @@ itu gw kirim ke `cs@kai.id`, dan dapat balasan seperti ini:
 ```text
 Yth. Bapak Muchamad,
 
-Terima kasih atas pertanyaan yang Bapak Muchamad sampaikan. Terhitung sejak tanggal 23 Maret 2020, tiket untuk keberangkatan 23 Maret-29 Mei 2020 jika dibatalkan maka dana akan dikembalikan 100%.  
+Terima kasih atas pertanyaan yang Bapak Muchamad sampaikan. Terhitung sejak tanggal 23 Maret 2020, tiket untuk keberangkatan 23 Maret-29 Mei 2020 jika dibatalkan maka dana akan dikembalikan 100%.
 
 Untuk proses pembatalan tiket dapat dilakukan di stasiun online (stasiun yang melayani proses pembatalan tiket) paling lambat 1 jam sebelum keberangkatan kereta dengan membawa bukti tiket asli, identitas asli dan fotokopi identitas penumpang. Berikut langkah-langkahnya:
 
@@ -48,7 +48,7 @@ Silakan Bapak sebutkan ingin melakukan pembatalan tiket di stasiun mana, agar da
 
 Untuk alternatif lain, pembatalan juga dapat dilakukan melalui aplikasi KAI Access. Berikut langkah-langkah pembatalan melalui aplikasi KAI Access:
 
- 
+
 • Nomor identitas pengguna yang melakukan login harus termasuk dalam data penumpang pada kode booking yang akan dibatalkan. Nomor identitas pengguna juga harus sama dengan yang ada di dalam tiket.
 
 • Dapat dilakukan paling lambat 3 jam sebelum jadwal keberangkatan kereta. Untuk sistem operasi Android adalah versi 4.3.0 dan setelahnya. Untuk sistem operasi iOS adalah versi 25.0 dan setelahnya. Kode booking yang dimiliki harus berstatus "Paid", serta belum dicetak sebagai boarding pass. Jika kurang dari 24 jam maka proses pembatalan hanya dapat dilakukan di loket stasiun online.
@@ -88,7 +88,7 @@ PT Kereta Api Indonesia (Persero)
 
 Telepon : 121 / +6221-121
 
-KAI121 | @KAI121 | www.kereta-api.co.id 
+KAI121 | @KAI121 | www.kereta-api.co.id
 ```
 
 itu pengirimnya `kontak_pelanggan@kai.id`
@@ -105,5 +105,17 @@ Tunggu, ada point yang utama agar dapat 100% FULL, diantaranya:
 Ohya, untuk melalui aplikasi KAI masih ada catatan 25% potongan, jadi gw masih confirmasi dulu ke mereka, karena kalo melalui Loket Pengembalian di Gambir, gw ngeri ngeri sedap dengan Pandemi Covid19 ini.
 
 ![withhooks](../images/batalkaiaplikasi.JPG)
+
+---
+
+### UPDATE
+
+Yes, Ternyata 25% adalah perubahan Jadwal, sedangkan di TOS _Syarat dan ketentuan pembatalan daring_ dijelaskan dan sudah tertulis, jadi FULL 100% gw terima, kurang lebih 30-45 hari kerja, dengan katalain 2bulan kemudian.
+
+Ini bukti pembatalannya: :) :) :)
+
+![withhooks](../images/kaibatal1.JPG)
+
+![withhooks](../images/kaibatal2.JPG)
 
 Have a nice day!
