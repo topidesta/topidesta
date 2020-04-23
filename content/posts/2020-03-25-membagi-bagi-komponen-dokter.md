@@ -24,4 +24,10 @@ Postingan kali ini kita fokus untuk membagi bagi komponen-komponennya, pada hala
 
 ![Komponen Child Detail Dokter](../images/DETAIL-DOKTER-GUNTING.png)
 
-> Penjelasan: TODO
+---
+
+## UPDATE
+
+![Komponen Child Halaman Depan](../images/HALAMAN-DEPAN-V2-PECAH.png)
+
+> Penjelasan: TODO :P
