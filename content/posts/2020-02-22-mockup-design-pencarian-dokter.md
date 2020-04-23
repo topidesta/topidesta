@@ -36,4 +36,24 @@ Oyah, silahkan comot file mockupnya, gw pake balsamiq mockup. ini filenya:
 
 `https://cl.ly/ff0babe2a231`
 
+-------
+
+## UPDATE
+
+Kurang puas dengan tampilan diatas akhirnya gw coba mockup ulang, dengan sedikit nyontek hehe ... berikut ini tampilannya.
+
+1. Antarmuka
+   ![antarmuka](../images/HALAMANDEPANV2.png)
+
+2. Hasil Pencarian
+   ![hasil pencarian](../images/HASILPENCARIANV2.png)
+
+3. Detail pencarian
+   ![detail pencarian](../images/DETAILDOKTERV2.png)
+
+
+Seperti biasa, kalo ada yang mau, file mockupnya, comot ajah, geratis, bebas lu mau pake apa kagak:
+
+`https://cl.ly/ec9be70e6783`
+
 Have a nice day!
