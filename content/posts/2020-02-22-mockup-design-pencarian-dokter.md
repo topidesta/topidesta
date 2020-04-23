@@ -1,7 +1,7 @@
 ---
 template: 'post'
 title: Mockup Design Aplikasi Pencarian Dokter
-cover: '../images/react-js.png'
+cover: '../images/logo-rsp.png'
 date: '2020-02-22T13:40:00Z'
 slug: 'mockup-design-aplikasi-pencarian-dokter'
 keywords: 'Mockup Design Aplikasi Pencarian Dokter'
