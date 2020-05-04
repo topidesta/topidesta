@@ -44,7 +44,7 @@ Baiklah, Kali ini gw lagi beleajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Ski
 5. [React Fundamental](https://www.udemy.com/share/101CyMAEIbdVZbTXo=/)
 6. [React Hooks and Context with Redux Migration](https://www.udemy.com/share/101sxSAEIbdVZbTXo=/) **Certificate Avaliable**
 7. [Build a Pet Hotel web app with React using ScaffoldHub](https://www.udemy.com/share/101LUGAEIbdVZbTXo=/) **Certificate Avaliable**
-8. [React basic in just 1 hour](https://www.udemy.com/share/101wl2AEIbdVZbTXo=/) 
+8. [React basic in just 1 hour](https://www.udemy.com/share/101wl2AEIbdVZbTXo=/)
 9. [React JS Quick Start](https://www.udemy.com/share/101Ek2AEIbdVZbTXo=/)
 10. [React Js bootcamp](https://www.udemy.com/share/101Y4MAEIbdVZbTXo=/)
 11. [React in 1 Hour: Learn the Fundamental, Fast](https://www.udemy.com/share/101GiQAEIbdVZbTXo=/)
@@ -66,7 +66,7 @@ Baiklah, Kali ini gw lagi beleajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Ski
 
 ### Nanodegree Program
 
-1. Basic ✔️
+1. Basic
 
 ## SkillShare.com
 
@@ -76,7 +76,7 @@ Baiklah, Kali ini gw lagi beleajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Ski
 
 ### REDUX
 
-1. Learn React Redux in less than 1 hour - Sandy Ludosky
+1. Learn React Redux in less than 1 hour - Sandy Ludosky ✔️
 2. Redux Framework in React Native 2020 (with Hooks, Middleware & More) - Proficient Courses
 3. React Native For Beginners: Learn React Native With Hands On Practices
 
