@@ -8,3 +8,4 @@ slug: 'projek'
 ## Translate
 
 1. [30 Hari Belajar React](https://github.com/topidesta/30hari)
+2. [MovieMovie ATM](https://github.com/topidesta/moviemovie)
