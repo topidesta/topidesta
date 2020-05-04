@@ -2,7 +2,7 @@ const config = {
   // Site info
   siteTitle: 'Topidesta - Tulisan Ringan Bukan Cacian', // Site title.
   siteTitleShort: 'TOPIDESTA', // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
-  siteTitleAlt: 'Topidesta', // Alternative site title for SEO.
+  siteTitleAlt: 'Topidesta - Https://topidesta.netlify.app/', // Alternative site title for SEO.
   siteLogo: '/logos/logo-1024x1024.png', // Logo used for SEO and manifest.
   siteUrl: 'https://topidesta-dev.me/', // Domain of your website without pathPrefix.
   pathPrefix: '', // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
@@ -76,7 +76,7 @@ const config = {
   userTwitter: 'emang_dasar', // Optionally renders "Follow Me" in the UserInfo segment.
   userLocation: 'Jakarta, Indonesia', // User location to display in the author segment.
   userAvatar: '', // User avatar to display in the author segment.
-  userDescription: 'Developer PHP, JavaSript, GO dan Python Learner', // User description to display in the author segment.
+  userDescription: 'Generalist and Focused!', // User description to display in the author segment.
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
     {
@@ -121,7 +121,7 @@ const config = {
     },
     {
       label: 'FreeCodeCamp',
-      url: '', // Ignore
+      url: '@fcc3452306c-380a-45f9-995c-d887348c8e38', // Ignore
       iconClassName: 'fab free-code-camp',
     },
     {
@@ -157,7 +157,7 @@ const config = {
     { label: 'Belajar', url: '/belajar' },
     { label: 'Sitemap', url: 'https://topidesta-dev.me/sitemap.xml' },
   ],
-  copyright: 'Copyright © 2019 Topidesta. MIT license.',
+  copyright: 'Copyright © 2020 Topidesta. MIT license.',
   // Use for manifest
   themeColor: '#2196F3', // Used for setting manifest and progress theme colors.
   backgroundColor: '#FFF', // Used for setting manifest background color.
