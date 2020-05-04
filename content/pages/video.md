@@ -30,10 +30,37 @@ Baiklah, Kali ini gw lagi beleajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Ski
 
 ## Udemy.com
 
-### Random Study
+### Javascript Class
 
-1. Udemy - Master React Native Animations
-2. Udemy - Golang build RESTful APIs with Golang (Go programming lang)
+1. [Learn Javascript For Beginners](https://www.udemy.com/share/101WeoAEIbdVZbTXo=/) **Certificate Avaliable**
+2. [The Complete Full-Stack JavaScript Course!](https://www.udemy.com/share/101rwKAEIbdVZbTXo=/)
+
+### React Class (Coupon Applied :) )
+
+1. [Secure Your ReactJs Applications With Auth0](https://www.udemy.com/share/101EeuAEIbdVZbTXo=/) **Certificate Avaliable**
+2. [React JS Frontend Web Development for Beginners](https://www.udemy.com/share/101sEOAEIbdVZbTXo=/) **Certificate Avaliable**
+3. [React JS - Build real world JS apps & deploy on cloud](https://www.udemy.com/share/101KLYAEIbdVZbTXo=/) **Certificate Avaliable**
+4. [Learn React JS and Web API by creating a Full Stack Web App](https://www.udemy.com/share/101vmsAEIbdVZbTXo=/) **Certificate Avaliable**
+5. [React Fundamental](https://www.udemy.com/share/101CyMAEIbdVZbTXo=/)
+6. [React Hooks and Context with Redux Migration](https://www.udemy.com/share/101sxSAEIbdVZbTXo=/) **Certificate Avaliable**
+7. [Build a Pet Hotel web app with React using ScaffoldHub](https://www.udemy.com/share/101LUGAEIbdVZbTXo=/) **Certificate Avaliable**
+8. [React basic in just 1 hour](https://www.udemy.com/share/101wl2AEIbdVZbTXo=/) 
+9. [React JS Quick Start](https://www.udemy.com/share/101Ek2AEIbdVZbTXo=/)
+10. [React Js bootcamp](https://www.udemy.com/share/101Y4MAEIbdVZbTXo=/)
+11. [React in 1 Hour: Learn the Fundamental, Fast](https://www.udemy.com/share/101GiQAEIbdVZbTXo=/)
+12. [React 2019: React, Redux, React-Router, Hooks and Auth0](https://www.udemy.com/share/101v14AEIbdVZbTXo=/)
+13. [How to use React with Firebase and Redux](https://www.udemy.com/share/101EgiAEIbdVZbTXo=/)
+14. [Your custom react component](https://www.udemy.com/share/101BRMAEIbdVZbTXo=/)
+15. [React vs Angular vs Vue.js by Example](https://www.udemy.com/share/101t9AAEIbdVZbTXo=/) **Certificate Avaliable**
+16. Master React Native Animations
+
+### Python Class
+
+1. [Programming with Python : HandsOn Introduction for Beginners](https://www.udemy.com/share/101tCqAEIbdVZbTXo=/) **Certificate Avaliable**
+
+### Golang Class
+
+1. Udemy - Golang build RESTful APIs with Golang (Go programming lang)
 
 ## Udacity.com
 
@@ -81,7 +108,7 @@ Baiklah, Kali ini gw lagi beleajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Ski
 
 ---
 
-Login didapat dengan cara dari Forum/ Mendaftar dengan **Terbatas** (2-3bulan) aktif, jadi bisa kita manfaatkan, kita rekam dan edit lalu simpan.
+Login didapat dengan cara dari Forum/ Mendaftar dengan **Terbatas** (2-3bulan) aktif atau dapat dengan Kupon saat Checkout, jadi bisa kita manfaatkan, kita rekam dan edit lalu simpan.
 
 ---
 
