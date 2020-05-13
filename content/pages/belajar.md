@@ -9,7 +9,7 @@ Ada banyak teknologi yang berkembang, halaman ini sebagai pengingat saya dalam b
 
 ## Belajar?
 
-Dalam belajar, saya bisa menjadi apa saja, artinya selama hal itu tidak menggangu kegiatan/ pekerjaan, bahkan dapat membantu maka saya akan pelajari, saya tertarik pada **front-End** ataupun **back-End**. Saat ini fokus belajar saya, pada bahasa Go-Lang dan JavaScript-Lang.
+Dalam belajar, saya bisa menjadi apa saja, artinya selama hal itu tidak menggangu kegiatan/ pekerjaan, bahkan dapat membantu maka saya akan pelajari, saya tertarik pada **front-End** ataupun **back-End**. Saat ini fokus belajar saya disisi Front-End, pada bahasa JavaScript Terutama React.
 
 Link [Video](video) adalah halaman untuk menampilkan video tutorial yang saya ikuti, mohon maaf kebanyakan didapatkan dengan cara Torrent, dan beberapa akses dengan user/password terbatas (hanya 2-3 ), sekali lagi, kalo punya duit yang gak kepake, mending beli buat tutorialnya, kalo saya kepake buat bayar kuota internetnya.
 
@@ -26,7 +26,7 @@ Dalam perkembangan PHP, saya dapat beradaptasi baik dari sisi **front-End** atau
 
 ### JavaScript
 
-Dalam perkembangan JavaScript, saya lebih fokus pada sisi **front-End** dan sedang mencoba untuk sisi back-end.
+Dalam perkembangan JavaScript, saya lebih fokus pada sisi **front-End** dan sedang mencoba untuk sisi back-end dengan Teknologi NodeJS.
 
 #### Konsep JS
 
@@ -71,6 +71,10 @@ Jika dalam perkembangan Go, saya lebih fokus pada sisi **back-End** tapi tidak m
 ### Python 3
 
 Jika dalam perkembangan Python, saya lebih fokus pada sisi **back-End** tapi tidak menutup kemungkinan akan mix pada sisi **front-End**.
+
+#### Konsep
+- [ ] list
+- [ ] 
 
 ### Tools
 
