@@ -13,6 +13,7 @@ slug: 'buku'
 4. [Javascript Jquery](https://topidesta.files.wordpress.com/2014/08/javascript_jquery_jon_duckett.pdf)
 5. [Javascript Card](https://topidesta.files.wordpress.com/2014/08/2009-javascript-quick-reference-card-v1-03.pdf)
 6. [What Ajax CheatSheet](https://topidesta.files.wordpress.com/2014/08/whats_ajax_cheatsheet.pdf)
+7. [Java Script Everywhere (Web-Desktop-App)](https://topidesta.files.wordpress.com/2020/05/javascript-everywhere.pdf)
 
 ## React
 

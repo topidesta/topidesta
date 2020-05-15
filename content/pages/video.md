@@ -35,7 +35,7 @@ Baiklah, Kali ini gw lagi beleajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Ski
 1. [Learn Javascript For Beginners](https://www.udemy.com/share/101WeoAEIbdVZbTXo=/) **Certificate Avaliable**
 2. [The Complete Full-Stack JavaScript Course!](https://www.udemy.com/share/101rwKAEIbdVZbTXo=/)
 
-### React Class (Coupon Applied :) )
+### React Class
 
 1. [Secure Your ReactJs Applications With Auth0](https://www.udemy.com/share/101EeuAEIbdVZbTXo=/) **Certificate Avaliable**
 2. [React JS Frontend Web Development for Beginners](https://www.udemy.com/share/101sEOAEIbdVZbTXo=/) **Certificate Avaliable**
