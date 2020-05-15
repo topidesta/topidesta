@@ -105,7 +105,7 @@ Baiklah, Kali ini gw lagi beleajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Ski
 6. [Using Hook React App by Djamware Tutorial](https://www.youtube.com/playlist?list=PLJ0ZwcKLb1MHFEJB0LhjjpgqMrQqwrtWA)
 7. [React Native and Hooks by Djamware Tutorial](https://www.youtube.com/playlist?list=PLJ0ZwcKLb1MEnIJNDvVUPbX2it3t27Dsb)
 8. [Crud ReactJS API dengan Redux](https://www.youtube.com/playlist?list=PLIan8aHxsPj1n-fDYopnjbaK55DhZqrmN)
-9. [Axios Paging And Searching](https://github.com/topidesta/searching-with-react)
+9. [Axios Paging And Searching](https://medium.com/@imranhsayed/live-search-with-react-instant-search-pagination-6acd476af756)
 
 ---
 
