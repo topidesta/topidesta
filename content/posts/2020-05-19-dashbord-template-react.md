@@ -25,27 +25,8 @@ Berikut ini daftar **Template Gratis untuk React Developer** gw dapet dari Githu
 6. https://github.com/Raathigesh/Dazzle-Starter-Kit.git
 7. https://github.com/webkom-co/airframe-next.git
 
-Berikut ini screenshoot dilocal development
-
-1. **REACT DASHBOARD**
----
-2. **SHARD DASHBOARD**
----
-3. **CRYSTAL DASHBOARD**
----
-4. **ARGON DASHBOARD**
----
-5. **SHARDS REACT**
----
-6. **DAZZLE STARTER**
----
-7. **AIRFRAME NEXT**
-
-
-
-
-
-
-# TODO: Screenshoot via local development
+## Bonus
+1. https://github.com/reduction-admin/react-reduction.git
+2. https://github.com/flatlogic/react-material-admin.git
 
 Have a nice day!
