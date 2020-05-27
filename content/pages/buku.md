@@ -17,6 +17,7 @@ slug: 'buku'
 8. [ES5 to ESNext](https://topidesta.files.wordpress.com/2020/05/es5-to-esnext.pdf)
 
 ## Deno
+
 1. [Deno Handbook](https://topidesta.files.wordpress.com/2020/05/deno-handbook.pdf)
 
 ## React
@@ -27,7 +28,7 @@ slug: 'buku'
 4. [The Road Learn React](https://topidesta.files.wordpress.com/2019/02/the-road-to-learn-react.pdf)
 5. [30 Days Learn React](https://topidesta.files.wordpress.com/2019/02/30-days-of-react-ebook-fullstackio.pdf)
 6. [Pure React](https://cl.ly/3ce6d8bcc566)
-7. [The NextJS HandBook](https://topidesta.files.wordpress.com/2020/05/the-next.js-handbook.pdf)
+7. [The NextJS HandBook](https://topidesta.files.wordpress.com/2020/05/the-next.js-handbook.pdf) ✔️
 
 ## PHP
 
