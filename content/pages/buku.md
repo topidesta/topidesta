@@ -14,6 +14,10 @@ slug: 'buku'
 5. [Javascript Card](https://topidesta.files.wordpress.com/2014/08/2009-javascript-quick-reference-card-v1-03.pdf)
 6. [What Ajax CheatSheet](https://topidesta.files.wordpress.com/2014/08/whats_ajax_cheatsheet.pdf)
 7. [Java Script Everywhere (Web-Desktop-App)](https://topidesta.files.wordpress.com/2020/05/javascript-everywhere.pdf)
+8. [ES5 to ESNext](https://topidesta.files.wordpress.com/2020/05/es5-to-esnext.pdf)
+
+## Deno
+1. [Deno Handbook](https://topidesta.files.wordpress.com/2020/05/deno-handbook.pdf)
 
 ## React
 
@@ -23,6 +27,7 @@ slug: 'buku'
 4. [The Road Learn React](https://topidesta.files.wordpress.com/2019/02/the-road-to-learn-react.pdf)
 5. [30 Days Learn React](https://topidesta.files.wordpress.com/2019/02/30-days-of-react-ebook-fullstackio.pdf)
 6. [Pure React](https://cl.ly/3ce6d8bcc566)
+7. [The NextJS HandBook](https://topidesta.files.wordpress.com/2020/05/the-next.js-handbook.pdf)
 
 ## PHP
 
@@ -37,6 +42,7 @@ slug: 'buku'
 3. [Python Dasar oleh KuliahKomputer](https://topidesta.files.wordpress.com/2015/10/python-dasar-kuliahkomputer.pdf)
 4. [Python Novice to Pro](https://topidesta.files.wordpress.com/2014/05/python-novice-to-proff.pdf)
 5. [Python Network Engginering](https://topidesta.files.wordpress.com/2015/10/ptyhon-network-engginering-english-version.pdf)
+6. [Automation Boring with Python](https://topidesta.files.wordpress.com/2020/05/automate-the-boring-stuff-with-python.pdf)
 
 ## GO
 
