@@ -1,10 +1,10 @@
 ---
 template: 'post'
-title: Belajar react Oleh Davidceddia
+title: Belajar ReactJS oleh Davidceddia
 cover: '../images/react-js.png'
 date: '2020-05-28T13:00:00Z'
 slug: 'belajar-purereact-oleh-davidceddia'
-keywords: 'Belajar react Oleh Davidceddia'
+keywords: 'Belajar ReactJS oleh Davidceddia'
 categories:
   - belajar
 tags:
