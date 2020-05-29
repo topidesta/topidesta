@@ -5,7 +5,7 @@ description: 'Ini Adalah Halaman Daftar Video Tutorial!'
 slug: 'video'
 ---
 
-Baiklah, Kali ini gw lagi beleajar di Lynda.Com, Udemy.Com, Udacity.Com, dan SkillShare.com, semuanya berbahasa inggris.
+Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan SkillShare.com, semuanya berbahasa inggris.
 
 ## Lynda.com
 
