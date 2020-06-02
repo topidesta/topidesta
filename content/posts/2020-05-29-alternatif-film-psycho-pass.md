@@ -1,7 +1,7 @@
 ---
 template: 'post'
 title: Alternatif Anime Psycho Pass
-cover: '../images/placeholder-660x400-34565f.png'
+cover: '../images/psychopass3.png'
 date: '2020-05-29T08:00:00Z'
 slug: 'Alternatif Anime Psycho Pass'
 keywords: 'Alternatif Anime Psycho Pass'
