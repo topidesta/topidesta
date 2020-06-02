@@ -1,9 +1,9 @@
 ---
 template: "post"
-title: Website Persahabatan di Hack Oleh Pengangguran
+title: Website Persahabatan diHack
 cover: "../images/hekel.png"
 date: "2020-02-05T08:40:00Z"
-slug: "website-persahabatan-di-hack-oleh-pengangguran"
+slug: "website-persahabatan-di-hack"
 keywords: "Website Persahabatan di Hack Oleh pengangguran"
 categories: 
     - relax

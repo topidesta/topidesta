@@ -1,6 +1,6 @@
 ---
 template: 'post'
-title: Pengembalian Dana Tiket KAI 100% Kembali
+title: Dana Tiket KAI 100% Kembali
 cover: '../images/kai.png'
 date: '2020-03-28T10:00:00Z'
 slug: 'pengembalian-dana-kai-full'

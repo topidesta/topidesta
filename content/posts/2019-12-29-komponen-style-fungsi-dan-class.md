@@ -1,6 +1,6 @@
 ---
 template: "post"
-title: Menulis Komponen Styling dengan Fungsi atau Kelas
+title: Komponen dengan Fungsi atau Kelas
 cover: "../images/react-js.png"
 date: "2019-12-29T20:40:00Z"
 slug: "menulis-komponen-styling-dengan-fungsi-atau-kelas"

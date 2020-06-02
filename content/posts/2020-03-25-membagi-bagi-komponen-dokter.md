@@ -1,9 +1,9 @@
 ---
 template: 'post'
-title: Membagi Komponen Project Pencarian Dokter
+title: Membagi Komponen Pencarian Dokter
 cover: '../images/react-js.png'
 date: '2020-03-25T10:00:00Z'
-slug: 'membagi-komponen-project-pencarian-dokter'
+slug: 'membagi-komponen-pencarian-dokter'
 keywords: 'Membagi Komponen Project Pencarian Dokter'
 categories:
   - belajar
