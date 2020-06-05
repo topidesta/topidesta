@@ -68,6 +68,12 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 
 1. Basic
 
+## Pluralsight
+
+1. Securing React Apps with Auth0
+2. React Boilerplate Building Scalable Apps
+
+
 ## SkillShare.com
 
 ### RANDOM
