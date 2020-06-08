@@ -114,6 +114,10 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 10. [Learn ReactJS with context API, Redux, Axios, Thunk](https://www.youtube.com/playlist?list=PL6WnVoBkDfDRx5CkEgaMWdTDzzfatZWbA)
 11. [Best Todo List React, Hooks, Express, Node, Postgres, Seqilize](https://www.youtube.com/playlist?list=PL9g7odpg28fTgk7O1zXixYt0uzqBs9jCm)
 
+## Others
+
+1. [Scrimba](https://scrimba.com/g/glearnreact)
+
 ---
 
 Login didapat dengan cara dari Forum/ Mendaftar dengan **Terbatas** (2-3bulan) aktif atau dapat dengan Kupon saat Checkout, jadi bisa kita manfaatkan, kita rekam dan edit lalu simpan.
