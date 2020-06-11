@@ -1,6 +1,6 @@
 ---
 template: 'post'
-title: Fullstack Developer
+title: Fullstack Developer Universitas Helsinki
 cover: '../images/fullstack-helsinki.png'
 date: '2020-06-11T13:00:00Z'
 slug: 'Fullstack Developer Universitas Helsinki'
@@ -18,7 +18,7 @@ Ini adalah postingan lain dari Belajar ReactJS yang diadakan oleh **Department o
 
 Di pelatihan yang diadakan oleh departemen komputer science, ada beberapa part, ada 9 part (beberapa katanya hasil update dari pelatihan di 2019) dan pelatihan ini jika kita mahasiswa disana, dijadikan bahan matakuliah yang punya bobot nilai, tapi tenang saja, kita juga bisa punya sertifikatnya kok, kalo gak salah baca ya, jadi dibaca secara berurutan, kalo gw masih di part0 masuk di part1.
 
-> Langsung aja kunjungin dihalaman ini: [Fullstack Open](https://fullstackopen.com/en/about), [Laporan Progress](https://studies.cs.helsinki.fi/stats/) dan [Format Submit Laporan](https://github.com/fullstack-hy2020/example-submission-repository)
+> Langsung ke halaman ini: [Fullstack Open](https://fullstackopen.com/en/about), [Laporan Progress](https://studies.cs.helsinki.fi/stats/) dan [Format Submit Laporan](https://github.com/fullstack-hy2020/example-submission-repository)
 
 Yaps, sekarang tinggal kita fokuskan, sepertinya Pelajaran dari Univeristas Helsinki bakal gw ikutin ... soalnya ada target dan disubmit lalu direview oleh dosen dosen disana, membiasakan diri dengan pola belajar disana ya. Ganbatte!!
 
