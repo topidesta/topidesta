@@ -3,7 +3,7 @@ template: 'post'
 title: Buat Branch dari Commit GIT
 cover: '../images/commit.png'
 date: '2020-07-03T16:00:00Z'
-slug: 'login-localhost-netlifycms-digatsbyjs'
+slug: 'buat-branch-dari-commit-git-local'
 keywords: 'Buat Branch dari Commit GIT'
 categories:
   - trick
