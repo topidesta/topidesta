@@ -66,7 +66,15 @@ nox_adb.exe connect 127.0.0.1:62001
 
 dan ternyata gak bisa langsung connect, gw lupa ada point tertentu untuk koneksikan nox dengan SDK android, gw baru engeh pas liat vidio ini: https://www.youtube.com/watch?v=_JJ-mxlTADc
 
-Jadi, copy file **adb.exe, AdbWinApi.dll, AdbWinUsbApi.dll** copy-paste di folder **bin** nox terinstall, lalu rename **adb.exe ke nox_adb.exe** dan nox_adb dibackup/ rename nama lain.
+sebelum itu hapus dulu semua sdk di foldernya, melalu **SDK Manager** atau kalo install android studio, kalo udah restart lalu buka lagi kalo muncul kayak gini:
+
+![gradle sdk eror](../images/gradle-sdk.png)
+
+itu harus download dulu file **android.bat** karena folder tools hilang ... download dulu sdk di google https://dl.google.com/android/repository/tools_r25.2.3-windows.zip, extract folder **tools** di folder sdk sebelumnya.
+
+terus buka lagi deh SDK Managernya. lanjut ...
+
+copy file **adb.exe, AdbWinApi.dll, AdbWinUsbApi.dll** copy-paste di folder **bin** nox terinstall, lalu rename **adb.exe ke nox_adb.exe** dan nox_adb dibackup/ rename nama lain.
 
 Kalo sudah, **buka nox emulator** lalu **koneksikan** ke nox! Ups, di youtube atas dikasih trick biar gak ngetik ngetik, dibuat **.bat** file biar bisa dieksekusi windows 10, berikut scriptnya:
 
@@ -109,3 +117,4 @@ sumber:
 2. https://codingrakitan.blogspot.com/2018/11/cara-mengatasi-unable-to-connect-to.html
 3. https://www.youtube.com/watch?v=_JJ-mxlTADc
 4. https://stackoverflow.com/a/54514380
+5. https://stackoverflow.com/a/23357856
