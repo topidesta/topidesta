@@ -4,7 +4,7 @@ const config = {
   siteTitleShort: 'TOPIDESTA', // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
   siteTitleAlt: 'Topidesta - Https://topidesta.netlify.app/', // Alternative site title for SEO.
   siteLogo: '/logos/logo-1024x1024.png', // Logo used for SEO and manifest.
-  siteUrl: 'https://topidesta-dev.me/', // Domain of your website without pathPrefix.
+  siteUrl: 'Https://topidesta.netlify.app/', // Domain of your website without pathPrefix.
   pathPrefix: '', // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   siteDescription: 'Topidesta - Tulisan Ringan Bukan Cacian', // Website description used for RSS feeds/meta description tag.
   siteRss: '/rss.xml', // Path to the RSS file.
@@ -86,7 +86,7 @@ const config = {
     },
     {
       label: 'Website',
-      url: 'https://topidesta-dev.me/',
+      url: 'Https://topidesta.netlify.app/',
       iconClassName: 'fas globe',
     },
     {
@@ -146,7 +146,7 @@ const config = {
     },
     {
       label: 'RSS',
-      url: 'https://topidesta-dev.me/rss.xml',
+      url: 'Https://topidesta.netlify.app/rss.xml',
       iconClassName: 'fas rss',
     },
   ],
@@ -155,7 +155,7 @@ const config = {
     { label: 'About', url: '/about' },
     { label: 'Alat Tempur', url: '/alat' },
     { label: 'Belajar', url: '/belajar' },
-    { label: 'Sitemap', url: 'https://topidesta-dev.me/sitemap.xml' },
+    { label: 'Sitemap', url: 'Https://topidesta.netlify.app/sitemap.xml' },
   ],
   copyright: 'Copyright © 2020 Topidesta. MIT license.',
   // Use for manifest
