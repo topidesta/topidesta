@@ -16,29 +16,30 @@ Bismillah
 
 Kebetulan pencarian dokter sudah kelar, sekarang mau buat Prima versi Mobile dengan teknologi React Native, rencannya setiap module yang existing prima web, nanti mau gw buat **Package NPM** jadi setiap developer mengembangkan sesuai kebutuhan tanpa harus install semua module (pilih package sesuai kebutuhan yang diubah), hems... nice idea? ya, gw juga kudu belajar neh, mantap, balik lagi ke judulnya ... yaps, gw cuman mau share, bukan sombongin yak, soalnya sekalian buat prototive gw sih, karena diruangan belum ada kesempatan buat menjelaskan dan sedikit ada waktu buat sharing, baiklah, ini di beberapa mockup yang udah gw coba buat.
 
-![Halaman Utama](../images/first.png)
+### Halaman ketika dibuka pertama kali
 
-Halaman ketika dibuka pertama kali
+![HalamanUtama](../images/first.png)
 
-![Halaman Login](../images/login.png)
+### Ketika mengklik Login
 
-Ketika mengklik Login
+![HalamanLogin](../images/login.png)
 
-![Halaman Daftar](../images/daftar.png)
+### Halaman daftar Pegawai
 
-Halaman daftar Pegawai
+![HalamanDaftar](../images/daftar.png)
 
-![Halaman Lupa](../images/lupa.png)
+### Halaman lupa email/ password
 
-Halaman lupa email/ password
+![HalamanLupa](../images/lupa.png)
 
-![Halaman Dashboard](../images/dashboard.png)
+### Halaman Dashboard
 
-Halaman Dashboard
+![HalamanDashboard](../images/dashboard.png)
 
-![Halaman Profile](../images/profile.png)
+### Halaman Profile Pengguna
 
-Halaman Profile Pengguna
+![HalamanProfile](../images/profile.png)
+
 
 ---
 
