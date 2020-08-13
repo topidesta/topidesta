@@ -16,29 +16,17 @@ Bismillah
 
 Kebetulan pencarian dokter sudah kelar, sekarang mau buat Prima versi Mobile dengan teknologi React Native, rencannya setiap module yang existing prima web, nanti mau gw buat **Package NPM** jadi setiap developer mengembangkan sesuai kebutuhan tanpa harus install semua module (pilih package sesuai kebutuhan yang diubah), hems... nice idea? ya, gw juga kudu belajar neh, mantap, balik lagi ke judulnya ... yaps, gw cuman mau share, bukan sombongin yak, soalnya sekalian buat prototive gw sih, karena diruangan belum ada kesempatan buat menjelaskan dan sedikit ada waktu buat sharing, baiklah, ini di beberapa mockup yang udah gw coba buat.
 
-### Halaman ketika dibuka pertama kali
+### 1. Buat sebuah sketas dahulu
 
-![utama](../images/first.png)
+![twitterkomponen](../images/twitterkomponen.png)
 
-### Ketika mengklik Login
+### 2. Bagi-bagi sketsa dengan pewarnaan
 
-![login](../images/login.png)
+![twitterkomponen](../images/twitterkomponen2.png)
 
-### Halaman daftar Pegawai
+### 3. Kita berikan nama setiap komponen
 
-![daftar](../images/daftar.png)
-
-### Halaman lupa email/ password
-
-![lupa](../images/lupa.png)
-
-### Halaman Dashboard
-
-![dashboard](../images/dashboard.png)
-
-### Halaman Profile Pengguna
-
-![profile](../images/profile.png)
+![twitterkomponen](../images/twitterkomponen3.png)
 
 
 ---
