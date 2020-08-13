@@ -18,27 +18,27 @@ Kebetulan pencarian dokter sudah kelar, sekarang mau buat Prima versi Mobile den
 
 ### Halaman ketika dibuka pertama kali
 
-![HalamanUtama](../images/first.png)
+![utama](../images/first.png)
 
 ### Ketika mengklik Login
 
-![HalamanLogin](../images/login.png)
+![login](../images/login.png)
 
 ### Halaman daftar Pegawai
 
-![HalamanDaftar](../images/daftar.png)
+![daftar](../images/daftar.png)
 
 ### Halaman lupa email/ password
 
-![HalamanLupa](../images/lupa.png)
+![lupa](../images/lupa.png)
 
 ### Halaman Dashboard
 
-![HalamanDashboard](../images/dashboard.png)
+![dashboard](../images/dashboard.png)
 
 ### Halaman Profile Pengguna
 
-![HalamanProfile](../images/profile.png)
+![profile](../images/profile.png)
 
 
 ---
