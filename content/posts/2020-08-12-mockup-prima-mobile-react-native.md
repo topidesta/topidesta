@@ -18,31 +18,31 @@ Kebetulan pencarian dokter sudah kelar, sekarang mau buat Prima versi Mobile den
 
 ### Halaman ketika dibuka pertama kali
 
-![utama](../images/first.png)
+![Halaman Utama Mobile](../images/first.jpg)
 
 ### Ketika mengklik Login
 
-![login](../images/login.png)
+![Login Mobile](../images/login.jpg)
 
 ### Halaman daftar Pegawai
 
-![daftar](../images/daftar.png)
+![Halaman Daftar](../images/daftar.jpg)
 
 ### Halaman lupa email/ password
 
-![lupa](../images/lupa.png)
+![Lupa Password](../images/lupa.jpg)
 
 ### Halaman Dashboard
 
-![dashboard](../images/dashboard.png)
+![Halaman Dashboard](../images/dashboard.jpg)
 
 ### Halaman Profile Pengguna
 
-![profile](../images/profile.png)
+![Profile Mobile](../images/profile.jpg)
 
 ---
 
-Semuanya masih mockup, tambahan seperti *animation*, *background color*, dll. itu bisa nanti berjalan, baiklah, di **Halaman Dashboard** terlihat beberapa module dan seperti yang dijelaskan sebelumnya, module itu nanti akan gw bungkus menjadi package dengan private source dan yang pasti akan menggunakan Teknologi JS/ NodeJS/ ReactJS.
+Semuanya masih mockup, tambahan seperti _animation_, _background color_, dll. itu bisa nanti berjalan, baiklah, di **Halaman Dashboard** terlihat beberapa module dan seperti yang dijelaskan sebelumnya, module itu nanti akan gw bungkus menjadi package dengan private source dan yang pasti akan menggunakan Teknologi JS/ NodeJS/ ReactJS.
 
 Baiklah, sekian informasinya.
 
