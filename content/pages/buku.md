@@ -30,6 +30,8 @@ slug: 'buku'
 6. [Pure React (2017)](https://cl.ly/3ce6d8bcc566) or [Pure React (2019)](https://cl.ly/c45c5d97d83f)
 7. [The NextJS HandBook](https://topidesta.files.wordpress.com/2020/05/the-next.js-handbook.pdf) ✔️
 8. [React Function](https://cl.ly/478ef2c1536e)
+9. [Full Stack React Native - 2017](https://topidesta.files.wordpress.com/2020/08/fullstack-react-native-the-complete-guide-to-react-native-by-devin-abbot-houssein-djirdeh-anthony-accomazzo-and-sophia-shoemaker-z-lib.org_.pdf)
+10. [Full Stack React Native - r36](https://topidesta.files.wordpress.com/2020/08/fullstack-react-book-r36.pdf)
 
 ## PHP
 
