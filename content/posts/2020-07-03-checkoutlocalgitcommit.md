@@ -8,8 +8,7 @@ keywords: 'Buat Branch dari Commit GIT'
 categories:
   - trick
 tags:
-  - react
-  - ATM
+  - git
 ---
 
 Bismillah
