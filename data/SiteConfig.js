@@ -17,10 +17,10 @@ const config = {
   postsPerPage: 6,
   // Use for post
   dateFromFormat: 'YYYY-MM-DDTHH:mm:ssZ', // Date format used in the frontmatter.
-  dateFormat: 'DD-MMMM-YYYY', // Date format for display.
+  dateFormat: 'DD/MMMM/YYYY', // Date format for display.
   postTagged: '',
   postInCategories: '',
-  postOnDate: 'Tampil pada ',
+  postOnDate: 'Tampil ',
   // Use for comment
   lazyLoadComments: true,
   disqusShortname: 'topidesta-dev', // Disqus shortname.
