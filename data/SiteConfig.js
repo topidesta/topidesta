@@ -58,7 +58,7 @@ const config = {
   sidebarSticky: true,
   sidebarLinks: [
     {
-      label: 'Gatsby Template',
+      label: 'GatsbyJS Template',
       url: 'https://github.com/completejavascript/gatsby-blog-template',
     },
     {
@@ -68,6 +68,10 @@ const config = {
     {
       label: 'Tania Rascia',
       url: 'https://www.taniarascia.com/',
+    },
+    {
+      label: 'M Desta Fadilah',
+      url: 'https://mdestafadilah.blogspot.com',
     },
   ],
   // Use for user info
