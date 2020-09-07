@@ -1,7 +1,7 @@
 ---
 template: 'post'
 title: Mockup Prima Versi Mobile dengan RN
-cover: '../images/react-native.png'
+cover: '../images/react-native-persahabatan.png'
 date: '2020-08-12T13:00:00Z'
 slug: 'mockup-prima-versi-mobile-dengan-react-native'
 keywords: 'Mockup Prima Versi Mobile dengan RN'

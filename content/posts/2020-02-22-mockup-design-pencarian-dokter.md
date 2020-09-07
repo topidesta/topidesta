@@ -1,7 +1,7 @@
 ---
 template: 'post'
 title: Mockup Design Aplikasi Pencarian Dokter
-cover: '../images/logo-rsp.png'
+cover: '../images/react-native-persahabatan.png'
 date: '2020-02-22T13:40:00Z'
 slug: 'mockup-design-aplikasi-pencarian-dokter'
 keywords: 'Mockup Design Aplikasi Pencarian Dokter'
@@ -36,7 +36,7 @@ Oyah, silahkan comot file mockupnya, gw pake balsamiq mockup. ini filenya:
 
 `https://cl.ly/ff0babe2a231`
 
--------
+---
 
 ## UPDATE
 
@@ -50,7 +50,6 @@ Kurang puas dengan tampilan diatas akhirnya gw coba mockup ulang, dengan sedikit
 
 3. Detail pencarian
    ![detail pencarian](../images/DETAILDOKTERV2.png)
-
 
 Seperti biasa, kalo ada yang mau, file mockupnya, comot ajah, geratis, bebas lu mau pake apa kagak:
 
