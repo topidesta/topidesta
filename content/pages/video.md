@@ -115,6 +115,7 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 11. [Best Todo List React, Hooks, Express, Node, Postgres, Seqilize](https://www.youtube.com/playlist?list=PL9g7odpg28fTgk7O1zXixYt0uzqBs9jCm)
 12. [React Navigation V5 By Pradip Debnath](https://www.youtube.com/playlist?list=PLQWFhX-gwJbmmqcP-9zMXBaxQbGKfIJY2)
 13. [React Navigation V5 By BitHoven (Naoufal ElYoussoufi)](https://www.youtube.com/playlist?list=PLXHfL3ggytsjKAcWvqdaPyAqZ9QZtKoB1)
+14. [Build website with GatsbyJS](https://www.youtube.com/playlist?list=PLMhAeHCz8S3_x-jXerCYnl7jftCSxQkPV)
 
 ## Others
 
