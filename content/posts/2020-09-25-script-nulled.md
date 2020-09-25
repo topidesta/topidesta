@@ -16,13 +16,14 @@ Bismillah
 
 Sebetulnya trick ini jangan digunakan untuk mencari duit ya, gak berkah ... mending development secara lokal jika ingin dipublish silahkan order ... lebih aman ... serius ... atau nyontek script nyah (untuk belajar) ... jangan keseluruhan ... okeh ... berikut ini listnya:
 
+0. https://kutt.it/nullNol
 1. https://kutt.it/nullSatu
-2. https://kutt.it/nullDua
-3. https://kutt.it/nullTiga
-4. https://kutt.it/nullEmpat
-5. https://kutt.it/nullLima
-6. https://kutt.it/nullEnam
-7. https://kutt.it/nullTujuh
+1. https://kutt.it/nullDua
+1. https://kutt.it/nullTiga
+1. https://kutt.it/nullEmpat
+1. https://kutt.it/nullLima
+1. https://kutt.it/nullEnam
+1. https://kutt.it/nullTujuh
 
 ## Extra
 
