@@ -23,6 +23,7 @@ Sebetulnya trick ini jangan digunakan untuk mencari duit ya, gak berkah ... mend
 5. https://kutt.it/nullLima
 6. https://kutt.it/nullEnam
 7. https://kutt.it/nullTujuh
+8. https://kutt.it/nullDelapan
 
 ## Extra
 
