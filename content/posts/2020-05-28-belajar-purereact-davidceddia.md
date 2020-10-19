@@ -75,6 +75,32 @@ Untuk source ada di branch tweet:
 
 ## ❌Komponen List Github
 
+Baiklah, Contoh dari Project Twitter kita melakukan 4 langkah, diantaranya:
+
+1. Mulai dengan Skema/ Sketsa/ Mockup
+2. Bagi kebeberapa bagian komponen
+3. Beri nama komponen tersebut
+4. Mulai bangun!
+
+Kurang lebih tampilannya (mockup) akan seperti dibawah ini
+
+![purereactgithub](../images/purereact-github.png)
+
+Selanjut kita bagi kebeberapa bagian, seperti ini
+
+![purereactgithubkomponen](../images/purereact-github-komponen.png)
+
+Selanjutnya kita berinama dalam bentuk hirariki (top-down)
+
+- fileList
+  - fileListItem
+    - fileName
+      - fileIcon
+    - commitMessage
+    - Time
+
+Penjelasan: next ... 
+
 ---
 
 ## ❌Komponen Shooping
