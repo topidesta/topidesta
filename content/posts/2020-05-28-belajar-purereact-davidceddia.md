@@ -73,7 +73,7 @@ Untuk source ada di branch tweet:
 
 ---
 
-## ❌Komponen List Github
+## ✔️Komponen List Github
 
 Baiklah, Contoh dari Project Twitter kita melakukan 4 langkah, diantaranya:
 
@@ -90,7 +90,7 @@ Selanjut kita bagi kebeberapa bagian, seperti ini
 
 ![purereactgithubkomponen](../images/purereact-github-komponen.png)
 
-Selanjutnya kita berinama dalam bentuk hirariki (top-down)
+Selanjutnya kita berinama dalam bentuk hirariki (top-to-down)
 
 - fileList
   - fileListItem
@@ -99,7 +99,19 @@ Selanjutnya kita berinama dalam bentuk hirariki (top-down)
     - commitMessage
     - Time
 
-Penjelasan: next ... 
+Penjelasan: 
+- **fileList** akan mengambil sebuah *prop* dari sebuah objek array.
+- **fileListItem** akan mengambil sebuah objek tunggal sebagai prop file, yang punya nama, tipe, commit, dan modifikasi terakhir.
+- **fileName** akan mengambil sebuah objek file dan diharapkan memiliki sebuah properti nama.
+- **fileIcon** akan mengambil sebuah objek menggunakan properti type dimana akan dimunculkan sebuah icon.
+- **commitMessage** akan menambilkan sebuah objek pesan commit dan diharapkakn memiliki sebuah properti pesan.
+- **Time** akan menjadi sebuah string, dimana akan digunakan berulangkali disetiap komponen.
+
+Untuk Project dasar, copy-paste, file index.html di [branch twitter](https://github.com/topidesta/purereact/tree/twitter) untuk setup awal dengan *Font Awesome* dan sekaligus ubah nama <*title*> atau terserah anda deh.
+
+Untuk source ada di branch github:
+
+`https://github.com/topidesta/purereact/tree/github`
 
 ---
 
