@@ -113,6 +113,12 @@ Untuk source ada di branch github:
 
 `https://github.com/topidesta/purereact/tree/github`
 
+Sebelum masuk ke Komponen Shooping, Om David memberikan sedikit tugas (latihan) tambahan, semuanya sama seperti kode sebelumnya, hems... menarik. Untuk melihatnya bisa akses di halaman ini:
+
+`https://github.com/topidesta/purereact/tree/latihan`
+
+Silahkan buka foldernya, karena masing masing sudah berdasarkan project latihan tambahan.
+
 ---
 
 ## ❌Komponen Shooping
