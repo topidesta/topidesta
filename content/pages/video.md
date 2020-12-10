@@ -57,6 +57,7 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 ### Python Class
 
 1. [Programming with Python : HandsOn Introduction for Beginners](https://www.udemy.com/share/101tCqAEIbdVZbTXo=/) **Certificate Avaliable**
+2. [Python Complete Course With Django And Flask Frameworks.Beginner to Expert Python](https://www.udemy.com/share/103rfMAEIbdVZbTXo=/) **Certificate Avaliable**
 
 ### Golang Class
 
@@ -65,7 +66,7 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 ## Udacity.com
 
 ### Nanodegree Program
-
+d
 1. Basic
 
 ## Pluralsight
