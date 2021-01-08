@@ -66,7 +66,7 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 ## Udacity.com
 
 ### Nanodegree Program
-d
+
 1. Basic
 
 ## Pluralsight
@@ -125,6 +125,10 @@ d
 ---
 
 Login didapat dengan cara dari Forum/ Mendaftar dengan **Terbatas** (2-3bulan) aktif atau dapat dengan Kupon saat Checkout, jadi bisa kita manfaatkan, kita rekam dan edit lalu simpan.
+
+### atau
+
+Dengan Membeli dengah Harga diskon 100% dari Udemy! beberapa Latihan gw implementasikan di [Github ATM (Amati Tiru Modifikasi)](https://github.com/amati-tiru-modifikasi).
 
 ---
 

@@ -15,6 +15,8 @@ Link [Video](video) adalah halaman untuk menampilkan video tutorial yang saya ik
 
 Link [Buku](buku) adalah halaman untuk buku tutorial yang gw coba baca. hehe. kadang pengen baca kadang pengen liat video, tutorialnya.
 
+Link [Sertifikat](sertifikat) adalah halaman bukti belajar gw sudah kelar dan sourcecode belajar disimpan di Halaman [ATM Github](https://github.com/amati-tiru-modifikasi).
+
 ### php
 
 Dalam perkembangan PHP, saya dapat beradaptasi baik dari sisi **front-End** atau **back-End** dengan PHP.
