@@ -65,6 +65,12 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 23. [Complete SQL Bootcamp, PHP, MySQL, Python](https://www.udemy.com/share/101HvUAEIbdVZbTXo=/)
 24. [30 Days Code, Django Build a Resume Website](https://www.udemy.com/share/103QDAAEIbdVZbTXo=/)
 
+### Vue Class
+
+1. [React vs Angular vs Vue](https://www.udemy.com/share/101t9AAEIbdVZbTXo=/) **Certificate Avaliable**
+2. [VueJS and Firebase Android Chat App](https://www.udemy.com/share/101GdaAEIbdVZbTXo=/) **Certificate Avaliable**
+3. [Create Amazing Vue Apps with Javascript](https://www.udemy.com/share/103SXiAEIbdVZbTXo=/) **Certificate Avaliable**
+
 ### Python Class
 
 1. [Programming with Python : HandsOn Introduction for Beginners](https://www.udemy.com/share/101tCqAEIbdVZbTXo=/) **Certificate Avaliable**
