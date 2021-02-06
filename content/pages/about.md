@@ -21,6 +21,8 @@ Tulisan blog ini gak jauh beda dengan blog sebelumnya di wordpress dan konten da
 Ada beberapa aplikasi yang udah gw release menggunakan ReactJS, diantarnya:
 
 1. [Donatur Hibah Covid 19](https://hibahcovid19.netlify.app/)
-2. [Pencarian Dokter RSUP Persahabatan](https://dokter.netlify.app/)
+2. [Pencarian Dokter](https://dokter.netlify.app/)
+3. [Lowongan Pekerjaan](https://lowonganpekerjaan.netlify.app/)
+4. [Permintaan Darah](https://bankdarah.netlify.app/)
 
 > Akhir kata, happy coding!
