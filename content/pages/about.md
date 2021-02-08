@@ -18,11 +18,6 @@ Beberapa teknologi pengembangan website sederhana ini:
 
 Tulisan blog ini gak jauh beda dengan blog sebelumnya di wordpress dan konten dari blog ini lebih kekiniian, ya, meski latarbelakang saya dari devloper PHP - Codeigniter tapi saya suka belajar hal baru seperti NodeJS/ DenoJS/ **ReactJS, Git dan Docker** (Frontend) yang saya coba implementasikan dikantor yang sekarang, pola belajarnya pun sama, setiap stack teknologi yang saya pelajari, tidak membaca secara utuh manual book, tapi yang diperlukan saja, selebihnya googling dan baca koding orang, ya, saya bukan develooper sejati, cuman abal abal dan hanya sebatas senang, kalo otak gw kepake (logic).
 
-Ada beberapa aplikasi yang udah gw release menggunakan ReactJS, diantarnya:
-
-1. [Donatur Hibah Covid 19](https://hibahcovid19.netlify.app/)
-2. [Pencarian Dokter](https://dokter.netlify.app/)
-3. [Lowongan Pekerjaan](https://lowonganpekerjaan.netlify.app/)
-4. [Permintaan Darah](https://bankdarah.netlify.app/)
+Ada beberapa aplikasi yang udah gw release menggunakan ReactJS, klik ke [Halaman Project](projek) untuk lebih detail.
 
 > Akhir kata, happy coding!

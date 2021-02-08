@@ -1,7 +1,7 @@
 ---
 template: 'post'
 title: Aplikasi Permintaan Bankdarah
-cover: '../images/react-js.png'
+cover: '../images/react-persahabatan.png'
 date: '2021-02-06T20:00:00Z'
 slug: 'aplikasi-permintaan-bankdarah-rsuppersahabatan'
 keywords: 'Aplikasi Permintaan Bankdarah'
