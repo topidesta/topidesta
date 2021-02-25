@@ -1,10 +1,10 @@
 ---
 template: 'post'
-title: Aplikasi Lowongan Online RS Persahabatan
+title: Aplikasi Lowongan Online
 cover: '../images/react-persahabatan.png'
 date: '2021-02-26T04:00:00Z'
 slug: 'aplikasi-lowongan-online-rsup-persahabatan'
-keywords: 'Aplikasi Lowongan Online RS Persahabatan'
+keywords: 'Aplikasi Lowongan Online'
 categories:
   - belajar
 tags:
