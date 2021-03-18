@@ -120,6 +120,10 @@ ditunggu saja, tergantung kecepatan internet dan hardisk anda, karena banyak fil
 
 Done! beneran selesai. Project native react sudah tampil di emulator nox!
 
+## FYI
+
+Kalo suatu saat tidak bisa padahal sebelumnya bisa, COPY ULANG **adb.exe** (dari folder platform-tools) lalu rename jadi **nox_adb.exe** (di folder nox) dan pasti bisa lagi deh.
+
 Mantap betul ...
 
 sumber:
