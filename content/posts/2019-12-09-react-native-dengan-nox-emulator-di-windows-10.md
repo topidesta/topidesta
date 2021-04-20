@@ -99,6 +99,17 @@ OMG ... cobaaan apalagi ini, searching via gogel, akhirnya disuruh hapus folder 
 
 ![gradle error 4](../images/gradle4.png)
 
+```
+@echo off
+PAUSE
+C:
+cd "C:\Users\<NAMAUSER>\.gradle"
+rmdir /s caches
+@echo Berhasil Dihapus
+PAUSE
+exit
+```
+
 kalo udah lalu jalankan perintah **react-native run-android** di folder project native react, kurang lebih nanti akan download ulang, pastikan terkoneksi ke internet, seperti digambar ini:
 
 ![gradle download](../images/gradle2.png)
@@ -108,6 +119,10 @@ ditunggu saja, tergantung kecepatan internet dan hardisk anda, karena banyak fil
 ![gradle done](../images/gradle3.png)
 
 Done! beneran selesai. Project native react sudah tampil di emulator nox!
+
+## FYI
+
+Kalo suatu saat tidak bisa padahal sebelumnya bisa, COPY ULANG **adb.exe** (dari folder platform-tools) lalu rename jadi **nox_adb.exe** (di folder nox) dan pasti bisa lagi deh.
 
 Mantap betul ...
 
