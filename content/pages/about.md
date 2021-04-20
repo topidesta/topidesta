@@ -9,7 +9,7 @@ topidesta-dev.me rumah baru dari blog <a href="https://topidesta.netlify.app/" t
 
 Beberapa teknologi pengembangan website sederhana ini:
 
-1. ~~[NAMECHEAP](http://go.topidesta-dev.me/jP9Lo6)~~
+1. [EXABYTES](https://kutt.it/uF3WcK)
 2. [GITHUB](https://kutt.it/github)
 3. [NETLIFY](https://kutt.it/netlify)
 4. [GATSBYJS](https://kutt.it/gatsbyjs)
