@@ -12,5 +12,9 @@ slug: "link"
 4. https://kutt.it/gatsbyJS-4
 
 
+### Chrome Extenstiosn Examples
+1. https://github.com/GoogleChrome/chrome-extensions-samples/tree/main/apps/samples
+
+
 ### TODO
 https://github.com/infinitered/ignite (Pelajari Jangan Lupa!)

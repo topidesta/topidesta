@@ -152,6 +152,13 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 13. [React Navigation V5 By BitHoven (Naoufal ElYoussoufi)](https://www.youtube.com/playlist?list=PLXHfL3ggytsjKAcWvqdaPyAqZ9QZtKoB1)
 14. [Build website with GatsbyJS](https://www.youtube.com/playlist?list=PLMhAeHCz8S3_x-jXerCYnl7jftCSxQkPV)
 
+### Build Chrome Extension
+
+1. [Chrome Extension Development - XPath Extenstion](https://www.youtube.com/playlist?list=PL699Xf-_ilW7aQ6lBWXjaIheZsduOpcR5)
+2. [Chrome Extenstion Variations Trick](https://www.youtube.com/playlist?list=PLxOYpovHh6IR6HZT-Uius7vCPLqAiM1c2)
+3. [Firebase Chrome Extenstion](https://www.youtube.com/playlist?list=PLxOYpovHh6IRajrwXmm4rrTFCfUHEAmIr)
+4. [Freecourse - Build Tab Note with Chrome Extensions](https://www.youtube.com/watch?v=lU8xHOqlTWU)
+
 ## Others
 
 1. [Scrimba](https://scrimba.com/g/glearnreact)
