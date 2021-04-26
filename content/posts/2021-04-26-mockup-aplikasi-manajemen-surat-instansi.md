@@ -38,19 +38,23 @@ Mau share mockup, sebetulnya sudah jadi hasil mockupnya sekitar (70%) cuman nant
 
 ### Halaman Surat Keluar
 
-![Login](../images/SURATKELUAR.png)
-
-### Halaman Surat Masuk
-
-![Login](../images/SURATKELUARCREATE.png)
+![Surat Keluar](../images/SURATKELUAR.png)
 
 ### Halaman Tulis Surat
 
-![Login](../images/SURATMASUK.png)
+![Tulis Surat](../images/SURATKELUARCREATE.png)
+
+### Halaman Surat Masuk
+
+![Surat Masuk](../images/SURATMASUK.png)
+
+### Halaman Lihat Surat
+
+![Lihat Surat](../images/LIHATSURATPRIBADI.png)
 
 ### Halaman Setup & Maste Data
 
-![Login](../images/SETUP.png)
+![Setup Master Data](../images/SETUP.png)
 
 
 Sebetulnya masih ada lagi, ini yang sudah gw implementasikan ke web-base, jadi mockup ini saja yang gw share ya, nanti akan ada update lagi, tetap semangat.
