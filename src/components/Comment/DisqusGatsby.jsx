@@ -55,7 +55,6 @@ class DisqusGatsby extends Component {
       <>
       <h1>{post.title}</h1>
       <CommentCount config={disqusConfig} placeholder={'...'} />
-      /* Post Contents */
       <Disqus config={disqusConfig} />
       </>
     )

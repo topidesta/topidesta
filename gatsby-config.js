@@ -18,7 +18,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-disqus`,
       options: {
-          shortname: `topidesta-my-id`
+          shortname: `topidesta-dev`
       }
     },
     "gatsby-plugin-react-helmet",
