@@ -8,8 +8,8 @@ keywords: 'Mockup Prima Versi Android/ iOS'
 categories:
   - belajar
 tags:
-  - react
-  - mobile
+  - mockup
+  - balsamiq
 ---
 
 Bismillah
