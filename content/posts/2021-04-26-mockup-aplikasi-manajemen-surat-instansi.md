@@ -2,7 +2,7 @@
 template: 'post'
 title: Mockup Manajemen Surat
 cover: '../images/react-persahabatan.png'
-date: '2021-02-26T04:00:00Z'
+date: '2021-04-26T04:00:00Z'
 slug: 'mockup-manajemen-surat-instansi'
 keywords: 'Mockup Manajamen Surat'
 categories:
