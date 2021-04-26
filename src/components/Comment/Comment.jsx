@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Disqus from './Disqus'
+import DisqusGatsby from './DisqusGatsby'
 
 class Comment extends Component {
   state = {
@@ -23,7 +23,7 @@ class Comment extends Component {
           </button>
         )}
 
-        {this.state.isShow && <Disqus postNode={postNode} />}
+        {this.state.isShow && <DisqusGatsby postNode={postNode} />}
       </div>
     )
   }

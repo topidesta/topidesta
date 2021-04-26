@@ -5,7 +5,7 @@ import { Disqus, CommentCount } from 'gatsby-plugin-disqus';
 import urljoin from 'url-join'
 import config from '../../../data/SiteConfig'
 
-class Disqus extends Component {
+class DisqusGatsby extends Component {
   constructor(props) {
     super(props)
     this.state = {
@@ -62,4 +62,4 @@ class Disqus extends Component {
   }
 }
 
-export default Disqus
+export default DisqusGatsby
