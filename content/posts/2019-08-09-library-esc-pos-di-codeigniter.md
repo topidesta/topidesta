@@ -42,9 +42,9 @@ Terus, karena ngoding langsung pake RAW-TEXT dari printer ribet, contoh RAW-TEXT
 
 
 Nah, karena yang dipake itu dari EPSON, akhirnya searching eh dapet deh di Github yang senang hati berbagi ini linknya:
-<blockquote><a href="https://github.com/mike42/escpos-php/tree/master">https://github.com/mike42/escpos-php/tree/master</a></blockquote>
+<blockquote>[https://github.com/mike42/escpos-php/tree/master](https://github.com/mike42/escpos-php/tree/master)</blockquote>
 Ternyata TM-U220 didukung sama libarary ini, yaudah oprek deh, cara gunanya gampang banget, karena udah pake bootstrap auotloader, jadi yah tinggal load sebagai library ... selebihnya bisa dicek di repo gw:
-<blockquote><a href="https://github.com/RSUP/ESC-POS">https://github.com/RSUP/ESC-POS</a></blockquote>
+<blockquote>[https://github.com/rsuppersahabatan/ESC-POS](https://github.com/rsuppersahabatan/ESC-POS)</blockquote>
 Gw Kagak fork, soalnya gw pake manual download dan upload file git nyah .... hehehe.
 
 Have a nice day!
