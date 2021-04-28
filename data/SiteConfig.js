@@ -2,9 +2,9 @@ const config = {
   // Site info
   siteTitle: 'Topidesta - Tulisan Ringan Bukan Cacian', // Site title.
   siteTitleShort: 'TOPIDESTA', // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
-  siteTitleAlt: 'Topidesta - Https://topidesta.netlify.app/', // Alternative site title for SEO.
+  siteTitleAlt: 'Topidesta - https://topidesta.my.id/', // Alternative site title for SEO.
   siteLogo: '/logos/logo-1024x1024.png', // Logo used for SEO and manifest.
-  siteUrl: 'https://topidesta.netlify.app', // Domain of your website without pathPrefix.
+  siteUrl: 'https://topidesta.my.id', // Domain of your website without pathPrefix.
   pathPrefix: '', // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   siteDescription: 'Topidesta - Tulisan Ringan Bukan Cacian', // Website description used for RSS feeds/meta description tag.
   siteRss: '/rss.xml', // Path to the RSS file.
@@ -80,7 +80,7 @@ const config = {
   userTwitter: 'emang_dasar', // Optionally renders "Follow Me" in the UserInfo segment.
   userLocation: 'Jakarta, Indonesia', // User location to display in the author segment.
   userAvatar: '', // User avatar to display in the author segment.
-  userDescription: 'Generalist and Focused!', // User description to display in the author segment.
+  userDescription: 'Github, Gitlab, Bitbucket', // User description to display in the author segment.
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
     {
@@ -161,7 +161,7 @@ const config = {
     { label: 'Belajar', url: '/belajar' },
     { label: 'Sitemap', url: 'https://topidesta.netlify.app/sitemap.xml' },
   ],
-  copyright: 'Copyright © 2020 Topidesta. MIT license.',
+  copyright: 'Copyright © 2019 Topidesta. MIT license.',
   // Use for manifest
   themeColor: '#2196F3', // Used for setting manifest and progress theme colors.
   backgroundColor: '#FFF', // Used for setting manifest background color.

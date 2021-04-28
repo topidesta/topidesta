@@ -1,6 +1,5 @@
 /* eslint-disable react/destructuring-assignment */
 import React, { Component } from 'react'
-// import ReactDisqusComments from 'react-disqus-comments'
 import { Disqus, CommentCount } from 'gatsby-plugin-disqus';
 import urljoin from 'url-join'
 import config from '../../../data/SiteConfig'
@@ -44,14 +43,6 @@ class DisqusGatsby extends Component {
     }
 
     return (
-      // <ReactDisqusComments
-      //   shortname={config.disqusShortname}
-      //   identifier={post.title}
-      //   title={post.title}
-      //   url={url}
-      //   category_id={post.category_id}
-      //   onNewComment={this.notifyAboutComment}
-      // />
       <>
       <h1>{post.title}</h1>
       <CommentCount config={disqusConfig} placeholder={'...'} />
