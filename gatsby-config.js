@@ -15,12 +15,6 @@ module.exports = {
     }
   },
   plugins: [
-    {
-      resolve: `gatsby-plugin-disqus`,
-      options: {
-          shortname: `topidesta-dev`
-      }
-    },
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-lodash",
     {
@@ -68,16 +62,6 @@ module.exports = {
       }
     },
     {
-      resolve: `gatsby-plugin-netlify`,
-      options: {
-        headers: {
-          '/*.js': ['cache-control: public, max-age=31536000, immutable'],
-          '/*.css': ['cache-control: public, max-age=31536000, immutable'],
-          '/sw.js': ['cache-control: public, max-age=0, must-revalidate'],
-        },
-      },
-    },
-    {
       resolve: "gatsby-plugin-google-analytics",
       options: {
         trackingId: config.googleAnalyticsID
@@ -119,6 +103,18 @@ module.exports = {
         ]
       }
     },
+    {
+      resolve: `gatsby-plugin-disqus`,
+      options: {
+          shortname: `topidesta-dev`
+      }
+    },
+    // {
+    //   resolve: 'gatsby-plugin-netlify-cms',
+    //   options: {
+    //     modulePath: `${__dirname}/src/cms/cms.js`,
+    //   },
+    // },
     "gatsby-plugin-offline",
     {
       resolve: "gatsby-plugin-feed",
@@ -197,6 +193,16 @@ module.exports = {
           }
         ]
       }
+    },
+    {
+      resolve: `gatsby-plugin-netlify`,
+      options: {
+        headers: {
+          '/*.js': ['cache-control: public, max-age=31536000, immutable'],
+          '/*.css': ['cache-control: public, max-age=31536000, immutable'],
+          '/sw.js': ['cache-control: public, max-age=0, must-revalidate'],
+        },
+      },
     }
   ]
 };
