@@ -29,9 +29,9 @@ Akhirnya pakai cara ke-2, menggunakan jasa web-downloader, buatan orang rusia, a
 
 ![speedbaidu](../images/caradispeedbaidu.png)
 
-*Gratisnya sekali doang sayangnya*, karena mereka juga sewa server dan membayar tim, dan file yang gw kirim ke mereka, ternyata [salah](https://cl.ly/0799a38e3bfb) ... sedih ... :( 
+*Gratisnya sekali doang sayangnya*, karena mereka juga sewa server dan membayar tim, dan file yang gw kirim ke mereka, ternyata [salah](https://share.getcloudapp.com/GGu0kyNP) ... sedih ... :( 
 
-**UPDATE**: mereka benar benar baik ... Tim speedbaidu telah mendownloadkan ulang file yang gw [minta](https://cl.ly/88ef465768aa), alhamdulillah.
+**UPDATE**: mereka benar benar baik ... Tim speedbaidu telah mendownloadkan ulang file yang gw [minta](https://share.getcloudapp.com/Z4uzL2ej), alhamdulillah.
 
 Buat temen temen yang punya dollar atau online payment ... silahkan donasi kemereka berapapun ... gw belum bisa karena memang gw gak punya dollar apalagi paypall.
 

@@ -5,7 +5,7 @@ description: 'Halaman Tentang'
 slug: 'about'
 ---
 
-topidesta-dev.me rumah baru dari blog <a href="https://topidesta.netlify.app/" target="_blank"> topidesta.wordpress.com</a> (iklan diwordpress gratis, sungguh menggila!!). Kali ini Blog ditenagai oleh beberapa teknologi JavaScript (React,GatsbyJS dan Netlify) dan bukan lagi PHP (wordpress), berhubung di wordpress terlalu **_BANYAK IKLAN (ads)_** yang mengganggu, baik pengunjung ataupun saya sebagai penulis merasa terganggu, akhirnya coba cari tau teknologi yang tren (2019) Yes, pertama, hunting domain dulu, kebetulan saya dapat ~~**_GERATIS alias FREE_**~~.
+topidesta.my.id rumah baru dari blog <a href="https://topidesta.my.id/" target="_blank"> topidesta.wordpress.com</a> (iklan diwordpress gratis, sungguh menggila!!). Kali ini Blog ditenagai oleh beberapa teknologi JavaScript (React,GatsbyJS dan Netlify) dan bukan lagi PHP (wordpress), berhubung di wordpress terlalu **_BANYAK IKLAN (ads)_** yang mengganggu, baik pengunjung ataupun saya sebagai penulis merasa terganggu, akhirnya coba cari tau teknologi yang tren (2019) Yes, pertama, hunting domain dulu, kebetulan saya dapat ~~**_GERATIS alias FREE_**~~.
 
 Beberapa teknologi pengembangan website sederhana ini:
 

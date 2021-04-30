@@ -27,9 +27,9 @@ slug: 'buku'
 3. [React Native CookBook](https://topidesta.files.wordpress.com/2019/02/react_native_cookbook.pdf)
 4. [The Road Learn React](https://topidesta.files.wordpress.com/2019/02/the-road-to-learn-react.pdf)
 5. [30 Days Learn React](https://topidesta.files.wordpress.com/2019/02/30-days-of-react-ebook-fullstackio.pdf)
-6. [Pure React (2017)](https://cl.ly/3ce6d8bcc566) or [Pure React (2019)](https://cl.ly/c45c5d97d83f)
+6. [Pure React (2017)](https://share.getcloudapp.com/Z4u5GLZn) or [Pure React (2019)](https://share.getcloudapp.com/8LujX12p)
 7. [The NextJS HandBook](https://topidesta.files.wordpress.com/2020/05/the-next.js-handbook.pdf) ✔️
-8. [React Function](https://cl.ly/478ef2c1536e)
+8. [React Function](https://share.getcloudapp.com/mXuBw298)
 9. [Full Stack React Native - 2017](https://topidesta.files.wordpress.com/2020/08/fullstack-react-native-the-complete-guide-to-react-native-by-devin-abbot-houssein-djirdeh-anthony-accomazzo-and-sophia-shoemaker-z-lib.org_.pdf)
 10. [Full Stack ReactJS - 2017](https://topidesta.files.wordpress.com/2020/08/fullstack-react-book-r36.pdf)
 11. [React Native Ekspress](http://www.reactnativeexpress.com/)

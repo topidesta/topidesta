@@ -34,7 +34,7 @@ Emang sih sederhana, setidaknya gw berusaha membuat sebuah aplikasi berkualitas,
 
 Oyah, silahkan comot file mockupnya, gw pake balsamiq mockup. ini filenya:
 
-`https://cl.ly/ff0babe2a231`
+`https://share.getcloudapp.com/NQuZAp96`
 
 ---
 
@@ -53,6 +53,6 @@ Kurang puas dengan tampilan diatas akhirnya gw coba mockup ulang, dengan sedikit
 
 Seperti biasa, kalo ada yang mau, file mockupnya, comot ajah, geratis, bebas lu mau pake apa kagak:
 
-`https://cl.ly/ec9be70e6783`
+`https://share.getcloudapp.com/RBuvvlwA`
 
 Have a nice day!

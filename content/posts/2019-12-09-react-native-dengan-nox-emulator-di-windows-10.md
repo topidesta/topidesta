@@ -89,7 +89,7 @@ PAUSE
 exit
 ```
 
-buat yang mau filenya silahkan dicomit disini: https://cl.ly/d90053443bd9
+buat yang mau filenya silahkan dicomot disini: https://cl.ly/d90053443bd9
 
 Selesai, tunggu... ada error di **gradle** ...
 
