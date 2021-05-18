@@ -151,6 +151,8 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 12. [React Navigation V5 By Pradip Debnath](https://www.youtube.com/playlist?list=PLQWFhX-gwJbmmqcP-9zMXBaxQbGKfIJY2)
 13. [React Navigation V5 By BitHoven (Naoufal ElYoussoufi)](https://www.youtube.com/playlist?list=PLXHfL3ggytsjKAcWvqdaPyAqZ9QZtKoB1)
 14. [Build website with GatsbyJS](https://www.youtube.com/playlist?list=PLMhAeHCz8S3_x-jXerCYnl7jftCSxQkPV)
+15. [Build App Clone with ReactJS](https://youtube.com/playlist?list=PL-J2q3Ga50oMQa1JdSJxYoZELwOJAXExP)
+16. [JavaScript Chalange 5 Days](https://youtube.com/playlist?list=PL-J2q3Ga50oNQP__onO64kAHX_z0BdLv6)
 
 ### Build Chrome Extension
 
