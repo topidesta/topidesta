@@ -24,6 +24,7 @@ const config = {
   // Use for comment
   lazyLoadComments: true,
   disqusShortname: 'topidesta-dev', // Disqus shortname.
+  komentar: 'topidesta/topidesta', // Disqus shortname.
   btnLoadComments: 'Lihat Komentar',
   // Use for home page
   numberLoadmore: 6,
