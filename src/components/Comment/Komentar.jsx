@@ -17,15 +17,15 @@ const Komentar = () => {
     }
 
 	// this query is for retrieving the repo name from gatsby-config
-	const data = useStaticQuery(graphql`
-		query RepoQuery {
-			site {
-				siteMetadata {
-					repo
-				}
-			}
-		}
-	`);
+	// const data = useStaticQuery(graphql`
+	// 	query RepoQuery {
+	// 		site {
+	// 			siteMetadata {
+	// 				repo
+	// 			}
+	// 		}
+	// 	}
+	// `);
 
     if (!config.komentar) {
       return null
