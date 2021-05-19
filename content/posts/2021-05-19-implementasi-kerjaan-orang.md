@@ -2,7 +2,7 @@
 template: 'post'
 title: Project Orang Gw Kerjain!
 cover: '../images/script-nulled.png'
-date: '2021-04-19T04:00:00Z'
+date: '2021-05-19T04:00:00Z'
 slug: 'project-orang-gw-kerjain'
 keywords: 'Project Orang Gw Kerjain!'
 categories:
