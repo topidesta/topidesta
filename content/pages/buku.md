@@ -16,6 +16,10 @@ slug: 'buku'
 7. [Java Script Everywhere (Web-Desktop-App)](https://topidesta.files.wordpress.com/2020/05/javascript-everywhere.pdf)
 8. [ES5 to ESNext](https://topidesta.files.wordpress.com/2020/05/es5-to-esnext.pdf)
 
+## CSS
+
+1. [Learn CSS!](https://web.dev/learn/css/animations/)
+
 ## Deno
 
 1. [Deno Handbook](https://topidesta.files.wordpress.com/2020/05/deno-handbook.pdf)
