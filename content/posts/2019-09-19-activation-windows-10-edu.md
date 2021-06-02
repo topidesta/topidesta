@@ -1,20 +1,20 @@
 ---
-template: "post"
+template: 'post'
 title: Activation Windows 10 Edu dengan KMS Server
-cover: "../images/windows10.png"
-date: "2019-09-19T11:00:00Z"
-slug: "activation-windows-10-edu-dengan-kms-server"
-keywords: "Activation Windows 10 Edu dengan KMS Server"
-categories: 
-    - trick 
+cover: '../images/windows10.png'
+date: '2019-09-19T11:00:00Z'
+slug: 'activation-windows-10-edu-dengan-kms-server'
+keywords: 'Activation Windows 10 Edu dengan KMS Server'
+categories:
+  - trick
 tags:
-    - windows
-    - hacker
+  - windows
+  - hacker
 ---
 
-### Bismillah 
+### Bismillah
 
-Sebetulnya ini catetan pribadi aja yah ... karena lagi belajar *GoLang* dan iseng cari tau apa itu *Docker*  pas lagi install, lah ternyata minimum required itu "windows pro, education dan enterprise" sedangkan komputer kantor, pake lisensi home edition 😩 
+Sebetulnya ini catetan pribadi aja yah ... karena lagi belajar _GoLang_ dan iseng cari tau apa itu _Docker_ pas lagi install, lah ternyata minimum required itu "windows pro, education dan enterprise" sedangkan komputer kantor, pake lisensi home edition 😩
 
 Akhirnya dipake deh, lisensi windows education gw (didapat dengan cara mendaftar di Universitas di Luar Negeri, ada banyak tutorialnya, ini cara Legal dan semoga berkah ... aamiin 😏), ternyata aktivasi gagal karena mendeteksi Hardware dengan Lisensi berbeda, maklum, lisensi sebelumnya itu **Home Retailer** karena gw pengen install itu docker, akhirnya terdampar dibeberapa vlog dan blog, kurang lebih isinya seperti dibawah ini:
 
@@ -39,7 +39,7 @@ if %i%==1 set KMS_Sev=kms.shuax.com
 if %i%==2 set KMS_Sev=NextLevel.uk.to
 if %i%==3 set KMS_Sev=GuangPeng.uk.to
 if %i%==4 set KMS_Sev=AlwaysSmile.uk.to
-if %i%==5 set KMS_Sev=kms.chinancce.com 
+if %i%==5 set KMS_Sev=kms.chinancce.com
 if %i%==6 exit
 cscript //nologo c:\windows\system32\slmgr.vbs /skms %KMS_Sev% >nul
 cscript //nologo c:\windows\system32\slmgr.vbs /ato | find /i "successfully" && (echo.& echo ************************************ & echo. & choice /n /c YN /m "Do you want to restart your PC now [Y,N]?" & if errorlevel 2 exit) || (echo The connection to the server failed! Trying to connect to another one... & echo Please wait... & echo. & echo. & set /a i+=1 & goto server)
@@ -70,6 +70,7 @@ pause >nul
 Berdasarkan informasi yang gw dapet key diatas adalah key evaluate (180 hari), jadi nanti kudu generate ulang lagi, dan itu key **ORIGINAL** alias bukan bajakan, kenapa karena kita aktivasi langsung ke server KMS Microsoft melalui server yang ada di script diatas.
 
 kalo gw pake yang ini:
+
 ```bash
 @echo off
 title Windows 10 ALL version activator&cls&echo ************************************&echo Supported products:&echo - Windows 10 Home&echo - Windows 10 Professional&echo - Windows 10 Enterprise, Enterprise LTSB&echo - Windows 10 Education&echo.&echo.&echo ************************************ &echo Windows 10 activation...
@@ -80,7 +81,7 @@ if %i%==1 set KMS_Sev=kms.shuax.com
 if %i%==2 set KMS_Sev=NextLevel.uk.to
 if %i%==3 set KMS_Sev=GuangPeng.uk.to
 if %i%==4 set KMS_Sev=AlwaysSmile.uk.to
-if %i%==5 set KMS_Sev=kms.chinancce.com 
+if %i%==5 set KMS_Sev=kms.chinancce.com
 if %i%==6 exit
 cscript //nologo c:\windows\system32\slmgr.vbs /skms %KMS_Sev% >nul
 cscript //nologo c:\windows\system32\slmgr.vbs /ato | find /i "successfully" && (echo.& echo ************************************ & echo. & choice /n /c YN /m "Do you want to restart your PC now [Y,N]?" & if errorlevel 2 exit) || (echo The connection to the server failed! Trying to connect to another one... & echo Please wait... & echo. & echo. & set /a i+=1 & goto server)
@@ -88,17 +89,17 @@ shutdown.exe /r /t 00
 ```
 
 `*` **CARA PAKAI**
-1. Copy & Paste Script diatas, simpan dengan nama *activator.txt*
-2. Simpan dengan nama *activator.cmd*
-3. Klik kanan *run as administrator*
+
+1. Copy & Paste Script diatas, simpan dengan nama _activator.txt_
+2. Simpan dengan nama _activator.cmd_
+3. Klik kanan _run as administrator_
 4. Selesai.
 
-dan sekarang lisensi ada 2 dikomputer gw, **home retailer** dan **education**  hehe, dan bisa install Docker untuk belajar.
+dan sekarang lisensi ada 2 dikomputer gw, **home retailer** dan **education** hehe, dan bisa install Docker untuk belajar.
 
 Have a nice Day!!
 
-source: 
-* http://go.topidesta-dev.me/TcYCv2
-* http://go.topidesta-dev.me/qrjGJI
-* http://go.topidesta-dev.me/5SVB3N
-* http://go.topidesta-dev.me/OiyBGz
+source:
+
+- http://go.topidesta.my.id/activate-win10-service
+- http://go.topidesta.my.id/microsoft-free
