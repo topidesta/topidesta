@@ -9,7 +9,7 @@ topidesta.my.id rumah baru dari blog <a href="https://topidesta.my.id/" target="
 
 Beberapa teknologi pengembangan website sederhana ini:
 
-1. [EXABYTES](https://kutt.it/uF3WcK) ~ED: 15/04/2027 ```js var aYearFromNow = new Date(); aYearFromNow.setFullYear(aYearFromNow.getFullYear() + 1); ```
+1. [EXABYTES](https://kutt.it/uF3WcK) ~ED: 15/04/2027
 2. [GITHUB](https://kutt.it/github)
 3. [NETLIFY](https://kutt.it/netlify)
 4. [GATSBYJS](https://kutt.it/gatsbyjs)
