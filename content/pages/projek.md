@@ -18,6 +18,7 @@ slug: 'projek'
 ## Aplikasi Kloningan
 
 1. Grab
+2. News App - inshorts
 
 ## Workspace
 
