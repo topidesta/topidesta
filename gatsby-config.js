@@ -50,6 +50,15 @@ module.exports = {
             }
           },
           {
+            resolve: `gatsby-remark-images-medium-zoom`, // Important!
+            options: {
+              background: '#fff',
+              margin: 36,
+              scrollOffset: 0,
+              includedSelector: 'gatsby-resp-image-image'
+            }
+          },
+          {
             resolve: 'gatsby-remark-embed-video',
             options: {
               width: 660,
