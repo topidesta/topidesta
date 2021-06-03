@@ -15,6 +15,10 @@ slug: 'projek'
 2. [Easy ABCD](https://github.com/amati-tiru-modifikasi/easy-abc)
 3. [PassLess Login](https://github.com/amati-tiru-modifikasi/passlessreact)
 
+## Aplikasi Kloningan
+
+1. Grab
+
 ## Workspace
 
 1. [MovieMovie ATM](https://github.com/topidesta/moviemovie)
