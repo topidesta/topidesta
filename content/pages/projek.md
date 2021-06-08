@@ -37,3 +37,4 @@ slug: 'projek'
 2. [Pencarian Dokter](https://dokter.netlify.app/)
 3. [Lowongan Pekerjaan](https://lowonganpekerjaan.netlify.app/)
 4. [Permintaan Darah](https://bankdarah.netlify.app/)
+5. [Landing Pendaftaran](https://landingpendaftaran.netlify.app/)
