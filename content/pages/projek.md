@@ -7,7 +7,7 @@ slug: 'projek'
 
 ## Translate
 
-1. [30 Hari Belajar React](https://github.com/topidesta/30hari) 
+1. [30 Hari Belajar React](https://github.com/topidesta/30hari)
 
 ## ATM (Amati-Tiru-Modifikasi)
 
@@ -31,10 +31,11 @@ slug: 'projek'
 7. [React Native Express](https://github.com/topidesta/ReactNativeExpress)
 8. [GatsbyJS Blog](https://github.com/topidesta/gatsbyjs)
 
-## Running App
+## Aplikasi Publik
 
-1. [Donatur Hibah Covid 19](https://hibahcovid19.netlify.app/)
-2. [Pencarian Dokter](https://dokter.netlify.app/)
-3. [Lowongan Pekerjaan](https://lowonganpekerjaan.netlify.app/)
+1. [Donatur Hibah Covid 19](https://hibahcovid19.netlify.app/) ✔️
+2. [Pencarian Dokter](https://dokter.netlify.app/) ✔️
+3. [Lowongan Pekerjaan](https://lowonganpekerjaan.netlify.app/) ✔️
 4. [Permintaan Darah](https://bankdarah.netlify.app/)
-5. [Landing Pendaftaran](https://landingpendaftaran.netlify.app/)
+5. [Landing Pendaftaran](https://landingpendaftaran.netlify.app/) ✔️
+6. [E-Office/ Persuratan](https://eoffice.netlify.app/)
