@@ -14,11 +14,7 @@ tags:
 
 Bismillah
 
-Tulisan ini disadur dari halaman ini:
-
-```bash
-https://forum.backdropcms.org/forum-topic/how-reset-admin-password
-```
+Tulisan ini pengalaman gw karena lupa password di localhost (development) backdropCMS.
 
 Berikut ini langkah Ribet, karena kalo ubah dari database langsung, tidak akan bekerja, ini dilakukan jika reset-password tidak berfungsi ya, langsung saja.
 
