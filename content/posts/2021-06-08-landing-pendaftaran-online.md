@@ -19,25 +19,26 @@ Sekedar mau share hasil [ATM (Amati-Tiru-Modifikasi)](projek) yang diadaptasi da
 
 ![Landing Pendaftaran](../images/landingpendaftaran.png)
 
-> Untuk review dari Google Speed, ini untuk landing-page versi Pertama: [42](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.rsuppersahabatan.co.id%2Fpendaftaran)
+> Untuk review dari Google Speed, ini untuk landing-page versi Pertama: [48](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.rsuppersahabatan.co.id%2Fpendaftaran)
 
 ![Landing Pendaftaran Pertama](../images/landingpage-pertama.png)
-
 
 > Untuk review dari Google Speed, ini untuk landing-page versi Kedua: [92](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Flandingpendaftaran.netlify.app%2F)
 
 ![Landing Pendaftaran Kedua](../images/landingpage-kedua.png)
 
+![Login Admin NetlifyCMS](../images/netlifycms-login.png)
+
+![Dashboard Admin NetlifyCMS](../images/netlifycms-dashboard.png)
 
 Kenapa harus diubah? beberapa kelebihannya diantaranya:
 
 1. Waktu Load Data Kecil
-2. Data Bersifat Dinamis
+2. Penambahan Data Mudah (Menggunakan NetlifyCMS)
 
 Udah Segitu ajah, dan sesederhana itu, kalo mau cek silahkan ke halaman ini:
 
 `https://landingpendaftaran.netlify.app/`
-
 
 Beberapa stack yang gw pake, dan ini bukan orisinil gw, inget konsep bekerja dan belajar gw itu ATM (Amati-Tiru-Modifikasi), jangan heran yoo...
 
