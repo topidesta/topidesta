@@ -37,6 +37,8 @@ slug: 'buku'
 9. [Full Stack React Native - 2017](https://topidesta.files.wordpress.com/2020/08/fullstack-react-native-the-complete-guide-to-react-native-by-devin-abbot-houssein-djirdeh-anthony-accomazzo-and-sophia-shoemaker-z-lib.org_.pdf)
 10. [Full Stack ReactJS - 2017](https://topidesta.files.wordpress.com/2020/08/fullstack-react-book-r36.pdf)
 11. [React Native Ekspress](http://www.reactnativeexpress.com/)
+12. [Using GatsbyJS and NetlifyCMS 2020](https://topidesta.files.wordpress.com/2021/07/using-gatsby-netlify-cms-jamstack.pdf)
+
 
 ## React Tutorial
 
@@ -47,6 +49,7 @@ slug: 'buku'
 1. [PHP for Teens](https://topidesta.files.wordpress.com/2014/08/php-for-teens.pdf)
 2. [Sepekan Belajar Laravel](https://topidesta.files.wordpress.com/2017/11/kupdf-com_seminggu-belajar-laravel.pdf)
 3. [Pemograman PHP dan Mysql](https://topidesta.files.wordpress.com/2014/08/pemrograman-web-dengan-php-mysql-achmatim.pdf)
+4. [Begining BackdropCMS](https://topidesta.files.wordpress.com/2021/07/beginning-backdrop-cms.pdf)
 
 ## Python
 
