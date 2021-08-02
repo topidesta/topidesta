@@ -35,8 +35,7 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 1. [Learn Javascript For Beginners](https://www.udemy.com/share/101WeoAEIbdVZbTXo=/) **Certificate Avaliable**
 2. [The Complete Full-Stack JavaScript Course!](https://www.udemy.com/share/101rwKAEIbdVZbTXo=/)
 3. [Javascript DOM dynamic WEB](https://www.udemy.com/share/101XiEAEIbdVZbTXo=/)
-4. [Create Browser Extension with Javascript](https://www.udemy.com/share/102wMIAEIbdVZbTXo=/)
-5. [Chrome Extension For Beginners](https://www.udemy.com/share/1040aQAEIbdVZbTXo=/)
+
 
 ### React Class
 
@@ -161,8 +160,9 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 2. [Chrome Extenstion Variations Trick](https://www.youtube.com/playlist?list=PLxOYpovHh6IR6HZT-Uius7vCPLqAiM1c2)
 3. [Firebase Chrome Extenstion](https://www.youtube.com/playlist?list=PLxOYpovHh6IRajrwXmm4rrTFCfUHEAmIr)
 4. [Freecourse - Build Tab Note with Chrome Extensions](https://www.youtube.com/watch?v=lU8xHOqlTWU)
-5. [Start Coding Extenstion using Javascript!](https://www.udemy.com/share/102wD62@PW5gV0tKcFQPc0JKC3pxVD5H/)
-
+5. [Start Coding Extenstion using Javascript!](https://www.udemy.com/share/102wMIAEIbdVZbTXo=/)
+6. [Chrome Extension For Beginners](https://www.udemy.com/share/1040aQAEIbdVZbTXo=/)
+7. [Google Chrome Extension Development From Beginning](https://www.udemy.com/share/101y1Q2@PW5gVGJKcFQPc0JKC3pxVD1u/)
 
 ## Others
 
