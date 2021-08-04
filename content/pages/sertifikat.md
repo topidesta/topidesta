@@ -13,10 +13,7 @@ Berikut ini beberapa Pelatihan Online yang udah gw Ikutin, diantaranya.
 
 1. http://ude.my/UC-06d4760b-0edc-456e-9bfe-f288da4733e6 (React basis For Beginners)
 2. http://ude.my/UC-c4c6622c-a8a9-434f-91fd-f7f1ab32794d (React Hooks and Context)
-
-## Lynda.com
-
-1. -
+3. http://ude.my/UC-02938034-bf65-4a86-ab22-28fd861c2444 (Start Coding Browser Extenstion Using Javascript)
 
 
 source: DATA-UDEMY-SERTIFIKAT
