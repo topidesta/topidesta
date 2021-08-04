@@ -2,7 +2,7 @@
 template: 'post'
 title: 10 Aplikasi Sederhana Javascript
 cover: '../images/sepuluh-project-js.png'
-date: '2021-06-30T10:00:00Z'
+date: '2021-08-04T10:00:00Z'
 slug: '10-aplikasi-sederhana-javascript'
 keywords: '10 Aplikasi Sederhana Javascript'
 categories:
