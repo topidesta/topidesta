@@ -17,7 +17,7 @@ slug: 'projek'
 
 ## Aplikasi Kloningan
 
-[Go Here for Updated](project-kloningan-dari-youtube)
+🔖[Go Here for Updated](project-kloningan-dari-youtube)
 
 ## Workspace
 
