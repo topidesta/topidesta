@@ -17,8 +17,7 @@ slug: 'projek'
 
 ## Aplikasi Kloningan
 
-1. Grab
-2. News App - inshorts
+[Go Here for Updated](project-kloningan-dari-youtube)
 
 ## Workspace
 
