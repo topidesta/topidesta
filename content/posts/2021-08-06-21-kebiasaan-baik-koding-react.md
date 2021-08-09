@@ -17,41 +17,40 @@ Bismillah
 Entah kadang "Kebiasan Buruk" selalu terulang karena kita jarang membaca Updatenyah hehe, berikut ini 21 kebiasan yang diantarnya pernah gw alami.
 Langsung ajah berikut ini 21 Kebiasan Programmer ReactJS, terutama gw sendiri hehe.
 
-1. Gunakan JSX 
+1. Gunakan JSX
+
 ```javascript
 // Bad
-return (
-  <Navbar showTitle={true} />
-);
+return <Navbar showTitle={true} />
+
 // Good
-return(
-  <Navbar showTitle />  
-)
+return <Navbar showTitle />
 ```
 
 2. Gunakan Logika Ternary
+
 ```javascript
 // Bad
-const { role } = user;
+const { role } = user
 
-if(role === ADMIN) {
+if (role === ADMIN) {
   return <AdminUser />
-}else{
+} else {
   return <NormalUser />
 }
 
 // Good
-const { role } = user;
-
+const { role } = user
 return role === ADMIN ? <AdminUser /> : <NormalUser />
 ```
 
 3. Manfaatkan Object Literal
+
 ```javascript
 // Bad
-const {role} = user
+const { role } = user
 
-switch(role){
+switch (role) {
   case ADMIN:
     return <AdminUser />
   case EMPLOYEE:
@@ -61,21 +60,57 @@ switch(role){
 }
 
 // Good
-const {role} = user
+const { role } = user
 
 const components = {
   ADMIN: AdminUser,
   EMPLOYEE: EmployeeUser,
-  USER: NormalUser
-};
+  USER: NormalUser,
+}
 
-const Component = components[role];
-
-return <Componenent />;
+const Component = components[role]
+return <Componenent />
 ```
 
-todo...
+4. Gunakan Fragments
 
-hehe
+```javascript
+// Bad
+return (
+  <div>
+    <Component1 />
+    <Component2 />
+    <Component3 />
+  </div>
+)
 
-source: https://betterprogramming.pub/21-best-practices-for-a-clean-react-project-df788a682fb
+// Good
+return (
+  <>
+    <Component1 />
+    <Component2 />
+    <Component3 />
+  </>
+)
+```
+
+5. Tidak membuat sebuah Function di dalam Render
+
+```javascript
+// Bad
+return (
+  <button onClick={() => dispatch(ACTION_TO_SEND_DATA)}>
+    {' '}
+    // NOTICE HERE This is a bad example
+  </button>
+)
+
+// Good
+const submitData = () => dispatch(ACTION_TO_SEND_DATA)
+
+return <button onClick={submitData}>This is a good example</button>
+```
+
+Todo ....
+
+source: http://go.topidesta.my.id/21-best-practice-reactjs

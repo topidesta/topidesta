@@ -9,15 +9,13 @@ slug: 'projek'
 
 1. [30 Hari Belajar React](https://github.com/topidesta/30hari)
 
-## ATM (Amati-Tiru-Modifikasi)
+## Aplikasi (Amati-Tiru-Modifikasi) dari Udemy
 
-1. [Instagram Clone](https://github.com/amati-tiru-modifikasi/instaclone)
-2. [Easy ABCD](https://github.com/amati-tiru-modifikasi/easy-abc)
-3. [PassLess Login](https://github.com/amati-tiru-modifikasi/passlessreact)
+🔖[Klik untuk Kloningan dari Udemy](project-kloningan-dari-udemy)
 
-## Aplikasi Kloningan
+## Aplikasi Kloningan (ATM) dari Youtube
 
-🔖[Go Here for Updated](project-kloningan-dari-youtube)
+🔖[Klik untuk Kloningan dari Youtube](project-kloningan-dari-youtube)
 
 ## Workspace
 
