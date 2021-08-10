@@ -23,10 +23,11 @@ http://go.topidesta.my.id/video-belajar
 
 Berikut ini daftar Aplikasi yang dibuat dengan teknologi React:
 
-| No  |  Nama Aplikasi  | Source Udemy | Source Git | Status |
-| :-: | :-------------: | :----------: | :--------: | :----: |
-|  1  | Instagram Clone |      -       |     -      |   -    |
-|  2  |  Youtube Clone  |      -       |     -      |   -    |
+| No  |  Nama Aplikasi  |                               Source Udemy                                | Source Git | Status |
+| :-: | :-------------: | :-----------------------------------------------------------------------: | :--------: | :----: |
+|  1  | Instagram Clone |                                     -                                     |     -      |   -    |
+|  2  |  Youtube Clone  | [Link](https://www.udemy.com/share/1049fI2@FEdjfUtKc1QPc0JKC3pxfT1uYFc=/) |     -      |   -    |
+|  3  | Evernote Clone  | [Link](https://www.udemy.com/share/1031e02@PkdKfWFjcFQPc0JKC3pxVBRuY31h/) |     -      |   -    |
 
 Ada banyak, nanti update akan gw tulis dipostingan ini juga, untuk sourcecode bisa direpositori [Amati-Tiru-Modifikasi](https://github.com/amati-tiru-modifikasi).
 

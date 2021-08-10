@@ -111,6 +111,125 @@ const submitData = () => dispatch(ACTION_TO_SEND_DATA)
 return <button onClick={submitData}>This is a good example</button>
 ```
 
+6. Gunakan Memo
+
+```javascript
+// Bad
+import React, { useState } from 'react'
+
+export const TestMemo = () => {
+  const [userName, setUserName] = useState('faisal')
+  const [count, setCount] = useState(0)
+
+  const increment = () => setCount(count => count + 1)
+
+  return (
+    <>
+      <ChildrenComponent userName={userName} />
+      <button onClick={increment}> Increment </button>
+    </>
+  )
+}
+
+const ChildrenComponent = ({ userName }) => {
+  console.log('rendered', userName)
+  return <div> {userName} </div>
+}
+// Good
+import React, { useState } from 'react'
+
+const ChildrenComponent = React.memo(({ userName }) => {
+  console.log('rendered')
+  return <div> {userName}</div>
+})
+```
+
+7. Gunakan Tag Javascript untuk CSS
+
+```javascript
+// Bad
+.body {
+  height: 10px;
+}
+return <div className='body'></div>
+
+// Good
+const bodyStyle = {
+  height: "10px"
+}
+
+return <div style={bodyStyle}></div>
+```
+
+8. Gunakan Object Destructure
+
+```javascript
+// Bad
+return (
+  <>
+    <div> {user.name} </div>
+    <div> {user.age} </div>
+    <div> {user.profession} </div>
+  </>
+)
+
+// Good
+const { name, age, profession } = user
+
+return (
+  <>
+    <div> {name} </div>
+    <div> {age} </div>
+    <div> {profession} </div>
+  </>
+)
+```
+
+9. String Tidak Perlu Kurung Kurawal
+
+```javascript
+// Bad
+return <Navbar title={'My Special App'} />
+
+// Good
+return <Navbar title="My Special App" />
+```
+
+10. Jangan Gunakan kode JS di JSX
+
+```javascript
+// Bad
+return (
+  <ul>
+    {posts.map(post => (
+      <li
+        onClick={event => {
+          console.log(event.target, 'clicked!') // <- THIS IS BAD
+        }}
+        key={post.id}
+      >
+        {post.title}
+      </li>
+    ))}
+  </ul>
+)
+
+// Good
+const onClickHandler = event => {
+  console.log(event.target, 'clicked!')
+}
+
+return (
+  <ul>
+    {posts.map(post => (
+      <li onClick={onClickHandler} key={post.id}>
+        {post.title}
+      </li>
+    ))}
+  </ul>
+)
+```
+
 Todo ....
 
 source: http://go.topidesta.my.id/21-best-practice-reactjs
