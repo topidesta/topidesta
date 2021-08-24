@@ -16,6 +16,10 @@ Bismillah
 
 Mau share mockup, sebetulnya sudah jadi hasil mockupnya sekitar (70%) cuman nanti gw share lewat vidio ya, karena aplikasinya bersifat private (hanya untuk kalangan sendiri, kalo tertarik silahkan PM) sekarang gw mau share mockup/ design sederhana nyah dulu, yang bersifat web base.
 
+### Landingpage Login 
+
+![Landing Page Surat](../images/landing-page-surat.png)
+
 ### Form Login (dengan NIP)
 
 ![Login](../images/LOGIN.png)
