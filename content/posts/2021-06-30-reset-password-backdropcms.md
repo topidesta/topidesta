@@ -10,6 +10,7 @@ categories:
 tags:
   - drupal7
   - backdropcms
+  - kantor
 ---
 
 Bismillah

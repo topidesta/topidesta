@@ -9,6 +9,7 @@ categories:
   - relax
 tags:
   - hacker
+  - kantor
 ---
 
 ## bismillah

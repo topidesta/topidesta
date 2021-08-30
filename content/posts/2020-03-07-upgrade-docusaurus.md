@@ -10,6 +10,7 @@ categories:
 tags:
   - react
   - docusaurus
+  - kantor
 ---
 
 ## bismillah

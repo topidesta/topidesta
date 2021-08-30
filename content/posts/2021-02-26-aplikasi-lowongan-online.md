@@ -9,7 +9,7 @@ categories:
   - belajar
 tags:
   - react
-  - lowongan
+  - kantor
 ---
 
 Bismillah

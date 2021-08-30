@@ -11,6 +11,7 @@ tags:
   - react
   - parcel
   - atm
+  - kantor
 ---
 
 ## bismillah

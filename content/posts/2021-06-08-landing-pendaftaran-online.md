@@ -11,6 +11,7 @@ tags:
   - react
   - gatsbyjs
   - landing
+  - kantor
 ---
 
 Bismillah
