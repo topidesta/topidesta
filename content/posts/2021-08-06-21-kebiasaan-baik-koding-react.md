@@ -230,6 +230,56 @@ return (
 )
 ```
 
+11. Gunakan Template Literal
+
+```javascript
+// Bad
+const userDetails = user.name + "'s profession is" + user.proffession
+
+return <div> {userDetails} </div>
+
+// Good
+const userDetails = `${user.name}'s profession is ${user.proffession}`
+
+return <div> {userDetails} </div>
+```
+
+12. Import sesuaikan Urutan
+
+```javascript
+// Bad
+import React from 'react'
+import ErrorImg from '../../assets/images/error.png'
+import styled from 'styled-components/native'
+import colors from '../../styles/colors'
+import { PropTypes } from 'prop-types'
+
+// Good
+
+//Built-in
+import React from 'react'
+
+// Internal/ Komponent
+import { PropTypes } from 'prop-types'
+import styled from 'styled-components/native'
+
+// Eksternal/ Assets
+import ErrorImg from '../../assets/images/error.png'
+import colors from '../../styles/colors'
+```
+
+13. Gunakan **implicit** returnya
+
+```javascript
+// Bad
+const add = (a, b) => {
+  return a + b
+}
+
+// Good
+const add = (a, b) => a + b
+```
+
 Todo ....
 
 source: http://go.topidesta.my.id/21-best-practice-reactjs
