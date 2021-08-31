@@ -18,18 +18,18 @@ Langsung ajah yah, ini dari Udemy, Judul Aselinya sih **10 Project dibuat kurang
 
 Lanjut, untuk daftar project aplikasinya gw langsung kasih tau aja yah, ini dia:
 
-| No  |   Nama Aplikasi   |  Status  |                                                 Github                                                 |
-| :-: | :---------------: | :------: | :----------------------------------------------------------------------------------------------------: |
-|  1  |       Quiz        |    -     |                                                                                                        |
-|  2  |       Todo        |    -     |                                                                                                        |
-|  3  |    Calculator     |    -     |                                                                                                        |
-|  4  |   Digital Clock   |    -     |                                                                                                        |
-|  5  |  Countdown Timer  | Progress | [Link](https://github.com/amati-tiru-modifikasi/10-aplikasi-sederhana-javascript/tree/countdown-clock) |
-|  6  |  Loan Calculator  |    -     |                                                                                                        |
-|  7  |   Analag Clock    |    -     |                                                                                                        |
-|  8  |  BMI Calculator   |    -     |                                                                                                        |
-|  9  | Height Conversion |    -     |                                                                                                        |
-| 10  |    Word Count     |    -     |                                                                                                        |
+| No  |   Nama Aplikasi   | Status |                                                 Github                                                 |
+| :-: | :---------------: | :----: | :----------------------------------------------------------------------------------------------------: |
+|  1  |       Quiz        |   -    |                                                                                                        |
+|  2  |       Todo        |   -    |                                                                                                        |
+|  3  |    Calculator     |   -    |                                                                                                        |
+|  4  |   Digital Clock   |   -    |                                                                                                        |
+|  5  |  Countdown Timer  |  Done  | [Link](https://github.com/amati-tiru-modifikasi/10-aplikasi-sederhana-javascript/tree/countdown-clock) |
+|  6  |  Loan Calculator  |   -    |                                                                                                        |
+|  7  |   Analag Clock    |   -    |                                                                                                        |
+|  8  |  BMI Calculator   |   -    |                                                                                                        |
+|  9  | Height Conversion |   -    |                                                                                                        |
+| 10  |    Word Count     |   -    |                                                                                                        |
 
 Memang terlihat sederhana, tapi sejujurnya gw sendiri lagi mempertajam dan membiasakan diri dengan Javascript, karena kedepannya gw harus terbiasa dengan belajar Typescript (karena belajar ReactJS).
 

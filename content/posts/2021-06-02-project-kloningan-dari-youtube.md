@@ -29,26 +29,26 @@ Rencananya (insyaAllah) gw jg mau buat postingan tulisan tentang Aplikasi yang b
 
 Berikut ini daftar Aplikasi yang dibuat dengan teknologi React:
 
-| No  |     Nama Aplikasi      | Source Yt |                            Source Git                            | Status |
-| :-: | :--------------------: | :-------: | :--------------------------------------------------------------: | :----: |
-|  1  |         Gmail          |     -     |                                -                                 |   -    |
-|  2  |        Twitter         |     -     |                                -                                 |   -    |
-|  3  |        WhatsApp        |     -     |                                -                                 |   -    |
-|  4  |         Signal         |     -     |                                -                                 |   -    |
-|  5  |        Telegram        |     -     |                                -                                 |   -    |
-|  6  |       Instagram        |     -     |                                -                                 |   -    |
-|  7  |         TikTok         |     -     |                                -                                 |   -    |
-|  8  |          Uber          |     -     |                                -                                 |   -    |
-|  9  |          Grab          |     -     |                                -                                 |   -    |
-| 10  |        News App        |     -     |                                -                                 |   -    |
-| 11  |        Quiz App        |     -     |                                -                                 |   -    |
-| 12  |        Youtube         |     -     |                                -                                 |   -    |
-| 13  |        ChatApp         |     -     |                                -                                 |   -    |
-| 14  |      Online Shop       |     -     |                                -                                 |   -    |
-| 15  | CRA (Create-React-App) |     -     |                                -                                 |   -    |
-| 16  |       Dictionary       |     -     |                                -                                 |   -    |
-| 17  |    Millionare Quiz     |     -     |                                -                                 |   -    |
-| 18  |     PassLess Login     |     -     | [Source](https://github.com/amati-tiru-modifikasi/passlessreact) |   -    |
+| No  |     Nama Aplikasi      | Source Yt |                            Source Git                            |  Status  |
+| :-: | :--------------------: | :-------: | :--------------------------------------------------------------: | :------: |
+|  1  |         Gmail          |     -     |                                -                                 |    -     |
+|  2  |        Twitter         |     -     |                                -                                 |    -     |
+|  3  |        WhatsApp        |     -     |                                -                                 |    -     |
+|  4  |         Signal         |     -     |                                -                                 |    -     |
+|  5  |        Telegram        |     -     |                                -                                 |    -     |
+|  6  |       Instagram        |     -     |                                -                                 |    -     |
+|  7  |         TikTok         |     -     |                                -                                 |    -     |
+|  8  |          Uber          |     -     |                                -                                 |    -     |
+|  9  |          Grab          |     -     |                                -                                 |    -     |
+| 10  |        News App        |     -     |                                -                                 |    -     |
+| 11  |        Quiz App        |     -     |                                -                                 |    -     |
+| 12  |        Youtube         |     -     |                                -                                 |    -     |
+| 13  |        ChatApp         |     -     |                                -                                 |    -     |
+| 14  |      Online Shop       |     -     |                                -                                 |    -     |
+| 15  | CRA (Create-React-App) |     -     |                                -                                 |    -     |
+| 16  |       Dictionary       |     -     |                                -                                 |    -     |
+| 17  |    Millionare Quiz     |     -     |                                -                                 |    -     |
+| 18  |     PassLess Login     |     -     | [Source](https://github.com/amati-tiru-modifikasi/passlessreact) | Progress |
 
 Ada banyak, nanti update akan gw tulis dipostingan ini juga, untuk sourcecode bisa direpositori [Amati-Tiru-Modifikasi](https://github.com/amati-tiru-modifikasi).
 
