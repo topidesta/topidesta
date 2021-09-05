@@ -26,6 +26,14 @@ const config = {
   disqusShortname: 'topidesta-dev', // Disqus shortname.
   komentar: 'topidesta/topidesta', // Disqus shortname.
   btnLoadComments: 'Lihat Komentar',
+  //giscus
+  repo="A-GG/a-gg.github.io",
+  repoId="MDEwOlJlcG9zaXRvcnkyODg3MTA5NjA=",
+  category="Announcements",
+  categoryId="MDE4OkRpc2N1c3Npb25DYXRlZ29yeTMzMDE1OTcy",
+  mapping="og:title",
+  theme="light",
+  reactionsEnabled="1",
   // Use for home page
   numberLoadmore: 6,
   btnLoadmore: 'Halaman selanjutnya ..',
