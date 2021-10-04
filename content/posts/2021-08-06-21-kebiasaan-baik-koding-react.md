@@ -280,6 +280,113 @@ const add = (a, b) => {
 const add = (a, b) => a + b
 ```
 
-Todo ....
+14. Penamaan Komponen dengan PascalCase
+
+```javascript
+// Bad
+import reservationCard from './ReservationCard';
+
+const ReservationItem = <ReservationCard />;
+
+// Good
+import ReservationCard from './ReservationCard';
+
+const reservationItem = <ReservationCard />;
+```
+
+15. Jangan Gunakan Propertis yang digunakan DOM
+
+```javascript
+// Bad
+<MyComponent style="dark" />
+
+<MyComponent className="dark" />
+
+// Good
+<MyComponent variant="fancy" />
+```
+
+16. Selalu Gunakan Double Qoutes 
+
+```javascript
+// Bad
+<Foo bar='bar' />
+
+<Foo style={{ left: "20px" }} />
+
+// Good
+<Foo bar="bar" />
+
+<Foo style={{ left: '20px' }} />
+```
+
+17. Penamaan Prop dengan camelCase 
+
+```javascript
+// Bad
+<Component
+  UserName="hello"
+  phone_number={12345678}
+/>
+
+// Good
+<MyComponent
+  userName="hello"
+  phoneNumber={12345678}
+  Component={SomeComponent}
+/>
+```
+
+18. Selalu Wrap setelah Tutup Kurung Return
+
+```javascript
+// Bad
+return <MyComponent variant="long">
+           <MyChild />
+         </MyComponent>;
+
+// Good
+return (
+    <MyComponent variant="long">
+      <MyChild />
+    </MyComponent>
+);
+```
+
+19. Closing Tag di Tempat yang Sama
+
+```javascript
+// Bad
+<SomeComponent variant="stuff"></SomeComponent>
+
+// Good
+<SomeComponent variant="stuff" />
+```
+
+20. Jangan Gunakan _Underscore di Method
+
+```javascript
+// Bad
+const _onClickHandler = () => {
+  // do stuff
+}
+
+// Good
+const onClickHandler = () => {
+  // do stuff
+}
+```
+
+21. Selalu gunakan Prop "alt" di Gambar
+
+```javascript
+// Bad
+<img src="hello.jpg" />
+
+// Good
+<img src="hello.jpg" alt="Me waving hello" />
+```
+
+Have a nice day!
 
 source: http://go.topidesta.my.id/21-best-practice-reactjs
