@@ -20,4 +20,6 @@ Tulisan blog ini gak jauh beda dengan blog sebelumnya di wordpress dan konten da
 
 Ada beberapa aplikasi yang udah gw release menggunakan ReactJS, klik ke [Halaman Project](projek) untuk lebih detail.
 
+[![wakatime](https://wakatime.com/badge/user/68c213cd-13a4-4383-895c-d9fa85106cb4/project/3e98dcc8-8894-4509-96c8-a8d6a4e68fd4.svg)](https://wakatime.com/badge/user/68c213cd-13a4-4383-895c-d9fa85106cb4/project/3e98dcc8-8894-4509-96c8-a8d6a4e68fd4)
+
 > Akhir kata, happy coding!
