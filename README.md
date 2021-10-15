@@ -1,6 +1,6 @@
 # TOPIDESTA BLOG
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3aaf1d50-9df4-4af9-9997-f3278c59633b/deploy-status)](https://app.netlify.com/sites/topidesta/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3aaf1d50-9df4-4af9-9997-f3278c59633b/deploy-status)](https://app.netlify.com/sites/topidesta/deploys) [![wakatime](https://wakatime.com/badge/user/68c213cd-13a4-4383-895c-d9fa85106cb4/project/3e98dcc8-8894-4509-96c8-a8d6a4e68fd4.svg)](https://wakatime.com/badge/user/68c213cd-13a4-4383-895c-d9fa85106cb4/project/3e98dcc8-8894-4509-96c8-a8d6a4e68fd4)
 
 ## Installation
 
