@@ -1,7 +1,7 @@
 ---
 template: 'post'
 title: Project Kloningan dari Dev atau Medium
-cover: '../images/you-tube.png'
+cover: '../images/md.png'
 date: '2021-10-15T14:00:00Z'
 slug: 'project-kloningan-dari-dev-atau-medium'
 keywords: 'Project Kloningan dari Dev atau Medium'
