@@ -17,7 +17,7 @@ slug: 'projek'
 
 🚀 [Klik untuk Kloningan dari Youtube](project-kloningan-dari-youtube)
 
-## Aplikasi (ATM) dari ![dev](../images/dev_icon.png) atau ![medium](../images/medium_icon.png)
+## Aplikasi (ATM) dari dev atau medium
 
 🚀 [Klik untuk Kloningan dari Dev atau Medium](project-kloningan-dari-dev-atau-medium)
 
