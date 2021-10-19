@@ -9,15 +9,15 @@ slug: 'projek'
 
 1. [30 Hari Belajar React](https://github.com/topidesta/30hari)
 
-## Aplikasi (ATM) dari udemy
+## Aplikasi (ATM) dari 🆄🅳🅴🅼🆈
 
 🚀 [Klik untuk Kloningan dari Udemy](project-kloningan-dengan-reactjs-dari-udemy)
 
-## Aplikasi Kloningan (ATM) dari youtube
+## Aplikasi Kloningan (ATM) dari 🆈🅾🆄🆃🆄🅱🅴
 
 🚀 [Klik untuk Kloningan dari Youtube](project-kloningan-dari-youtube)
 
-## Aplikasi (ATM) dari dev atau medium
+## Aplikasi (ATM) dari 🅳🅴🆅 atau 🅼🅴🅳🅸🆄🅼
 
 🚀 [Klik untuk Kloningan dari Dev atau Medium](project-kloningan-dari-dev-atau-medium)
 
