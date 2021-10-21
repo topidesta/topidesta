@@ -5,9 +5,18 @@ description: 'Halaman untuk menampilkan Sourcecode/ Project'
 slug: 'projek'
 ---
 
-## Translate
+## Aplikasi Diakses Publik
 
-1. [30 Hari Belajar React](https://github.com/topidesta/30hari)
+|  No   |     Nama Aplikasi      |                 URL Development                 |                   URL Production                    | Status |
+| :---: | :--------------------: | :---------------------------------------------: | :-------------------------------------------------: | :----: |
+|   1   | Donatur Hibah Covid 19 |    [Link](https://hibahcovid19.netlify.app/)    |      [Link](https://hibahcovid19.netlify.app/)      |   🔒    |
+|   2   |    Pencarian Dokter    |       [Link](https://dokter.netlify.app/)       |   [Link](https://dokter.rsuppersahabatan.co.id/)    |   ⚙️    |
+|   3   |   Lowongan Pekerjaan   | [Link](https://lowonganpekerjaan.netlify.app/)  |  [Link](https://lowongan.rsuppersahabatan.co.id/)   |   ⚙️    |
+|   4   |    Permintaan Darah    |     [Link](https://bankdarah.netlify.app/)      |       [Link](https://bankdarah.netlify.app/)        |   🔒    |
+|   5   |  Landing Pendaftaran   | [Link](https://landingpendaftaran.netlify.app/) | [Link](https://pendaftaran.rsuppersahabatan.co.id/) |   ⚙️    |
+|   6   |  E-Office/ Persuratan  |      [Link](https://eoffice.netlify.app/)       |        [Link](https://eoffice.netlify.app/)         |   🔒    |
+|   7   |   Jadwal Zoom Online   |     [Link](https://jadwalzoom.vercel.app/)      |    [Link](https://zoom.rsuppersahabatan.co.id/)     |   ⚙️    |
+
 
 ## Aplikasi (ATM) dari 🆄🅳🅴🅼🆈
 
@@ -21,7 +30,7 @@ slug: 'projek'
 
 🚀 [Klik untuk Kloningan dari Dev atau Medium](project-kloningan-dari-dev-atau-medium)
 
-## Workspace
+## Lain-lain
 
 1. [MovieMovie ATM](https://github.com/topidesta/moviemovie)
 2. [Javascript Everywhere](https://github.com/topidesta/javascript-everywhere)
@@ -31,12 +40,5 @@ slug: 'projek'
 6. [FullStack Open 2020](https://github.com/topidesta/example-submission-repository)
 7. [React Native Express](https://github.com/topidesta/ReactNativeExpress)
 8. [GatsbyJS Blog](https://github.com/topidesta/gatsbyjs)
+9. [30 Hari Belajar React](https://github.com/topidesta/30hari)
 
-## Aplikasi Publik
-
-1. [Donatur Hibah Covid 19](https://hibahcovid19.netlify.app/) ✔️
-2. [Pencarian Dokter](https://dokter.netlify.app/) ✔️
-3. [Lowongan Pekerjaan](https://lowonganpekerjaan.netlify.app/) ✔️
-4. [Permintaan Darah](https://bankdarah.netlify.app/)
-5. [Landing Pendaftaran](https://landingpendaftaran.netlify.app/) ✔️
-6. [E-Office/ Persuratan](https://eoffice.netlify.app/)
