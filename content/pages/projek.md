@@ -7,7 +7,7 @@ slug: 'projek'
 
 ## Aplikasi Diakses Publik
 
-|  No   |     Nama Aplikasi      |                      dev                       |                       production                       | Status |
+|  No   |     Nama Aplikasi      |                      dev                       |                    production                    | Status |
 | :---: | :--------------------: | :--------------------------------------------: | :----------------------------------------------: | :----: |
 |   1   | Donatur Hibah Covid 19 |    [dev](https://hibahcovid19.netlify.app/)    |    [Link](https://hibahcovid19.netlify.app/)     |   🔒    |
 |   2   |    Pencarian Dokter    |       [dev](https://dokter.netlify.app/)       |   [🚀](https://dokter.rsuppersahabatan.co.id/)    |   ⚙️    |
@@ -19,11 +19,11 @@ slug: 'projek'
 |   8   |    Penjamin Pasien     |      [dev](https://penjamin.vercel.app/)       | [Link](https://penjamin.rsuppersahabatan.co.id/) |   ⚙️    |
 
 
-## Aplikasi (ATM) dari 🆄🅳🅴🅼🆈
+## Aplikasi (ATM) dari 🆄🅳🅴🅼🆈 atau 🅴🅶🅶🅷🅴🅰🅳
 
-🚀 [Klik untuk Kloningan dari Udemy](project-kloningan-dengan-reactjs-dari-udemy) 🚀
+🚀 [Klik untuk Kloningan dari Udemy](project-kloningan-dengan-reactjs-dari-udemy-egghead) 🚀
 
-## Aplikasi Kloningan (ATM) dari 🆈🅾🆄🆃🆄🅱🅴
+## Aplikasi (ATM) dari 🆈🅾🆄🆃🆄🅱🅴
 
 🚀 [Klik untuk Kloningan dari Youtube](project-kloningan-dari-youtube) 🚀
 

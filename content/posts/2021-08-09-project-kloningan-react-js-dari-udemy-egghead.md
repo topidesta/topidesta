@@ -1,15 +1,16 @@
 ---
 template: 'post'
-title: Project Kloningan dengan ReactJS dari Udemy
+title: Project Kloningan dengan ReactJS dari Udemy/ Egghead
 cover: '../images/udemy.png'
 date: '2021-08-09T20:00:00Z'
-slug: 'project-kloningan-dengan-reactjs-dari-udemy'
-keywords: 'Project Kloningan dengan ReactJS dari Udemy'
+slug: 'project-kloningan-dengan-reactjs-dari-udemy-egghead'
+keywords: 'Project Kloningan dengan ReactJS dari Udemy atau EggHead'
 categories:
   - belajar
 tags:
   - react
   - udemy
+  - egghead
   - kloningan
   - project
 ---
@@ -31,6 +32,7 @@ Berikut ini daftar Aplikasi yang dibuat dengan teknologi React:
 |   3   |   Youtube Clone    |                   [Link](https://www.udemy.com/share/1049fI2@FEdjfUtKc1QPc0JKC3pxfT1uYFc=/)                   |     -      | Progress |
 |   4   |   Evernote Clone   |                   [Link](https://www.udemy.com/share/1031e02@PkdKfWFjcFQPc0JKC3pxVBRuY31h/)                   |     -      |    -     |
 |   5   |     React Chat     | [Link](https://www.udemy.com/share/1050m03@r57i-ZOJFMBkqU2e8On79JZ7IESQSUyo-yA6lFuc8qeUxZ-62r8R1fHCof0z43Q8/) |     -      |    -     |
+|   6   |     Chakra-UI      |           [Link](https://egghead.io/courses/build-a-modern-user-interface-with-chakra-ui-fac68106)            |     -      |    -     |
 
 
 Ada banyak, nanti update akan gw tulis dipostingan ini juga, untuk sourcecode bisa direpositori [Amati-Tiru-Modifikasi](https://github.com/amati-tiru-modifikasi).
