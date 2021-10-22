@@ -7,28 +7,29 @@ slug: 'projek'
 
 ## Aplikasi Diakses Publik
 
-|  No   |     Nama Aplikasi      |                 URL Development                 |                   URL Production                    | Status |
-| :---: | :--------------------: | :---------------------------------------------: | :-------------------------------------------------: | :----: |
-|   1   | Donatur Hibah Covid 19 |    [Link](https://hibahcovid19.netlify.app/)    |      [Link](https://hibahcovid19.netlify.app/)      |   🔒    |
-|   2   |    Pencarian Dokter    |       [Link](https://dokter.netlify.app/)       |   [Link](https://dokter.rsuppersahabatan.co.id/)    |   ⚙️    |
-|   3   |   Lowongan Pekerjaan   | [Link](https://lowonganpekerjaan.netlify.app/)  |  [Link](https://lowongan.rsuppersahabatan.co.id/)   |   ⚙️    |
-|   4   |    Permintaan Darah    |     [Link](https://bankdarah.netlify.app/)      |       [Link](https://bankdarah.netlify.app/)        |   🔒    |
-|   5   |  Landing Pendaftaran   | [Link](https://landingpendaftaran.netlify.app/) | [Link](https://pendaftaran.rsuppersahabatan.co.id/) |   ⚙️    |
-|   6   |  E-Office/ Persuratan  |      [Link](https://eoffice.netlify.app/)       |        [Link](https://eoffice.netlify.app/)         |   🔒    |
-|   7   |   Jadwal Zoom Online   |     [Link](https://jadwalzoom.vercel.app/)      |    [Link](https://zoom.rsuppersahabatan.co.id/)     |   ⚙️    |
+|  No   |     Nama Aplikasi      |                      dev                       |                       production                       | Status |
+| :---: | :--------------------: | :--------------------------------------------: | :----------------------------------------------: | :----: |
+|   1   | Donatur Hibah Covid 19 |    [dev](https://hibahcovid19.netlify.app/)    |    [Link](https://hibahcovid19.netlify.app/)     |   🔒    |
+|   2   |    Pencarian Dokter    |       [dev](https://dokter.netlify.app/)       |   [🚀](https://dokter.rsuppersahabatan.co.id/)    |   ⚙️    |
+|   3   |   Lowongan Pekerjaan   | [dev](https://lowonganpekerjaan.netlify.app/)  |  [🚀](https://lowongan.rsuppersahabatan.co.id/)   |   ⚙️    |
+|   4   |    Permintaan Darah    |     [dev](https://bankdarah.netlify.app/)      |      [Link](https://bankdarah.netlify.app/)      |   🔒    |
+|   5   |  Landing Pendaftaran   | [dev](https://landingpendaftaran.netlify.app/) | [🚀](https://pendaftaran.rsuppersahabatan.co.id/) |   ⚙️    |
+|   6   |  E-Office/ Persuratan  |      [dev](https://eoffice.netlify.app/)       |       [Link](https://eoffice.netlify.app/)       |   🔒    |
+|   7   |   Jadwal Zoom Online   |     [dev](https://jadwalzoom.vercel.app/)      |   [Link](https://zoom.rsuppersahabatan.co.id/)   |   ⚙️    |
+|   8   |    Penjamin Pasien     |      [dev](https://penjamin.vercel.app/)       | [Link](https://penjamin.rsuppersahabatan.co.id/) |   ⚙️    |
 
 
 ## Aplikasi (ATM) dari 🆄🅳🅴🅼🆈
 
-🚀 [Klik untuk Kloningan dari Udemy](project-kloningan-dengan-reactjs-dari-udemy)
+🚀 [Klik untuk Kloningan dari Udemy](project-kloningan-dengan-reactjs-dari-udemy) 🚀
 
 ## Aplikasi Kloningan (ATM) dari 🆈🅾🆄🆃🆄🅱🅴
 
-🚀 [Klik untuk Kloningan dari Youtube](project-kloningan-dari-youtube)
+🚀 [Klik untuk Kloningan dari Youtube](project-kloningan-dari-youtube) 🚀
 
 ## Aplikasi (ATM) dari 🅳🅴🆅 atau 🅼🅴🅳🅸🆄🅼
 
-🚀 [Klik untuk Kloningan dari Dev atau Medium](project-kloningan-dari-dev-atau-medium)
+🚀 [Klik untuk Kloningan dari Dev atau Medium](project-kloningan-dari-dev-atau-medium) 🚀
 
 ## Lain-lain
 
