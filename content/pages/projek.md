@@ -5,19 +5,19 @@ description: 'Halaman untuk menampilkan Sourcecode/ Project'
 slug: 'projek'
 ---
 
-## Project Aplikasi (ATM) dari 🆄🅳🅴🅼🆈 atau 🅴🅶🅶🅷🅴🅰🅳
+## Aplikasi (ATM) dari 🆄🅳🅴🅼🆈 atau 🅴🅶🅶🅷🅴🅰🅳
 
 > 🚀 [Klik untuk Kloningan dari Udemy](project-kloningan-dengan-reactjs-dari-udemy-egghead) 🚀
 
-## Project Aplikasi (ATM) dari 🆈🅾🆄🆃🆄🅱🅴
+## Aplikasi (ATM) dari 🆈🅾🆄🆃🆄🅱🅴
 
 > 🚀 [Klik untuk Kloningan dari Youtube](project-kloningan-dari-youtube) 🚀
 
-## Project Aplikasi (ATM) dari 🅳🅴🆅 atau 🅼🅴🅳🅸🆄🅼
+## Aplikasi (ATM) dari 🅳🅴🆅 atau 🅼🅴🅳🅸🆄🅼
 
 > 🚀 [Klik untuk Kloningan dari Dev atau Medium](project-kloningan-dari-dev-atau-medium) 🚀
 
-## Project Aplikasi akses Publik
+## Aplikasi akses Publik
 
 | No  |     Nama Aplikasi      |                        dev                        |                    production                     | Status |
 | :-: | :--------------------: | :-----------------------------------------------: | :-----------------------------------------------: | :----: |
