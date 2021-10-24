@@ -5,7 +5,19 @@ description: 'Halaman untuk menampilkan Sourcecode/ Project'
 slug: 'projek'
 ---
 
-## Aplikasi Diakses Publik
+## Project Aplikasi (ATM) dari 🆄🅳🅴🅼🆈 atau 🅴🅶🅶🅷🅴🅰🅳
+
+> 🚀 [Klik untuk Kloningan dari Udemy](project-kloningan-dengan-reactjs-dari-udemy-egghead) 🚀
+
+## Project Aplikasi (ATM) dari 🆈🅾🆄🆃🆄🅱🅴
+
+> 🚀 [Klik untuk Kloningan dari Youtube](project-kloningan-dari-youtube) 🚀
+
+## Project Aplikasi (ATM) dari 🅳🅴🆅 atau 🅼🅴🅳🅸🆄🅼
+
+> 🚀 [Klik untuk Kloningan dari Dev atau Medium](project-kloningan-dari-dev-atau-medium) 🚀
+
+## Project Aplikasi akses Publik
 
 | No  |     Nama Aplikasi      |                        dev                        |                    production                     | Status |
 | :-: | :--------------------: | :-----------------------------------------------: | :-----------------------------------------------: | :----: |
@@ -17,17 +29,3 @@ slug: 'projek'
 |  6  |  E-Office/ Persuratan  |        [dev](https://eoffice.netlify.app/)        |       [Link](https://eoffice.netlify.app/)        |   🔒   |
 |  7  |   Jadwal Zoom Online   |       [dev](https://jadwalzoom.vercel.app/)       |   [Link](https://zoom.rsuppersahabatan.co.id/)    |   ⚙️   |
 |  8  |    Penjamin Pasien     |        [dev](https://penjamin.vercel.app/)        | [Link](https://penjamin.rsuppersahabatan.co.id/)  |   ⚙️   |
-
----
-
-## Aplikasi (ATM) dari 🆄🅳🅴🅼🆈 atau 🅴🅶🅶🅷🅴🅰🅳
-
-> 🚀 [Klik untuk Kloningan dari Udemy](project-kloningan-dengan-reactjs-dari-udemy-egghead) 🚀
-
-## Aplikasi (ATM) dari 🆈🅾🆄🆃🆄🅱🅴
-
-> 🚀 [Klik untuk Kloningan dari Youtube](project-kloningan-dari-youtube) 🚀
-
-## Aplikasi (ATM) dari 🅳🅴🆅 atau 🅼🅴🅳🅸🆄🅼
-
-> 🚀 [Klik untuk Kloningan dari Dev atau Medium](project-kloningan-dari-dev-atau-medium) 🚀
