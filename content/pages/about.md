@@ -35,7 +35,7 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: topidesta/topidesta@master
         with:
           WAKATIME_API_KEY: cc83db9e-39cb-4abd-b3e4-787f25de7890
           GH_TOKEN: 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
