@@ -22,7 +22,8 @@ Tulisan blog ini gak jauh beda dengan blog sebelumnya di wordpress dan konten da
 
 Ada beberapa aplikasi yang udah release menggunakan ReactJS (Fronted) dan Codeigniter (Backend), klik ke [Halaman Project](projek) untuk lebih detail.
 
-<figure>
-<embed src="https://wakatime.com/share/@topidesta/6d3200ff-9b6f-4d3c-9488-2c546204092d.svg"></embed>
-</figure>
+<figure><embed src="https://wakatime.com/share/@topidesta/6d3200ff-9b6f-4d3c-9488-2c546204092d.svg"></embed></figure>
+
+<figure><embed src="https://wakatime.com/share/@topidesta/7eda6f42-4b96-43e7-9420-273eda8e0f52.svg"></embed></figure>
+
 > Akhir kata, happy coding!
