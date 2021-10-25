@@ -22,6 +22,27 @@ Tulisan blog ini gak jauh beda dengan blog sebelumnya di wordpress dan konten da
 
 Ada beberapa aplikasi yang udah release menggunakan ReactJS (Fronted) dan Codeigniter (Backend), klik ke [Halaman Project](projek) untuk lebih detail.
 
+<!--START_SECTION:waka-->
+name: Waka Readme
+
+on:
+  schedule:
+    # Runs at 12am UTC
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: cc83db9e-39cb-4abd-b3e4-787f25de7890
+          GH_TOKEN: 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
+          REPOSITORY: <topidesta/topidesta> # optional, By default, it will automatically use the repository who's executing the workflow.
+          SHOW_TITLE: true
+<!--END_SECTION:waka-->
+
 [![wakatime](https://wakatime.com/badge/user/68c213cd-13a4-4383-895c-d9fa85106cb4/project/3e98dcc8-8894-4509-96c8-a8d6a4e68fd4.svg)](https://wakatime.com/badge/user/68c213cd-13a4-4383-895c-d9fa85106cb4/project/3e98dcc8-8894-4509-96c8-a8d6a4e68fd4)
 
 > Akhir kata, happy coding!
