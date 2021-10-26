@@ -25,7 +25,7 @@ http://go.topidesta.my.id/video-belajar
 
 Berikut ini daftar Aplikasi yang dibuat dengan teknologi React:
 
-|  No   |   Nama Aplikasi    |                                                 Sumber                                               | Github |  Status  |
+|  No   |   Nama Aplikasi    |                                                 Sumber                                               | Github |  Times  |
 | :---: | :----------------: | :-----------------------------------------------------------------------------------------------------------: | :--------: | :------: |
 |   1   | Instagram Clone #a |                     [Link](https://www.udemy.com/share/103WbY2@PW5jfVpbSlEGek5EEkhNfj0=/)                     |     -      |    -     |
 |   2   | Instagram Clone #b |                     [Link](https://www.udemy.com/share/102Rwq2@Pm5gfVpbSlEGek5EO0tnfQ==/)                     |     -      |    -     |
