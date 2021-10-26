@@ -29,7 +29,7 @@ Rencananya (insyaAllah) gw jg mau buat postingan tulisan tentang Aplikasi yang b
 
 Berikut ini daftar Aplikasi yang dibuat dengan teknologi React:
 
-| No  |     Nama Aplikasi      | Source Yt |                            Source Git                            |  Status  |
+| No  |     Nama Aplikasi      | Sumber |                            Github                           |  Status  |
 | :-: | :--------------------: | :-------: | :--------------------------------------------------------------: | :------: |
 |  1  |         Gmail          |     -     |                                -                                 |    -     |
 |  2  |        Twitter         |     -     |                                -                                 |    -     |
