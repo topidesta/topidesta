@@ -7,15 +7,15 @@ slug: 'projek'
 
 ## Aplikasi (ATM) dari 🆄🅳🅴🅼🆈 atau 🅴🅶🅶🅷🅴🅰🅳
 
-> 🚀 [Klik untuk Kloningan dari Udemy](project-kloningan-dengan-reactjs-dari-udemy-egghead) 🚀
+> 👉 [Klik untuk Kloningan dari Udemy](project-kloningan-dengan-reactjs-dari-udemy-egghead)
 
 ## Aplikasi (ATM) dari 🆈🅾🆄🆃🆄🅱🅴
 
-> 🚀 [Klik untuk Kloningan dari Youtube](project-kloningan-dari-youtube) 🚀
+> 👉 [Klik untuk Kloningan dari Youtube](project-kloningan-dari-youtube)
 
 ## Aplikasi (ATM) dari 🅳🅴🆅 atau 🅼🅴🅳🅸🆄🅼
 
-> 🚀 [Klik untuk Kloningan dari Dev atau Medium](project-kloningan-dari-dev-atau-medium) 🚀
+> 👉 [Klik untuk Kloningan dari Dev atau Medium](project-kloningan-dari-dev-atau-medium)
 
 ## Aplikasi akses Publik
 
