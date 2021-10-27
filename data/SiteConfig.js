@@ -113,9 +113,9 @@ const config = {
   // Use for navigation
   navTitle: 'Topidesta',
   navLinks: [
-    { label: 'About', url: '/about' },
+    { label: 'Tentang', url: '/about' },
     { label: 'Projek', url: '/projek' },
-    { label: 'Lagu', url: '/lagu' },
+    { label: 'Konsep ATM', url: '/konsep-belajar-atm-amati-tiru-modifikasi' },
   ],
   // Use for footer
   socialLinks: [
@@ -161,6 +161,7 @@ const config = {
     { label: 'Alat Tempur', url: '/alat' },
     { label: 'Belajar', url: '/belajar' },
     { label: 'Sitemap', url: 'https://topidesta.netlify.app/sitemap.xml' },
+    { label: 'Lagu', url: '/lagu' },
   ],
   copyright: 'Copyright © 2019 Topidesta. MIT license.',
   // Use for manifest
