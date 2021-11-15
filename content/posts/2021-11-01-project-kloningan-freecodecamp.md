@@ -3,7 +3,7 @@ template: 'post'
 title: Project Kloningan dari Freecodecamp
 cover: '../images/freecodecamp.png'
 date: '2021-11-01T14:00:00Z'
-slug: 'project-kloningan-freecodecamp'
+slug: 'project-kloningan-dari-freecodecamp'
 keywords: 'Project Kloningan dari Freecodecamp'
 categories:
   - belajar
