@@ -28,7 +28,7 @@ slug: 'projek'
 |  1  | Donatur Hibah Covid 19 |     [dev](https://hibahcovid19.netlify.app/)      |      [Link](https://hibahcovid19.netlify.app/)      |   🔒   |
 |  2  |    Pencarian Dokter    | [dev](https://dokter-dev.rsuppersahabatan.co.id/) |    [🚀](https://dokter.rsuppersahabatan.co.id/)     |   ⚙️   |
 |  3  |   Lowongan Pekerjaan   |   [dev](https://lowonganpekerjaan.netlfy.app/)   |   [🚀](https://lowongan.rsuppersahabatan.co.id/)    |   ⚙️   |
-|  4  |    Permintaan Darah    |       [dev](https://bankdarah.netlify.app/)       |       [Link](https://bankdarah.netlify.app/)        |   🔒   |
+|  4  |    Online Bank Darah    |       [dev](https://bankdarah.vercel.app/)       |       [🚀](https://bankdarah.rsuppersahabatan.co.id/)        |   ⚙️   |
 |  5  |  Landing Pendaftaran   |  [dev](https://landingpendaftaran.netlify.app/)   |  [🚀](https://pendaftaran.rsuppersahabatan.co.id/)  |   ⚙️   |
 |  6  |  E-Office/ Persuratan  |        [dev](https://eoffice.netlify.app/)        |        [Link](https://eoffice.netlify.app/)         |   🔒   |
 |  7  |   Jadwal Zoom Online   |       [dev](https://jadwalzoom.vercel.app/)       |    [Link](https://zoom.rsuppersahabatan.co.id/)     |   ⚙️   |
