@@ -145,7 +145,7 @@ module.exports = {
         setup(ref) {
           const ret = ref.query.site.siteMetadata.rssMetadata;
           ret.allMarkdownRemark = ref.query.allMarkdownRemark;
-          ret.generator = "Topidesta - Tulisan Ringan Bukan Cacian";
+          ret.generator = "Topidesta - Tulisan Developer Gadungan";
           return ret;
         },
         query: `
