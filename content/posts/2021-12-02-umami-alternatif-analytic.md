@@ -6,7 +6,7 @@ date: '2021-12-02T14:00:00Z'
 slug: 'umami-alat-untuk-analytics'
 keywords: 'Umami alat untuk Analytics'
 categories:
-  - belajar
+  - share
 tags:
   - nextjs
   - umami
