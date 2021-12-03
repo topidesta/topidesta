@@ -21,6 +21,16 @@ module.exports = {
           shortname: `topidesta-dev`
       }
     },
+    {
+      resolve: `gatsby-plugin-umami`,
+      options: {
+        websiteId: 'bd67e09c-7e67-422d-b8c3-20e9ce0b9268',
+        srcUrl: 'https://umamilive.vercel.app/umami.js',
+        includeInDevelopment: false,
+        autoTrack: true,
+        respectDoNotTrack: true
+      },
+    },
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-lodash",
     {
