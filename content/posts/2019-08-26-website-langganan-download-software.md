@@ -26,7 +26,8 @@ dikarenakan beberapa software gw ada yang pake jamu ada yang pakai serial fake a
 4. [Ad4m-San](https://kutt.it/adamsan)
 5. [Yasir252](https://kutt.it/yasir)
 
-Tambahan: 
+Tambahan:
+
 6. [GetIntoPC](https://kutt.it/getintopc)
 7. [FreewareSys](https://kutt.it/freeware)
 8. [AkangSuhar](https://kutt.it/akangsuhar)
