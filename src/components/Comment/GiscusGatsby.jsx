@@ -56,10 +56,10 @@ class GiscusGatsby extends Component {
       <h1>{post.title}</h1>
       {/* <Giscus config={giscusConfig} /> */}
       <Giscus
+            src="https://giscus.app/client.js"
             repo="topidesta/topidesta"
             repoId="MDEyOk9yZ2FuaXphdGlvbjc2NzY2OTI="
             category="Announcements"
-            categoryId="MDE4OkRpc2N1c3Npb25DYXRlZ29yeTMzMDE1OTcy"
             mapping="og:title"
             theme="light"
             reactionsEnabled="1"
