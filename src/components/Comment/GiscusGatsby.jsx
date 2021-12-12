@@ -59,7 +59,7 @@ class GiscusGatsby extends Component {
             src="https://giscus.app/client.js"
             repo="topidesta/topidesta"
             repoId="MDEyOk9yZ2FuaXphdGlvbjc2NzY2OTI="
-            category="Announcements"
+            category="Comments"
             mapping="og:title"
             theme="light"
             reactionsEnabled="1"
