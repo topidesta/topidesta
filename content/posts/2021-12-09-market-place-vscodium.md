@@ -1,10 +1,10 @@
 ---
 template: 'post'
-title: Ext. Marketplace for VSCodium
+title: Extension Marketplace for VSCodium
 cover: '../images/vscodium.png'
 date: '2021-12-09T14:00:00Z'
-slug: 'ext-marketplace-for-vscodium'
-keywords: 'Ext. Marketplace for VSCodium'
+slug: 'Extension-marketplace-for-vscodium'
+keywords: 'Extension Marketplace for VSCodium'
 categories:
   - share
 tags:
