@@ -1,10 +1,10 @@
 ---
 template: 'post'
-title: Project Kloningan dengan ReactJS dari Udemy/ Egghead
+title: Project Kloningan dari Udemy/ Egghead
 cover: '../images/udemy.png'
 date: '2021-08-09T20:00:00Z'
-slug: 'project-kloningan-dengan-reactjs-dari-udemy-egghead'
-keywords: 'Project Kloningan dengan ReactJS dari Udemy atau EggHead'
+slug: 'project-kloningan-dari-udemy-egghead'
+keywords: 'Project Kloningan dari Udemy atau EggHead'
 categories:
   - belajar
 tags:

@@ -7,7 +7,7 @@ slug: 'projek'
 
 ## Aplikasi (ATM) dari 🆄🅳🅴🅼🆈 atau 🅴🅶🅶🅷🅴🅰🅳
 
-> 👉 [Klik untuk Kloningan dari Udemy](project-kloningan-dengan-reactjs-dari-udemy-egghead)
+> 👉 [Klik untuk Kloningan dari Udemy/ Egghead](project-kloningan-dari-udemy-egghead)
 
 ## Aplikasi (ATM) dari 🆈🅾🆄🆃🆄🅱🅴 
 
