@@ -99,6 +99,13 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 
 1. Udemy - Golang build RESTful APIs with Golang (Go programming lang)
 
+### BOT Class
+
+1. [WhatsApp Automation](https://www.udemy.com/share/105AIO3@1DC7K7WP-sGTRvJ_goZMqGdmJKwuxQvVLc1uV7zh81QOp8LlTUFiyLyAG6VozmPM/)
+2. [WhatsApp Stock Market](https://www.udemy.com/share/103pOk3@0GlYGgQnq20LVShSlMK6kU0IYmg51AQUczxOhGgbSPQgaRQzlASufjA2pbLe4jFV/)
+3. [Premium Telegram BOT](https://www.udemy.com/share/104Tci3@euPjKV9shBHqu-DehY9CB-ITXHN29tgq65VgTihC6nR-1YTI_4aL0TKLDfM6VxZB/)
+4. [Facebook Chat Bot](https://www.udemy.com/share/105mDM3@7CwUlwIRCDmEJmVzrf4VHam6-UDNPSqtHoAXrmDF5_xSLVaR5KAMdwJLTVw5Sstk/)
+
 ## Udacity.com
 
 ### Nanodegree Program
