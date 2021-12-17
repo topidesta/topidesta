@@ -34,8 +34,8 @@ slug: 'projek'
 |<fieldset><legend>[Bankdarah Online](https://bankdarah.rsuppersahabatan.co.id/)</legend><label for="Bankdarah Online"><img src="../images/bankdarah-online.png" alt="pencarian dokter" width="40%" height="40%" /></label></fieldset>|<fieldset><legend>Donatur Hibah</legend><label for="text3">Text Input</label></fieldset>|
 |<fieldset><legend>[Landing Pendaftaran](https://pendaftaran.rsuppersahabatan.co.id/)</legend><label for="Landing Pendaftaran"><img src="../images/pendaftaran-landing.png" alt="pencarian dokter" width="40%" height="40%" /></label></fieldset>|<fieldset><legend>Donatur Hibah</legend><label for="text3">Text Input</label></fieldset>|
 |<fieldset><legend>[Landing Pendaftaran](https://pendaftaran.rsuppersahabatan.co.id/)</legend><label for="Landing Pendaftaran"><img src="../images/pendaftaran-landing.png" alt="pencarian dokter" width="40%" height="40%" /></label></fieldset>|<fieldset><legend>Donatur Hibah</legend><label for="text3">Text Input</label></fieldset>|
-|<fieldset><legend>[Landing Pendaftaran](https://pendaftaran.rsuppersahabatan.co.id/)</legend><label for="Landing Pendaftaran"><img src="../images/pendaftaran-landing.png" alt="pencarian dokter" width="40%" height="40%" /></label></fieldset>|<fieldset><legend>Donatur Hibah</legend><label for="text3">Text Input</label></fieldset>|
-|<fieldset><legend>[Landing Pendaftaran](https://pendaftaran.rsuppersahabatan.co.id/)</legend><label for="Landing Pendaftaran"><img src="../images/pendaftaran-landing.png" alt="pencarian dokter" width="40%" height="40%" /></label></fieldset>|<fieldset><legend>Donatur Hibah</legend><label for="text3">Text Input</label></fieldset>|
+|<fieldset><legend>[Kuesioner TBC](https://survey-tbc.netlify.app/)</legend>![Fagestorm](../images/survei-tbc.png)</fieldset>|<fieldset><legend>Donatur Hibah</legend><label for="text3">Text Input</label></fieldset>|
+|<fieldset><legend>[Kuesinoer Fagestorm	](https://fagestorm.netlify.app/)</legend>![Fagestorm](../images/fagestorm.png)</fieldset>|<fieldset><legend>Donatur Hibah</legend><label for="text3">Text Input</label></fieldset>|
 
 ---
 
