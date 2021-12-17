@@ -8,8 +8,6 @@ keywords: 'Project Orang Gw Kerjain!'
 categories:
   - share
 tags:
-  - react
-  - nextjs
   - mockup
 ---
 
