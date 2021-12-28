@@ -19,9 +19,9 @@ Kalo ini gw mau share compare tools buat para developer sangat bagus neh, teruta
 
 Kalo lo punya duit, mending beli seharga $60 ... tapi kalo gak punya mending pake trick gw, ada 2 tools dengan trick yang sama, yaitu menghapus register **TRIAL MODE** si beyondcompare.  Berikut ini tools yang bisa gw share
 
-1. Buat File CMD | [Download](https://drive.google.com/file/d/1Eewg_LNgfk0FrIVWPJBKOQrljMJ-2oK8/view?usp=sharing)
-2. Jalankan File EXE | [Download](https://anonfiles.com/x5Z5v2v5p4)
-3. Buka Aplikasi Beyond Compare, Jangan di tutup ya (trick ampuh)
+1. Buat File CMD | [Download](http://120.29.158.4/supports/trialResetBC4.bat)
+2. Jalankan File EXE | [Download](http://120.29.158.4/supports/Beyond_Compare_Trial_Reset.exe)
+3. Buka Aplikasi Beyond Compare, Jangan di tutup/ close ya (trick ampuh), buka sampe sebulan juga tetep 30Hari
 
 ```bash
 reg delete "HKCU\Software\Scooter Software\Beyond Compare 4" /v CacheID /f
