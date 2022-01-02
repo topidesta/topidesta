@@ -14,7 +14,7 @@ tags:
 
 Bismillah ....
 
-Kebetulan lagi handle Project yang sudah gak dihandle sama Maintenernya, tapi lagi gw tanya, mau dilanjutin apa kagak sih, project terbaru **Codeigniter 4 Restful JWT Token** dihalaman ini
+Kebetulan lagi handle Project yang sudah gak dihandle sama Maintenernya, tapi lagi gw tanya, mau dilanjutin apa kagak sih, project terbaru **Codeigniter 4 Restful JWT Token** dihalaman ini masih sangat sederhana.
 
 ```https://github.com/mdestafadilah/ci-rest-jwt```
 
