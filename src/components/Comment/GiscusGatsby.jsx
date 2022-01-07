@@ -1,8 +1,6 @@
 /* eslint-disable react/destructuring-assignment */
 import React, { Component } from 'react'
 import { Giscus } from '@giscus/react';
-import urljoin from 'url-join'
-import config from '../../../data/SiteConfig'
 
 class GiscusGatsby extends Component {
   constructor(props) {
@@ -39,18 +37,14 @@ class GiscusGatsby extends Component {
       <>
       <h1>{post.title}</h1>
       <Giscus
-        src="https://giscus.app/client.js"
-        data-repo="topidesta/topidesta"
-        data-repo-id="MDEwOlJlcG9zaXRvcnkyMDA1ODIyNTk="
-        data-category="Comments"
-        data-category-id="DIC_kwDOC_Skc84CAQVo"
-        data-mapping="title"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-theme="light"
-        data-lang="en"
-        crossorigin="anonymous"
-        async
+        repo="topidesta/topidesta"
+        repoId="MDEwOlJlcG9zaXRvcnkyMDA1ODIyNTk="
+        category="Comments"
+        categoryId="DIC_kwDOC_Skc84CAQVo"
+        mapping="title"
+        reactionsEnabled="1"
+        emitMetadata="0"
+        theme="light"
       />
       </>
     )
