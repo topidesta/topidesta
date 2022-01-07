@@ -57,13 +57,10 @@ class GiscusGatsby extends Component {
       {/* <Giscus config={giscusConfig} /> */}
       <Giscus
             src="https://giscus.app/client.js"
-            data-repo="topidesta/topidesta"
-            data-repo-id="MDEwOlJlcG9zaXRvcnkyMDA1ODIyNTk="
-            data-category="Comments"
-            data-category-id="DIC_kwDOC_Skc84B-8lt"
-            mapping="og:title"
-            theme="light"
-            reactionsEnabled="1"
+            repo="topidesta/topidesta"
+            repositoryId="MDEwOlJlcG9zaXRvcnkyMDA1ODIyNTk="
+            categoryId="DIC_kwDOC_Skc84B-8lt"
+            title="og:title"
           />
       </>
     )
