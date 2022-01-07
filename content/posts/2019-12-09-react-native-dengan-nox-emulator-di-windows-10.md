@@ -14,6 +14,10 @@ tags:
 
 ## bismillah
 
+Untuk yang baru pertama kali setup react-native silahkan ke halaman berikut ini:
+
+> http://go.topidesta.my.id/setup-rn-awal
+
 kali ini sekedar catatan pribadi ajah, cara biar running emulator yang ringan, NOX Emulator termasuk ringan, dibanding dengan GenyMotion ya, nah karena sering muncul kalimat **no devices detected ..** akhirnya cari tau di google, terdampar dihalaman github, kurang lebih perintahnya seperti gambar ini:
 ![nox emulator](../images/nox-emulator-run.png)
 
