@@ -34,34 +34,24 @@ class GiscusGatsby extends Component {
     //   return null
     // }
     const post = postNode.frontmatter
-    const url = urljoin(config.siteUrl, config.pathPrefix, postNode.fields.slug)
-
-    // let giscusConfig = {
-    //   url: url,
-    //   identifier: post.title,
-    //   title: post.title,
-    //   repo="...",
-    //   repoId="...",
-    //   category="...",
-    //   categoryId="...",
-    //   mapping="...",
-    //   term="...",
-    //   reactionsEnabled="...",
-    //   emitMetadata="...",
-    //   theme="...",
-    // }
 
     return (
       <>
       <h1>{post.title}</h1>
-      {/* <Giscus config={giscusConfig} /> */}
       <Giscus
-            src="https://giscus.app/client.js"
-            repo="topidesta/topidesta"
-            repositoryId="MDEwOlJlcG9zaXRvcnkyMDA1ODIyNTk="
-            categoryId="DIC_kwDOC_Skc84B-8lt"
-            title="og:title"
-          />
+        src="https://giscus.app/client.js"
+        data-repo="topidesta/topidesta"
+        data-repo-id="MDEwOlJlcG9zaXRvcnkyMDA1ODIyNTk="
+        data-category="Comments"
+        data-category-id="DIC_kwDOC_Skc84CAQVo"
+        data-mapping="title"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-theme="light"
+        data-lang="en"
+        crossorigin="anonymous"
+        async
+      />
       </>
     )
   }
