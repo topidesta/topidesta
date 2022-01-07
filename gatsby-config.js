@@ -16,12 +16,6 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: `gatsby-plugin-disqus`,
-      options: {
-          shortname: `topidesta-dev`
-      }
-    },
-    {
       resolve: `gatsby-plugin-umami`,
       options: {
         websiteId: 'bd67e09c-7e67-422d-b8c3-20e9ce0b9268',
