@@ -13,7 +13,7 @@ tags:
 
 Bismillah ....
 
-Sempet heran kok gak bisa push atau pull di laptop, gw lupa ternyata Github ubah aturan Login Credentialnya dari password menjadi Token.
+Sempet heran kok gak bisa push atau pull di laptop, gw lupa ternyata Github ubah aturan Login Credentialnya dari password menjadi Token yang bisa diset sementara atau selamanya.
 
 Pesan errornya kayak gini
 
