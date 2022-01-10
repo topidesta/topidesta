@@ -8,9 +8,8 @@ keywords: 'Reset Password BackdropCMS'
 categories:
   - trick
 tags:
-  - drupal7
+  - cms
   - backdropcms
-  - kantor
 ---
 
 Bismillah
