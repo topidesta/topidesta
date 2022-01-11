@@ -113,6 +113,7 @@ const config = {
   // Use for navigation
   navTitle: 'Topidesta',
   navLinks: [
+    { label: 'Me', url: 'http://me.topidesta.my.id/' },
     { label: 'Tentang', url: '/about' },
     { label: 'Projek', url: '/projek' },
     { label: 'Konsep ATM', url: '/konsep-belajar-atm-amati-tiru-modifikasi' },
