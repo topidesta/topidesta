@@ -10,6 +10,7 @@ categories:
 tags:
     - codeigniter
     - printer
+    - php
 ---
 
 ## Bismillah...

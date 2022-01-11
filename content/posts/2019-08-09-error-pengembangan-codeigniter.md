@@ -9,7 +9,6 @@ categories:
     - trick
     - error
 tags:
-    - wordpress
     - codeigniter
     - php
 ---
