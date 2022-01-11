@@ -64,5 +64,12 @@ Jadi plugins itu semacam alat tambahan untuk produktifitas GravCMS, ada buanyak 
 
 Huft... pengen nulis banyak sih, tp gw lagi baca baca lagi .... atau nanti mungkin gw buat series aja kali ya...  doakan semoga terwujud.
 
+# Sumber Belajar
+
+- https://github.com/getgrav/awesome-grav#tutorials
+- https://getgrav.org/blog/developing-with-github-part-1
+- https://getgrav.org/blog/developing-with-github-part-2
+- https://discourse.getgrav.org/c/showcase/7
+
 
 Have a nice Day!
