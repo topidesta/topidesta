@@ -46,7 +46,7 @@ Ouh ya, untuk Template/ Themes/ Plugins sudah banyak juga kok ... kurang lebih d
 
 # Skeletons
 
-Jadi skeletons itu All-in-one paket GravCMS diantaranya Plugins, Halaman dan Konfigurasi untuk memulai Grav, tinggal extract foldernya. dan Jalankan.
+Jadi skeletons itu All-in-one paket GravCMS, yang bisa digunakan sebagai contoh project diantaranya Plugins, Themes dan Konfigurasi untuk memulai Grav, tinggal extract foldernya. dan Jalankan.
 
 # Themes
 
