@@ -72,6 +72,7 @@
   "license": "MIT",
   "main": "n/a",
   "scripts": {
+    "preinstall": "node ./scripts/netlify-preinstall.js",
     "develop": "gatsby develop",
     "dev": "npm run develop",
     "serve": "gatsby serve",
