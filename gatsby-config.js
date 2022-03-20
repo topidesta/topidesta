@@ -10,63 +10,29 @@ module.exports = {
       feed_url: urljoin(config.siteUrl, config.pathPrefix, config.siteRss),
       title: config.siteTitle,
       description: config.siteDescription,
-      image_url: `${urljoin(config.siteUrl, config.pathPrefix)}/logos/logo-512x512.png`,
+      image_url: `${urljoin(
+        config.siteUrl,
+        config.pathPrefix
+      )}/logos/logo-512x512.png`,
       copyright: config.copyright,
-    }
+    },
   },
   plugins: [
-    {
-      resolve: "gatsby-remark-embed-gist",
-      options: {
-        // Optional:
-
-        // the github handler whose gists are to be accessed
-        username: "mdestafadilah",
-
-        // a flag indicating whether the github default gist css should be included or not
-        // default: true
-        // DEPRECATED (PLEASE USE gistDefaultCssInclude)
-        includeDefaultCss: true || false,
-
-        // a flag indicating whether the github default gist css should be included or not
-        // default: true
-        gistDefaultCssInclude: true,
-
-        // a flag indicating whether the github default gist css should be preloaded or not
-        // use this if you want to load the default css asynchronously.
-        // default: false
-        gistCssPreload: true,
-
-        // a string that represents the github default gist css url.
-        // defaults: "https://github.githubassets.com/assets/gist-embed-b3b573358bfc66d89e1e95dbf8319c09.css"
-        gistCssUrlAddress: "<string>"
-      }
-    },
-    {
-      resolve: `gatsby-plugin-umami`,
-      options: {
-        websiteId: 'bd67e09c-7e67-422d-b8c3-20e9ce0b9268',
-        srcUrl: 'https://umamilive.vercel.app/umami.js',
-        includeInDevelopment: false,
-        autoTrack: true,
-        respectDoNotTrack: true
-      },
-    },
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-lodash",
     {
       resolve: "gatsby-source-filesystem",
       options: {
         name: "assets",
-        path: `${__dirname}/static/`
-      }
+        path: `${__dirname}/static/`,
+      },
     },
     {
       resolve: "gatsby-source-filesystem",
       options: {
         name: "posts",
-        path: `${__dirname}/content/`
-      }
+        path: `${__dirname}/content/`,
+      },
     },
     {
       resolve: "gatsby-transformer-remark",
@@ -77,58 +43,43 @@ module.exports = {
             options: {
               maxWidth: 660,
               linkImagesToOriginal: false,
-              quality: 100
-            }
+              quality: 100,
+            },
           },
           {
-            resolve: `gatsby-remark-images-medium-zoom`, // Important!
-            options: {
-              background: '#fff',
-              margin: 36,
-              scrollOffset: 0,
-              includedSelector: 'gatsby-resp-image-image'
-            }
-          },
-          {
-            resolve: 'gatsby-remark-embed-video',
+            resolve: "gatsby-remark-embed-video",
             options: {
               width: 660,
               ratio: 1.77, // Optional: Defaults to 16/9 = 1.77
-              related: false, // Optional: Will remove related videos from the end of an embedded YouTube video.
-              noIframeBorder: true // Optional: Disable insertion of <style> border: 0
-            }
+              related: false, //Optional: Will remove related videos from the end of an embedded YouTube video.
+              noIframeBorder: true, //Optional: Disable insertion of <style> border: 0
+            },
           },
           {
-            resolve: "gatsby-remark-responsive-iframe"
+            resolve: "gatsby-remark-responsive-iframe",
           },
           "gatsby-remark-prismjs",
           "gatsby-remark-copy-linked-files",
-          "gatsby-remark-autolink-headers"
-        ]
-      }
+          "gatsby-remark-autolink-headers",
+        ],
+      },
     },
     {
       resolve: `gatsby-plugin-netlify`,
-      options: {
-        headers: {
-          '/*.js': ['cache-control: public, max-age=31536000, immutable'],
-          '/*.css': ['cache-control: public, max-age=31536000, immutable'],
-          '/sw.js': ['cache-control: public, max-age=0, must-revalidate'],
-        },
-      },
     },
     {
       resolve: "gatsby-plugin-google-analytics",
       options: {
-        trackingId: config.googleAnalyticsID
-      }
+        trackingId: config.googleAnalyticsID,
+      },
     },
     {
       resolve: "gatsby-plugin-nprogress",
       options: {
-        color: config.themeColor
-      }
+        color: config.themeColor,
+      },
     },
+    "gatsby-plugin-image",
     "gatsby-plugin-sharp",
     "gatsby-transformer-sharp",
     "gatsby-plugin-catch-links",
@@ -149,24 +100,24 @@ module.exports = {
           {
             src: "/logos/logo-192x192.png",
             sizes: "192x192",
-            type: "image/png"
+            type: "image/png",
           },
           {
             src: "/logos/logo-512x512.png",
             sizes: "512x512",
-            type: "image/png"
-          }
-        ]
-      }
+            type: "image/png",
+          },
+        ],
+      },
     },
-    "gatsby-plugin-offline",
+    "gatsby-plugin-remove-serviceworker",
     {
       resolve: "gatsby-plugin-feed",
       options: {
         setup(ref) {
           const ret = ref.query.site.siteMetadata.rssMetadata;
           ret.allMarkdownRemark = ref.query.allMarkdownRemark;
-          ret.generator = "Topidesta - Tulisan Programmer Gadungan";
+          ret.generator = "Gatsby Blog Template";
           return ret;
         },
         query: `
@@ -189,7 +140,7 @@ module.exports = {
           {
             serialize(ctx) {
               const { rssMetadata } = ctx.query.site.siteMetadata;
-              return ctx.query.allMarkdownRemark.edges.map(edge => ({
+              return ctx.query.allMarkdownRemark.edges.map((edge) => ({
                 categories: edge.node.frontmatter.tags,
                 date: edge.node.fields.date,
                 title: edge.node.frontmatter.title,
@@ -198,15 +149,15 @@ module.exports = {
                 guid: rssMetadata.site_url + edge.node.fields.slug,
                 custom_elements: [
                   { "content:encoded": edge.node.html },
-                  { author: config.userEmail }
-                ]
+                  { author: config.userEmail },
+                ],
               }));
             },
             query: `
             {
               allMarkdownRemark(
                 limit: 1000,
-                sort: { order: DESC, fields: [fields___date] },
+                sort: { order: DESC, fields: [frontmatter___date] },
                 filter: { 
                   frontmatter: { 
                     template: { eq: "post" } 
@@ -233,10 +184,10 @@ module.exports = {
               }
             }
           `,
-            output: config.siteRss
-          }
-        ]
-      }
-    }
-  ]
+            output: config.siteRss,
+          },
+        ],
+      },
+    },
+  ],
 };

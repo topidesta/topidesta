@@ -1,4 +1,0 @@
-backend:
-  name: github
-  branch: master # Branch to update (optional; defaults to master)
-  repo: topidesta/topidesta # Repo for pushing new commits. Make sure to replace with your repo!

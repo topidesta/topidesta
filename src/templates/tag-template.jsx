@@ -7,35 +7,40 @@ import MainContainer from "../components/MainContainer/MainContainer";
 import Sidebar from "../components/Sidebar/Sidebar";
 import PostListing from "../components/PostListing/PostListing";
 import Pagination from "../components/Pagination/Pagination";
-import { getPostList, getTagPath } from "../utils/helpers";
+import { getPostList, getTagPathWithoutTrailingSlash } from "../utils/helpers";
 import config from "../../data/SiteConfig";
 
-const TagTemplate = ({ data, pageContext}) => {
-  const { 
-    tag, tagList, categoryList, latestPostEdges, currentPage, totalPages 
+const TagTemplate = ({ data, pageContext }) => {
+  const {
+    tag,
+    tagList,
+    categoryList,
+    latestPostEdges,
+    currentPage,
+    totalPages,
   } = pageContext;
   const postEdges = data.allMarkdownRemark.edges;
   const postList = getPostList(postEdges);
   const content = (
     <>
-      <PostListing 
-        postList={postList} 
-        hasThumbnail={config.tagHasThumbnail} 
-        hasLoadmore={false} 
+      <PostListing
+        postList={postList}
+        hasThumbnail={config.tagHasThumbnail}
+        hasLoadmore={false}
       />
-      <Pagination 
+      <Pagination
         extraClass="margin-top padding-top-half"
         currentPage={currentPage}
         totalPages={totalPages}
-        pathPrefix={getTagPath(tag)}
+        pathPrefix={getTagPathWithoutTrailingSlash(tag)}
         pathPrefixPagination={config.pathPrefixPagination}
       />
     </>
-  )
+  );
   const sidebar = (
-    <Sidebar 
-      tagList={tagList} 
-      categoryList={categoryList} 
+    <Sidebar
+      tagList={tagList}
+      categoryList={categoryList}
       latestPostEdges={latestPostEdges}
       links={config.sidebarLinks}
     />
@@ -50,7 +55,7 @@ const TagTemplate = ({ data, pageContext}) => {
       </div>
     </Layout>
   );
-}
+};
 
 export default TagTemplate;
 
@@ -60,15 +65,9 @@ export const pageQuery = graphql`
     allMarkdownRemark(
       limit: $limit
       skip: $skip
-      sort: { 
-        fields: [fields___date], 
-        order: DESC 
-      }
-      filter: { 
-        frontmatter: { 
-          tags: { in: [$tag] }, 
-          template: { eq: "post" } 
-        } 
+      sort: { fields: [frontmatter___date], order: DESC }
+      filter: {
+        frontmatter: { tags: { in: [$tag] }, template: { eq: "post" } }
       }
     ) {
       totalCount
@@ -86,9 +85,7 @@ export const pageQuery = graphql`
             categories
             cover {
               childImageSharp {
-                fluid(maxWidth: 660, quality: 100) {
-                  ...GatsbyImageSharpFluid
-                }
+                gatsbyImageData(width: 660, quality: 100, layout: CONSTRAINED)
               }
             }
             date

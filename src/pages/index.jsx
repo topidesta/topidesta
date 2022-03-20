@@ -6,6 +6,7 @@ import Header from "../components/Header/Header";
 import MainContainer from "../components/MainContainer/MainContainer";
 import Sidebar from "../components/Sidebar/Sidebar";
 import PostListing from "../components/PostListing/PostListing";
+import AutoLink from "../components/AutoLink/AutoLink";
 import SEO from "../components/SEO/SEO";
 import { getPostList, getTagCategoryList } from "../utils/helpers";
 import config from "../../data/SiteConfig";
@@ -15,25 +16,40 @@ class Index extends React.Component {
     const postEdges = this.props.data.allMarkdownRemark.edges;
     const postList = getPostList(postEdges);
     const { tagList, categoryList } = getTagCategoryList(postList);
+
     const content = (
-      <PostListing 
-        postList={postList} 
-        hasThumbnail={config.homeHasThumbnail} 
-        hasLoadmore={config.homeHasLoadmore} 
-        postsPerPage={config.postsPerPage}
-        numberLoadmore={config.numberLoadmore}
-        btnLoadmore={config.btnLoadmore}
-      />
+      <>
+        <PostListing
+          postList={postList}
+          hasThumbnail={config.homeHasThumbnail}
+          hasLoadmore={config.homeHasLoadmore}
+          postsPerPage={config.postsPerPage}
+          numberLoadmore={config.numberLoadmore}
+          btnLoadmore={config.btnLoadmore}
+          forcePostsPerPage={config.homeHasLoadmore == false}
+        />
+        {!config.homeHasLoadmore && postList.length > config.postsPerPage && (
+          <div className="more-articles-wrapper margin-top padding-top-half text-center">
+            <AutoLink
+              className="btn btn-primary"
+              to={`${config.pathPrefixBlog}${config.pathPrefixPagination}/2`}
+            >
+              {config.homeMoreArticles}
+            </AutoLink>
+          </div>
+        )}
+      </>
     );
+
     const sidebar = (
-      <Sidebar 
-        tagList={tagList} 
-        categoryList={categoryList} 
+      <Sidebar
+        tagList={tagList}
+        categoryList={categoryList}
         links={config.sidebarLinks}
       />
     );
 
-    const headerTitle = config.homeHeader 
+    const headerTitle = config.homeHeader
       ? `${config.siteTitle} - ${config.homeHeader}`
       : `${config.siteTitle}`;
 
@@ -53,19 +69,12 @@ class Index extends React.Component {
 export default Index;
 
 /* eslint no-undef: "off" */
-export const pageQuery = graphql`
+export const indexQuery = graphql`
   query IndexQuery {
     allMarkdownRemark(
       limit: 2000
-      sort: { 
-        fields: [fields___date], 
-        order: DESC 
-      }
-      filter: { 
-        frontmatter: { 
-          template: { eq: "post" } 
-        } 
-      }
+      sort: { fields: [frontmatter___date], order: DESC }
+      filter: { frontmatter: { template: { eq: "post" } } }
     ) {
       edges {
         node {
@@ -82,9 +91,7 @@ export const pageQuery = graphql`
             date
             cover {
               childImageSharp {
-                fluid(maxWidth: 660, quality: 100) {
-                  ...GatsbyImageSharpFluid
-                }
+                gatsbyImageData(width: 660, quality: 100, layout: CONSTRAINED)
               }
             }
           }

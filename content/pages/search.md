@@ -5,5 +5,5 @@ description: "Search results from Google Custom Search"
 slug: "search"
 ---
 
-<script async src="https://cse.google.com/cse.js?cx=001989067992894107395:bqxk4ijd5_s"></script>
+<script async src="https://cse.google.com/cse.js?cx=008548374781244864787:9ybvtnkbt7o"></script>
 <div class="gcse-searchresults-only"></div>

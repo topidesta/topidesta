@@ -1,7 +1,9 @@
 import React, { Component } from "react";
+import { getSrc } from "gatsby-plugin-image";
 import Helmet from "react-helmet";
 import urljoin from "url-join";
 import config from "../../../data/SiteConfig";
+import { useSlash } from "../../utils/helpers";
 
 class SEO extends Component {
   render() {
@@ -18,10 +20,10 @@ class SEO extends Component {
         ? postMeta.description
         : postNode.excerpt;
 
-      keywords = postMeta.keywords
+      keywords = postMeta.keywords;
 
       if (postMeta.cover) {
-        image = postMeta.cover.childImageSharp.fixed.src;
+        image = getSrc(postMeta.cover);
       }
 
       postURL = urljoin(config.siteUrl, config.pathPrefix, postPath);
@@ -39,8 +41,8 @@ class SEO extends Component {
         "@type": "WebSite",
         url: blogURL,
         name: title,
-        alternateName: config.siteTitleAlt ? config.siteTitleAlt : ""
-      }
+        alternateName: config.siteTitleAlt ? config.siteTitleAlt : "",
+      },
     ];
     if (postSEO) {
       schemaOrgJSONLD.push(
@@ -54,10 +56,10 @@ class SEO extends Component {
               item: {
                 "@id": postURL,
                 name: title,
-                image
-              }
-            }
-          ]
+                image,
+              },
+            },
+          ],
         },
         {
           "@context": "http://schema.org",
@@ -68,9 +70,9 @@ class SEO extends Component {
           headline: title,
           image: {
             "@type": "ImageObject",
-            url: image
+            url: image,
           },
-          description
+          description,
         }
       );
     }
@@ -80,6 +82,7 @@ class SEO extends Component {
         <meta name="description" content={description} />
         <meta name="image" content={image} />
         {keywords && <meta name="keywords" content={keywords} />}
+        <link rel="canonical" href={useSlash(postURL || config.siteUrl)} />
 
         {/* Schema.org tags */}
         <script type="application/ld+json">
