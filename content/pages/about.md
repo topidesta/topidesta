@@ -1,68 +1,29 @@
 ---
-template: "page"
-title: "About"
-description: "This is a description on About"
-slug: "about"
+template: 'page'
+title: 'About me'
+description: 'Halaman Tentang'
+slug: 'about'
 ---
 
-Lorem **markdownum** Ixione palus **semper peritura barbaque** in aureus
-obliquum erigitur gemmae utque cur natus, aera supplice de nudae. Manus
-ambrosiam tendens, saecula tenet, conponere et ense et cucurri. Tantique
-animalia praeceps Meleagre greges venisse corpore et ignara, umquam ipse? Quam
-*Talibus ausis*.
+topidesta.my.id rumah baru dari blog <a href="https://topidesta.my.id/" target="_blank"> topidesta.wordpress.com</a> (iklan diwordpress gratis, sungguh menggila!!). Kali ini Blog ditenagai oleh beberapa teknologi JavaScript (React,GatsbyJS dan Netlify) dan bukan lagi PHP (wordpress), berhubung di wordpress terlalu **_BANYAK IKLAN (ads)_** yang mengganggu, baik pengunjung ataupun saya sebagai penulis merasa terganggu, akhirnya coba cari tau teknologi yang tren (2019) Yes, pertama, hunting domain dulu, kebetulan saya dapat ~~**_GERATIS alias FREE_** (saat domain .dev)~~.
 
-## Sedisti civiliter
+Beberapa teknologi pengembangan website sederhana ini:
 
-Lorem **markdownum** Ixione palus **semper peritura barbaque** in aureus
-obliquum erigitur gemmae utque cur natus, aera supplice de nudae. Manus
-ambrosiam tendens, saecula tenet, conponere et ense et cucurri. Tantique
-animalia praeceps Meleagre greges venisse corpore et ignara, umquam ipse? Quam
-*Talibus ausis*.
+1. [EXABYTES](https://kutt.it/uF3WcK) ~ED: 15/04/2027
+2. [GITHUB](https://kutt.it/github)
+3. [NETLIFY](https://kutt.it/netlify)
+4. [VERCEL](https://kutt.it/vercel)
+5. [GATSBYJS](https://kutt.it/gatsbyjs)
+6. [YARN PACKAGE MANAGER](https://kutt.it/yarn)
+7. [VSCodium](https://kutt.it/vscodium)
 
-## Vultusque subsequitur Pallas regis datis inde animaque
+Tulisan blog ini gak jauh beda dengan blog sebelumnya di wordpress dan konten dari blog ini lebih kekiniian, ya, meski latarbelakang saya dari develover ![Codeigniter Tag](https://img.shields.io/badge/Codeigniter-E34F26?style=for-the-badge&logo=codeigniter&logoColor=white) tapi saya suka belajar hal baru seperti ![Node Tag](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white), ![JavaScript Tag](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E), ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)), ![TypeScript Tag](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white), ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white) ,
+![React Tag](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB), ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB), ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) yang saya coba implementasikan dikantor yang sekarang, untuk Framework UI, saya biasa pakai ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white), ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white), ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white), pola belajarnya pun sama, setiap stack teknologi yang saya pelajari, tidak membaca secara utuh manual book, tapi yang diperlukan saja, selebihnya googling dan baca koding orang, ya, saya bukan developer sejati, cuman abal abal dan hanya sebatas senang, kalo otak luarbiasa ini kepake (logic), masyaAllah lahaulawalakuwatillabillah.
 
-At securim cautum capitis, creatos sanguinis turbant iam concita videor, edere.
-Alis genas rudis felix quas **longum** suorum manu ante prima **usque**. Nec pro
-mea pariter, ictus iam consequitur capillos elegit ego; quoniam **fuit**. Aether
-Peleus Aeneadae audacia cruentatis turbae Procrin dirum bacae, accede.
+Ada beberapa aplikasi yang udah release menggunakan ReactJS (Fronted) dan Codeigniter (Backend), klik ke [Halaman Project](projek) untuk lebih detail.
 
-```php
-    urlLinkedin.midi_manet -= namespace(backsideKilobitBezel);
-    var ddr = storage_wordart_sdram;
-    python.raw_backlink = rfid_load - 4;
-    kibibyte *= cdnThumbnailUri;
-```
+<figure><embed src="https://wakatime.com/share/@topidesta/6d3200ff-9b6f-4d3c-9488-2c546204092d.svg"></embed></figure>
 
-## Fortis dextrae humo limina Tempus singultibus illa
+<figure><embed src="https://wakatime.com/share/@topidesta/7eda6f42-4b96-43e7-9420-273eda8e0f52.svg"></embed></figure>
 
-Nate muros orbe [patris](http://debebuntilla.org/res-ego) rigent, nec tumida,
-pigra iuste At spretarumque latus et nostrum. Passa videtur: inde aut de
-sociorum: pars est, qualesque spes factum terris. Custodia sum animumque; iubet
-in pulvere carus, relinquunt incitat. Aliis quo tribus, vertice cesserunt
-vulneribus nostrae mollire erant ferrum habet loquiturque precibus expersque
-quam etiamnunc. Puraque [repetitque](http://mihi-aiax.io/suaferunt.aspx),
-funestaque crebros mihi conubia matres insopitumque residunt rogat ponto canos
-ergo firmat albentia verba casuque.
-
-```perl
-    if (lion_vdu + vrml_upnp - redundancyAccessPharming) {
-        driveProcessor = floatingWord(commerceDockRestore(database));
-    } else {
-        partition_source_thunderbolt = -2 + tokenStateArchive /
-                teraflops_gigahertz;
-    }
-    exabytePhpMacintosh -= graphic_cycle(expression, memory(ideFatMatrix,
-            controlInboxMode), 50) + -3;
-    buffer_apple_hdmi += viralSync + internetDigital / tweak_perl_expansion(
-            masterNullFloating + vdu, software_play);
-```
-
-## Nati expugnacior nympha milia nascuntur amico
-
-Multis timidus hic si auctor hausit. Suos taedasque, malis est nitente sceleri
-sunt florem.
-
-Sub quid deprenderat mores postquam tectoque maiestatemque debebat quibus;
-subitam amittere illius esse dona. Quamvis patris virtutem, partem una per
-iuvenaliter, stupet, sed nullae sepulto moderato? Nec phaedimus aequoris dixit.
-Hic bis parenti: e petunt satis.
+> Akhir kata, happy coding!
