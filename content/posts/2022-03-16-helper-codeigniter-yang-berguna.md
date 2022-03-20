@@ -3,7 +3,7 @@ template: 'post'
 title: Helper Codeigniter Yang Berguna
 cover: '../images/ci2.png'
 date: '2022-03-16T08:00:00Z'
-slug: 'perkenalan-dengan-grav-cms'
+slug: 'helper-codeigniter-yang-berguna'
 keywords: 'Helper Codeigniter Yang Berguna'
 categories:
   - share
