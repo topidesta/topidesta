@@ -18,6 +18,16 @@ module.exports = {
     },
   },
   plugins: [
+    {
+      resolve: `gatsby-plugin-umami`,
+      options: {
+        websiteId: 'bd67e09c-7e67-422d-b8c3-20e9ce0b9268',
+        srcUrl: 'https://umamilive.vercel.app/umami.js',
+        includeInDevelopment: false,
+        autoTrack: true,
+        respectDoNotTrack: true
+      },
+    },
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-lodash",
     {
@@ -45,6 +55,15 @@ module.exports = {
               linkImagesToOriginal: false,
               quality: 100,
             },
+          },
+          {
+            resolve: `gatsby-remark-images-medium-zoom`, // Important!
+            options: {
+              background: '#fff',
+              margin: 36,
+              scrollOffset: 0,
+              includedSelector: 'gatsby-resp-image-image'
+            }
           },
           {
             resolve: "gatsby-remark-embed-video",
@@ -117,7 +136,7 @@ module.exports = {
         setup(ref) {
           const ret = ref.query.site.siteMetadata.rssMetadata;
           ret.allMarkdownRemark = ref.query.allMarkdownRemark;
-          ret.generator = "Gatsby Blog Template";
+          ret.generator = "Topidesta - Tulisan Programmer Gadungan";
           return ret;
         },
         query: `
