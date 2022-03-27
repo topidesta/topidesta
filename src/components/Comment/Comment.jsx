@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Giscus from "./Giscus";
+import Giscus from "./GiscusKomentar";
 
 class Comment extends Component {
   state = {

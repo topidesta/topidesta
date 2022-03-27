@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import { Giscus } from '@giscus/react';
 
-class Giscus extends Component {
+class GiscusKomentar extends Component {
   constructor(props) {
     super(props)
     this.state = {
@@ -16,7 +16,7 @@ class Giscus extends Component {
     return (
       <>
       <h1>{post.title}</h1>
-      <Giscus
+      <GiscusKomentar
         repo="topidesta/topidesta"
         repoId="MDEwOlJlcG9zaXRvcnkyMDA1ODIyNTk="
         category="Comments"
