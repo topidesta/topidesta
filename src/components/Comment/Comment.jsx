@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Disqus from "./Disqus";
+import Giscus from "./Giscus";
 
 class Comment extends Component {
   state = {
@@ -23,7 +23,7 @@ class Comment extends Component {
           </button>
         )}
 
-        {this.state.isShow && <Disqus postNode={postNode} />}
+        {this.state.isShow && <Giscus postNode={postNode} />}
       </div>
     );
   }
