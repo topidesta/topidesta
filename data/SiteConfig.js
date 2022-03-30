@@ -5,7 +5,7 @@ const config = {
   siteTitleAlt: 'Topidesta - https://topidesta.my.id/', // Alternative site title for SEO.
   siteLogo: '/logos/logo-1024x1024.png', // Logo used for SEO and manifest.
   siteUrl: 'https://topidesta.my.id', // Domain of your website without pathPrefix.
-  pathPrefix: '', // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
+  pathPrefix: '/', // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   siteDescription: 'Topidesta - Tulisan Programmer Gadungan', // Website description used for RSS feeds/meta description tag.
   siteRss: '/rss.xml', // Path to the RSS file.
   siteLang: 'id-ID',
@@ -19,7 +19,7 @@ const config = {
   dateFromFormat: 'YYYY-MM-DDTHH:mm:ssZ', // Date format used in the frontmatter.
   dateFormat: 'DD/MMMM/YYYY', // Date format for display.
   postTagged: '',
-  postInCategories: '',
+  postInCategories: 'trick',
   postOnDate: 'Tampil ',
   // Use for comment
   lazyLoadComments: true,
@@ -82,14 +82,14 @@ const config = {
     },
   ],
   // Use for user info
-  userName: "Lam Pham", // Username to display in the author segment.
-  userEmail: "dev@completejavascript.com", // Email used for RSS feed"s author segment
-  userTwitter: "CmpltJavaScript", // Optionally renders "Follow Me" in the UserInfo segment.
-  userLocation: "Hanoi, Vietnam", // User location to display in the author segment.
+  userName: "mdestafadilah", // Username to display in the author segment.
+  userEmail: "desta@rsuppersahabatan.co.id", // Email used for RSS feed"s author segment
+  userTwitter: "emang_dasar", // Optionally renders "Follow Me" in the UserInfo segment.
+  userLocation: "Jakarta, Indonesia", // User location to display in the author segment.
   userAvatar:
     "https://www.gravatar.com/avatar/42fd3d526fde1ef76d5002e4ebd303e9.jpg?s=300", // User avatar to display in the author segment.
   userDescription:
-    "Software Engineer, Web Developer, JavaScript Lover & Blogger @completejavascript.", // User description to display in the author segment.
+    "Topidesta - Tulisan Programmer Gadungan.", // User description to display in the author segment.
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
     {

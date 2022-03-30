@@ -21,6 +21,10 @@ slug: 'projek'
 
 > 👉 [Klik untuk Kloningan dari Freecodecamp](project-kloningan-dari-freecodecamp)
 
+## Aplikasi (ATM) dari KelasKoding (Bahasa Indonesia)
+
+> 👉 [Klik untuk Kloningan dari kelasKoding](project-kloningan-dari-kelaskoding)
+
 ---
 
 ## Aplikasi akses Publik
