@@ -62,6 +62,16 @@ selanjutnya, kita akan setting `GOPATH` sebagai workspace project kita, terkait 
 
 ![GOPATH Windows](../images/go-path-project.png)
 
+Untul melakukan pengecekan konfigurasi lakukan perintah seperti dibawah ini:
+```bash
+go env
+```
+
+Jika sudah nanti akan muncul konfigurasi golang di PC kita.
+![GOENV](../images/go-env.png)
+
+info dari sini -> https://stackoverflow.com/a/36800555
+
 verifikasi apakah `GOPATH` sudah benar dengan download hellworld golang:
 
 ```cms
