@@ -20,9 +20,9 @@ Kali ini gw mau share beberapa vidio series tentang membangun Project TODO List 
 
 Untuk vidionya, diambil dari Udemy dan KelasKoding, berikut ini link yang bisa diakses ya.
 
-1. https://www.udemy.com/share/105gKQ3@T0Gw89ilRjEqeDryrMCJSSnmHtOP9lUh_S3ouamtWS8EgS0nxK4rfFGLsuUJoXY4/
-2. https://sekolahkoding.com/kelas/membuat-rest-api-dengan-gingo
-3. https://sekolahkoding.com/kelas/webserver-go-dengan-gin-dan-gorm (BONUS)
+1. http://go.topidesta.my.id/udemy-golang-todolist
+2. http://go.topidesta.my.id/rest-api-golang
+3. http://go.topidesta.my.id/rest-gin-gorm (BONUS)
 
 sebetulnya gw mau share kalo dah jadi sih, cuman ini biar gw inget dan fokus aja, dan kalo ada yang mau liat proses nyah, lumayan buat nambah portofolio sih, hehe.
 
