@@ -79,6 +79,24 @@ go get github.com/golang/example/hello
 %GOPATH%/bin/hello
 ```
 
+## Update 2022
+```bash
+λ go get github.com/golang/example/hello
+go: go.mod file not found in current directory or any parent directory.
+        'go get' is no longer supported outside a module.
+        To build and install a command, use 'go install' with a version,
+        like 'go install example.com/cmd@latest'
+        For more information, see https://golang.org/doc/go-get-install-deprecation
+        or run 'go help get' or 'go help install'.
+```
+
+tinggal update init module nya dulu..
+
+```bash
+go mod init
+```
+
+
 jika gopath sesuai akan muncul seperti ini:
 ![GOPATH HELLOW](../images/go-path-hello.png)
 
