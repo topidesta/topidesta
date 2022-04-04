@@ -13,8 +13,8 @@ const config = {
   googleAnalyticsID: '146436102', // GA tracking ID.
   postDefaultCategoryID: 'trick', // Default category for posts.
   // Common for tag, category pages and widget
-  numberLatestPost: 8,
-  postsPerPage: 6,
+  numberLatestPost: 10,
+  postsPerPage: 8,
   // Use for post
   dateFromFormat: 'YYYY-MM-DDTHH:mm:ssZ', // Date format used in the frontmatter.
   dateFormat: 'DD/MMMM/YYYY', // Date format for display.
@@ -32,7 +32,7 @@ const config = {
   homeHasLoadmore: true,
   homeHasThumbnail: true,
   homeHeader: 'Indek',
-  homeMoreArticles: "More articles",
+  homeMoreArticles: "Artikel lainnya",
   // Use for page
   pathPrefixPagination: "/page", // Prefix path for pagination
   pageNotFoundTitle: 'Halaman Tidak Ditemukan', //
@@ -41,20 +41,20 @@ const config = {
     "Wow, Halaman benar benar tidak ada woy!.",
   // Use for tag
   pathPrefixTag: "/tag", // Prefix path for tags
-  tagHeader: "Posts tagged as", // use in header of tag-template page
+  tagHeader: "Posting Tag", // use in header of tag-template page
   tagHasThumbnail: true,
   // Use for category
   pathPrefixCategory: "/category", // Prefix path for category
-  categoryHeader: "Posts in category", // use in header of category-template page
+  categoryHeader: "Kategori Posting", // use in header of category-template page
   categoryHasThumbnail: true,
   // Use for blog
   pathPrefixBlog: "/blog", // Prefix path for blog
   blogHeader: "Blog", // use in header of category-template page
   blogHasThumbnail: true,
   // Use for widget
-  categoryWidgetTitle: "Categories",
+  categoryWidgetTitle: "Kategori",
   tagWidgetTitle: "Tags",
-  latestPostsWidgetTitle: "Latest posts",
+  latestPostsWidgetTitle: "Posting Terbaru",
   linksWidgetTitle: "Links",
   // Use for Google custom search
   searchWidgetTitle: "Looking for?",
@@ -160,7 +160,7 @@ const config = {
     },
     {
       label: 'RSS',
-      url: 'https://topidesta.netlify.app/rss.xml',
+      url: 'https://topidesta.my.id/rss.xml',
       iconClassName: 'fas rss',
     },
   ],
