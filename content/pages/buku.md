@@ -69,3 +69,5 @@ slug: 'buku'
 5. [Go Succinctly](https://topidesta.files.wordpress.com/2022/04/go-succinctly.pdf)
 6. [Go For Webdev](https://topidesta.files.wordpress.com/2022/04/go-web-dev.pdf)
 7. [Go BOOK List](https://github.com/mdestafadilah/GoBooks)
+8. [Tour Golang](https://tour.golang.org/)
+9. [Effective Go](https://go.dev/doc/effective_go)
