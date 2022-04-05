@@ -97,7 +97,11 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 
 ### Golang Class
 
-1. Udemy - Golang build RESTful APIs with Golang (Go programming lang)
+1. Udemy - Golang build RESTful APIs with Golang
+2. Udemy - The Complete Golang Academy
+3. Udemy - Build Todo List with Golang Fiber
+4. KelasKoding - Membuat REST API dengan Gin/Go
+5. KelasKoding - Webserver Go dengan Gin dan Gorm
 
 ### BOT Class
 
