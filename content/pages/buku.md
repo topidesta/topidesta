@@ -66,3 +66,6 @@ slug: 'buku'
 2. [Web App with GO](https://topidesta.files.wordpress.com/2018/03/build-web-application-with-golang-en.pdf)
 3. [Dasar Pemograman GO bhs Indonesia](https://topidesta.files.wordpress.com/2020/03/dasarpemrogramangolang.pdf)
 4. [GO Tutorial](https://topidesta.files.wordpress.com/2020/03/go_tutorial.pdf)
+5. [Go Succinctly](https://topidesta.files.wordpress.com/2022/04/go-succinctly.pdf)
+6. [Go For Webdev](https://topidesta.files.wordpress.com/2022/04/go-web-dev.pdf)
+7. [Go BOOK List](https://github.com/mdestafadilah/GoBooks)
