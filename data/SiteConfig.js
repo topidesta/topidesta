@@ -11,7 +11,7 @@ const config = {
   siteLang: 'id-ID',
   siteFBAppID: '', // FB Application ID for using app insights
   googleAnalyticsID: '146436102', // GA tracking ID.
-  postDefaultCategoryID: 'trick', // Default category for posts.
+  postDefaultCategoryID: '', // Default category for posts.
   // Common for tag, category pages and widget
   numberLatestPost: 10,
   postsPerPage: 8,
@@ -19,7 +19,7 @@ const config = {
   dateFromFormat: 'YYYY-MM-DDTHH:mm:ssZ', // Date format used in the frontmatter.
   dateFormat: 'DD/MMMM/YYYY', // Date format for display.
   postTagged: '',
-  postInCategories: 'trick',
+  postInCategories: '',
   postOnDate: 'Tampil ',
   // Use for comment
   lazyLoadComments: true,

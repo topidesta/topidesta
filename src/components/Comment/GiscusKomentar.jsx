@@ -25,6 +25,7 @@ class GiscusKomentar extends Component {
         reactionsEnabled="1"
         emitMetadata="0"
         theme="light"
+        crossorigin="anonymous"
       />
       </>
     )

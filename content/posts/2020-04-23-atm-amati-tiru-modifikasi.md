@@ -19,7 +19,7 @@ Saat belajar ReactJS pun sama, kebetulan gw pengen buat aplikasi pencarian dokte
 
 Karena konsep belajar gw itu **ATM** jadi gak ada yang istimewa, apa bisa dibilang plagiator? ya bisa juga, jika gw publish aplikasi gw hanya pada tahap **tiru** dan tidak merubah, ouh iya, meski dirubah, kadang kalo aplikasi tersebut memiliki semacam **LICENSE** gw ikuti, minimal menambahkan link aselinya. :) 
 
-more info 👉 [Klik https://topidesta.my.id/projek](https://topidesta.my.id/projek)
+more info 👉 [Klik https://topidesta.my.id/projek](https://topidesta.my.id/projek#aplikasi-akses-publik)
 
 Inget gw masih tahap **amati** soalnya gw langsung fork, takut takut nanti dihapus/ direadonly sama programmernya, jadi kita **tiru** berdasarkan commit di projectnya. hehe
 
