@@ -7,23 +7,23 @@ slug: 'projek'
 
 ## Aplikasi (ATM) dari 🆄🅳🅴🅼🆈 atau 🅴🅶🅶🅷🅴🅰🅳
 
-> 👉 [Klik untuk Kloningan dari Udemy/ Egghead](project-kloningan-dari-udemy-egghead)
+> 👉 [Klik untuk Kloningan dari Udemy/ Egghead](/project-kloningan-dari-udemy-egghead)
 
 ## Aplikasi (ATM) dari 🆈🅾🆄🆃🆄🅱🅴 
 
-> 👉 [Klik untuk Kloningan dari Youtube](project-kloningan-dari-youtube)
+> 👉 [Klik untuk Kloningan dari Youtube](/project-kloningan-dari-youtube)
 
 ## Aplikasi (ATM) dari 🅳🅴🆅 atau 🅼🅴🅳🅸🆄🅼
 
-> 👉 [Klik untuk Kloningan dari Dev atau Medium](project-kloningan-dari-dev-atau-medium)
+> 👉 [Klik untuk Kloningan dari Dev atau Medium](/project-kloningan-dari-dev-atau-medium)
 
 ## Aplikasi (ATM) dari 🅕🅡🅔🅔🅒🅞🅓🅔🅒🅐🅜🅟
 
-> 👉 [Klik untuk Kloningan dari Freecodecamp](project-kloningan-dari-freecodecamp)
+> 👉 [Klik untuk Kloningan dari Freecodecamp](/project-kloningan-dari-freecodecamp)
 
 ## Aplikasi (ATM) dari KelasKoding (Bahasa Indonesia)
 
-> 👉 [Klik untuk Kloningan dari kelasKoding](project-kloningan-dari-kelaskoding)
+> 👉 [Klik untuk Kloningan dari kelasKoding](/project-kloningan-dari-kelaskoding)
 
 ---
 

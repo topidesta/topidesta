@@ -11,11 +11,11 @@ Ada banyak teknologi yang berkembang, halaman ini sebagai pengingat saya dalam b
 
 Dalam belajar, saya bisa menjadi apa saja, artinya selama hal itu tidak menggangu kegiatan/ pekerjaan, bahkan dapat membantu maka saya akan pelajari, saya tertarik pada **front-End** ataupun **back-End**. Saat ini fokus belajar saya disisi Front-End, pada bahasa JavaScript Terutama React.
 
-Link [Video](video) adalah halaman untuk menampilkan video tutorial yang saya ikuti, mohon maaf kebanyakan didapatkan dengan cara Torrent, dan beberapa akses dengan user/password terbatas (hanya 2-3 ), sekali lagi, kalo punya duit yang gak kepake, mending beli buat tutorialnya, kalo saya kepake buat bayar kuota internetnya.
+Link [Video](/video) adalah halaman untuk menampilkan video tutorial yang saya ikuti, mohon maaf kebanyakan didapatkan dengan cara Torrent, dan beberapa akses dengan user/password terbatas (hanya 2-3 ), sekali lagi, kalo punya duit yang gak kepake, mending beli buat tutorialnya, kalo saya kepake buat bayar kuota internetnya.
 
-Link [Buku](buku) adalah halaman untuk buku tutorial yang gw coba baca. hehe. kadang pengen baca kadang pengen liat video, tutorialnya.
+Link [Buku](/buku) adalah halaman untuk buku tutorial yang gw coba baca. hehe. kadang pengen baca kadang pengen liat video, tutorialnya.
 
-Link [Sertifikat](sertifikat) adalah halaman bukti belajar gw sudah kelar dan sourcecode belajar disimpan di Halaman [ATM Github](https://github.com/amati-tiru-modifikasi).
+Link [Sertifikat](/sertifikat) adalah halaman bukti belajar gw sudah kelar dan sourcecode belajar disimpan di Halaman [ATM Github](https://github.com/amati-tiru-modifikasi).
 
 ### php
 

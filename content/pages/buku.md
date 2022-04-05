@@ -71,3 +71,4 @@ slug: 'buku'
 7. [Go BOOK List](https://github.com/mdestafadilah/GoBooks)
 8. [Tour Golang](https://tour.golang.org/)
 9. [Effective Go](https://go.dev/doc/effective_go)
+10. [Go for Javascript Developer](http://www.pazams.com/Go-for-Javascript-Developers/)
