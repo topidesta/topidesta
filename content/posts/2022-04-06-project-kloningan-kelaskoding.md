@@ -19,6 +19,7 @@ Berikut ini hasil tutorial yang ada di website [Kelas Koding](https://sekolahkod
 
 | No  | Nama Aplikasi | Sumber | Github | Times |
 | :-: | :-----------: | :----: | :----: | :---: |
+| 1 | Webserver Go dengan Gin dan Gorm | Cek | Cek | Times|
 
 Untuk sourcecode bisa direpositori [Amati-Tiru-Modifikasi](https://github.com/amati-tiru-modifikasi).
 
