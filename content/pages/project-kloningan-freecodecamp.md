@@ -1,5 +1,5 @@
 ---
-template: 'post'
+template: 'page'
 title: Project Kloningan dari Freecodecamp
 cover: '../images/freecodecamp.png'
 date: '2021-11-01T14:00:00Z'

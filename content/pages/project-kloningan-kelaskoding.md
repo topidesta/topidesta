@@ -1,5 +1,5 @@
 ---
-template: 'post'
+template: 'page'
 title: Project Kloningan dari kelaskoding
 cover: '../images/kelaskoding.png'
 date: '2022-04-06T14:00:00Z'

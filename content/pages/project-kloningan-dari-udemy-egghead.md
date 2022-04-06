@@ -1,5 +1,5 @@
 ---
-template: 'post'
+template: 'page'
 title: Project Kloningan dari Udemy/ Egghead
 cover: '../images/udemy.png'
 date: '2021-08-09T20:00:00Z'

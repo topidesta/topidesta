@@ -1,5 +1,5 @@
 ---
-template: 'post'
+template: 'page'
 title: Project Kloningan dari Dev atau Medium
 cover: '../images/md.png'
 date: '2021-10-15T14:00:00Z'

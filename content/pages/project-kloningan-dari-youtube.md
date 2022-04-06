@@ -1,5 +1,5 @@
 ---
-template: 'post'
+template: 'page'
 title: Project Kloningan dari Youtube
 cover: '../images/you-tube.png'
 date: '2021-06-02T04:00:00Z'
