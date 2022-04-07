@@ -102,6 +102,9 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 3. Udemy - Build Todo List with Golang Fiber
 4. KelasKoding - Membuat REST API dengan Gin/Go
 5. KelasKoding - Webserver Go dengan Gin dan Gorm
+6. [Building Golang Server with Echo](https://youtube.com/playlist?list=PLFmONUGpIk0YwlJMZOo21a9Q1juVrk4YY)
+7. [Build REST API in Golang using Echo](https://youtube.com/playlist?list=PLhyfDOou2eQ1AJsAIRqaEUwx0blZ0UKG2)
+
 
 ### BOT Class
 
