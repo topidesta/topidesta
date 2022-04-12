@@ -28,6 +28,26 @@ module.exports = {
         respectDoNotTrack: true
       },
     },
+    {
+      resolve: "gatsby-transformer-remark",
+      options: {
+        plugins: [
+          {
+            resolve: "gatsby-remark-embed-gist",
+            options: {
+              // Optional:
+    
+              // the github handler whose gists are to be accessed
+              username: 'mdestafadilah',
+    
+              // a flag indicating whether the github default gist css should be included or not
+              // default: true
+              includeDefaultCss: true
+            }
+          }
+        ]
+      }
+    },
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-lodash",
     {
