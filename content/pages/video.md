@@ -67,6 +67,11 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 25. [Intro to React: Build Youtube App](https://www.udemy.com/share/1049fI2@PUdKfWJjc1QPc0JKC3pxVD1uYFRL/) **Certificate Avaliable**
 26. [React Native Made Easy](https://www.udemy.com/share/104MJ42@PkdgfVpbSlEGek5EO0hNVA==/) **Certificate Avaliable**
 
+### NextJS Class
+
+1. [Build a FullStack App with Next.js, Supabase & Prisma](https://themodern.dev/courses/build-a-fullstack-app-with-nextjs-supabase-and-prisma-322389284337222224)
+2. [Magic Link Authentication in Next.js with NextAuth and Fauna](https://alterclass.io/tutorials/magic-link-authentication-in-nextjs-with-nextauth-and-fauna)
+
 ### Vue Class
 
 1. [React vs Angular vs Vue](https://www.udemy.com/share/101t9AAEIbdVZbTXo=/) **Certificate Avaliable**
