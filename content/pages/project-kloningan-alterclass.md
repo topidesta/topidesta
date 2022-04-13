@@ -1,7 +1,6 @@
 ---
 template: 'page'
 title: Project Kloningan dari alterclass
-cover: '../images/alterclass.png'
 date: '2022-04-06T14:00:00Z'
 slug: 'project-kloningan-dari-alterclass'
 keywords: 'Project Kloningan dari alterclass'
