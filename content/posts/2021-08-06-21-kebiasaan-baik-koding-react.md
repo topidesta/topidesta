@@ -17,7 +17,7 @@ Bismillah
 Entah kadang "Kebiasan Buruk" selalu terulang karena kita jarang membaca Updatenyah hehe, berikut ini 21 kebiasan yang diantarnya pernah gw alami.
 Langsung ajah berikut ini 21 Kebiasan Programmer ReactJS, terutama gw sendiri hehe.
 
-1. Gunakan JSX
+# 1. Gunakan JSX
 
 ```javascript
 // Bad
@@ -27,7 +27,7 @@ return <Navbar showTitle={true} />
 return <Navbar showTitle />
 ```
 
-2. Gunakan Logika Ternary
+# 2. Gunakan Logika Ternary
 
 ```javascript
 // Bad
@@ -44,7 +44,7 @@ const { role } = user
 return role === ADMIN ? <AdminUser /> : <NormalUser />
 ```
 
-3. Manfaatkan Object Literal
+# 3. Manfaatkan Object Literal
 
 ```javascript
 // Bad
@@ -72,7 +72,7 @@ const Component = components[role]
 return <Componenent />
 ```
 
-4. Gunakan Fragments
+# 4. Gunakan Fragments
 
 ```javascript
 // Bad
@@ -94,7 +94,7 @@ return (
 )
 ```
 
-5. Tidak membuat sebuah Function di dalam Render
+# 5. Tidak membuat sebuah Function di dalam Render
 
 ```javascript
 // Bad
@@ -111,7 +111,7 @@ const submitData = () => dispatch(ACTION_TO_SEND_DATA)
 return <button onClick={submitData}>This is a good example</button>
 ```
 
-6. Gunakan Memo
+# 6. Gunakan Memo
 
 ```javascript
 // Bad
@@ -144,7 +144,7 @@ const ChildrenComponent = React.memo(({ userName }) => {
 })
 ```
 
-7. Gunakan Tag Javascript untuk CSS
+# 7. Gunakan Tag Javascript untuk CSS
 
 ```javascript
 // Bad
@@ -161,7 +161,7 @@ const bodyStyle = {
 return <div style={bodyStyle}></div>
 ```
 
-8. Gunakan Object Destructure
+# 8. Gunakan Object Destructure
 
 ```javascript
 // Bad
@@ -185,7 +185,7 @@ return (
 )
 ```
 
-9. String Tidak Perlu Kurung Kurawal
+# 9. String Tidak Perlu Kurung Kurawal
 
 ```javascript
 // Bad
@@ -195,7 +195,7 @@ return <Navbar title={'My Special App'} />
 return <Navbar title="My Special App" />
 ```
 
-10. Jangan Gunakan kode JS di JSX
+# 10. Jangan Gunakan kode JS di JSX
 
 ```javascript
 // Bad
@@ -230,7 +230,7 @@ return (
 )
 ```
 
-11. Gunakan Template Literal
+# 11. Gunakan Template Literal
 
 ```javascript
 // Bad
@@ -244,7 +244,7 @@ const userDetails = `${user.name}'s profession is ${user.proffession}`
 return <div> {userDetails} </div>
 ```
 
-12. Import sesuaikan Urutan
+# 12. Import sesuaikan Urutan
 
 ```javascript
 // Bad
@@ -268,7 +268,7 @@ import ErrorImg from '../../assets/images/error.png'
 import colors from '../../styles/colors'
 ```
 
-13. Gunakan **implicit** returnya
+# 13. Gunakan **implicit** returnya
 
 ```javascript
 // Bad
@@ -280,7 +280,7 @@ const add = (a, b) => {
 const add = (a, b) => a + b
 ```
 
-14. Penamaan Komponen dengan PascalCase
+# 14. Penamaan Komponen dengan PascalCase
 
 ```javascript
 // Bad
@@ -294,7 +294,7 @@ import ReservationCard from './ReservationCard';
 const reservationItem = <ReservationCard />;
 ```
 
-15. Jangan Gunakan Propertis yang digunakan DOM
+# 15. Jangan Gunakan Propertis yang digunakan DOM
 
 ```javascript
 // Bad
@@ -306,7 +306,7 @@ const reservationItem = <ReservationCard />;
 <MyComponent variant="fancy" />
 ```
 
-16. Selalu Gunakan Double Qoutes 
+# 16. Selalu Gunakan Double Qoutes 
 
 ```javascript
 // Bad
@@ -320,7 +320,7 @@ const reservationItem = <ReservationCard />;
 <Foo style={{ left: '20px' }} />
 ```
 
-17. Penamaan Prop dengan camelCase 
+# 17. Penamaan Prop dengan camelCase 
 
 ```javascript
 // Bad
@@ -337,7 +337,7 @@ const reservationItem = <ReservationCard />;
 />
 ```
 
-18. Selalu Wrap setelah Tutup Kurung Return
+# 18. Selalu Wrap setelah Tutup Kurung Return
 
 ```javascript
 // Bad
@@ -353,7 +353,7 @@ return (
 );
 ```
 
-19. Closing Tag di Tempat yang Sama
+# 19. Closing Tag di Tempat yang Sama
 
 ```javascript
 // Bad
@@ -363,7 +363,7 @@ return (
 <SomeComponent variant="stuff" />
 ```
 
-20. Jangan Gunakan _Underscore di Method
+# 20. Jangan Gunakan _Underscore di Method
 
 ```javascript
 // Bad
@@ -377,7 +377,7 @@ const onClickHandler = () => {
 }
 ```
 
-21. Selalu gunakan Prop "alt" di Gambar
+# 21. Selalu gunakan Prop "alt" di Gambar
 
 ```javascript
 // Bad
