@@ -39,10 +39,19 @@ module.exports = {
     
               // the github handler whose gists are to be accessed
               username: 'mdestafadilah',
-    
+
               // a flag indicating whether the github default gist css should be included or not
               // default: true
-              includeDefaultCss: true
+              gistDefaultCssInclude: true,
+
+              // a flag indicating whether the github default gist css should be preloaded or not
+              // use this if you want to load the default css asynchronously.
+              // default: false
+              gistCssPreload: true,
+
+              // a string that represents the github default gist css url.
+              // defaults: "https://github.githubassets.com/assets/gist-embed-b3b573358bfc66d89e1e95dbf8319c09.css"
+              gistCssUrlAddress: "<string>"
             }
           }
         ]

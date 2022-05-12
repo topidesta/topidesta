@@ -39,3 +39,5 @@ Lanjut ke scriptnya beserta manfaat singkatnya, untuk sumber *code* nyah gw sert
 
 > script diatas khusus PHP < 5.4 yang tidak bisa menggunakan fungsi array_column() php > 5.5 
 
+# TODO masih ada Banyak ... staytune!
+
