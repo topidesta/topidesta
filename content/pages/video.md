@@ -67,6 +67,13 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 25. [Intro to React: Build Youtube App](https://www.udemy.com/share/1049fI2@PUdKfWJjc1QPc0JKC3pxVD1uYFRL/) **Certificate Avaliable**
 26. [React Native Made Easy](https://www.udemy.com/share/104MJ42@PkdgfVpbSlEGek5EO0hNVA==/) **Certificate Avaliable**
 
+### TypeScript Class
+
+1. [React Typescript Master Class](https://www.udemy.com/share/104cTU3@9slyy4tfdqxWMNm4Fmc2jBS0b0q7h4slk6ELrqW12HpWTXCchxc3-0ElRtTQTzeI/)
+2. [React Typescript with Jest Testing](https://www.udemy.com/share/104i6w3@dNPTIKRkf6Jh3mwvCKFSEFULuI5Dr-33dSB6DAA4KwaE4e4UsPyXCHQHBiOP1K1t/)
+3. [Learn Typescript with Svelte](https://www.udemy.com/share/1054Ue3@tO_ujGvzgGdbAm2uA4zJlmNBx8NnnpA05L2eklCUVpLTsIBIbJ2oAkZFnq2mWy6Z/)
+4. [Learn Typesccript with NestJS - Modern Backend Development](https://www.udemy.com/share/101Xti3@pKqea8Nkj9iQg5OQhTIQeumXYrwTtSbjlQi4ClcnEUYN679UOByZiEagh8UINEpW/)
+
 ### NextJS Class
 
 1. [Build a FullStack App with Next.js, Supabase & Prisma](https://themodern.dev/courses/build-a-fullstack-app-with-nextjs-supabase-and-prisma-322389284337222224)
