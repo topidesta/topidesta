@@ -15,7 +15,7 @@ tags:
 
 Bismillah ....
 
-Kebetulan lagi pengen cari Alternatif FlatFile CMS, hampir semuanya mengarah ke MERN Stack. Kebetulan PHP masih menjadi Dominasi dan juga kebutuhan kantor sekarang jadi carilah Cms PHP dengan FlatFile support (tanpa koneksi Database), cari sana sini, termasuk dokumentasi serta dukungan komunitas yang banyak, akhirnya coba deh GetGrav CMS.
+Kebetulan lagi pengen cari Alternatif FlatFile CMS, hampir semuanya mengarah ke MERN Stack. Kebetulan PHP masih menjadi Dominasi dan juga kebutuhan kantor sekarang jadi carilah Cms PHP dengan FlatFile support (tanpa koneksi Database), cari sana sini, termasuk dokumentasi serta dukungan komunitas yang banyak, akhirnya coba deh GetGrav CMS.. Contohnya ada di halaman ini -> [me](http://me.topidesta.my.id/).
 
 > https://getgrav.org/about
 
