@@ -16,6 +16,12 @@ Berikut ini beberapa Pelatihan Online yang udah gw Ikutin, diantaranya.
 3. http://ude.my/UC-02938034-bf65-4a86-ab22-28fd861c2444 (Start Coding Browser Extenstion Using Javascript)
 
 
-source: DATA-UDEMY-SERTIFIKAT
+## Dicoding.com
 
+1. (Cloud Practitioner Essentials (Belajar Dasar AWS Cloud))
+2. (Belajar Dasar Pemrograman JavaScript)
+3. (Belajar Membuat Aplikasi Back-End untuk Pemula)
+4. (Architecting on AWS (Membangun Arsitektur Cloud di AWS))
+5. (Belajar Fundamental Aplikasi Back-End)
+6. (Menjadi Back-End Developer Expert)
 
