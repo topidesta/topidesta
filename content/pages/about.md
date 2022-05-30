@@ -7,6 +7,18 @@ slug: 'about'
 
 topidesta.my.id rumah baru dari blog <a href="https://topidesta.my.id/" target="_blank"> topidesta.wordpress.com</a> (iklan diwordpress gratis, sungguh menggila!!). Kali ini Blog ditenagai oleh beberapa teknologi JavaScript (React,GatsbyJS dan Netlify) dan bukan lagi PHP (wordpress), berhubung di wordpress terlalu **_BANYAK IKLAN (ads)_** yang mengganggu, baik pengunjung ataupun saya sebagai penulis merasa terganggu, akhirnya coba cari tau teknologi yang tren (2019) Yes, pertama, hunting domain dulu, kebetulan saya dapat ~~**_GERATIS alias FREE_** (saat domain .dev)~~.
 
+## Siapa Dibalik Topidesta?
+
+Yaps, topidesta hanya sebuah nama blog biar mudah di ingat, Gw sendiri seorang **Fullstack Developer** di salah satu Rumah Sakit di Jakarta Timur, nama gw MUCHAMAD DESTA FADILAH. Berdasarkan halaman dari about.me/desta ... gw men-claim diri gw sebagai berikut.
+
+```bash
+Fullstack Developer? Yes i do, because I'm at government environment. I fall in love ReactJS and NextJS.
+
+But I'm Not Frontend Master. My Background From Codeigniter Stack, but I'm not Backend Master too.
+
+But, I'm want be Professional at my way. Now, I'm Learning Golang,and Do some Project with ReactJS or NextJS Cycle.
+```
+
 Beberapa teknologi pengembangan website sederhana ini:
 
 1. [EXABYTES](https://kutt.it/uF3WcK) ~ED: 15/04/2027
