@@ -19,6 +19,8 @@ Saat belajar ReactJS pun sama, kebetulan gw pengen buat aplikasi pencarian dokte
 
 Karena konsep belajar gw itu **ATM** jadi gak ada yang istimewa, apa bisa dibilang plagiator? ya bisa juga, jika gw publish aplikasi gw hanya pada tahap **tiru** dan tidak merubah, ouh iya, meski dirubah, kadang kalo aplikasi tersebut memiliki semacam **LICENSE** gw ikuti, minimal menambahkan link aselinya. :) 
 
+Biasanya sumber sourcecode **TIRU** dari Github atau [nulled source code](https://topidesta.my.id/daftar-website-penyedia-script-nulled/) ... gw amati, tiru, lalu **MODIFIKASI** dengan style coding gw, terus kalo mau pake FULL sourcecode nullednya, YA BELI LAH!!... Alhamdulillah, setiap Goal Project gw selalu order Sourcecode yang gw Tiru di Themeforest. Karena Prinsip gw **BERBAGI REZEKI** .. hehe.
+
 more info 👉 [Klik https://topidesta.my.id/projek](https://topidesta.my.id/projek#aplikasi-akses-publik)
 
 Inget gw masih tahap **amati** soalnya gw langsung fork, takut takut nanti dihapus/ direadonly sama programmernya, jadi kita **tiru** berdasarkan commit di projectnya. hehe
