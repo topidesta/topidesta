@@ -23,6 +23,4 @@ Biasanya sumber sourcecode **TIRU** dari Github atau [nulled source code](https:
 
 more info 👉 [Klik https://topidesta.my.id/projek](https://topidesta.my.id/projek#aplikasi-akses-publik)
 
-Inget gw masih tahap **amati** soalnya gw langsung fork, takut takut nanti dihapus/ direadonly sama programmernya, jadi kita **tiru** berdasarkan commit di projectnya. hehe
-
 Have a nice day!
