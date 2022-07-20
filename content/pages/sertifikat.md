@@ -18,5 +18,5 @@ Berikut ini beberapa Pelatihan Online yang udah gw Ikutin, diantaranya.
 
 ## Progate.com
 
-1. Git Study
+1. https://progate.com/course_certificate/afebde4arfbmeq (Kursus GIT)
 
