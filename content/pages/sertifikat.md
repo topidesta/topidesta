@@ -7,7 +7,7 @@ slug: 'sertifikat'
 
 Bismillah...
 
-Berikut ini beberapa Pelatihan Online yang udah gw Ikutin, diantaranya.
+Berikut ini beberapa Pelatihan Online yang udah saya ikuti ditengah kesibukan sebagain Fullstack Developer di Rumah Sakit Besar, Jakarta Timur.
 
 ## Udemy.com
 

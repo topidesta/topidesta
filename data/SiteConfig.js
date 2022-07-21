@@ -124,7 +124,7 @@ const config = {
     { label: 'Tentang', url: '/about' },
     { label: 'Projek', url: '/projek' },
     { label: 'Konsep ATM', url: '/konsep-belajar-atm-amati-tiru-modifikasi' },
-    { label: 'Backend Engginer', url: '/be' },
+    { label: 'Sertifikat', url: '/sertifikat' },
   ],
   // Use for footer
   socialLinks: [
@@ -150,7 +150,7 @@ const config = {
     },
     {
       label: 'Linkedin',
-      url: 'https://www.linkedin.com/in/much-d-fadilah/',
+      url: 'https://www.linkedin.com/in/mdestafadilah/',
       iconClassName: 'fab linkedin-in',
     },
     {
