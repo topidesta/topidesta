@@ -20,4 +20,5 @@ Berikut ini beberapa Pelatihan Online yang udah saya ikuti ditengah kesibukan se
 ## Progate.com
 
 1. [Kursus GIT](https://progate.com/course_certificate/afebde4arfbmeq)
+2. [Kursus Golang Dasar](https://progate.com/course_certificate/eacf2b15rgg0xl)
 
