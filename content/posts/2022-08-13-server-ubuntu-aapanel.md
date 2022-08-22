@@ -1,10 +1,10 @@
 ---
-template: 'post'
+template: "post"
 title: Membangun Web Server Multi Aplikasi
-cover: '../images/aapanel.webp'
-date: '2022-08-13T08:00:00Z'
-slug: 'server-ubuntu-aapanel'
-keywords: 'Membangun Web Server Multi Aplikasi'
+cover: "../images/aapanel.webp"
+date: "2022-08-13T08:00:00Z"
+slug: "server-ubuntu-aapanel"
+keywords: "Membangun Web Server Multi Aplikasi"
 categories:
   - share
 tags:
@@ -14,7 +14,7 @@ tags:
 
 Bismillah ....
 
-Baru kesempatan nulis lagi, karena belakang ini load pembuatan modul (UTDRS/ Mini PMI) yang lumayan banyak dan berbagai kesibukan offline (bermain dengan anak dan istri, hehe) bikin lupa untuk nulis hal tekhnis hehe...
+Baru kesempatan nulis lagi, karena belakang ini load pembuatan modul sekaligus aplikasi (UTDRS/ Mini PMI) ditambah Setup Server untuk domain `persahabatan.co.id` yang digunakan untuk Staging Area Pengembangan Aplikasi Programmer lainnya dan berbagai kesibukan offline (bermain dengan anak dan istri, hehe) bikin lupa untuk nulis hal tekhnis hehe...
 
 Share kali ini gw mau bahas tentang Membangun server VPS untuk berbagai aplikasi, mulai dari PHP, NodeJS, Python hingga Golang. Mungkin bahasan yang sama di halaman ini juga, terutama mulai persiapan hingga siap digunakan.
 
