@@ -19,8 +19,8 @@ Kalo ini gw mau share compare tools buat para developer sangat bagus neh, teruta
 
 Kalo lo punya duit, mending beli seharga $60 ... tapi kalo gak punya mending pake trick gw, ada 2 tools dengan trick yang sama, yaitu menghapus register **TRIAL MODE** si beyondcompare.  Berikut ini tools yang bisa gw share
 
-1. Buat File CMD | [Download](http://120.29.158.4/supports/trialResetBC4.bat)
-2. Jalankan File EXE | [Download](http://120.29.158.4/supports/Beyond_Compare_Trial_Reset.exe)
+1. Buat File CMD | [Download](https://simrspersahabatan.co.id/supports/trialResetBC4.bat)
+2. Jalankan File EXE | [Download](https://simrspersahabatan.co.id/supports/Beyond_Compare_Trial_Reset.exe)
 3. Buka Aplikasi Beyond Compare, Jangan di tutup/ close ya (trick ampuh), buka sampe sebulan juga tetep 30Hari
 
 ```bash
