@@ -82,7 +82,7 @@ Saat ini implementasi diserver baru sebatas aplikasi PHP dan NodeJS, untuk Pytho
 
 Untuk sekarang hanya berjalan aplikasi PHP (5,7,8) dan NodeJS. 
 
-## Dokumentasi Belajar
+## Link Belajar
 
 1. [aaPanel Bahasa Indonesia](https://www.youtube.com/playlist?list=PLTErGYUpf8x1LumYtc0QpBS4WsUohJadN)
 2. [Api aaPanel](https://topidesta.files.wordpress.com/2022/08/api-aapanel.pdf)
