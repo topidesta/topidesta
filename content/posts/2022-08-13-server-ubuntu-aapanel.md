@@ -80,7 +80,7 @@ and done. semua bisa diakses.
 
 Saat ini implementasi diserver baru sebatas aplikasi PHP dan NodeJS, untuk Python dan Golang belum gw implementasi, mungkin yang Golang akan gw coba buat service, REST API sederhana ya, karena ada fiture Docker (versi demo yang terbatas), jadi gw bungkus pake Docker ajah.
 
-Untuk sekarang hanya berjalan aplikasi PHP (5,7,8) dan NodeJS. 
+Untuk sekarang hanya berjalan aplikasi PHP (5,7,8) dan NodeJS (Api Whatsapp).
 
 ## Link Belajar
 
