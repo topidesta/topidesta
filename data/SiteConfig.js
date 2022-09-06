@@ -1,12 +1,12 @@
 const config = {
   // Site info
-  siteTitle: 'Topidesta - Tulisan Programmer Gadungan', // Site title.
+  siteTitle: 'Tulisan Programmer Gadungan', // Site title.
   siteTitleShort: 'TOPIDESTA', // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
   siteTitleAlt: 'Topidesta - https://topidesta.my.id/', // Alternative site title for SEO.
   siteLogo: '/logos/logo-1024x1024.png', // Logo used for SEO and manifest.
   siteUrl: 'https://topidesta.my.id', // Domain of your website without pathPrefix.
   pathPrefix: '/', // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
-  siteDescription: 'Topidesta - Tulisan Programmer Gadungan', // Website description used for RSS feeds/meta description tag.
+  siteDescription: 'Tulisan Programmer Gadungan', // Website description used for RSS feeds/meta description tag.
   siteRss: '/rss.xml', // Path to the RSS file.
   siteLang: 'id-ID',
   siteFBAppID: '', // FB Application ID for using app insights
@@ -31,7 +31,7 @@ const config = {
   btnLoadmore: 'Halaman selanjutnya ..',
   homeHasLoadmore: true,
   homeHasThumbnail: true,
-  homeHeader: 'Indek',
+  homeHeader: '',
   homeMoreArticles: "Artikel lainnya",
   // Use for page
   pathPrefixPagination: "/page", // Prefix path for pagination
@@ -89,7 +89,7 @@ const config = {
   userAvatar:
     "https://www.gravatar.com/avatar/42fd3d526fde1ef76d5002e4ebd303e9.jpg?s=300", // User avatar to display in the author segment.
   userDescription:
-    "Topidesta - Tulisan Programmer Gadungan.", // User description to display in the author segment.
+    "Tulisan Programmer Gadungan.", // User description to display in the author segment.
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
     {
