@@ -29,9 +29,23 @@ Yaps, 4 bahan itu yang akan membantu kita membangun sebuah server yang sederhana
 
 ## Persiapan
 
+### Download aaPanel
 1. Login ssh menggunakan Putty atau lainnya.
 2. Install aaPanel `wget -O install.sh http://www.aapanel.com/script/install-ubuntu_6.0_en.sh && sudo bash install.sh 93684c35`
 3. Done
+
+### Daftarkan Domain Ke Cloudflare
+
+1. Daftar seperti biasa
+2. Add domain
+3. Done
+
+> https://doc.aapanel.com/web/#/3?page_id=180
+
+Untuk Pengecekan apakah IP VPS (Public) sudah mengarah ke DNS Cloudflare silahkan cek IP publik ya bukan domain utamanya dengan alamat berikut
+
+1. https://dnschecker.org/all-dns-records-of-domain.php
+2. https://dnschecker.org/port-scanner.php
 
 ## Permasalahan
 
