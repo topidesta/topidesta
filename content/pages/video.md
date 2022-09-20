@@ -200,6 +200,7 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 
 1. [Scrimba](https://scrimba.com/g/glearnreact)
 2. [Chakra-UI](https://egghead.io/courses/build-a-modern-user-interface-with-chakra-ui-fac68106)
+3. [Jotai State Management](https://egghead.io/courses/manage-application-state-with-jotai-atoms-2c3a29f0)
 
 ---
 
