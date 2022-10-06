@@ -105,6 +105,10 @@ Untuk sekarang hanya berjalan aplikasi PHP (5,7,8) dan NodeJS (Api Whatsapp).
 
 ## Kesimpulan
 
-Rasanya perlu juga ada kesimpulan? hehe.. baiklah, intinya **TERUSLAH BELAJAR DAN TERUSLAH MERASA BODOH!** agar diHari Tua Mu Tidak Bergantung Pada Negara (Uang Pensiun Kelak).
+Rasanya perlu juga ada kesimpulan? hehe.. baiklah, intinya **Belajar bukan tentang kompetisi, tapi disiplin diri untuk menghadapi berbagai tantangan [[1]](#1)**
+
+### Reference
+
+<a id="1">[1] https://www.linkedin.com/posts/masterkurniawan_x-code-menerapkan-kemerdekaan-belajar-orang-activity-6983481739574730752-oGM2</a>
 
 Have a nice day!
