@@ -51,6 +51,10 @@ slug: 'buku'
 3. [Pemograman PHP dan Mysql](https://topidesta.files.wordpress.com/2014/08/pemrograman-web-dengan-php-mysql-achmatim.pdf)
 4. [Begining BackdropCMS](https://topidesta.files.wordpress.com/2021/07/beginning-backdrop-cms.pdf)
 
+## GravCMS
+
+1. [Molie Payment with Grav](https://www.thomasvantuycom.com/handling-mollie-payments-in-grav/)
+
 ## Python
 
 1. [Playing Python bhs Indonesia](https://topidesta.files.wordpress.com/2015/10/plying-with-pyhton-indonesian-version.pdf)
