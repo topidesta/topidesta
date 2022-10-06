@@ -27,17 +27,171 @@ slug: 'projek'
 
 ---
 
-## Aplikasi akses Publik
+## 📢 Aplikasi (My Modification)
 
+### Website RSUP Persahabatan
 
-| <center>🚀LIVE🚀</center> | <center>⚙️DEVELOPMENT⚙️</center> |
-| :---: | :---: |
-|<fieldset><legend>[Donatur Hibah Covid 19](https://hibahcovid19.netlify.app/)</legend>![Pencarian Donatur](../images/pencarian-donatur.png)</fieldset>|<fieldset><legend>[E-Office](https://surat.rsuppersahabatan.co.id/)</legend>![Surat Menyurat](../images/e-office.png)</fieldset>|
-|<fieldset><legend>[Pencarian Dokter](https://dokter.rsuppersahabatan.co.id/)</legend>![Pencarian Dokter](../images/pencarian-dokter.png)</fieldset>|<fieldset><legend>[Meeting Online](https://zoom.rsuppersahabatan.co.id/)</legend>![Meeting Online](../images/zoom-online.png)</fieldset>|
-|<fieldset><legend>[Lowongan Pekerjaan](https://lowongan.rsuppersahabatan.co.id/)</legend>![Lowongan Online](../images/lowongan-online.png)</fieldset>|<fieldset><legend>[Penjamin Online](https://penjamin.rsuppersahabatan.co.id/)</legend><label for="text3">Text Input</label></fieldset>|
-|<fieldset><legend>[Bankdarah Online](https://bankdarah.rsuppersahabatan.co.id/)</legend>![Bankdarah Online](../images/bankdarah-online.png)</fieldset>|<fieldset><legend>Doorprize App</legend><label for="text3">Text Input</label></fieldset>|
-|<fieldset><legend>[Landing Pendaftaran](https://pendaftaran.rsuppersahabatan.co.id/)</legend>![Bankdarah Online](../images/pendaftaran-landing.png)</fieldset>|<fieldset><legend>Survei Online</legend>![Fagestorm](../images/survei-online.png)</fieldset>|
-|<fieldset><legend>[Kuesioner TBC](https://survey-tbc.netlify.app/)</legend>![Fagestorm](../images/survei-tbc.png)</fieldset>|<fieldset><legend>[Restful JWT Auth](https://ci-rest-jwt.herokuapp.com/)</legend>![restful](../images/restful.png)</fieldset>|
-|<fieldset><legend>[Kuesinoer Fagestorm	](https://fagestorm.netlify.app/)</legend>![Fagestorm](../images/fagestorm.png)</fieldset>|<fieldset><legend>Kuesioner</legend><label for="text3">Text Input</label></fieldset>|
+<details>
+  <summary> 👇 Klik Detail</summary>
 
----
+| Stack | Status | Akses |
+| :---: | :---: | :---: | 
+| GravCMS | ⚙️DEVELOPMENT⚙️ | https://web.persahabatan.co.id/id |
+| <td colspan="3"><fieldset><legend>Website RSUP Persahabatan V3</legend>![Website RSUP Persahabatan V3](../images/web-persahabatan-v3.png)</fieldset></td>|
+
+</details>
+
+<hr />
+
+### Pencarian Dokter
+
+<details>
+  <summary> 👇 Klik Detail</summary>
+
+| Stack | Status | Akses |
+| :---: | :---: | :---: | 
+| ReactJS, Codeigniter | 🚀 LIVE 🚀 | https://dokter.rsuppersahabatan.co.id/ |
+| <td colspan="3"><fieldset><legend>Pencarian Dokter</legend>![Pencarian Dokter](../images/pencarian-dokter.png)</fieldset></td>|
+
+</details>
+
+<hr />
+
+### API REST Service
+
+<details>
+  <summary> 👇 Klik Detail</summary>
+
+| Stack | Status | Akses |
+| :---: | :---: | :---: | 
+| Codeigniter 3 | 🚀 LIVE 🚀 | https://rsuppersahabatan.co.id/apis |
+| Codeigniter 4 | ⚙️DEVELOPMENT⚙️ | https://api.persahabatan.co.id/ |
+| Golang | ⚙️DEVELOPMENT⚙️ | https://go.api.persahabatan.co.id/ |
+
+</details>
+
+<hr />
+
+### API Whatsapp (Unofficial)
+
+<details>
+  <summary> 👇 Klik Detail</summary>
+
+| Stack | Status | Akses |
+| :---: | :---: | :---: | 
+| NodeJS, whatsapp-web.js | 🚀 LIVE 🚀 | https://apiwa.persahabatan.co.id/ |
+| <td colspan="3"><fieldset><legend>APIWA Unofficial</legend>![APIWA Unofficial](../images/apiwa.png)</fieldset></td>|
+
+</details>
+
+<hr />
+
+### Manual Book Prima SIMRS
+
+<details>
+  <summary> 👇 Klik Detail</summary>
+
+| Stack | Status | Akses |
+| :---: | :---: | :---: | 
+| Docusaurus, NetlifyCMS | 🚀 LIVE 🚀 | - |
+| <td colspan="3"><fieldset><legend>Manualbook SIMRS Prima</legend>![Manualbook SIMRS Prima](../images/manualbook.png)</fieldset></td>|
+
+</details>
+
+<hr />
+
+### Lowongan Pekerjaan
+
+<details>
+  <summary> 👇 Klik Detail</summary>
+
+| Stack | Status | Akses |
+| :---: | :---: | :---: | 
+| ReactJS, Codeigniter | 🚀 LIVE 🚀 | https://lowongan.rsuppersahabatan.co.id/ |
+| <td colspan="3"><fieldset><legend>Lowongan Pekerjaan</legend>![Lowongan Pekerjaan](../images/lowongan-online.png)</fieldset></td>|
+
+</details>
+
+<hr />
+
+### Landing Pendaftaran Online
+
+<details>
+  <summary> 👇 Klik Detail</summary>
+
+| Stack | Status | Akses |
+| :---: | :---: | :---: | 
+| GatsbyJS, NetlifyCMS, Vercel | 🚀 LIVE 🚀 | https://pendaftaran.rsuppersahabatan.co.id/ |
+| <td colspan="3"><fieldset><legend>Landing Pendaftaran Online</legend>![Landing Pendaftaran Online](../images/pendaftaran-landing.png)</fieldset></td>|
+
+</details>
+
+<hr />
+
+### Bank Darah (UTDRS)
+
+<details>
+  <summary> 👇 Klik Detail</summary>
+
+| Stack | Status | Akses |
+| :---: | :---: | :---: | 
+| ReactJS, Codeigniter, Golang | 🚀 LIVE 🚀 | https://bankdarah.rsuppersahabatan.co.id/ |
+| ReactJS, Codeigniter, Golang | 🚀 LIVE 🚀 | https://ic.bankdarah.rsuppersahabatan.co.id/ |
+| <td colspan="3"><fieldset><legend>Bank Darah (UTDRS) RSUP Persahabatan</legend>![Bank Darah (UTDRS) RSUP Persahabatan](../images/bankdarah-online.png)</fieldset></td>|
+| <td colspan="3"><fieldset><legend>Formulir Inform Consent (IC)</legend>![Formulir Inform Consent (IC)](../images/ic-bankdarah-online.png)</fieldset></td>|
+
+</details>
+
+<hr />
+
+### Kuesioner Fagestorm
+
+<details>
+  <summary> 👇 Klik Detail</summary>
+
+| Stack | Status | Akses |
+| :---: | :---: | :---: | 
+| ReactJS, Codeigniter | 🚀 LIVE 🚀 | https://fagestorm.netlify.app/ |
+| <td colspan="3"><fieldset><legend>Kuesioner Fagestorm</legend>![Kuesioner Fagestorm](../images/fagestorm.png)</fieldset></td>|
+
+</details>
+
+<hr />
+
+### Server VPS
+
+<details>
+  <summary> 👇 Klik Detail</summary>
+
+| Stack | Status | Akses |
+| :---: | :---: | :---: | 
+| Ubuntu, aaPanel, CloudFlare | 🚀 LIVE 🚀 | https://persahabatan.co.id/ |
+
+</details>
+
+<hr />
+
+### Zoom Meeting
+
+<details>
+  <summary> 👇 Klik Detail</summary>
+
+| Stack | Status | Akses |
+| :---: | :---: | :---: | 
+| NextJS, GraphQL, Google API | ⚙️DEVELOPMENT⚙️ | https://zoom.rsuppersahabatan.co.id/ |
+| <td colspan="3"><fieldset><legend>Zoom Meeting</legend>![Zoom Meeting](../images/zoom-meeting.png)</fieldset></td>|
+
+</details>
+
+<hr />
+
+### Spinner Pemenang
+
+<details>
+  <summary> 👇 Klik Detail</summary>
+
+| Stack | Status | Akses |
+| :---: | :---: | :---: | 
+| NextJS, GraphQL, Google API | ⚙️DEVELOPMENT⚙️ | https://putar.rsuppersahabatan.co.id/ |
+
+</details>
