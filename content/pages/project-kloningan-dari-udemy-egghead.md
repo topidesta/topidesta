@@ -35,6 +35,7 @@ Berikut ini daftar Aplikasi yang dibuat dengan teknologi React:
 |   6   |     Chakra-UI      |           [Link](https://egghead.io/courses/build-a-modern-user-interface-with-chakra-ui-fac68106)            |     -      |    [![wakatime](https://wakatime.com/badge/user/68c213cd-13a4-4383-895c-d9fa85106cb4/project/47aef44e-6972-463a-b192-809198c2e396.svg)](https://wakatime.com/badge/user/68c213cd-13a4-4383-895c-d9fa85106cb4/project/47aef44e-6972-463a-b192-809198c2e396)     |
 | 7 | Google Sheet 1 | [Link](http://go.topidesta.my.id/sheet1) | [Link](https://github.com/amati-tiru-modifikasi/nextjs-playing-sheets/tree/sheet1) | waka | 
 | 8 | Build TODO List | [Link](https://www.udemy.com/share/105gKQ3@hpp8Cx732xknHlFM7h41TFTta8jMBTUXyJfQ2eA2QuMrc9be3APTQXf-aH8nxi6c/) | [Link](https://github.com/amati-tiru-modifikasi/react-go-nextjs.git) | - |
+| 9 | Go Admin | [Link](https://www.udemy.com/course/react-go-advanced/) | [Link](https://github.com/amati-tiru-modifikasi/go-admin) | - |
 
 
 Ada banyak, nanti update akan gw tulis dipostingan ini juga, untuk sourcecode bisa direpositori [Amati-Tiru-Modifikasi](https://github.com/amati-tiru-modifikasi).
