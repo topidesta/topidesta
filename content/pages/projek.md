@@ -1,6 +1,6 @@
 ---
 template: 'page'
-title: 'Projek Aplikasi (ATM)'
+title: 'Projek Aplikasi (ATM) ~ Amati Tiru Modifikasi'
 description: 'Halaman untuk menampilkan Sourcecode/ Project'
 slug: 'projek'
 ---
@@ -21,7 +21,7 @@ slug: 'projek'
 
 > 👉 [Klik untuk Kloningan dari Freecodecamp](/project-kloningan-dari-freecodecamp)
 
-## KelasKoding (Bahasa Indonesia)
+## KelasKoding
 
 > 👉 [Klik untuk Kloningan dari kelasKoding](/project-kloningan-dari-kelaskoding)
 
