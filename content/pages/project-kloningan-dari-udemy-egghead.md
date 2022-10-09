@@ -17,7 +17,7 @@ tags:
 
 Bismillah ....
 
-Ini sih biar rapih ajah, biar belajar ReactJS itu by Project Mandiri alias (Amati-Tiru-Modifikasi)... dan rasanya gw Fall in Love sama ReactJS, belum nengok Library lainnya hehe.
+Ini sih biar rapih ajah, biar belajar itu by Project Mandiri alias (Amati-Tiru-Modifikasi) yang dikhususkan untuk Udemy dan Egghead, untuk sekarang gw fokus di project ATM *ReactJS* dan *Go-lang*. 
 
 ```javascript
 http://go.topidesta.my.id/video-belajar

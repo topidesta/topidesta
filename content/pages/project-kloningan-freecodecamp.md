@@ -18,7 +18,7 @@ tags:
 
 Bismillah ....
 
-Berikut ini hasil tutorial yang ada di blog [FreecodeCamp](https://www.freecodecamp.org/), ini daftar Aplikasi yang dibuat dengan teknologi React:
+Berikut ini hasil tutorial yang ada di blog [FreecodeCamp](https://www.freecodecamp.org/), ini daftar Aplikasi yang dibuat dengan teknologi React dan Golang saja:
 
 | No  | Nama Aplikasi | Sumber | Github | Times |
 | :-: | :-----------: | :----: | :----: | :---: |
