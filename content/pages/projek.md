@@ -1,27 +1,27 @@
 ---
 template: 'page'
-title: 'Projek'
+title: 'Projek Aplikasi (ATM) ~ Amati Tiru Modifikasi'
 description: 'Halaman untuk menampilkan Sourcecode/ Project'
 slug: 'projek'
 ---
 
-## Aplikasi (ATM) dari 🆄🅳🅴🅼🆈 atau 🅴🅶🅶🅷🅴🅰🅳
+## 🆄🅳🅴🅼🆈 atau 🅴🅶🅶🅷🅴🅰🅳
 
 > 👉 [Klik untuk Kloningan dari Udemy/ Egghead](/project-kloningan-dari-udemy-egghead)
 
-## Aplikasi (ATM) dari 🆈🅾🆄🆃🆄🅱🅴 
+## 🆈🅾🆄🆃🆄🅱🅴 
 
 > 👉 [Klik untuk Kloningan dari Youtube](/project-kloningan-dari-youtube)
 
-## Aplikasi (ATM) dari 🅳🅴🆅 atau 🅼🅴🅳🅸🆄🅼
+## 🅳🅴🆅 atau 🅼🅴🅳🅸🆄🅼
 
 > 👉 [Klik untuk Kloningan dari Dev atau Medium](/project-kloningan-dari-dev-atau-medium)
 
-## Aplikasi (ATM) dari 🅕🅡🅔🅔🅒🅞🅓🅔🅒🅐🅜🅟
+## 🅕🅡🅔🅔🅒🅞🅓🅔🅒🅐🅜🅟
 
 > 👉 [Klik untuk Kloningan dari Freecodecamp](/project-kloningan-dari-freecodecamp)
 
-## Aplikasi (ATM) dari KelasKoding (Bahasa Indonesia)
+## KelasKoding
 
 > 👉 [Klik untuk Kloningan dari kelasKoding](/project-kloningan-dari-kelaskoding)
 
@@ -51,7 +51,8 @@ slug: 'projek'
 | Stack | Status | Akses |
 | :---: | :---: | :---: | 
 | ReactJS, Codeigniter | 🚀 LIVE 🚀 | https://dokter.rsuppersahabatan.co.id/ |
-| <td colspan="3"><fieldset><legend>Pencarian Dokter</legend>![Pencarian Dokter](../images/pencarian-dokter.png)</fieldset></td>|
+| <td colspan="3"><fieldset><legend>Pencarian Dokter Per Spesialis</legend>![Pencarian Dokter](../images/pencarian-dokter.png)</fieldset></td>|
+| <td colspan="3"><fieldset><legend>Detail Dokter</legend>![Pencarian Dokter](../images/pencarian-dokter-2.png)</fieldset></td>|
 
 </details>
 
@@ -95,6 +96,7 @@ slug: 'projek'
 | :---: | :---: | :---: | 
 | Docusaurus, NetlifyCMS | 🚀 LIVE 🚀 | - |
 | <td colspan="3"><fieldset><legend>Manualbook SIMRS Prima</legend>![Manualbook SIMRS Prima](../images/manualbook.png)</fieldset></td>|
+| <td colspan="3"><fieldset><legend>Manualbook SIMRS Prima</legend>![Manualbook SIMRS Prima](../images/manualbook-2.png)</fieldset></td>|
 
 </details>
 

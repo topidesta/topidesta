@@ -18,7 +18,7 @@ tags:
 
 Bismillah ....
 
-Berikut ini hasil tutorial yang ada di blog [dev](https://dev.to/) dan [medium](https://medium.com/), ini daftar Aplikasi yang dibuat dengan teknologi React:
+Berikut ini hasil tutorial yang ada di blog [dev](https://dev.to/) dan [medium](https://medium.com/), ini daftar Aplikasi yang dibuat dengan konsep ATM:
 
 |  No   |      Nama Aplikasi       |                                                       Sumber                                                       |                              Github                              |                                                                                                                         Times                                                                                                                          |
 | :---: | :----------------------: | :----------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |

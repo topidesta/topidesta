@@ -16,11 +16,13 @@ tags:
 
 Bismillah ....
 
-Lagi GaBut sebenernya sih, iseng coba cari di youtube, Aplikasi yang dibuat dengan Teknologi React, bahasa Halusnya itu "Kloningan Aplikasi" ternyata Programmer di Indonesia juga ada yang buat, kloningan.. keren emang ya, lanjut... berikut ini pencarian yang gw cari di gogel atau duckduck.
+Lagi GaBut sebenernya sih, iseng coba cari di youtube, Aplikasi yang dibuat dengan Teknologi React ataupun Golang, bahasa Halusnya itu "Kloningan Aplikasi" ternyata Programmer di Indonesia juga ada yang buat, kloningan.. keren emang ya, lanjut... berikut ini pencarian yang gw cari di gogel atau duckduck.
 
 ```javascript
 http://go.topidesta.my.id/clone-app-react
 http://go.topidesta.my.id/clone-app-react-duck
+http://go.topidesta.my.id/clone-app-golang-duck
+http://go.topidesta.my.id/clone-app-golang
 ```
 
 Dari sana kita akan belajar buat aplikasi, karena tutorial di Udemy atau lainnya gak sampai membuat aplikasi yang sesuai kebutuhan pasar, sekalinya ada pembahasannya membosankan kadang, hehe.

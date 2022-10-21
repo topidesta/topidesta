@@ -10,7 +10,7 @@ Berikut Ini Daftar Alat/ Perkakas yang dipake gw dalam pengembangan aplikasi ata
 0. Lenovo Thinkpad [t440p](https://kutt.it/t440p) (2 SSD + DUALCHANEL 16GB OF RAM)
 1. Window 10 EDU Version
 2. [Chocolatey Management](https://kutt.it/chocolatey)
-3. Visual Code versi [VSCodium](https://kutt.it/vscodium)
+3. [VSCodium ~ VSCode Community](https://kutt.it/vscodium)
 4. [DBEaver DB Management](https://kutt.it/dbeaver)
 5. [Beyond Compare 4](https://kutt.it/compare)
 6. [Laragon](https://kutt.it/laragon)
@@ -20,6 +20,7 @@ Berikut Ini Daftar Alat/ Perkakas yang dipake gw dalam pengembangan aplikasi ata
 10. Nox Player (BigNox)
 11. Balsamiq Mockup 3 Desktop Version
 12. [Commander Terminal](https://kutt.it/terminal)
+13. [PODMan ~ Pod Manager](https://podman.io/)
 
 Semua bisa didapatkan GRATIS or Freetier .. hehe, kalo mau yang jamu bisa cari di [TORRENT SEARCH](https://kutt.it/bitcq) aja, terus login di web torrent downloader, [ZBIGZ](https://kutt.it/zbigz), [ByteBX](https://kutt.it/bytebx), atau [SeeDr](https://kutt.it/seedr), baru deh download, done.
 
