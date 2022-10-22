@@ -1,10 +1,10 @@
 ---
 template: "post"
-title: Netlify CLI Forever
+title: Netlify CLI Freemium Forever
 cover: "../images/netlifycli.png"
 date: "2022-10-21T08:00:00Z"
-slug: "netlify-cli-forever"
-keywords: "Netlify CLI Forever"
+slug: "netlify-cli-freemium-forever"
+keywords: "Netlify CLI Freemium Forever"
 categories:
   - trick
 tags:
