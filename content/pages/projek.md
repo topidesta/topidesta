@@ -58,6 +58,20 @@ slug: 'projek'
 
 <hr />
 
+
+### Aplikasi Surat
+
+<details>
+  <summary> 👇 Klik Detail</summary>
+
+| Stack | Status | Akses |
+| :---: | :---: | :---: | 
+| ReactJS, Codeigniter 4, API WA, Golang | ⚙️ DEVELOPMENT ⚙️ | https://surat.rsuppersahabatan.co.id/ |
+
+</details>
+
+<hr />
+
 ### API REST Service
 
 <details>
@@ -66,7 +80,8 @@ slug: 'projek'
 | Stack | Status | Akses |
 | :---: | :---: | :---: | 
 | Codeigniter 3 | 🚀 LIVE 🚀 | https://rsuppersahabatan.co.id/apis |
-| Codeigniter 4 | ⚙️DEVELOPMENT⚙️ | https://api.persahabatan.co.id/ |
+| Codeigniter 4 | ⚙️TESTING⚙️ | https://api.persahabatan.co.id/ |
+| Codeigniter 4 | ⚙️DEVELOPMENT⚙️ | https://siapdok.persahabatan.co.id/ |
 | Golang | ⚙️DEVELOPMENT⚙️ | https://go.api.persahabatan.co.id/ |
 
 </details>
@@ -181,7 +196,7 @@ slug: 'projek'
 
 | Stack | Status | Akses |
 | :---: | :---: | :---: | 
-| NextJS, GraphQL, Google API | ⚙️DEVELOPMENT⚙️ | https://zoom.rsuppersahabatan.co.id/ |
+| NextJS, GraphQL, Google API | ⚙️ DEVELOPMENT ⚙️ | https://zoom.rsuppersahabatan.co.id/ |
 | <td colspan="3"><fieldset><legend>Zoom Meeting</legend>![Zoom Meeting](../images/zoom-meeting.png)</fieldset></td>|
 
 </details>
