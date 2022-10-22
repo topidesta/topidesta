@@ -80,8 +80,9 @@ slug: 'projek'
 
 | Stack | Status | Akses |
 | :---: | :---: | :---: | 
-| NodeJS, whatsapp-web.js | 🚀 LIVE 🚀 | https://apiwa.persahabatan.co.id/ |
+| NodeJS, whatsapp-web.js, Puppeter | 🚀 LIVE 🚀 | https://apiwa.persahabatan.co.id/ |
 | <td colspan="3"><fieldset><legend>APIWA Unofficial</legend>![APIWA Unofficial](../images/apiwa.png)</fieldset></td>|
+| NodeJS, Baileys, Socket| 🚀 LIVE 🚀 | https://v2.apiwa.persahabatan.co.id/ |
 
 </details>
 
