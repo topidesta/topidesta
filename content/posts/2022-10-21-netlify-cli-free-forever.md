@@ -36,7 +36,11 @@ Perintah ini untuk melakukan inisiasi awal, agar mempermudah proses workflow CI 
 
 ## Netlify dev
 
+Perintah ini untuk menjalankan pengembangan lokal untuk aplikasi kita. berjalan untuk semua framework javascript bahkan HTML jadul. `ntl dev` dapat dijalankan dengan aturan Netlify tanpa menggunakan proxis untuk melakukan test dilokal.
+
 ## Netlify deploy
+
+Perintah ini digunakan untuk `build` hasil kerjaan kita, agar dunia tahu, selebihnya biarkan CI netlify berjalan, tapi jika ditambahkan tanda `--prod` dalam perintahnya maka otomatis di build dalam bentuk production , jika tidak, makan defaultnya akan menjadi draft.
 
 ## Netlify watch
 
