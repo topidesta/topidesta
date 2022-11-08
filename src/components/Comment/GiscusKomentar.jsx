@@ -22,7 +22,7 @@ class GiscusKomentar extends Component {
           repoId="MDEwOlJlcG9zaXRvcnkyMDA1ODIyNTk="
           category="Comments"
           categoryId="DIC_kwDOC_Skc84CAQVo"
-          mapping="url"
+          mapping="title"
           term="Selamat datang di topidesta Blogs"
           reactionsEnabled="1"
           emitMetadata="0"
