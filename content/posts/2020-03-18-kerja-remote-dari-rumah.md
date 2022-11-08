@@ -1,10 +1,10 @@
 ---
 template: 'post'
-title: Cari Sampingan dari Kerjaan Remote
+title: Website Penyedia Kerjaan Remote
 cover: '../images/workhome.png'
 date: '2020-03-18T10:00:00Z'
 slug: 'kerjaan-remote-dari-rumah'
-keywords: 'Cari Sampingan dari Kerjaan Remote'
+keywords: 'Website Penyedia Kerjaan Remote'
 categories:
   - relax
 tags:
@@ -12,7 +12,7 @@ tags:
   - covid19
 ---
 
-## bismillah
+## Bismillah
 
 Lagi tren neh, kerja dirumah haha.. gegara si Corona, padahal di dunia perkodingan udah ada, yang penting mah ada kekuatan **nepotisme** haha .. Project 2m (Makasih-Mas). Skip, selain kekuatan nepotisme juga kekuatan menjual diri, baik dari sosial media, facebook, twitter, instagram atau linkedin juga gak kalah penting.
 
@@ -32,6 +32,9 @@ Berikut ini web yang memberikan informasi perusahaan yang menerima kerja remote 
 10. https://dribbble.com/jobs
 11. https://remote.co/
 12. https://www.producthunt.com/jobs
+13. https://remotive.com/
+14. https://www.crossover.com/
+15. https://epicareer.com/
 
 Nah lo, luar negeri semua ... hoho ... nice ... ntr kita coba cari tau, **responsibility** dan **requiredment** setiap kerjaan remote, kebetulan gw sendiri nyari remote untuk Python, GO dan React.
 
