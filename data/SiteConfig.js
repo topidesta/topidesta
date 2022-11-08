@@ -5,7 +5,7 @@ const config = {
   siteTitleAlt: 'Topidesta - https://topidesta.my.id/', // Alternative site title for SEO.
   siteLogo: '/logos/logo-1024x1024.png', // Logo used for SEO and manifest.
   siteUrl: 'https://topidesta.my.id', // Domain of your website without pathPrefix.
-  pathPrefix: '/', // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
+  pathPrefix: '', // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   siteDescription: 'Tulisan Programmer Gadungan', // Website description used for RSS feeds/meta description tag.
   siteRss: '/rss.xml', // Path to the RSS file.
   siteLang: 'id-ID',
@@ -20,7 +20,7 @@ const config = {
   dateFormat: 'DD/MMMM/YYYY', // Date format for display.
   postTagged: '',
   postInCategories: '',
-  postOnDate: 'Tampil ',
+  postOnDate: 'Tampil',
   // Use for comment
   lazyLoadComments: true,
   disqusShortname: 'topidesta-dev', // Disqus shortname.

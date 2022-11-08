@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { Giscus } from '@giscus/react';
+// import { Giscus } from '@giscus/react';
 
 class GiscusKomentar extends Component {
   constructor(props) {
@@ -15,8 +15,9 @@ class GiscusKomentar extends Component {
 
     return (
       <>
-      <h1>{post.title}</h1>
-        <Giscus
+      <h1>{post.title}</h1> 
+        {console.log('load giscuss')}
+        {/* <Giscus
           id="comments"
           repo="topidesta/topidesta"
           repoId="MDEwOlJlcG9zaXRvcnkyMDA1ODIyNTk="
@@ -29,7 +30,7 @@ class GiscusKomentar extends Component {
           inputPosition="top"
           theme="light_protanopia"
           lang="en"
-        />
+        /> */}
       </>
     )
   }
