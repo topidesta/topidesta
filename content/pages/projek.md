@@ -36,7 +36,7 @@ slug: 'projek'
 
 | Stack | Status | Akses |
 | :---: | :---: | :---: | 
-| GravCMS | ⚙️DEVELOPMENT⚙️ | https://web.persahabatan.co.id/id |
+| GravCMS | ⚙️DEVELOPMENT⚙️ | https://v3.web.persahabatan.co.id |
 | <td colspan="3"><fieldset><legend>Website RSUP Persahabatan V3</legend>![Website RSUP Persahabatan V3](../images/web-persahabatan-v3.png)</fieldset></td>|
 
 </details>
