@@ -18,8 +18,8 @@ Lagi tren neh, kerja dirumah haha.. gegara si Corona, padahal di dunia perkoding
 
 Berikut ini web yang memberikan informasi perusahaan yang menerima kerja remote (working from home) yang kurang lebih belum gw coba, mayan buat catatan pribadi gw aja dulu, sumber dari group fesbuk:
 
-`https://www.facebook.com/groups/webdesignindo/permalink/2964513876976365/`
-`http://go.topidesta.my.id/remote-job`
+> https://www.facebook.com/groups/webdesignindo/permalink/2964513876976365/
+> http://go.topidesta.my.id/remote-job
 
 1. https://wfh.team/
 2. https://www.upwork.com/
