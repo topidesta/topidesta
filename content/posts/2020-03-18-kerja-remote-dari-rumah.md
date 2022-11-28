@@ -19,6 +19,7 @@ Lagi tren neh, kerja dirumah haha.. gegara si Corona, padahal di dunia perkoding
 Berikut ini web yang memberikan informasi perusahaan yang menerima kerja remote (working from home) yang kurang lebih belum gw coba, mayan buat catatan pribadi gw aja dulu, sumber dari group fesbuk:
 
 `https://www.facebook.com/groups/webdesignindo/permalink/2964513876976365/`
+`http://go.topidesta.my.id/remote-job`
 
 1. https://wfh.team/
 2. https://www.upwork.com/
@@ -35,6 +36,22 @@ Berikut ini web yang memberikan informasi perusahaan yang menerima kerja remote 
 13. https://remotive.com/
 14. https://www.crossover.com/
 15. https://epicareer.com/
+16. https://www.outsourcely.com/
+17. https://dynamitejobs.com/
+18. https://thewfhjobs.com/
+19. https://jsremotely.com/
+20. https://www.simplyhired.com/
+21. https://www.idealist.org/en/remote-jobs
+22. https://torre.co/?r=vm6biA2E
+23. https://www.careerbuilder.com/
+24. https://angel.co/
+25. https://himalayas.app/
+26. https://www.fiverr.com/
+27. https://www.awesomejobs.io/
+28. https://remote4me.com/
+29. https://www.werk.eu/
+30. https://workew.com/
+31. https://100telecommutejobs.com/telejobs/
 
 Nah lo, luar negeri semua ... hoho ... nice ... ntr kita coba cari tau, **responsibility** dan **requiredment** setiap kerjaan remote, kebetulan gw sendiri nyari remote untuk Python, GO dan React.
 
