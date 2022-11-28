@@ -53,6 +53,6 @@ Berikut ini web yang memberikan informasi perusahaan yang menerima kerja remote 
 30. https://workew.com/
 31. https://100telecommutejobs.com/telejobs/
 
-Nah lo, luar negeri semua ... hoho ... nice ... ntr kita coba cari tau, **responsibility** dan **requiredment** setiap kerjaan remote, kebetulan gw sendiri nyari remote untuk Python, GO dan React.
+Nah lo, luar negeri semua ... hoho ... nice ... ntr kita coba cari tau, **responsibility** dan **requiredment** setiap kerjaan remote, kebetulan gw sendiri nyari remote untuk Admin Server (Setup dengan aaPanel), Codeigniter, Go-Lang dan React/ NextJS.
 
 have a nice day!
