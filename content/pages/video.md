@@ -79,6 +79,7 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 1. [Build a FullStack App with Next.js, Supabase & Prisma](https://themodern.dev/courses/build-a-fullstack-app-with-nextjs-supabase-and-prisma-322389284337222224)
 2. [Magic Link Authentication in Next.js with NextAuth and Fauna](https://alterclass.io/tutorials/magic-link-authentication-in-nextjs-with-nextauth-and-fauna)
 3. [Nextjs Prisma Postgres](https://vercel.com/guides/nextjs-prisma-postgres)
+4. [SWR Feat Axios with NextJS](https://youtu.be/AhkUYTvwguQ)
 
 ### Vue Class
 
