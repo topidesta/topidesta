@@ -125,6 +125,7 @@ const config = {
     { label: 'Projek', url: '/projek' },
     { label: 'Konsep ATM', url: '/konsep-belajar-atm-amati-tiru-modifikasi' },
     { label: 'Sertifikat', url: '/sertifikat' },
+    { label: 'My CV', url: 'https://cv.gethired.id/muchamad-desta-fadilah-yp5cv' },
   ],
   // Use for footer
   socialLinks: [
