@@ -62,11 +62,10 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 20. [Build Fast React App using Design System](https://www.udemy.com/share/103YtmAEIbdVZbTXo=/)
 21. [All about NextJS](https://www.udemy.com/share/103ZhYAEIbdVZbTXo=/) **Certificate Avaliable**
 22. [ReactJS Build Real Apps on cloud](https://www.udemy.com/course/reactjs-for-beginners-build-real-world-react-apps-deploy-on-cloud/)
-23. [Complete SQL Bootcamp, PHP, MySQL, Python](https://www.udemy.com/share/101HvUAEIbdVZbTXo=/)
-24. [30 Days Code, Django Build a Resume Website](https://www.udemy.com/share/103QDAAEIbdVZbTXo=/)
-25. [Intro to React: Build Youtube App](https://www.udemy.com/share/1049fI2@PUdKfWJjc1QPc0JKC3pxVD1uYFRL/) **Certificate Avaliable**
-26. [React Native Made Easy](https://www.udemy.com/share/104MJ42@PkdgfVpbSlEGek5EO0hNVA==/) **Certificate Avaliable**
-27. [MERN Stack Blogging System in 2022](https://www.udemy.com/share/1057983@QdZm7GmMsTwxB6Uw5VJyZuHcERCF7oCFWMlLO5Y0_e5hxNq-bzKBEWjBk6uHwx1b/) **Certificate Avaliable**
+23. [30 Days Code, Django Build a Resume Website](https://www.udemy.com/share/103QDAAEIbdVZbTXo=/)
+24. [Intro to React: Build Youtube App](https://www.udemy.com/share/1049fI2@PUdKfWJjc1QPc0JKC3pxVD1uYFRL/) **Certificate Avaliable**
+25. [React Native Made Easy](https://www.udemy.com/share/104MJ42@PkdgfVpbSlEGek5EO0hNVA==/) **Certificate Avaliable**
+26. [MERN Stack Blogging System in 2022](https://www.udemy.com/share/1057983@QdZm7GmMsTwxB6Uw5VJyZuHcERCF7oCFWMlLO5Y0_e5hxNq-bzKBEWjBk6uHwx1b/) **Certificate Avaliable**
 
 ### TypeScript Class
 
@@ -80,6 +79,7 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 1. [Build a FullStack App with Next.js, Supabase & Prisma](https://themodern.dev/courses/build-a-fullstack-app-with-nextjs-supabase-and-prisma-322389284337222224)
 2. [Magic Link Authentication in Next.js with NextAuth and Fauna](https://alterclass.io/tutorials/magic-link-authentication-in-nextjs-with-nextauth-and-fauna)
 3. [Nextjs Prisma Postgres](https://vercel.com/guides/nextjs-prisma-postgres)
+4. [SWR Feat Axios with NextJS](https://youtu.be/AhkUYTvwguQ)
 
 ### Vue Class
 
@@ -94,6 +94,7 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 3. [Automate the boring Stuff with Python](https://www.udemy.com/share/101WeWAEIbdVZbTXo=/) **Certificate Avaliable**
 4. [Learn build Jarvis using Python](https://www.udemy.com/share/103xKCAEIbdVZbTXo=/) **Certificate Avaliable**
 5. [Building face detection with Python](https://www.udemy.com/share/103FFnAEIbdVZbTXo=/)
+6. [Complete SQL Bootcamp, PHP, MySQL, Python](https://www.udemy.com/share/101HvUAEIbdVZbTXo=/)
 
 ### Penetration Test/ Web Security
 

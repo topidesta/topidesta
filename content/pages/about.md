@@ -9,14 +9,18 @@ topidesta.my.id rumah baru dari blog <a href="https://topidesta.my.id/" target="
 
 ## Siapa Dibalik Topidesta?
 
-Yaps, topidesta hanya sebuah nama blog biar mudah di ingat, Gw sendiri seorang **Fullstack Developer** di salah satu Rumah Sakit di Jakarta Timur, nama gw MUCHAMAD DESTA FADILAH. Berdasarkan halaman dari about.me/desta ... gw men-claim diri gw sebagai berikut.
+Yaps, topidesta hanya sebuah nama blog biar mudah di ingat, saya sendiri seorang **Fullstack Developer** di salah satu Rumah Sakit di Jakarta Timur, nama saya MUCHAMAD DESTA FADILAH. Berdasarkan halaman dari about.me/desta ... saya men-claim diri saya sebagai berikut.
 
 ```bash
-Fullstack Developer? Yes i do, because I'm at government environment. I fall in love ReactJS and NextJS.
+Fullstack Developer? Yes i do, because I'm at government environment. 
 
-But I'm Not Frontend Master. My Background From Codeigniter Stack, but I'm not Backend Master too.
+I fall in love ReactJS so NextJS too. But I'm Not Frontend Master. 
 
-But, I'm want be Professional at my way. Now, I'm Learning Golang,and Do some Project with ReactJS or NextJS Cycle.
+My Background From Codeigniter Stack, but I'm not Backend Master too.
+
+I Believe I must be Professional in every Project i handle. 
+
+Now, I'm Learning Go-lang,and Do some Project with ReactJS or NextJS Cycle.
 ```
 
 Beberapa teknologi pengembangan website sederhana ini:
