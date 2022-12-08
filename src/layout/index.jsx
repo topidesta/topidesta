@@ -16,6 +16,16 @@ const MainLayout = ({ children, hasFooter = true }) => (
       <meta name="description" content={siteConfig.siteDescription} />
       <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
       <link rel="canonical" href={useSlash(siteConfig.siteUrl)} />
+
+      <script
+        src="https://cdn.jsdelivr.net/gh/tuhinpal/contact-form@master/src/contact-form.min.js"
+        id="contactform"
+        error_text="Maaf ada Error"
+        success_text="Pesan Terkirim"
+        disable_waittime="true"
+        form_worker_url="https://blog.topidesta.workers.dev/"
+      ></script>
+
     </Helmet>
     <Navigation
       brand={brand}
