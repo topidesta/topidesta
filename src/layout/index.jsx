@@ -18,7 +18,7 @@ const MainLayout = ({ children, hasFooter = true }) => (
       <link rel="canonical" href={useSlash(siteConfig.siteUrl)} />
 
       <script
-        src="https://cdn.jsdelivr.net/gh/topidesta/contact-form@master/src/contact-form.min.js"
+        src="https://cdn.jsdelivr.net/gh/tuhinpal/contact-form@master/src/contact-form.min.js"
         id="contactform"
         error_text="Maaf ada Error"
         success_text="Pesan Terkirim"
