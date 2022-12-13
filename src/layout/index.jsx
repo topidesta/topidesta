@@ -20,6 +20,15 @@ const MainLayout = ({ children, hasFooter = true }) => (
 
       <script>
         window.intergramId = "717698723";
+        window.intergramCustomizations = {
+            titleClosed : 'Keluar Chat',
+            titleOpen: 'Chat Online',
+            introMessage: 'Selamat datang di Blog Programmer Gadungan!',
+            autoResponse: 'Pesan berhasil Terikirim!',
+            autoNoResponse: 'Jika anda tidak mau menunggu, silahkan tinggalkan kontak yang mudah dihubungi! Terima kasih.',
+            mainColor: "#E91E63",
+            alwaysUseFloatingButton: true,
+        };
       </script>
       <script id="intergram" type="text/javascript" src="https://www.intergram.xyz/js/widget.js"></script>
 
