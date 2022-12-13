@@ -17,20 +17,11 @@ const MainLayout = ({ children, hasFooter = true }) => (
       <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
       <link rel="canonical" href={useSlash(siteConfig.siteUrl)} />
       {/* <script src="https://cdn.jsdelivr.net/gh/anshumanfauzdar/contact-form@v3/src/contact-form.js" id="contactform" form_worker_url="https://v1.formtopidesta.workers.dev/"></script> */}
-
       <script>
-        window.intergramId = "717698723";
-        window.intergramCustomizations = {
-            titleClosed : 'Keluar Chat',
-            titleOpen: 'Chat Online',
-            introMessage: 'Selamat datang di Blog Programmer Gadungan!',
-            autoResponse: 'Pesan berhasil Terikirim!',
-            autoNoResponse: 'Jika anda tidak mau menunggu, silahkan tinggalkan kontak yang mudah dihubungi! Terima kasih.',
-            mainColor: "#E91E63",
-            alwaysUseFloatingButton: true,
-        };
-      </script>
-      <script id="intergram" type="text/javascript" src="https://www.intergram.xyz/js/widget.js"></script>
+        window.intergramId = "717698723"
+        window.intergramServer = "https://telegram.persahabatan.co.id/"
+    </script>
+    <script id="intergram" type="text/javascript" src="https://telegram.persahabatan.co.id/js/widget.js"></script>
 
     </Helmet>
     <Navigation
