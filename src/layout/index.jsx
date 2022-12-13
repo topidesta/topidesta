@@ -16,7 +16,6 @@ const MainLayout = ({ children, hasFooter = true }) => (
       <meta name="description" content={siteConfig.siteDescription} />
       <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
       <link rel="canonical" href={useSlash(siteConfig.siteUrl)} />
-
       <script src="https://cdn.jsdelivr.net/gh/anshumanfauzdar/contact-form@v3/src/contact-form.js" id="contactform" form_worker_url="https://v1.formtopidesta.workers.dev/"></script>
 
     </Helmet>
