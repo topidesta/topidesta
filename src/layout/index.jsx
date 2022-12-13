@@ -19,7 +19,6 @@ const MainLayout = ({ children, hasFooter = true }) => (
       {/* <script src="https://cdn.jsdelivr.net/gh/anshumanfauzdar/contact-form@v3/src/contact-form.js" id="contactform" form_worker_url="https://v1.formtopidesta.workers.dev/"></script> */}
       <script>
         window.intergramId = "717698723";
-        window.intergramServer = "https://telegram.persahabatan.co.id";
     </script>
     <script id="intergram" type="text/javascript" src="https://www.intergram.xyz/js/widget.js"></script>
 
