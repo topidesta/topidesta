@@ -20,14 +20,22 @@ const MainLayout = ({ children, hasFooter = true }) => (
       <script>
         window.intergramId = "717698723";
         window.intergramServer = "https://telegram.persahabatan.co.id";
-        window.intergramCustomizations.titleClosed = "Tutup Obrolan";
-        window.intergramCustomizations.titleOpen = "Buka Obrolan";
-        window.intergramCustomizations.introMessage = "Selamat datang di Blog Programmer Gadungan";
-        window.intergramCustomizations.autoResponse = "Pesan akan segera terkirim..!!";
-        window.intergramCustomizations.autoNoResponse = "Pesan tidak terkirim..!!";
-        window.intergramCustomizations.mainColor = "#434348";
-        window.intergramCustomizations.alwaysUseFloatingButton = "false";
     </script>
+
+    <Safe.script>{
+      `
+        window.intergramCustomizations = {
+          "titleClosed" = "Tutup Obrolan",
+          "titleOpen" = "Buka Obrolan",
+          "introMessage" = "Selamat datang di Blog Programmer Gadungan",
+          "autoResponse" = "Pesan akan segera terkirim..!!",
+          "autoNoResponse" = "Pesan tidak terkirim..!!",
+          "mainColor" = "#434348",
+          "alwaysUseFloatingButton" = false
+        }
+      `
+    }
+    </Safe.script>
     <script id="intergram" type="text/javascript" src="https://telegram.persahabatan.co.id/js/widget.js"></script>
 
     </Helmet>
