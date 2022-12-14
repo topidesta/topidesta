@@ -26,13 +26,13 @@ const MainLayout = ({ children, hasFooter = true }) => (
     <Safe.script>{
       `
         window.intergramCustomizations = {
-          titleClosed = "Tutup Obrolan",
-          titleOpen = "Buka Obrolan",
-          introMessage = "Selamat datang di Blog Programmer Gadungan",
-          autoResponse = "Pesan akan segera terkirim..!!",
-          autoNoResponse = "Pesan tidak terkirim..!!",
-          mainColor = "#434348",
-          alwaysUseFloatingButton = false
+          titleClosed : "Tutup Obrolan",
+          titleOpen : "Buka Obrolan",
+          introMessage : "Selamat datang di Blog Programmer Gadungan",
+          autoResponse : "Pesan akan segera terkirim..!!",
+          autoNoResponse : "Pesan tidak terkirim..!!",
+          mainColor : "#434348",
+          alwaysUseFloatingButton : false
         }
       `
     }
