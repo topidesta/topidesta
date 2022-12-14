@@ -1,5 +1,6 @@
 import React from "react";
 import Helmet from "react-helmet";
+import Safe from "react-safe";
 import Navigation from "../components/Navigation/Navigation";
 import Footer from "../components/Footer/Footer";
 import ScrollToTop from "../components/ScrollToTop/ScrollToTop";
