@@ -19,6 +19,7 @@ const MainLayout = ({ children, hasFooter = true }) => (
       {/* <script src="https://cdn.jsdelivr.net/gh/anshumanfauzdar/contact-form@v3/src/contact-form.js" id="contactform" form_worker_url="https://v1.formtopidesta.workers.dev/"></script> */}
       <script>
         window.intergramId = "717698723";
+        window.intergramServer = "https://telegram.persahabatan.co.id";
         window.intergramCustomizations.titleClosed = "Tutup Obrolan";
         window.intergramCustomizations.titleOpen = "Buka Obrolan";
         window.intergramCustomizations.introMessage = "Selamat datang di Blog Programmer Gadungan";
@@ -27,7 +28,7 @@ const MainLayout = ({ children, hasFooter = true }) => (
         window.intergramCustomizations.mainColor = "#434348";
         window.intergramCustomizations.alwaysUseFloatingButton = "false";
     </script>
-    <script id="intergram" type="text/javascript" src="https://www.intergram.xyz/js/widget.js"></script>
+    <script id="intergram" type="text/javascript" src="https://telegram.persahabatan.co.id/js/widget.js"></script>
 
     </Helmet>
     <Navigation
