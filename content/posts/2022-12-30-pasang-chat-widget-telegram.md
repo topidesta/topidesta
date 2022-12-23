@@ -1,7 +1,7 @@
 ---
 template: "post"
 title: Chat Widget Dengan Intergram
-cover: "../images/netlifycli.png"
+cover: "../images/intergram.png"
 date: "2022-12-30T08:00:00Z"
 slug: "chat-widget-dengan-intergram"
 keywords: "Chat Widget Dengan Intergram"
