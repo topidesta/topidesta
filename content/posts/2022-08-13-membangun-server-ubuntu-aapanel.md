@@ -3,7 +3,7 @@ template: "post"
 title: Membangun Web Server Multi Aplikasi
 cover: "../images/aapanel.webp"
 date: "2022-08-13T08:00:00Z"
-slug: "server-ubuntu-aapanel"
+slug: "membangun-server-ubuntu-aapanel"
 keywords: "Membangun Web Server Multi Aplikasi"
 categories:
   - share
@@ -109,6 +109,6 @@ Rasanya perlu juga ada kesimpulan? hehe.. baiklah, intinya **Belajar bukan tenta
 
 ### Reference
 
-<a id="1">[1] https://www.linkedin.com/posts/masterkurniawan_x-code-menerapkan-kemerdekaan-belajar-orang-activity-6983481739574730752-oGM2</a>
+<a id="1">[1] http://go.topidesta.my.id/belajar-niru</a>
 
 Have a nice day!
