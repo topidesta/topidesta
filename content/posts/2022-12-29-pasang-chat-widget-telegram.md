@@ -37,7 +37,7 @@ Itu berhasil terinstall, tapi ada yang aneh meski sudah menambahan script untuk 
 
 pesan tidak masuk ke telegram kita, akhirnya gw coba bukan Issue di github 
 
-> https://github.com/idoco/intergram/issues/121#issue-1493738944
+https://github.com/idoco/intergram/issues/121#issue-1493738944
 
 Silahkan baca, disana gw jelaskan kalo nodejs masih v3 makan tambahkan script ini di `server.js`, sebagai berikut:
 
