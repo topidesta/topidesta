@@ -125,7 +125,7 @@ slug: 'projek'
 
 | Stack | Status | Akses |
 | :---: | :---: | :---: | 
-| ReactJS, Codeigniter | 🚀 LIVE 🚀 | https://lowongan.rsuppersahabatan.co.id/ |
+| ReactJS, ReduxJS, Bootstrap, Codeigniter | 🚀 LIVE 🚀 | https://lowongan.rsuppersahabatan.co.id/ |
 | <td colspan="3"><fieldset><legend>Lowongan Pekerjaan</legend>![Lowongan Pekerjaan](../images/lowongan-online.png)</fieldset></td>|
 
 </details>
@@ -153,8 +153,8 @@ slug: 'projek'
 
 | Stack | Status | Akses |
 | :---: | :---: | :---: | 
-| ReactJS, Codeigniter, Golang | 🚀 LIVE 🚀 | https://bankdarah.rsuppersahabatan.co.id/ |
-| ReactJS, Codeigniter, Golang | 🚀 LIVE 🚀 | https://ic.bankdarah.rsuppersahabatan.co.id/ |
+| ReactJS, ReduxJS, RHF, Codeigniter, Golang | 🚀 LIVE 🚀 | https://bankdarah.rsuppersahabatan.co.id/ |
+| ReactJS, ReduxJS, RHF, Codeigniter, Golang | 🚀 LIVE 🚀 | https://ic.bankdarah.rsuppersahabatan.co.id/ |
 | <td colspan="3"><fieldset><legend>Bank Darah (UTDRS) RSUP Persahabatan</legend>![Bank Darah (UTDRS) RSUP Persahabatan](../images/bankdarah-online.png)</fieldset></td>|
 | <td colspan="3"><fieldset><legend>Formulir Inform Consent (IC)</legend>![Formulir Inform Consent (IC)](../images/ic-bankdarah-online.png)</fieldset></td>|
 
@@ -169,7 +169,7 @@ slug: 'projek'
 
 | Stack | Status | Akses |
 | :---: | :---: | :---: | 
-| ReactJS, Codeigniter | 🚀 LIVE 🚀 | https://fagestorm.netlify.app/ |
+| ReactJS, Formik, Redux, Codeigniter 4 | 🚀 LIVE 🚀 | https://fagestorm.netlify.app/ |
 | <td colspan="3"><fieldset><legend>Kuesioner Fagestorm</legend>![Kuesioner Fagestorm](../images/fagestorm.png)</fieldset></td>|
 
 </details>
@@ -211,5 +211,17 @@ slug: 'projek'
 | Stack | Status | Akses |
 | :---: | :---: | :---: | 
 | NextJS, GraphQL, Google API | ⚙️DEVELOPMENT⚙️ | https://putar.rsuppersahabatan.co.id/ |
+
+</details>
+
+
+### Aplikasi Survei
+
+<details>
+  <summary> 👇 Klik Detail</summary>
+
+| Stack | Status | Akses |
+| :---: | :---: | :---: | 
+| ReactJS, ReduxJS, MaterialUI, Formik | ⚙️DEVELOPMENT⚙️ | https://survei.rsuppersahabatan.co.id/ |
 
 </details>
