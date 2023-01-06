@@ -31,6 +31,8 @@ slug: 'projek'
 
 ### Website RSUP Persahabatan
 
+<hr />
+
 <details>
   <summary> 👇 Klik Detail</summary>
 
@@ -214,6 +216,7 @@ slug: 'projek'
 
 </details>
 
+<hr />
 
 ### Aplikasi Survei
 
@@ -225,3 +228,5 @@ slug: 'projek'
 | ReactJS, ReduxJS, MaterialUI, Formik | ⚙️DEVELOPMENT⚙️ | https://survei.rsuppersahabatan.co.id/ |
 
 </details>
+
+<hr />
