@@ -31,7 +31,6 @@ slug: 'projek'
 
 ### Website RSUP Persahabatan
 
-<hr />
 
 <details>
   <summary> 👇 Klik Detail</summary>
