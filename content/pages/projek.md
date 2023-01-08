@@ -229,3 +229,15 @@ slug: 'projek'
 </details>
 
 <hr />
+
+
+### Prima QR Login
+
+<details>
+  <summary> 👇 Klik Detail</summary>
+
+| Stack | Status | Akses |
+| :---: | :---: | :---: | 
+| NextJS, ReduxJS, ChakraUI, RHF | ⚙️DEVELOPMENT⚙️ | https://login.rsuppersahabatan.co.id/ |
+
+</details>
