@@ -67,7 +67,7 @@ slug: 'projek'
 
 | Stack | Status | Akses |
 | :---: | :---: | :---: | 
-| ReactJS, Codeigniter 4, API WA, Golang | ⚙️ DEVELOPMENT ⚙️ | https://surat.rsuppersahabatan.co.id/ |
+| ReactJS, Codeigniter 4, API WA, Golang | ⚙️ DEVELOPMENT ⚙️ | [link](https://surat.rsuppersahabatan.co.id/) |
 
 </details>
 
@@ -80,10 +80,10 @@ slug: 'projek'
 
 | Stack | Status | Akses |
 | :---: | :---: | :---: | 
-| Codeigniter 3 | 🚀 LIVE 🚀 | https://rsuppersahabatan.co.id/apis |
-| Codeigniter 4 | ⚙️TESTING⚙️ | https://api.persahabatan.co.id/ |
-| Codeigniter 4 | ⚙️DEVELOPMENT⚙️ | https://siapdok.persahabatan.co.id/ |
-| Golang | ⚙️DEVELOPMENT⚙️ | https://go.api.persahabatan.co.id/ |
+| Codeigniter 3 | 🚀 LIVE 🚀 | [link 1](https://rsuppersahabatan.co.id/apis) |
+| Codeigniter 4 | ⚙️TESTING⚙️ | [link 2](https://api.persahabatan.co.id/)|
+| Codeigniter 4 | ⚙️DEVELOPMENT⚙️ | [link 3](https://siapdok.persahabatan.co.id/) |
+| Golang | ⚙️DEVELOPMENT⚙️ | [link 4](https://go.api.persahabatan.co.id/) |
 
 </details>
 
@@ -96,9 +96,9 @@ slug: 'projek'
 
 | Stack | Status | Akses |
 | :---: | :---: | :---: | 
-| NodeJS, whatsapp-web.js, Puppeter | 🚀 LIVE 🚀 | https://apiwa.persahabatan.co.id/ |
+| NodeJS, whatsapp-web.js, Puppeter | 🚀 LIVE 🚀 | [link 1](https://v1.apiwa.persahabatan.co.id/) |
 | <td colspan="3"><fieldset><legend>APIWA Unofficial</legend>![APIWA Unofficial](../images/apiwa.png)</fieldset></td>|
-| NodeJS, Baileys, Socket| 🚀 LIVE 🚀 | https://v2.apiwa.persahabatan.co.id/ |
+| NodeJS, Baileys, Socket| 🚀 LIVE 🚀 | [link 2](https://v2.apiwa.persahabatan.co.id/) |
 
 </details>
 
@@ -126,7 +126,7 @@ slug: 'projek'
 
 | Stack | Status | Akses |
 | :---: | :---: | :---: | 
-| ReactJS, ReduxJS, Bootstrap, Codeigniter | 🚀 LIVE 🚀 | https://lowongan.rsuppersahabatan.co.id/ |
+| ReactJS, ReduxJS, Bootstrap, Codeigniter | 🚀 LIVE 🚀 | [link](https://lowongan.rsuppersahabatan.co.id/) |
 | <td colspan="3"><fieldset><legend>Lowongan Pekerjaan</legend>![Lowongan Pekerjaan](../images/lowongan-online.png)</fieldset></td>|
 
 </details>
@@ -140,7 +140,7 @@ slug: 'projek'
 
 | Stack | Status | Akses |
 | :---: | :---: | :---: | 
-| GatsbyJS, NetlifyCMS, Vercel | 🚀 LIVE 🚀 | https://pendaftaran.rsuppersahabatan.co.id/ |
+| GatsbyJS, NetlifyCMS, Vercel | 🚀 LIVE 🚀 | [link](https://pendaftaran.rsuppersahabatan.co.id/) |
 | <td colspan="3"><fieldset><legend>Landing Pendaftaran Online</legend>![Landing Pendaftaran Online](../images/pendaftaran-landing.png)</fieldset></td>|
 
 </details>
@@ -154,8 +154,8 @@ slug: 'projek'
 
 | Stack | Status | Akses |
 | :---: | :---: | :---: | 
-| ReactJS, ReduxJS, RHF, Codeigniter, Golang | 🚀 LIVE 🚀 | https://bankdarah.rsuppersahabatan.co.id/ |
-| ReactJS, ReduxJS, RHF, Codeigniter, Golang | 🚀 LIVE 🚀 | https://ic.bankdarah.rsuppersahabatan.co.id/ |
+| ReactJS, ReduxJS, RHF, Codeigniter, Golang | 🚀 LIVE 🚀 | [link 1](https://bankdarah.rsuppersahabatan.co.id/) |
+| ReactJS, ReduxJS, RHF, Codeigniter, Golang | 🚀 LIVE 🚀 | [link 2](https://ic.bankdarah.rsuppersahabatan.co.id/) |
 | <td colspan="3"><fieldset><legend>Bank Darah (UTDRS) RSUP Persahabatan</legend>![Bank Darah (UTDRS) RSUP Persahabatan](../images/bankdarah-online.png)</fieldset></td>|
 | <td colspan="3"><fieldset><legend>Formulir Inform Consent (IC)</legend>![Formulir Inform Consent (IC)](../images/ic-bankdarah-online.png)</fieldset></td>|
 
@@ -170,7 +170,7 @@ slug: 'projek'
 
 | Stack | Status | Akses |
 | :---: | :---: | :---: | 
-| ReactJS, Formik, Redux, Codeigniter 4 | 🚀 LIVE 🚀 | https://fagestorm.netlify.app/ |
+| ReactJS, Formik, Redux, Codeigniter 4 | 🚀 LIVE 🚀 | [link](https://fagestorm.netlify.app/) |
 | <td colspan="3"><fieldset><legend>Kuesioner Fagestorm</legend>![Kuesioner Fagestorm](../images/fagestorm.png)</fieldset></td>|
 
 </details>
@@ -184,7 +184,7 @@ slug: 'projek'
 
 | Stack | Status | Akses |
 | :---: | :---: | :---: | 
-| Ubuntu, aaPanel, CloudFlare | 🚀 LIVE 🚀 | https://persahabatan.co.id/ |
+| Ubuntu, aaPanel, CloudFlare | 🚀 LIVE 🚀 | [link](https://persahabatan.co.id/)|
 
 </details>
 
@@ -197,7 +197,7 @@ slug: 'projek'
 
 | Stack | Status | Akses |
 | :---: | :---: | :---: | 
-| NextJS, GraphQL, Google API | ⚙️ DEVELOPMENT ⚙️ | https://zoom.rsuppersahabatan.co.id/ |
+| NextJS, GraphQL, Google API | ⚙️ DEVELOPMENT ⚙️ | [link](https://zoom.rsuppersahabatan.co.id/)|
 | <td colspan="3"><fieldset><legend>Zoom Meeting</legend>![Zoom Meeting](../images/zoom-meeting.png)</fieldset></td>|
 
 </details>
@@ -211,7 +211,7 @@ slug: 'projek'
 
 | Stack | Status | Akses |
 | :---: | :---: | :---: | 
-| NextJS, GraphQL, Google API | ⚙️DEVELOPMENT⚙️ | https://putar.rsuppersahabatan.co.id/ |
+| NextJS, GraphQL, Google API | ⚙️DEVELOPMENT⚙️ | [link](https://putar.rsuppersahabatan.co.id/) |
 
 </details>
 
@@ -224,7 +224,7 @@ slug: 'projek'
 
 | Stack | Status | Akses |
 | :---: | :---: | :---: | 
-| ReactJS, ReduxJS, MaterialUI, Formik | ⚙️DEVELOPMENT⚙️ | https://survei.rsuppersahabatan.co.id/ |
+| ReactJS, ReduxJS, MaterialUI, Formik | ⚙️DEVELOPMENT⚙️ | [link](https://survei.rsuppersahabatan.co.id/) |
 
 </details>
 
@@ -238,6 +238,6 @@ slug: 'projek'
 
 | Stack | Status | Akses |
 | :---: | :---: | :---: | 
-| NextJS, ReduxJS, ChakraUI, RHF | ⚙️DEVELOPMENT⚙️ | https://login.rsuppersahabatan.co.id/ |
+| NextJS, ReduxJS, ChakraUI, RHF | ⚙️DEVELOPMENT⚙️ | [link](https://login.rsuppersahabatan.co.id/) |
 
 </details>
