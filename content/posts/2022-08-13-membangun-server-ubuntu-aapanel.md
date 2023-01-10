@@ -8,7 +8,7 @@ keywords: "Membangun Web Server Multi Aplikasi"
 categories:
   - share
 tags:
-  - ubuntu
+  - project
   - server
 ---
 
