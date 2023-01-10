@@ -25,7 +25,7 @@ tapi tenang, diluar sana ada juga kok yang memanfaatkan API yang free alias Grat
 
 beberapa library yang terkenal seperti [baileys](https://github.com/adiwajshing/Baileys) dan [whatsapp-web.js](https://wwebjs.dev/) yang menggunakan bahasa typescript/ javascript, ada juga yang menggunakan python atau golang loh, mantap kan ya.
 
-lanjut, karena lingkup kerja gw butuh hasil ketimbang proses, dan gw sendiri lebih familiar dengan javascript, akhirnya coba hunting deh API yang ready to production. liat aja di pojok kanan github library tersebut, **Used by** nah, dapat deh beberapa yang berhasil mengembangkan yang sudah ada API Rest. Tinggal jalanin diserver, ouh iya, kalo mau di onlinekan, sebisa mungkin gunakan domain ya, jangan pake IP Publik, karena nanti port nodejsnya terexpose.
+lanjut, karena lingkup kerja gw butuh hasil ketimbang proses, dan gw sendiri lebih familiar dengan javascript, akhirnya coba hunting deh API yang ready to production. liat aja di pojok kanan github library tersebut, **Used by** nah, dapat deh beberapa yang berhasil mengembangkan yang sudah ada API Rest. Tinggal test deh endpointnya dengan postman atau insomnia, kalo udah bisa, running deh diserver, ouh iya, kalo mau di onlinekan, sebisa mungkin gunakan domain ya, jangan pake IP Publik, karena nanti port nodejsnya terexpose.
 
 Untuk server pernah gw bahas di postingan [membangun server dengan aapanel](membangun-server-ubuntu-aapanel), gw taro service di sana, dengan memaksimalkan Whatsapp Pairing, ada 4 device yang bisa kita pairing. Ouh iya, sebelum pake API Whatsapp Un-Official, gw pake service zenziva yang berbayar pake kredit, kalo sekarang itu hanya untuk Backup saja, baiklah gw share ya, beberapa API yang bisa dipakai tapi dengan terbatas
 
