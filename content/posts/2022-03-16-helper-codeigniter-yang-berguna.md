@@ -146,5 +146,247 @@ if (!function_exists('arr_kolom')) {
 
 > script diatas khusus PHP < 5.4 yang tidak bisa menggunakan fungsi array_column() yang ada di php > 5.5 
 
+```php
+if ( !function_exists('convertNumber')) {
+  function convertNumber( $nope, $whatsappStyle=false ) {
+
+    $ci =& get_instance();
+
+    $styleNomorWa = ($whatsappStyle) ? '@c.us' : '';
+    
+    $cekArrayData = is_string($nope); //exit(dump($cekArrayData != true));
+    $EnamDuaNumber = '';
+    $NewEnamDuaNumber = '';
+
+    // Gerombolan
+    if ($cekArrayData != true && isset($nope)) {
+          
+      foreach ($nope as $key => $value) {
+        $output = preg_replace('/[^0-9]/', '', $value);
+        $EnamDuaNumber .= ((mb_substr($output, 0, 1) == 0) ? "'62".ltrim($output, 0) : $output).$styleNomorWa."',";
+        $NewEnamDuaNumber = rtrim($EnamDuaNumber, ',');
+      }
+    
+    // Alone
+    }else{
+      $output = preg_replace('/[^0-9]/', '', $nope); 
+      $EnamDuaNumber = ((mb_substr($output, 0, 1) == 0) ? "62".ltrim($output, 0) : $output).$styleNomorWa;
+      $NewEnamDuaNumber = $EnamDuaNumber;
+    }
+
+    return $NewEnamDuaNumber;
+  }
+}
+```
+
+> Script diatas digunakan untuk merubah format nomor ke nomor international yang bisa ditambahkan di Whatsapp
+
+```php
+// source: https://stackoverflow.com/a/15198925
+if (!function_exists('isJson')) {
+  function isJson($string)
+  {
+    // decode the JSON data
+    $result = json_decode($string);
+
+    // switch and check possible JSON errors
+    switch (json_last_error()) {
+        case JSON_ERROR_NONE:
+            $error = ''; // JSON is valid // No error has occurred
+            break;
+        case JSON_ERROR_DEPTH:
+            $error = 'The maximum stack depth has been exceeded.';
+            break;
+        case JSON_ERROR_STATE_MISMATCH:
+            $error = 'Invalid or malformed JSON.';
+            break;
+        case JSON_ERROR_CTRL_CHAR:
+            $error = 'Control character error, possibly incorrectly encoded.';
+            break;
+        case JSON_ERROR_SYNTAX:
+            $error = 'Syntax error, malformed JSON.';
+            break;
+        // PHP >= 5.3.3
+        case JSON_ERROR_UTF8:
+            $error = 'Malformed UTF-8 characters, possibly incorrectly encoded.';
+            break;
+        // PHP >= 5.5.0
+        case JSON_ERROR_RECURSION:
+            $error = 'One or more recursive references in the value to be encoded.';
+            break;
+        // PHP >= 5.5.0
+        case JSON_ERROR_INF_OR_NAN:
+            $error = 'One or more NAN or INF values in the value to be encoded.';
+            break;
+        case JSON_ERROR_UNSUPPORTED_TYPE:
+            $error = 'A value of a type that cannot be encoded was given.';
+            break;
+        default:
+            $error = 'Unknown JSON error occured.';
+            break;
+    }
+
+    if ($error !== '') {
+        // throw the Exception or exit // or whatever :)
+        return $error;
+    }
+
+    // everything is OK
+    return $result;
+  }
+}
+```
+
+> untuk mengecek apakah return variable berupa json atau apa.
+
+```php
+/**
+ * MySQLi Export
+ *
+ * @access  private
+ * @param   array   Preferences
+ * @return  mixed
+ * @source https://stackoverflow.com/a/29801337
+ */
+if ( !function_exists('backupDB')) {
+    function backupDB($params = array())
+    {
+        // Currently unsupported
+        //---return $this->db->display_error('db_unsuported_feature');
+
+        if (count($params) == 0)
+        {
+            return FALSE;
+        }
+
+        // Extract the prefs for simplicity
+        extract($params);
+
+        // Build the output
+        $output = '';
+        foreach ((array)$tables as $table)
+        {
+            // Is the table in the "ignore" list?
+            if (in_array($table, (array)$ignore, TRUE))
+            {
+                continue;
+            }
+
+            // Get the table schema
+            $query = $this->db->query("SHOW CREATE TABLE `".$this->db->database.'`.`'.$table.'`');
+
+            // No result means the table name was invalid
+            if ($query === FALSE)
+            {
+                continue;
+            }
+
+            // Write out the table schema
+            $output .= '#'.$newline.'# TABLE STRUCTURE FOR: '.$table.$newline.'#'.$newline.$newline;
+
+            if ($add_drop == TRUE)
+            {
+                $output .= 'DROP TABLE IF EXISTS '.$table.';'.$newline.$newline;
+            }
+
+            $i = 0;
+            $result = $query->result_array();
+            foreach ($result[0] as $val)
+            {
+                if ($i++ % 2)
+                {
+                    $output .= $val.';'.$newline.$newline;
+                }
+            }
+
+            // If inserts are not needed we're done...
+            if ($add_insert == FALSE)
+            {
+                continue;
+            }
+
+            // Grab all the data from the current table
+            $query = $this->db->query("SELECT * FROM $table");
+
+            if ($query->num_rows() == 0)
+            {
+                continue;
+            }
+
+            // Fetch the field names and determine if the field is an
+            // integer type.  We use this info to decide whether to
+            // surround the data with quotes or not
+
+            $i = 0;
+            $field_str = '';
+            $is_int = array();
+            while ($field = mysqli_fetch_field($query->result_id))
+            {
+                // Most versions of MySQL store timestamp as a string
+                $is_int[$i] = (in_array(
+                                        //strtolower(mysqli_field_type($query->result_id, $i)),
+                                        strtolower($field->type),
+                                        array('tinyint', 'smallint', 'mediumint', 'int', 'bigint'), //, 'timestamp'),
+                                        TRUE)
+                                        ) ? TRUE : FALSE;
+
+                // Create a string of field names
+                $field_str .= '`'.$field->name.'`, ';
+                $i++;
+            }
+
+            // Trim off the end comma
+            $field_str = preg_replace( "/, $/" , "" , $field_str);
+
+
+            // Build the insert string
+            foreach ($query->result_array() as $row)
+            {
+                $val_str = '';
+
+                $i = 0;
+                foreach ($row as $v)
+                {
+                    // Is the value NULL?
+                    if ($v === NULL)
+                    {
+                        $val_str .= 'NULL';
+                    }
+                    else
+                    {
+                        // Escape the data if it's not an integer
+                        if ($is_int[$i] == FALSE)
+                        {
+                            $val_str .= $this->db->escape($v);
+                        }
+                        else
+                        {
+                            $val_str .= $v;
+                        }
+                    }
+
+                    // Append a comma
+                    $val_str .= ', ';
+                    $i++;
+                }
+
+                // Remove the comma at the end of the string
+                $val_str = preg_replace( "/, $/" , "" , $val_str);
+
+                // Build the INSERT string
+                $output .= 'INSERT INTO '.$table.' ('.$field_str.') VALUES ('.$val_str.');'.$newline;
+            }
+
+            $output .= $newline.$newline;
+        }
+
+        return $output;
+
+    }
+}
+```
+
+> Untuk backup DB melalui PHP
+
 # TODO masih ada Banyak ... staytune!
 
