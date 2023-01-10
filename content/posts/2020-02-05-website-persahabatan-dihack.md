@@ -50,7 +50,9 @@ Silahkan cari celah dan Panggung, cuman jika secara Resmi RSUP Persahabatan mela
 
 ## Update
 
-Setelah cek beberap aplikasi ternyata upload hanya ada di folder files yang memang default 777 ... sekarang lagi bandingkan development dengan GatsbyJS atau BackdropCMS ... masih tahap research and development ajah.
+Setelah cek beberapa aplikasi ternyata upload hanya ada di folder files yang memang default 777 ... sekarang lagi bandingkan development dengan GatsbyJS atau BackdropCMS ... akhirnya pake [GravCMS](https://getgrav.org/downloads) :), flatfile cms with php supports.
+
+Untuk sekarang fungsi upload via cms di non-aktifkan. setiap yang mau isi content pake cms tapi kalo mau tambah foto atau file pdf, harus lewat win-scp.
 
 Untuk yang mau file hacker yang terupload bisa cek di github ya:
 
