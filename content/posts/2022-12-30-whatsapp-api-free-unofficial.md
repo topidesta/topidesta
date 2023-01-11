@@ -48,7 +48,7 @@ Ada kelebihan ada kekurangan masing masing API Restfull Whatsapp, misalkan ada y
 
 Di group Petirs (Pengguna TI Rumah Sakit) pernah dibahas juga, tentang memanfaatkan Whatsapp API Free untuk mesin penjawab otomatis, lihat di point #4 salah satu contoh kodingannya, next mungkin gw bisa research deh, kalo ada yang mau pdf nya ini gw share ya.
 
-[Chatbot by Petirs](https://github.com/mdestafadilah/topidesta/blob/master/content/images/chat-bot-petirs.pdf)
+[Chatbot by Petirs](https://github.com/topidesta/topidesta/raw/master/content/images/chat-bot-petirs.pdf)
 
 Done.
 
