@@ -44,6 +44,20 @@ slug: 'projek'
 
 <hr />
 
+### Web Blogging Topidesta
+
+
+<details>
+  <summary> 👇 Klik Detail</summary>
+
+| Stack | Status | Akses |
+| :---: | :---: | :---: | 
+| GatsbyJS, ShibaCSS, Netlify, Github | 🚀 LIVE 🚀 | https://topidesta.my.id |
+
+</details>
+
+<hr />
+
 ### Pencarian Dokter
 
 <details>
