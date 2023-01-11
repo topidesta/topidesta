@@ -37,7 +37,7 @@ slug: 'projek'
 
 | Stack | Status | Akses |
 | :---: | :---: | :---: | 
-| GravCMS | ⚙️DEVELOPMENT⚙️ | https://v3.web.persahabatan.co.id |
+| GravCMS, Github | ⚙️DEVELOPMENT⚙️ | https://v3.web.persahabatan.co.id |
 | <td colspan="3"><fieldset><legend>Website RSUP Persahabatan V3</legend>![Website RSUP Persahabatan V3](../images/web-persahabatan-v3.png)</fieldset></td>|
 
 </details>
@@ -51,7 +51,7 @@ slug: 'projek'
 
 | Stack | Status | Akses |
 | :---: | :---: | :---: | 
-| ReactJS, Codeigniter | 🚀 LIVE 🚀 | https://dokter.rsuppersahabatan.co.id/ |
+| ReactJS, Bootstrap, ReduxJS, Codeigniter | 🚀 LIVE 🚀 | https://dokter.rsuppersahabatan.co.id/ |
 | <td colspan="3"><fieldset><legend>Pencarian Dokter Per Spesialis</legend>![Pencarian Dokter](../images/pencarian-dokter.png)</fieldset></td>|
 | <td colspan="3"><fieldset><legend>Detail Dokter</legend>![Pencarian Dokter](../images/pencarian-dokter-2.png)</fieldset></td>|
 
@@ -89,16 +89,15 @@ slug: 'projek'
 
 <hr />
 
-### API Whatsapp (Unofficial)
+### API Whatsapp (Un-Official)
 
 <details>
   <summary> 👇 Klik Detail</summary>
 
 | Stack | Status | Akses |
 | :---: | :---: | :---: | 
-| NodeJS, whatsapp-web.js, Puppeter | 🚀 LIVE 🚀 | [link 1](https://v1.apiwa.persahabatan.co.id/) |
+| NodeJS, whatsapp-web.js, Puppeter, Baileys, Socket | 🚀 LIVE 🚀 | [link 1](https://v1.apiwa.persahabatan.co.id/) |
 | <td colspan="3"><fieldset><legend>APIWA Unofficial</legend>![APIWA Unofficial](../images/apiwa.png)</fieldset></td>|
-| NodeJS, Baileys, Socket| 🚀 LIVE 🚀 | [link 2](https://v2.apiwa.persahabatan.co.id/) |
 
 </details>
 
