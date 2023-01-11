@@ -37,7 +37,7 @@ slug: 'projek'
 
 | Stack | Status | Akses |
 | :---: | :---: | :---: | 
-| GravCMS, Github | ⚙️DEVELOPMENT⚙️ | https://v3.web.persahabatan.co.id |
+| GravCMS, Github, CloudFlare | ⚙️DEVELOPMENT⚙️ | https://v3.web.persahabatan.co.id |
 | <td colspan="3"><fieldset><legend>Website RSUP Persahabatan V3</legend>![Website RSUP Persahabatan V3](../images/web-persahabatan-v3.png)</fieldset></td>|
 
 </details>
@@ -52,7 +52,7 @@ slug: 'projek'
 
 | Stack | Status | Akses |
 | :---: | :---: | :---: | 
-| GatsbyJS, ShibaCSS, Netlify, Github | 🚀 LIVE 🚀 | https://topidesta.my.id |
+| GatsbyJS, ShibaCSS, Netlify, Github, CloudFlare | 🚀 LIVE 🚀 | https://topidesta.my.id |
 
 </details>
 

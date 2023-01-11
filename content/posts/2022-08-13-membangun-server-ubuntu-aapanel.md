@@ -103,6 +103,20 @@ Untuk sekarang hanya berjalan aplikasi PHP (5,7,8) dan NodeJS (Api Whatsapp).
 3. [aaPanel Plugin Development](https://topidesta.files.wordpress.com/2022/08/aapanel_linux_panel_plug-in_development_documentation_v1.1.pdf)
 4. [aaPanel Install Setup](https://topidesta.files.wordpress.com/2022/08/aapanel-nodejs-centos7-setup.pdf)
 
+
+## API Service 
+
+aaPanel menyediakan API untuk mengakses informasi tanpa login ke aaPanel, informansinya ada dihalaman berikut
+
+> https://forum.aapanel.com/d/482-api-interface-tutorial
+
+disana sudah ada dan detail, berhubung, saya develop di dunia PHP jadi saya share juga api nya
+
+> https://github.com/rsuppersahabatan/api_aapanel
+
+Kalo mau liat service mana yang jalan, tinggal liat deh di modul Prima SIMRS.
+
+
 ## Kesimpulan
 
 Rasanya perlu juga ada kesimpulan? hehe.. baiklah, intinya **Belajar bukan tentang kompetisi, tapi disiplin diri untuk menghadapi berbagai tantangan [[1]](#1)**
