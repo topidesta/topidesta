@@ -1,10 +1,10 @@
 ---
 template: 'post'
-title: Codeigniter 4 Error saat Push ke Heroku
+title: Codeigniter4 Error Push Heroku
 cover: '../images/heroku.png'
 date: '2021-12-27T14:00:00Z'
-slug: 'codeigniter-4-error-saat-push-ke-heroku'
-keywords: 'Codeigniter 4 Error saat Push ke Heroku'
+slug: 'codeigniter4-error-push-heroku'
+keywords: 'Codeigniter4 Error Push Heroku'
 categories:
   - share
 tags:
