@@ -155,7 +155,7 @@ slug: 'projek'
 | :---: | :---: | :---: | 
 | GatsbyJS, NetlifyCMS, Vercel | 🚀 LIVE 🚀 | [link](https://pendaftaran.rsuppersahabatan.co.id/) |
 | <td colspan="3"><fieldset><legend>Landing Pendaftaran Online</legend>![Landing Pendaftaran Online](../images/pendaftaran-landing.png)</fieldset></td>|
-| <td colspan="3"><fieldset><legend>Landing Pendaftaran Online</legend>![Landing Pendaftaran Online 2(../images/pendaftaran-landing2.png)</fieldset></td>|
+| <td colspan="3"><fieldset><legend>Landing Pendaftaran Online 2</legend>![Landing Pendaftaran Online 2](../images/pendaftaran-landing2.png)</fieldset></td>|
 
 </details>
 
@@ -169,7 +169,7 @@ slug: 'projek'
 | Stack | Status | Akses |
 | :---: | :---: | :---: | 
 | ReactJS, ReduxJS, RHF, Codeigniter, Golang | 🚀 LIVE 🚀 | [link 1](https://bankdarah.rsuppersahabatan.co.id/) |
-| ReactJS, ReduxJS, RHF, Codeigniter, Golang | 🚀 LIVE 🚀 | [link 2](https://ic.bankdarah.rsuppersahabatan.co.id/) |
+| ReactJS, ReduxJS, Formik, Codeigniter, Golang | 🚀 LIVE 🚀 | [link 2](https://ic.bankdarah.rsuppersahabatan.co.id/) |
 | <td colspan="3"><fieldset><legend>Bank Darah (UTDRS) RSUP Persahabatan</legend>![Bank Darah (UTDRS) RSUP Persahabatan](../images/bankdarah-online.png)</fieldset></td>|
 | <td colspan="3"><fieldset><legend>Formulir Inform Consent (IC)</legend>![Formulir Inform Consent (IC)](../images/ic-bankdarah-online.png)</fieldset></td>|
 
