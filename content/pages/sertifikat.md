@@ -21,6 +21,9 @@ Berikut ini beberapa Pelatihan Online yang udah saya ikuti ditengah kesibukan se
 8. React - Complete Developer Course with Hands-On Projects
 9. React JS Crash Course 2023 - Build A Food Managing App
 10. The Complete Go:Golang Bootcamp
+11. Amazon Web Services (AWS) Certified 2022
+12. Up and Running with Concurrency in Go (Golang)
+13. Build Your Own WebServer For Multiple Websites On The Cloud
 
 
 ## Progate.com
