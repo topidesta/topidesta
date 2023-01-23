@@ -52,7 +52,7 @@ slug: 'projek'
 
 | Stack | Status | Akses |
 | :---: | :---: | :---: | 
-| GatsbyJS, ShibaCSS, Netlify, Github, CloudFlare | 🚀 LIVE 🚀 | https://topidesta.my.id |
+| GatsbyJS, ShibaCSS, Netlify, Github, CloudFlare | 🚀 LIVE 🚀 | [link](https://topidesta.my.id )|
 
 </details>
 
