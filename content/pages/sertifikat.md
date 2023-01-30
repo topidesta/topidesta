@@ -18,7 +18,7 @@ Berikut ini beberapa Pelatihan Online yang udah saya ikuti ditengah kesibukan se
 5. React - The Complete Guide with React Hook Redux in 4hr
 6. React Redux Toolkit
 7. React - Complete Developer Course with Hands-On Projects
-8. React JS Crash Course 2023 - Build A Food Managing App
+8. Master Class: React + Typescript Web Development
 9. The Complete Go:Golang Bootcamp
 10. Amazon Web Services (AWS) Certified 2022
 11. Up and Running with Concurrency in Go (Golang)
