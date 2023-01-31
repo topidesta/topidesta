@@ -15,6 +15,7 @@ slug: 'buku'
 6. [What Ajax CheatSheet](https://topidesta.files.wordpress.com/2014/08/whats_ajax_cheatsheet.pdf)
 7. [Java Script Everywhere (Web-Desktop-App)](https://topidesta.files.wordpress.com/2020/05/javascript-everywhere.pdf)
 8. [ES5 to ESNext](https://topidesta.files.wordpress.com/2020/05/es5-to-esnext.pdf)
+9. [Typescript Crash Couse](https://gabrieltanner.org/blog/typescript-crash-course/)
 
 ## CSS
 
