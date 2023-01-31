@@ -23,6 +23,26 @@ Postingan kali ini tentang CRUD DotNet dengan ReactJS, langsung saja ke Reposito
 
 ## Persiapan
 
+## Permasalahan
+
+Database bisa pake MySQL, berhubung ini DotNet sekalian aja pake SQLServer 2019, install seperti biasa. nah muncul masalah saat koneksi ke tools dbeavear, pesan erronya kyak gini
+
+> The TCP/IP connection to the host localhost, port 1433 has failed
+
+coba browsing duckduckgo, mampir ke halaman ini -> https://stackoverflow.com/a/18981672
+
+Simplenya ketik aja **sql server 2019** seperti dibawah ini
+
+![sql Server 2019](../images/sqlserver2019.png)
+
+kalo udah kebuka, lanjutkan dengan enable TCP/ IP, seperti berikut ini
+
+![tcp ip sql Server](../images/sqlserver-enable.png)
+
+Kalo udah lanjut deh config connection di dbeaver seperti berikut ini
+
+![dbeaver sql Server](../images/dbeavear-sql.png)
+
 ## Sumber Belajar
 
 
