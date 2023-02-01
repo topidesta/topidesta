@@ -48,6 +48,8 @@ Kalo udah lanjut deh config connection di dbeaver seperti berikut ini
 1. http://go.topidesta.my.id/dotnet5-crud
 2. http://go.topidesta.my.id/react-hook-crud
 3. http://go.topidesta.my.id/react-crud-simple
+4. http://go.topidesta.my.id/orm-entity-framework
+5. http://go.topidesta.my.id/orm-entity-framework-official
 
 TODO:
 
