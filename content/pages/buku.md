@@ -45,6 +45,11 @@ slug: 'buku'
 
 1. [React Hooks](http://go.topidesta.my.id/react-hook)
 
+## C# And .NET
+
+1. [Menguasa Pemograman Berorientasi Objek dengan C#]()
+2. [Mudah Belajar Pemograman C#]()
+
 ## PHP
 
 1. [PHP for Teens](https://topidesta.files.wordpress.com/2014/08/php-for-teens.pdf)
