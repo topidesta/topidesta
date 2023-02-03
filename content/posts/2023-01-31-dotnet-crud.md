@@ -43,6 +43,22 @@ Kalo udah lanjut deh config connection di dbeaver seperti berikut ini
 
 ![dbeaver sql Server](../images/dbeavear-sql.png)
 
+> Koneksi SQLServer mau pakai Username dan Password
+
+Default koneksi dengan **Windows Authentication** pasti berhasil, jika sudah lakukan perintah SQL berikut ini, satu satu ya.
+
+```sql
+EXEC xp_instance_regwrite N'HKEY_LOCAL_MACHINE', N'Software\Microsoft\MSSQLServer\MSSQLServer', N'LoginMode', REG_DWORD, 2;
+
+ALTER LOGIN [sa] WITH PASSWORD='newpassword', CHECK_POLICY=OFF;
+
+ALTER LOGIN [sa] ENABLE;
+```
+
+disana kita akan enable default username **sa** dengan password **newpassword** dan ada angka [2] yang artinya kita akan mengaktifkan kombinasi authentikasi login [[1]](#1).
+
+Jika sudah jangan lupa restart SQL Servernya.
+
 ## Sumber Belajar
 
 1. http://go.topidesta.my.id/dotnet5-crud
@@ -50,6 +66,7 @@ Kalo udah lanjut deh config connection di dbeaver seperti berikut ini
 3. http://go.topidesta.my.id/react-crud-simple
 4. http://go.topidesta.my.id/orm-entity-framework
 5. http://go.topidesta.my.id/orm-entity-framework-official
+6. <a id="1">[1] https://superuser.com/a/731047</a>
 
 TODO:
 
