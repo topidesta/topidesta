@@ -20,6 +20,9 @@ Postingan kali ini tentang CRUD DotNet dengan ReactJS, langsung saja ke Reposito
 
 > https://github.com/mdestafadilah/crud-dot-net-reactjs
 
+## Pembukaan
+
+Sebetulnya gw belajar Dotnet/ C# itu karena ada tugas membuat CRUD sebelum masuk wawancara kerja Freelance eh ternyata enak juga ya ngoding di C#, udah all in one, windows linux macos, desktop mobile web .. semua 1 kode bisa semua device, seperti ReactJS, balik lagi kenapa gw belajar C# karena gw butuh Penghasilan tambahan lewat kerja freelance, ini gak bercanda gw, hehe. tapi setelah baca baca, ternyata C# DotNet itu bahasa pemograman Enterprise Level, yang artinya bahasa pemograman ini dilevel bisnis, wow... awal kuliah gw pernah sih nyoba dotnet pake visual studio, serba otomatis saat import paket tapi lemot buat laptop gw waktu itu dan juga tren waktu dikampus php sama java jadinya belajar php deh haha tapi langsung pake framework, percis belajar dotnet sekarang, gw langsung belajar ke dotnet nyah hehe, C# sembari belajar dotnet, ibaratnya sekali gayuh 2 teknologi gw pelajari di tahun 2023 ini terlepas diterima atau tidak freelance gw, Semoga Allah Mudahkan ya. Aamiin,
 
 ## Persiapan
 

@@ -82,6 +82,12 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 3. [Nextjs Prisma Postgres](https://vercel.com/guides/nextjs-prisma-postgres)
 4. [SWR Feat Axios with NextJS](https://youtu.be/AhkUYTvwguQ)
 
+### Dotnet/ C# Class
+
+1. [For Novice Dotnet](https://www.youtube.com/@amantinband)
+2. [Indepth Donet Technologis](https://www.youtube.com/@nickchapsas)
+3. [C# Object Oriented Fundamental](https://www.udemy.com/share/107P5c3@NTIyxzMC7g-51nMtd8HE_lJJz4QsVIZ75hyMRENvz92D8AN7HbkUtZ-l9isAf6Sj/) **Certificate Avaliable**
+
 ### Vue Class
 
 1. [React vs Angular vs Vue](https://www.udemy.com/share/101t9AAEIbdVZbTXo=/) **Certificate Avaliable**
