@@ -62,6 +62,12 @@ disana kita akan enable default username **sa** dengan password **newpassword** 
 
 Jika sudah jangan lupa restart SQL Servernya.
 
+> VSCode Tidak Cukup, harus Pakai Visual Studio
+
+ini yang bikin heran, karena pada dasarnya ada beberapa perbedaan, seperti autocompletion dan sifat dari VSCode dengan Visual Studio yang berbeda, kalo vscode project perfolder dan visual studio project based tapi vscode like visual studio juga bisa dengan install beberapa plugin, diantaranya[[2]](#2):
+
+1. 
+
 ## Sumber Belajar
 
 1. http://go.topidesta.my.id/dotnet5-crud
@@ -70,6 +76,7 @@ Jika sudah jangan lupa restart SQL Servernya.
 4. http://go.topidesta.my.id/orm-entity-framework
 5. http://go.topidesta.my.id/orm-entity-framework-official
 6. <a id="1">[1] https://superuser.com/a/731047</a>
+7. <a id="2">[2] https://www.youtube.com/watch?v=m9HvsB1-hAo&t=857s</a>
 
 TODO:
 
