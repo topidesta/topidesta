@@ -68,6 +68,8 @@ ini yang bikin heran, karena pada dasarnya ada beberapa perbedaan, seperti autoc
 
 1. 
 
+Akhirnya gw tau koneksi yang seharusnya setelah install Visual Studio.
+
 ## Sumber Belajar
 
 1. http://go.topidesta.my.id/dotnet5-crud
