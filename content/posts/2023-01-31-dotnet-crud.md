@@ -63,23 +63,22 @@ disana kita akan enable default username **sa** dengan password **newpassword** 
 Jika sudah jangan lupa restart SQL Servernya.
 
 > VSCode Tidak Cukup, harus Pakai Visual Studio
-
 ini yang bikin heran, karena pada dasarnya ada beberapa perbedaan, seperti autocompletion dan sifat dari VSCode dengan Visual Studio yang berbeda, kalo vscode project perfolder dan visual studio project based tapi vscode like visual studio juga bisa dengan install beberapa plugin, diantaranya[[2]](#2):
 
-1. Rosylnator
-2. .NET Core Test Explorer
-3. Auto-using for C#
-4. C# Namespace Autocompletion
-5. C# XML Documentation Comments
+1. [Rosylnator](https://marketplace.visualstudio.com/items?itemName=josefpihrt.Roslynator2022)
+2. [.NET Core Test Explorer](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer)
+3. [Auto-using for C#](https://marketplace.visualstudio.com/items?itemName=Fudge.auto-using)
+4. [C# Namespace Autocompletion](https://marketplace.visualstudio.com/items?itemName=adrianwilczynski.namespace)
+5. [C# XML Documentation Comments](https://open-vsx.org/extension/k--kato/docomment)
 6. NuGet Reverse Package Search
 7. Code Spell Checker
-8. Path Intellisense
-9. EditorConfig for VS Code
-10. SQL Server (mssql)
+8. [Path Intellisense](https://open-vsx.org/extension/christian-kohler/path-intellisense)
+9. [EditorConfig for VS Code](https://open-vsx.org/extension/EditorConfig/EditorConfig)
+10. [SQL Server (mssql)](https://open-vsx.org/extension/ms-mssql/mssql)
 11. Github Copilot
 12. REST Client
-13. VS Browser
-14. Highlight Trailing White Spaces
+13. [VS Browser](https://marketplace.visualstudio.com/items?itemName=Phu1237.vs-browser)
+14. [Highlight Trailing White Spaces](https://open-vsx.org/extension/ybaumes/highlight-trailing-white-spaces)
 15. Jwt-Decoder
 
 Akhirnya gw tau koneksi yang seharusnya setelah install Visual Studio. haha
