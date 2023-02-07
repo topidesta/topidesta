@@ -66,9 +66,23 @@ Jika sudah jangan lupa restart SQL Servernya.
 
 ini yang bikin heran, karena pada dasarnya ada beberapa perbedaan, seperti autocompletion dan sifat dari VSCode dengan Visual Studio yang berbeda, kalo vscode project perfolder dan visual studio project based tapi vscode like visual studio juga bisa dengan install beberapa plugin, diantaranya[[2]](#2):
 
-1. 
+1. Rosylnator
+2. .NET Core Test Explorer
+3. Auto-using for C#
+4. C# Namespace Autocompletion
+5. C# XML Documentation Comments
+6. NuGet Reverse Package Search
+7. Code Spell Checker
+8. Path Intellisense
+9. EditorConfig for VS Code
+10. SQL Server (mssql)
+11. Github Copilot
+12. REST Client
+13. VS Browser
+14. Highlight Trailing White Spaces
+15. Jwt-Decoder
 
-Akhirnya gw tau koneksi yang seharusnya setelah install Visual Studio.
+Akhirnya gw tau koneksi yang seharusnya setelah install Visual Studio. haha
 
 ## Sumber Belajar
 
