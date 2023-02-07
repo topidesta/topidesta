@@ -61,6 +61,10 @@ slug: 'buku'
 
 1. [Molie Payment with Grav](https://www.thomasvantuycom.com/handling-mollie-payments-in-grav/)
 
+## C# or .NET
+1. [Learning Net Core Series](https://code-maze.com/net-core-series/)
+2. [File Upload Using .NET](https://codingsonata.com/file-upload-with-data-using-asp-net-core-web-api/)
+
 ## Python
 
 1. [Playing Python bhs Indonesia](https://topidesta.files.wordpress.com/2015/10/plying-with-pyhton-indonesian-version.pdf)
