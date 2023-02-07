@@ -47,8 +47,10 @@ slug: 'buku'
 
 ## C# And .NET
 
-1. [Menguasa Pemograman Berorientasi Objek dengan C#]()
-2. [Mudah Belajar Pemograman C#]()
+1. [Menguasa Pemograman Berorientasi Objek dengan C#](https://topidesta.files.wordpress.com/2023/02/ebook_pemrograman_berbasis_objek_c_sharp_pdf_dian_nandiwardhana.pdf)
+2. [Mudah Belajar Pemograman C#](https://topidesta.files.wordpress.com/2023/02/ebook_mudah_belajar_pemrograman_csharp_dian_nandiwardhana_2019.pdf)
+3. [Learning Net Core Series](https://code-maze.com/net-core-series/)
+4. [File Upload Using .NET](https://codingsonata.com/file-upload-with-data-using-asp-net-core-web-api/)
 
 ## PHP
 
@@ -60,10 +62,6 @@ slug: 'buku'
 ## GravCMS
 
 1. [Molie Payment with Grav](https://www.thomasvantuycom.com/handling-mollie-payments-in-grav/)
-
-## C# or .NET
-1. [Learning Net Core Series](https://code-maze.com/net-core-series/)
-2. [File Upload Using .NET](https://codingsonata.com/file-upload-with-data-using-asp-net-core-web-api/)
 
 ## Python
 
