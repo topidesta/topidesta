@@ -87,6 +87,7 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 1. [For Novice Dotnet](https://www.youtube.com/@amantinband)
 2. [Indepth Donet Technologis](https://www.youtube.com/@nickchapsas)
 3. [C# Object Oriented Fundamental](https://www.udemy.com/share/107P5c3@NTIyxzMC7g-51nMtd8HE_lJJz4QsVIZ75hyMRENvz92D8AN7HbkUtZ-l9isAf6Sj/) **Certificate Avaliable**
+4. [C# Complete Master](https://www.udemy.com/share/10727C3@sP8ZZLErxlo5ULAWGBqgXpoQvxfveCH9j00l-ku_H6PXNT6Q0vEqB1Is0zy5D1N2/) **Certificate Avaliable**
 
 ### Vue Class
 
