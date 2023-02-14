@@ -1,15 +1,16 @@
 ---
 template: 'post'
-title: Extension Marketplace for VSCodium
+title: Extension for Fullstack in VSCodium
 cover: '../images/vscodium.png'
 date: '2021-12-09T14:00:00Z'
-slug: 'Extension-marketplace-for-vscodium'
-keywords: 'Extension Marketplace for VSCodium'
+slug: 'extension-for-fullstack-vscodium'
+keywords: 'Extension for Fullstack in VSCodium'
 categories:
   - share
 tags:
   - vscode
   - vscodium
+  - extension
 ---
 
 Bismillah ....
