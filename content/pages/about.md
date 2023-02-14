@@ -20,11 +20,11 @@ My Background From Codeigniter Stack, but I'm not Backend master.
 
 I'm setup Server for Whatsapp API Service and Manage code from/ to github but I'm not DevOps master too.
 
-Sometimes i'm doing research about Trend Technology about Web Development or Mobile Development stack.
+Sometimes research about trend Technology about Web Development or Mobile Development stack.
 
-I Believe I must be Professional in every Project i'm doing handle.
+I Believe I must be Professional in every Project i'm handling.
 
-For now, I'm still learning Go-lang dan NextJS too, and Do some Project with ReactJS or NextJS Cycle.
+For now, I'm learning C# (.NET) and do some Project with ReactJS or NextJS Cycle.
 ```
 
 Beberapa teknologi pengembangan website sederhana ini:
