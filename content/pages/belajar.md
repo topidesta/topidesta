@@ -83,8 +83,8 @@ Untuk C# (c-sharp) saya belajar untuk mengembangkan pendapatan di dunia Freelanc
 
 
 sumber:
-<a id="1">[1] https://code-maze.com/csharp-back-to-basics/</a>
-<a id="2">[1] https://code-maze.com/csharp-intermediate-tutorial-oop/</a>
+1. <a id="1">[1] https://code-maze.com/csharp-back-to-basics/</a>
+2. <a id="2">[1] https://code-maze.com/csharp-intermediate-tutorial-oop/</a>
 
 
 ### Go
