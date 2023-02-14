@@ -55,6 +55,32 @@ Dalam perkembangan JavaScript, saya lebih fokus pada sisi **front-End** dan seda
 - [ ] ReactJS
 - [ ] React Native
 
+### C# (.NET)
+
+Untuk C# (c-sharp) saya belajar untuk mengembangkan pendapatan di dunia Freelance, kebutuhan desktop, web ataupun REST API.
+
+#### Konsep Dasar[[1]](#1)
+
+- [] Tipe Data, Deklarasi dan Definisi Variable
+- [] C# Operator
+- [] Type Conversion
+- [] String di C#
+- [] Input dan Output di C#
+- [] C# Kondisi (If, If-Else, Switch-Case)
+- [] Looping (While, do-while, For)
+- [] Handling Exceptions
+- [] Access Modifiers
+- [] Methods
+- [] Ref dan Keyword OUT
+- [] Metode Recursion dan Recursive
+- [] Array (Single atau Multidimensional)
+- [] Working with Files/ Folder and Directory
+
+#### Konsep Lanjutan (Intermediet)
+
+
+<a id="1">[1] https://superuser.com/a/731047</a>
+
 ### Go
 
 Jika dalam perkembangan Go, saya lebih fokus pada sisi **back-End** tapi tidak menutup kemungkinan akan mix pada sisi **front-End**.
