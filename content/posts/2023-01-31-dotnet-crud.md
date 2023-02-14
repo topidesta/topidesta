@@ -80,6 +80,8 @@ ini yang bikin heran, karena pada dasarnya ada beberapa perbedaan, seperti autoc
 13. [VS Browser](https://marketplace.visualstudio.com/items?itemName=Phu1237.vs-browser)
 14. [Highlight Trailing White Spaces](https://open-vsx.org/extension/ybaumes/highlight-trailing-white-spaces)
 15. Jwt-Decoder
+16. Nuget Gallery
+17. C# Snippets
 
 Akhirnya gw tau koneksi yang seharusnya setelah install Visual Studio. haha
 
