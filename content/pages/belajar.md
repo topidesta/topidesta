@@ -61,25 +61,31 @@ Untuk C# (c-sharp) saya belajar untuk mengembangkan pendapatan di dunia Freelanc
 
 #### Konsep Dasar[[1]](#1)
 
-- [] Tipe Data, Deklarasi dan Definisi Variable
-- [] C# Operator
-- [] Type Conversion
-- [] String di C#
-- [] Input dan Output di C#
-- [] C# Kondisi (If, If-Else, Switch-Case)
-- [] Looping (While, do-while, For)
-- [] Handling Exceptions
-- [] Access Modifiers
-- [] Methods
-- [] Ref dan Keyword OUT
-- [] Metode Recursion dan Recursive
-- [] Array (Single atau Multidimensional)
-- [] Working with Files/ Folder and Directory
+- [ ] Tipe Data, Deklarasi dan Definisi Variable
+- [ ] C# Operator
+- [ ] Type Conversion
+- [ ] String di C#
+- [ ] Input dan Output di C#
+- [ ] C# Kondisi (If, If-Else, Switch-Case)
+- [ ] Looping (While, do-while, For)
+- [ ] Handling Exceptions
+- [ ] Access Modifiers
+- [ ] Methods
+- [ ] Ref dan Keyword OUT
+- [ ] Metode Recursion dan Recursive
+- [ ] Array (Single atau Multidimensional)
+- [ ] Working with Files/ Folder and Directory
 
-#### Konsep Lanjutan (Intermediet)
+#### Konsep Lanjutan (Intermediet)[[2]](#2)
+
+- [ ] Class dan Constructor
+- [ ] Properties
 
 
-<a id="1">[1] https://superuser.com/a/731047</a>
+sumber:
+<a id="1">[1] https://code-maze.com/csharp-back-to-basics/</a>
+<a id="2">[1] https://code-maze.com/csharp-intermediate-tutorial-oop/</a>
+
 
 ### Go
 
