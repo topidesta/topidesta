@@ -23,6 +23,12 @@ Berikut Ini Daftar Alat/ Perkakas yang dipake gw dalam pengembangan aplikasi ata
 14. Balsamiq Mockup 3 Desktop Version
 15. [Commander Terminal](https://kutt.it/terminal)
 16. [PODMan ~ Pod Manager](https://podman.io/)
+17. [PHP Fiddle](https://3v4l.org/)
+18. [C# Fiddle](https://dotnetfiddle.net/)
+19. [.NET Playground](https://sharplab.io/)
+
+
+
 
 Semua bisa didapatkan GRATIS or Freetier .. hehe, kalo mau yang jamu bisa cari di [TORRENT SEARCH](https://kutt.it/bitcq) aja, terus login di web torrent downloader, [ZBIGZ](https://kutt.it/zbigz), [ByteBX](https://kutt.it/bytebx), atau [SeeDr](https://kutt.it/seedr), baru deh download, done.
 
