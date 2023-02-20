@@ -22,9 +22,13 @@ Postingan kali ini tentang CRUD DotNet dengan ReactJS, langsung saja ke Reposito
 
 ## Pembukaan
 
-Sebetulnya gw belajar Dotnet/ C# itu karena ada tugas membuat CRUD sebelum masuk wawancara kerja Freelance eh ternyata enak juga ya ngoding di C# terutama .Net,, udah all in one, windows linux macos, desktop mobile web .. semua 1 kode bisa semua device, seperti ReactJS, balik lagi kenapa gw belajar C# karena gw butuh Penghasilan tambahan lewat kerja freelance, ini gak bercanda gw, hehe. tapi setelah baca baca, ternyata C# DotNet itu bahasa pemograman Enterprise Level, yang artinya bahasa pemograman ini dilevel bisnis, wow... awal kuliah gw pernah sih nyoba dotnet pake visual studio, serba otomatis saat import paket tapi lemot buat laptop gw waktu itu dan juga tren waktu dikampus php sama java jadinya belajar php deh haha tapi langsung pake framework, percis belajar dotnet sekarang, gw langsung belajar ke dotnet nyah hehe, C# sembari belajar dotnet, ibaratnya sekali gayuh 2 teknologi gw pelajari di tahun 2023 ini terlepas diterima atau tidak freelance gw, Semoga Allah Mudahkan ya. Aamiin,
+Sebetulnya gw belajar Dotnet/ C# itu karena ada tugas membuat CRUD sebelum masuk wawancara kerja eh ternyata enak juga ya ngoding di C# terutama .Net,, udah all in one, windows linux macos, desktop mobile web .. semua 1 kode bisa semua device, seperti ReactJS, balik lagi kenapa gw belajar C# karena gw butuh Penghasilan tambahan lewat kerja tambahan, ini gak bercanda gw, hehe. tapi setelah baca baca, ternyata C# DotNet itu bahasa pemograman Enterprise Level, yang artinya bahasa pemograman ini dilevel bisnis, wow... awal kuliah gw pernah sih nyoba dotnet pake visual studio, serba otomatis saat import paket tapi lemot buat laptop gw waktu itu dan juga tren waktu dikampus PHP sama JAVA jadinya belajar php deh haha tapi langsung pake framework, percis belajar dotnet sekarang, gw langsung belajar ke dotnet nyah hehe, C# sembari belajar dotnet, ibaratnya sekali gayuh 2 teknologi gw pelajari di tahun 2023 ini terlepas diterima atau tidak kerjaan tambahan gw, Semoga Allah Mudahkan ya. Aamiin,
 
 ## Persiapan
+
+1. Visual Studio (Gak Wajib - Tapi Harus Ada)
+2. VS Codium (Visual Code Community)
+3. Github
 
 ## Permasalahan
 
