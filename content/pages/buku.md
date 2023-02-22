@@ -51,6 +51,7 @@ slug: 'buku'
 2. [Mudah Belajar Pemograman C#](https://topidesta.files.wordpress.com/2023/02/ebook_mudah_belajar_pemrograman_csharp_dian_nandiwardhana_2019.pdf)
 3. [Learning Net Core Series](https://code-maze.com/net-core-series/)
 4. [File Upload Using .NET](https://codingsonata.com/file-upload-with-data-using-asp-net-core-web-api/)
+5. [Pelajaran Dasar Pemogran C#](https://idcsharp.com/materi-pelajaran-dasar-bahasa-pemrograman-c/)
 
 ## PHP
 
