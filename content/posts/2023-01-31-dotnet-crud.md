@@ -99,6 +99,7 @@ Akhirnya gw tau koneksi yang seharusnya setelah install Visual Studio. haha
 6. <a id="1">[1] https://superuser.com/a/731047</a>
 7. <a id="2">[2] https://www.youtube.com/watch?v=m9HvsB1-hAo&t=857s</a>
 8. http://go.topidesta.my.id/reactjs-dotnet-official
+9. https://www.youtube.com/watch?v=OrHO7UeDwZc
 
 TODO:
 
