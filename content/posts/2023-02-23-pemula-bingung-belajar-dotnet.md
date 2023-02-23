@@ -2,7 +2,7 @@
 template: "post"
 title: Pemula Bingung Belajar DOT NET
 cover: "../images/dotnet-bingung.png"
-date: "2023-23-02T08:00:00Z"
+date: "2023-02-23T08:00:00Z"
 slug: "dotnet-buat-pemula-bikin-bingung"
 keywords: "DOT NET C# .NET"
 categories:
