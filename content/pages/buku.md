@@ -52,6 +52,7 @@ slug: 'buku'
 3. [Learning Net Core Series](https://code-maze.com/net-core-series/)
 4. [File Upload Using .NET](https://codingsonata.com/file-upload-with-data-using-asp-net-core-web-api/)
 5. [Pelajaran Dasar Pemogran C#](https://idcsharp.com/materi-pelajaran-dasar-bahasa-pemrograman-c/)
+6. [C# from Zero to Hero](https://github.com/Almantask/CSharp-From-Zero-To-Hero/wiki/Summary)
 
 ## PHP
 
