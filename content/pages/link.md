@@ -14,6 +14,7 @@ slug: "link"
 
 ### SignalR
 1. https://kafle.io/tutorials/asp-dot-net/how-to-create-live-chat-in-SignalR
+2. https://medium.com/swlh/creating-a-simple-real-time-chat-with-net-core-reactjs-and-signalr-6367dcadd2c6
 
 
 ### Chrome Extenstiosn Examples
