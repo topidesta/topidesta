@@ -91,6 +91,7 @@ Akhirnya gw tau koneksi yang seharusnya setelah install Visual Studio. haha
 
 ## Sumber Belajar
 
+0. https://learn.microsoft.com/en-us/training/dotnet/
 1. http://go.topidesta.my.id/dotnet5-crud
 2. http://go.topidesta.my.id/react-hook-crud
 3. http://go.topidesta.my.id/react-crud-simple
