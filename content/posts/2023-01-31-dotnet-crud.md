@@ -18,7 +18,7 @@ Bismillah ....
 
 Postingan kali ini tentang CRUD DotNet dengan ReactJS, langsung saja ke Repositorinya ya.
 
-> https://github.com/mdestafadilah/crud-dot-net-reactjs
+> https://github.com/mdestafadilah/crud-dotnet-reactjs.git
 
 ## Pembukaan
 
