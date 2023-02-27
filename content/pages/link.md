@@ -1,7 +1,7 @@
 ---
 template: "page"
 title: "Link"
-description: "Halaman Link Yang Bermanfaat - Tentang GatsbyJS and Friends."
+description: "Halaman Link Yang Bermanfaat."
 slug: "link"
 ---
 
@@ -10,6 +10,10 @@ slug: "link"
 2. https://kutt.it/gatsbyJS-2
 3. https://kutt.it/gatsbyJS-3
 4. https://kutt.it/gatsbyJS-4
+
+
+### SignalR
+1. https://kafle.io/tutorials/asp-dot-net/how-to-create-live-chat-in-SignalR
 
 
 ### Chrome Extenstiosn Examples
