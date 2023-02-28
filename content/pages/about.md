@@ -45,9 +45,12 @@ Ada beberapa aplikasi yang udah release menggunakan ReactJS (Fronted) dan Codeig
 ### Lencana Github!
 
 <div>
-  <a href="https://github.com/mdestafadilah">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdestafadilah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdestafadilah&layout=compact&langs_count=7&theme=tokyonight"/>
+
+![Desta GitHub stats](https://github-readme-stats.vercel.app/api?username=mdestafadilah&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdestafadilah&langs_count=8&theme=tokyonight)](https://github.com/mdestafadilah/github-readme-stats)
+
+
 </div>
 
 ### Persentasi Ngoding!
