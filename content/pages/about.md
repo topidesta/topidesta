@@ -42,17 +42,6 @@ Tulisan blog ini gak jauh beda dengan blog sebelumnya di wordpress dan konten da
 
 Ada beberapa aplikasi yang udah release menggunakan ReactJS (Fronted) dan Codeigniter (Backend), klik ke [Halaman Project](/projek) untuk lebih detail.
 
-### Lencana Github!
-
-<div>
-
-![Desta GitHub stats](https://github-readme-stats.vercel.app/api?username=mdestafadilah&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdestafadilah&langs_count=8&theme=tokyonight)](https://github.com/mdestafadilah/github-readme-stats)
-
-
-</div>
-
 ### Persentasi Ngoding!
 
 <figure><embed src="https://wakatime.com/share/@topidesta/6d3200ff-9b6f-4d3c-9488-2c546204092d.svg"></embed></figure>
