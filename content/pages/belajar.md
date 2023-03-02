@@ -81,6 +81,9 @@ Untuk C# (c-sharp) saya belajar untuk mengembangkan pendapatan di dunia Freelanc
 - [ ] Class dan Constructor
 - [ ] Properties
 
+#### ORM on .NET
+
+- [] Entity Framework - EF
 
 sumber:
 1. <a id="1">[1] https://code-maze.com/csharp-back-to-basics/</a>
