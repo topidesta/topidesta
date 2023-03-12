@@ -76,14 +76,26 @@ Untuk C# (c-sharp) saya belajar untuk mengembangkan pendapatan di dunia Freelanc
 - [ ] Array (Single atau Multidimensional)
 - [ ] Working with Files/ Folder and Directory
 
+Semua hasil ujicoba bisa dicek dihalaman github [c-sharp-dasar](https://github.com/amati-tiru-modifikasi/c-sharp-dasar)
+
 #### Konsep Lanjutan (Intermediet)[[2]](#2)
 
 - [ ] Class dan Constructor
 - [ ] Properties
 
-#### ORM on .NET
+#### .NET Collection
 
-- [] Entity Framework - EF
+- [ ] Arrays di C#
+- [ ] List dan Dictinory di C#
+- [ ] List di C#
+- [ ] SortedList di C#
+- [ ] Dictinory di C#
+
+#### ORM
+
+- [ ] Entity Framework (EF ORM)
+- [ ] Dapper ORM
+
 
 sumber:
 1. <a id="1">[1] https://code-maze.com/csharp-back-to-basics/</a>
