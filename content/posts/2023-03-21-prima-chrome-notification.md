@@ -19,7 +19,7 @@ Kali ini mau bahas tentang Extension Chrome untuk notifikasi Prima SIMRS (Aplika
 
 https://github.com/mdestafadilah/prima-chrome-extension.git
 
-Sebetulnya notifikasi udah ada di Prima, dikembangkan oleh Mas Ari's salah satu senior programmer di tempat gw. dengan memanfaatkan pooling atau socket dari nodejs server, cuman aja, resource yang digunakan sungguh menguras core proses dari server development gw, hingga 100%, alhasil beberapa aplikasi dibawah server development tidak merespon, diantaranya server whatsapp notifikasi dan pencarian dokter muter terus, akhirnya sekarang di stop, karena mengganggu proses aplikasi yang lain.
+Sebetulnya notifikasi udah ada di Prima, dikembangkan oleh [Mas Ari's ](https://github.com/siaris) salah satu senior programmer di tempat gw. dengan memanfaatkan pooling atau socket dari nodejs server, cuman aja, resource yang digunakan sungguh menguras core proses dari server development gw, hingga 100%, alhasil beberapa aplikasi dibawah server development tidak merespon, diantaranya server whatsapp notifikasi dan pencarian dokter muter terus, akhirnya sekarang di stop, karena mengganggu proses aplikasi yang lain.
 
 Jadi, gw coba kembangkan notifikasi berdasarkan plugin/ extension chrome, dengan memanfaatan API REST server Development. Untuk saat ini gw masih reasearch dahulu, untuk awal mungkin gw coba buat UTDRS (Mini PMI - Bank Darah) untuk notifikasi permintaan darah, proses darah, dan pengambilan darah, selebihnya mungkin notifikasi dari Mas Ari's yang bakal dimigrasikan ke extension chrome.
 
