@@ -74,7 +74,7 @@ Untuk C# (c-sharp) saya belajar untuk mengembangkan pendapatan di dunia Freelanc
 - [ ] Ref dan Keyword OUT
 - [ ] Metode Recursion dan Recursive
 - [ ] Array (Single atau Multidimensional)
-- [ ] Working with Files/ Folder and Directory
+- [ ] Cara Kerja dengan Berkas atau Folder dan Directory
 
 Semua hasil ujicoba bisa dicek dihalaman github [c-sharp-dasar](https://github.com/amati-tiru-modifikasi/c-sharp-dasar)
 
