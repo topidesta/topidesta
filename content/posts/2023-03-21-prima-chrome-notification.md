@@ -27,6 +27,9 @@ Sumber:
 
 - https://anobjectisa.wixsite.com/website/post/how-to-build-a-chrome-extension-new-manifest-v3
 - https://www.youtube.com/playlist?list=PLwlNvVIUtWpsjFKGfIXKOz3CjUfg_aQN4
-- https://github.com/salahuddinshaikh/chrome-notification.git [V2 ~ Deprecated]
+- https://youtu.be/7Tu2j2pc87I
+- https://youtu.be/aARbTtYE2JE
+- https://blog.openreplay.com/chrome-extensions-for-beginners--part-1-theory/
+- https://github.com/salahuddinshaikh/chrome-notification.git [V2 Version will be Deprecated]
 
 TODO...
