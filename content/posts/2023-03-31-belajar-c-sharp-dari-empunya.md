@@ -1,0 +1,37 @@
+---
+template: "post"
+title: Belajar C# dari Empunya
+cover: "../images/csharp.png"
+date: "2023-03-31T08:00:00Z"
+slug: "belajar-c-sharp-dari-empunya"
+keywords: "C#, DotNet"
+categories:
+  - belajar
+tags:
+  - dotnet
+  - csharp
+---
+
+Bismillah ....
+
+## Intro
+
+Sesuai judulnya, catatan kali ini tentang belajar C# dari sang Empu alias creatornya langsung, Microsoft! oh iya dalam pelatihannya ada Progressnya, mirip kayak pelatihan gw waktu di Progate (Bahasa Go-Lang tapi) kurang lebih ada beberapa path yang harus dilewati dan memiliki points power, berikut ini path yang harus kita pelajari agar lebih terarah belajarnya.
+
+![C# Learning Path](../images/csharppath.png)
+
+*https://learn.microsoft.com/en-us/users/dotnet/collections/yz26f8y64n7k07?WT.mc_id=dotnet-35129-website
+
+Untuk video seriesnya juga banyak, kurang lebih kayak gini
+
+![C# Learning](../images/dotnetseries.png)
+
+*https://dotnet.microsoft.com/en-us/learn/videos
+
+Jadi, terus lah haus akan ilmu, teruslah belajar!
+
+Have a nice day!
+
+## Progress
+
+TODO
