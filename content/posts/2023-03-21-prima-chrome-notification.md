@@ -35,5 +35,6 @@ Untuk sumber kodingan besar kemungkinan adalah *copy-paste* dari project yang ad
 - https://github.com/salahuddinshaikh/chrome-notification.git [V2 Version will be Deprecated]
 - https://github.com/cemkucuk/opsgenie-chrome-extension
 - https://github.com/KindEni/Chrome-Extension-Series
+- https://github.com/cap2-dark-knight/Alfred-service-extension
 
 Have a nice day!
