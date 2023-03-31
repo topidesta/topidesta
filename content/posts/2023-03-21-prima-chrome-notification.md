@@ -34,5 +34,6 @@ Untuk sumber kodingan besar kemungkinan adalah *copy-paste* dari project yang ad
 - https://blog.openreplay.com/chrome-extensions-for-beginners--part-1-theory/
 - https://github.com/salahuddinshaikh/chrome-notification.git [V2 Version will be Deprecated]
 - https://github.com/cemkucuk/opsgenie-chrome-extension
+- https://github.com/KindEni/Chrome-Extension-Series
 
 Have a nice day!
