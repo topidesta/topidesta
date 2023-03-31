@@ -23,7 +23,9 @@ Sebetulnya notifikasi udah ada di Prima, dikembangkan oleh [Mas Ari's ](https://
 
 Jadi, gw coba kembangkan notifikasi berdasarkan plugin/ extension chrome, dengan memanfaatan API REST server Development. Untuk saat ini gw masih reasearch dahulu, untuk awal mungkin gw coba buat UTDRS (Mini PMI - Bank Darah) untuk notifikasi permintaan darah, proses darah, dan pengambilan darah, selebihnya mungkin notifikasi dari Mas Ari's yang bakal dimigrasikan ke extension chrome.
 
-Sumber:
+Untuk sumber kodingan besar kemungkinan adalah *copy-paste* dari project yang ada digithub, hehe. Detailnya ada di [sumber](#sumber) belajar ya, jadi gak ada yang istimewa.
+
+## Sumber
 
 - https://anobjectisa.wixsite.com/website/post/how-to-build-a-chrome-extension-new-manifest-v3
 - https://www.youtube.com/playlist?list=PLwlNvVIUtWpsjFKGfIXKOz3CjUfg_aQN4
