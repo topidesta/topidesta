@@ -91,6 +91,7 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 5. [C# Desktop Application](https://youtu.be/qLNLWw82NeE)
 6. [Student Management](https://youtu.be/eM1wyciIK0k)
 7. [Inventory System](https://youtu.be/WoN8-rCY5o8)
+8. [Dotnet From Microsoft](https://dotnet.microsoft.com/en-us/learn/videos)
 
 ### Vue Class
 
