@@ -20,13 +20,13 @@ Sesuai judulnya, catatan kali ini tentang belajar C# dari sang Empu alias creato
 
 ![C# Learning Path](../images/csharppath.png)
 
-*https://learn.microsoft.com/en-us/users/dotnet/collections/yz26f8y64n7k07?WT.mc_id=dotnet-35129-website
+source: http://go.topidesta.my.id/csharp
 
 Untuk video seriesnya juga banyak, kurang lebih kayak gini
 
 ![C# Learning](../images/dotnetseries.png)
 
-*https://dotnet.microsoft.com/en-us/learn/videos
+source: http://go.topidesta.my.id/dotnet-series
 
 Jadi, terus lah haus akan ilmu, teruslah belajar!
 
