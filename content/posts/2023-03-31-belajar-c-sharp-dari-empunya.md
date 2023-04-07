@@ -32,6 +32,33 @@ Jadi, terus lah haus akan ilmu, teruslah belajar!
 
 Have a nice day!
 
-## Progress
+## WARNING ERROR
 
-TODO
+---
+
+### Level 2
+
+> (5,22): error CS1009: Unrecognized escape sequence
+
+> Console.WriteLine(@"c:\invoices");
+
+> Penulisan dengan *Verbatim string literals*
+
+> Console.WriteLine("c:\\source\\repos");
+
+> Penulisan dengan *double backslash*
+
+> Console.WriteLine("\u3053\u3093\u306B\u3061\u306F World!");
+
+> Penulisan dengan *unicode escape*
+
+> string message = greeting + " " +  firstName;
+
+> *String Intervolation* dengan menggunakan **{ }** seperti berikut
+
+> string message = $"{greeting} {firstName}!";
+
+![Level 2](../images/level2.png)
+
+---
+
