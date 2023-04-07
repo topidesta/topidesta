@@ -62,3 +62,8 @@ Have a nice day!
 
 ---
 
+### Level 3
+
+- Matematika dasar dengan POMDAS style. alias, dikerjakan aritmatika tertinggi dulu.
+
+![Level 3](../images/level3.png)
