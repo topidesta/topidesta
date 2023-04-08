@@ -67,3 +67,5 @@ Have a nice day!
 - Matematika dasar dengan POMDAS style. alias, dikerjakan aritmatika tertinggi dulu.
 
 ![Level 3](../images/level3.png)
+
+![Level 3 Part 2](../images/level32.png)
