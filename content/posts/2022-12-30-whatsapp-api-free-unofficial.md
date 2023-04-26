@@ -50,6 +50,18 @@ Di group Petirs (Pengguna TI Rumah Sakit) pernah dibahas juga, tentang memanfaat
 
 [Chatbot by Petirs](https://github.com/topidesta/topidesta/raw/master/content/images/chat-bot-petirs.pdf)
 
+## UPDATE
+
+Ternyata dispanyol udah ada yang ngembanging chatbot secara mudah cek di sini:
+
+https://github.com/codigoencasa/bot-whatsapp
+
+Kurang lebih akan muncul seperti ini
+
+![Chat BOT](../images/chatbot.png)
+
+Fiturenya akan gw jelaskan dihalaman ini juga ... 
+
 Done.
 
 Have a nice day!
