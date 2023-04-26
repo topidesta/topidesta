@@ -20,18 +20,52 @@ Sesuai judulnya, catatan kali ini tentang belajar C# dari sang Empu alias creato
 
 ![C# Learning Path](../images/csharppath.png)
 
-*https://learn.microsoft.com/en-us/users/dotnet/collections/yz26f8y64n7k07?WT.mc_id=dotnet-35129-website
+source: http://go.topidesta.my.id/csharp
 
 Untuk video seriesnya juga banyak, kurang lebih kayak gini
 
 ![C# Learning](../images/dotnetseries.png)
 
-*https://dotnet.microsoft.com/en-us/learn/videos
+source: http://go.topidesta.my.id/dotnet-series
 
 Jadi, terus lah haus akan ilmu, teruslah belajar!
 
 Have a nice day!
 
-## Progress
+## WARNING ERROR
 
-TODO
+---
+
+### Level 2
+
+> (5,22): error CS1009: Unrecognized escape sequence
+
+> Console.WriteLine(@"c:\invoices");
+
+> Penulisan dengan *Verbatim string literals*
+
+> Console.WriteLine("c:\\source\\repos");
+
+> Penulisan dengan *double backslash*
+
+> Console.WriteLine("\u3053\u3093\u306B\u3061\u306F World!");
+
+> Penulisan dengan *unicode escape*
+
+> string message = greeting + " " +  firstName;
+
+> *String Intervolation* dengan menggunakan **{ }** seperti berikut
+
+> string message = $"{greeting} {firstName}!";
+
+![Level 2](../images/level2.png)
+
+---
+
+### Level 3
+
+- Matematika dasar dengan POMDAS style. alias, dikerjakan aritmatika tertinggi dulu.
+
+![Level 3](../images/level3.png)
+
+![Level 3 Part 2](../images/level32.png)

@@ -15,12 +15,13 @@ Berikut ini beberapa Pelatihan Online yang udah saya ikuti ditengah kesibukan se
 2. [React Hooks and Context](http://ude.my/UC-c4c6622c-a8a9-434f-91fd-f7f1ab32794d)
 3. [Start Coding Browser Extenstion Using Javascript](http://ude.my/UC-02938034-bf65-4a86-ab22-28fd861c2444)
 4. [Build A TodoList with Go (Golang), Fiber and React](http://ude.my/UC-0ce720ce-2dcf-49dd-b73c-231369f7776f)
-5. React - The Complete Guide with React Hook Redux in 4hr
-6. React Redux Toolkit
-7. React - Complete Developer Course with Hands-On Projects
-8. Master Class: React + Typescript Web Development
+5. C# Complete Master Course
+6. React - The Complete Guide with React Hook Redux in 4hr
+7. React Redux Toolkit
+8. React - Complete Developer Course with Hands-On Projects
+9. Master Class: React + Typescript Web Development
 10. Amazon Web Services (AWS) Certified 2022
-12. Build Your Own WebServer For Multiple Websites On The Cloud
+11. Build Your Own WebServer For Multiple Websites On The Cloud
 
 
 ## Progate.com
