@@ -52,7 +52,7 @@ Di group Petirs (Pengguna TI Rumah Sakit) pernah dibahas juga, tentang memanfaat
 
 ## UPDATE
 
-Ternyata dispanyol udah ada yang ngembanging chatbot secara mudah cek di sini:
+Ternyata dispanyol udah ada yang mengembangkan chatbot secara mudah difahami, cek di sini:
 
 https://github.com/codigoencasa/bot-whatsapp
 
@@ -60,7 +60,7 @@ Kurang lebih akan muncul seperti ini
 
 ![Chat BOT](../images/chatbot.png)
 
-Fiturenya akan gw jelaskan dihalaman ini juga ... 
+Untuk BOT Whatsapp ada dihalaman tersendiri, silahkan ke halaman ini ya, [BOT WHATSAPP PRIMA](bot-prima)
 
 Done.
 
