@@ -60,7 +60,7 @@ Kurang lebih akan muncul seperti ini
 
 ![Chat BOT](../images/chatbot.png)
 
-Untuk BOT Whatsapp ada dihalaman tersendiri, silahkan ke halaman ini ya, [BOT WHATSAPP PRIMA](bot-prima)
+Untuk BOT Whatsapp ada dihalaman tersendiri, silahkan ke halaman ini ya, [BOT WHATSAPP PRIMA](/bot-prima)
 
 Done.
 
