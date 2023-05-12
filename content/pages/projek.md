@@ -103,14 +103,14 @@ slug: 'projek'
 
 <hr />
 
-### API Whatsapp (Un-Official)
+### BOT Whatsapp
 
 <details>
   <summary> 👇 Klik Detail</summary>
 
 | Stack | Status | Akses |
 | :---: | :---: | :---: | 
-| NodeJS, whatsapp-web.js, Puppeter, Baileys, Socket | 🚀 LIVE 🚀 | [link 1](https://v1.apiwa.persahabatan.co.id/) |
+| NodeJS, Baileys, Codeigniter, BOT Whatsapp | 🚀 LIVE 🚀 | Private |
 | <td colspan="3"><fieldset><legend>APIWA Unofficial</legend>![APIWA Unofficial](../images/apiwa.png)</fieldset></td>|
 
 </details>
