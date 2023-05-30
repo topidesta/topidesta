@@ -96,10 +96,30 @@ Semua hasil ujicoba bisa dicek dihalaman github [c-sharp-dasar](https://github.c
 - [ ] Entity Framework (EF ORM)
 - [ ] Dapper ORM
 
+#### Trick Belajar C# DotNet
+
+Search by keyword di bawah ini aja lalu pelajari 1 per 1:
+
+- nullable reference type
+- linq query
+- yield return
+- collection initializer
+- IAsyncEnumerable
+- C# Action & Func
+- C# record
+- C# init
+- C# required
+- C# tuple
+- recursive pattern
+- switch expression
+- aspnetcore minimal API
+- blazor
+
 
 sumber:
 1. <a id="1">[1] https://code-maze.com/csharp-back-to-basics/</a>
-2. <a id="2">[1] https://code-maze.com/csharp-intermediate-tutorial-oop/</a>
+2. <a id="2">[2] https://code-maze.com/csharp-intermediate-tutorial-oop/</a>
+3. <a id="3">[3] https://t.me/dotnetcore_id/86246</a>
 
 
 ### Go
