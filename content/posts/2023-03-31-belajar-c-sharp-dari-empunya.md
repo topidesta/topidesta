@@ -1,6 +1,6 @@
 ---
 template: "post"
-title: Belajar C# dari Empunya
+title: Belajar C# & .NET dari Empunya
 cover: "../images/csharp.png"
 date: "2023-03-31T08:00:00Z"
 slug: "belajar-c-sharp-dari-empunya"
