@@ -89,6 +89,16 @@ ini yang bikin heran, karena pada dasarnya ada beberapa perbedaan, seperti autoc
 
 Akhirnya gw tau koneksi yang seharusnya setelah install Visual Studio. haha
 
+# UPDATE
+
+Ternyata ada yang ngembangin DEV KIT C# buat Pengguna vscode/ vscodium. namanya DEV KIT C# for VSCode
+
+- ms-dotnettools.csdevkit-0.1.83@win32-x64
+- ms-dotnettools.csharp-2.0.206@win32-x64
+- ms-dotnettools.vscodeintellicode-csharp-0.1.9@win32-x64
+
+Install ke-3 nyah kalo pake vscodium. download dulu, cari di google keyword itu.
+
 ## Sumber Belajar
 
 0. https://learn.microsoft.com/en-us/training/dotnet/
