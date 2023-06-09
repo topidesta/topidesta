@@ -27,7 +27,9 @@ slug: 'projek'
 
 ---
 
-## 📢 Aplikasi (My Modification)
+## ⌨️ Portofolio Aplikasi ⌨️
+
+---
 
 ### Website RSUP Persahabatan
 
@@ -124,7 +126,7 @@ slug: 'projek'
 
 | Stack | Status | Akses |
 | :---: | :---: | :---: | 
-| Docusaurus, NetlifyCMS, Firebase | 🚀 LIVE 🚀 | - |
+| Docusaurus, NetlifyCMS, Firebase | 🚀 LIVE 🚀 | [Link](https://prima.simrspersahabatan.co.id/) |
 | <td colspan="3"><fieldset><legend>Manualbook SIMRS Prima</legend>![Manualbook SIMRS Prima](../images/manualbook.png)</fieldset></td>|
 | <td colspan="3"><fieldset><legend>Manualbook SIMRS Prima</legend>![Manualbook SIMRS Prima](../images/manualbook-2.png)</fieldset></td>|
 
@@ -244,7 +246,6 @@ slug: 'projek'
 
 <hr />
 
-
 ### Prima QR Login
 
 <details>
@@ -256,7 +257,9 @@ slug: 'projek'
 
 </details>
 
-### Chrome Notification App
+<hr />
+
+### Simrs Chrome Notification
 
 <details>
   <summary> 👇 Klik Detail</summary>
