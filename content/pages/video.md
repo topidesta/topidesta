@@ -92,6 +92,7 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 6. [Student Management](https://youtu.be/eM1wyciIK0k)
 7. [Inventory System](https://youtu.be/WoN8-rCY5o8)
 8. [Dotnet From Microsoft](https://dotnet.microsoft.com/en-us/learn/videos)
+9. [Monthly Learning Class](https://learn.microsoft.com/en-us/shows/lets-learn-dotnet/)
 
 ### Vue Class
 
