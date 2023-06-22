@@ -1,9 +1,9 @@
 ---
 template: "post"
-title: Prima Chrome Notification
+title: SIMRS Chrome Notification
 cover: "../images/chrome-plugins.png"
 date: "2023-03-21T08:00:00Z"
-slug: "prima-chrome-notification"
+slug: "simrs-chrome-notification"
 keywords: "Chrome Notification Extension"
 categories:
   - share

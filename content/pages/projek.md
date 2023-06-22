@@ -27,7 +27,9 @@ slug: 'projek'
 
 ---
 
-## 📢 Aplikasi (My Modification)
+## ⌨️ Portofolio Aplikasi ⌨️
+
+---
 
 ### Website RSUP Persahabatan
 
@@ -95,15 +97,15 @@ slug: 'projek'
 | Stack | Status | Akses |
 | :---: | :---: | :---: | 
 | Codeigniter 3 | 🚀 LIVE 🚀 | [link 1](https://rsuppersahabatan.co.id/apis) |
-| Codeigniter 4 | ⚙️ TESTING ⚙️ | [link 2](https://api.persahabatan.co.id/)|
-| Codeigniter 4 | ⚙️ DEV ⚙️ | [link 3](https://siapdok.persahabatan.co.id/) |
-| Golang | ⚙️ DEV ⚙️ | [link 4](https://go.api.persahabatan.co.id/) |
+| Codeigniter 3 | ⚙️ DEV ⚙️ | [link 3](https://dev.ci3.api.persahabatan.co.id/) |
+| Codeigniter 4 | 🚀 LIVE 🚀 | [link 2](https://api.persahabatan.co.id/)|
+| Codeigniter 4 | ⚙️ DEV ⚙️ | [link 2](https://dev.api.persahabatan.co.id/)|
 
 </details>
 
 <hr />
 
-### BOT Whatsapp
+### Whatsapp BOT & API
 
 <details>
   <summary> 👇 Klik Detail</summary>
@@ -124,7 +126,7 @@ slug: 'projek'
 
 | Stack | Status | Akses |
 | :---: | :---: | :---: | 
-| Docusaurus, NetlifyCMS | 🚀 LIVE 🚀 | - |
+| Docusaurus, NetlifyCMS, Firebase | 🚀 LIVE 🚀 | [Link](https://prima.simrspersahabatan.co.id/) |
 | <td colspan="3"><fieldset><legend>Manualbook SIMRS Prima</legend>![Manualbook SIMRS Prima](../images/manualbook.png)</fieldset></td>|
 | <td colspan="3"><fieldset><legend>Manualbook SIMRS Prima</legend>![Manualbook SIMRS Prima](../images/manualbook-2.png)</fieldset></td>|
 
@@ -244,7 +246,6 @@ slug: 'projek'
 
 <hr />
 
-
 ### Prima QR Login
 
 <details>
@@ -253,5 +254,18 @@ slug: 'projek'
 | Stack | Status | Akses |
 | :---: | :---: | :---: | 
 | NextJS, ReduxJS, ChakraUI, RHF | ⚙️DEV⚙️ | [link](https://login.rsuppersahabatan.co.id/) |
+
+</details>
+
+<hr />
+
+### Simrs Chrome Notification
+
+<details>
+  <summary> 👇 Klik Detail</summary>
+
+| Stack | Status | Akses |
+| :---: | :---: | :---: | 
+| Javascript, Codeigniter, Extend Chrome | ⚙️DEV⚙️ | - |
 
 </details>

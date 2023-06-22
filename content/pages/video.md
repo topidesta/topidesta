@@ -95,6 +95,7 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 9. [Dotnet Windows Worker Services](https://youtube.com/playlist?list=PLGWG_rRY_j4MOABOppTH8XHJe8aOTyx2V)
 10. [Dotnet  Windows Services](https://youtu.be/67DtZbPYNKg)
 11. [C# .NET Essentsials](https://youtube.com/playlist?list=PLGWG_rRY_j4PkTOpcqLN9QzqnlcY0rNz9)
+12. [Monthly Learning Class](https://learn.microsoft.com/en-us/shows/lets-learn-dotnet/)
 
 ### Vue Class
 

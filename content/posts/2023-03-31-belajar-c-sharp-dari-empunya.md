@@ -1,6 +1,6 @@
 ---
 template: "post"
-title: Belajar C# dari Empunya
+title: Belajar C# & .NET dari Empunya
 cover: "../images/csharp.png"
 date: "2023-03-31T08:00:00Z"
 slug: "belajar-c-sharp-dari-empunya"
@@ -38,25 +38,29 @@ Have a nice day!
 
 ### Level 2
 
-> (5,22): error CS1009: Unrecognized escape sequence
+```javascript
 
-> Console.WriteLine(@"c:\invoices");
+(5,22): error CS1009: Unrecognized escape sequence
 
-> Penulisan dengan *Verbatim string literals*
+Console.WriteLine(@"c:\invoices");
 
-> Console.WriteLine("c:\\source\\repos");
+Penulisan dengan *Verbatim string literals*
 
-> Penulisan dengan *double backslash*
+Console.WriteLine("c:\\source\\repos");
 
-> Console.WriteLine("\u3053\u3093\u306B\u3061\u306F World!");
+Penulisan dengan *double backslash*
 
-> Penulisan dengan *unicode escape*
+Console.WriteLine("\u3053\u3093\u306B\u3061\u306F World!");
 
-> string message = greeting + " " +  firstName;
+Penulisan dengan *unicode escape*
 
-> *String Intervolation* dengan menggunakan **{ }** seperti berikut
+string message = greeting + " " +  firstName;
 
-> string message = $"{greeting} {firstName}!";
+*String Intervolation* dengan menggunakan **{ }** seperti berikut
+
+string message = $"{greeting} {firstName}!";
+
+```
 
 ![Level 2](../images/level2.png)
 
