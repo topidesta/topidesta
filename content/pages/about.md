@@ -48,4 +48,6 @@ Ada beberapa aplikasi yang udah release menggunakan ReactJS (Fronted) dan Codeig
 
 <figure><embed src="https://wakatime.com/share/@topidesta/7eda6f42-4b96-43e7-9420-273eda8e0f52.svg"></embed></figure>
 
+<figure><embed src="https://wakatime.com/share/@topidesta/d08ef9c6-64a1-4591-a64a-d190157fd994.svg"></embed></figure>
+
 > Akhir kata, happy coding!
