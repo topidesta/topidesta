@@ -16,7 +16,7 @@ tags:
 
 ## Bismillah
 
-Tulisan ini pernah gw bahas di sini [Print Server ESC-POS](library-esc-post-dicodeigniter-server-side-printing), ini update dari Hardware yang digunakan.
+Tulisan ini pernah gw bahas di sini [Print Server ESC-POS](/library-esc-post-dicodeigniter-server-side-printing), ini update dari Hardware yang digunakan.
 
 TODO
 ---
