@@ -98,6 +98,8 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 12. [Monthly Learning Class](https://learn.microsoft.com/en-us/shows/lets-learn-dotnet/)
 13. [Fast 5 Learning C#](https://www.udemy.com/share/109bnM3@DW8PaMa4ksT4gVz5ybi8FyCy6jYM51rOlXaMSSI3ylE2gBWs_U5L9xn15omNfMqb/) **Certificate Avaliable**
 14. [Zebra Print with C# Desktop](https://youtu.be/RvWG9_rE9rg)
+15. [C# Windows Form](https://www.udemy.com/share/109bnM3@trq-yTI-qB8lK-HpnLsCfEAhI7I3a_1qKx4W8d3spuGWt3mjAWRYQ2Ma-2LrFVFL/)
+16. [C# .NET WPF Desktop Series](https://youtube.com/playlist?list=PLih2KERbY1HHOOJ2C6FOrVXIwg4AZ-hk1)
 
 ### Vue Class
 
