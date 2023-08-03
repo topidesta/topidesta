@@ -1,6 +1,6 @@
 ---
 template: "post"
-title: Validasi Input Dengan Yup Formik MUI
+title: Validasi Input Yup Formik MUI
 cover: "../images/formikyup.png"
 date: "2023-07-31T08:00:00Z"
 slug: "validasi-input-yup-formik-mui"
