@@ -28,6 +28,6 @@ Bahasan kali ini, Kita akan belajar C# dari sebuah pertanyaan, langsung aja pert
 
 ![CLR dalam .NET Berarti](../images/ask2.png)
 
-> The CLR (Common Language Runtime) is a runtime environment that is part of the Microsoft .NET Framework. CLR manages the execution of programs written in different supported languages.
+> The CLR (Common Language Runtime) is a runtime environment that is part of the Microsoft .NET Framework. CLR manages the execution of programs written in different supported languages. CLR transforms the source code into a form of secondary code called CIL (Common Intermediate Language). At runtime, CLR manages the execution of the CIL code.
 
-> Sebuah CLR (Common Language Runtime) merupakan bagian dari .NET Framework yang dapat mengatur eksekusi sebuah program dibuat dalam bahasa pemograman yang berbeda.
+> Sebuah CLR (Common Language Runtime) merupakan bagian dari .NET Framework yang dapat mengatur eksekusi sebuah program dibuat dalam bahasa pemograman yang berbeda. Seubah CLR dapat merubah kodeke bahasa CIL, ketika berjalan, CLR dapat mengatur sebuah kode CIL. 
