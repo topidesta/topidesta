@@ -5,7 +5,7 @@ description: 'Ini Adalah Halaman Daftar Video Tutorial!'
 slug: 'video'
 ---
 
-Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan SkillShare.com, semuanya berbahasa inggris.
+Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan SkillShare.com, semuanya berbahasa inggris. Vidio ini ada list Focus belajar gw dengan React cycle (JavaScript/ Typescript), .NET cycle dan Server. Untuk PHP terutama Codeigniter tidak terlalu dominan, karena kerjaan utama masih di dunia PHP.
 
 ## Lynda.com
 
@@ -100,22 +100,9 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 14. [Zebra Print with C# Desktop](https://youtu.be/RvWG9_rE9rg)
 15. [C# Windows Form](https://www.udemy.com/share/109bnM3@trq-yTI-qB8lK-HpnLsCfEAhI7I3a_1qKx4W8d3spuGWt3mjAWRYQ2Ma-2LrFVFL/)
 16. [C# .NET WPF Desktop Series](https://youtube.com/playlist?list=PLih2KERbY1HHOOJ2C6FOrVXIwg4AZ-hk1)
-
-### Vue Class
-
-1. [React vs Angular vs Vue](https://www.udemy.com/share/101t9AAEIbdVZbTXo=/) **Certificate Avaliable**
-2. [VueJS and Firebase Android Chat App](https://www.udemy.com/share/101GdaAEIbdVZbTXo=/) **Certificate Avaliable**
-3. [Create Amazing Vue Apps with Javascript](https://www.udemy.com/share/103SXiAEIbdVZbTXo=/) **Certificate Avaliable**
-
-### Python Class
-
-1. [Programming with Python : HandsOn Introduction for Beginners](https://www.udemy.com/share/101tCqAEIbdVZbTXo=/) **Certificate Avaliable**
-2. [Python Complete Course With Django And Flask Frameworks.Beginner to Expert Python](https://www.udemy.com/share/103rfMAEIbdVZbTXo=/) **Certificate Avaliable**
-3. [Automate the boring Stuff with Python](https://www.udemy.com/share/101WeWAEIbdVZbTXo=/) **Certificate Avaliable**
-4. [Learn build Jarvis using Python](https://www.udemy.com/share/103xKCAEIbdVZbTXo=/) **Certificate Avaliable**
-5. [Building face detection with Python](https://www.udemy.com/share/103FFnAEIbdVZbTXo=/)
-6. [Complete SQL Bootcamp, PHP, MySQL, Python](https://www.udemy.com/share/101HvUAEIbdVZbTXo=/)
-
+17. [Fast SQL in C# .NET Core By Live Project Windows Forms & SQL](https://www.udemy.com/share/108QOi3@6r-t_HdP0j_2WAO6OSOzVYtcu4PYepHuqxrV5ovM8gWXEVYelmVBPcGl_Hbm6i63/) **Certificate Avaliable**
+18. [Fast WPF in C# Windows Presentation Foundation for Beginners](https://www.udemy.com/share/108NtY3@Gttg2blIZ6IVDQuu0I3k4Je7bWKRw1fwAUcMhONbnQRTtXk2UvxoFv8IuIUkGRZQ/)
+19. [C# Complete Beginner's Guide](https://www.udemy.com/share/109ij43@rvWvffrQEpzsbmnye3tLDM5vCevso8v3Rf5bS2dKMakSD3AZAF1iaGnimHdXQhmc/)
 ### Penetration Test/ Web Security
 
 1. [Web Application Penetration Testing](https://www.udemy.com/share/103B1UAEIbdVZbTXo=/)
@@ -124,47 +111,11 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 4. [Pentest and Securing web application](https://www.udemy.com/share/103PlyAEIbdVZbTXo=/)
 5. [Bug Bounty: Web Application Penetration Testing](https://www.udemy.com/share/103X4mAEIbdVZbTXo=/)
 
-### Automation/ Machine Learning Class
-
-1. [Web automation with RPA](https://www.udemy.com/share/103WKOAEIbdVZbTXo=/)
-2. [Machine Learning](https://www.udemy.com/share/103BDaAEIbdVZbTXo=/)
-3. [Beginners To Learn Machine Learning](https://www.udemy.com/share/103SfqAEIbdVZbTXo=/)
-
-### Golang Class
-
-1. Udemy - Golang build RESTful APIs with Golang
-2. Udemy - The Complete Golang Academy
-3. Udemy - Build Todo List with Golang Fiber
-4. KelasKoding - Membuat REST API dengan Gin/Go
-5. KelasKoding - Webserver Go dengan Gin dan Gorm
-6. [Building Golang Server with Echo](https://youtube.com/playlist?list=PLFmONUGpIk0YwlJMZOo21a9Q1juVrk4YY)
-7. [Build REST API in Golang using Echo](https://youtube.com/playlist?list=PLhyfDOou2eQ1AJsAIRqaEUwx0blZ0UKG2)
-8. [Tutorial: Auto Synced Shopping List Using Golang and WebSockets](https://www.youtube.com/watch?v=U6hPKK9dTMY)
-
-
-### BOT Class
-
-1. [WhatsApp Automation](https://www.udemy.com/share/105AIO3@1DC7K7WP-sGTRvJ_goZMqGdmJKwuxQvVLc1uV7zh81QOp8LlTUFiyLyAG6VozmPM/)
-2. [WhatsApp Stock Market](https://www.udemy.com/share/103pOk3@0GlYGgQnq20LVShSlMK6kU0IYmg51AQUczxOhGgbSPQgaRQzlASufjA2pbLe4jFV/)
-3. [Premium Telegram BOT](https://www.udemy.com/share/104Tci3@euPjKV9shBHqu-DehY9CB-ITXHN29tgq65VgTihC6nR-1YTI_4aL0TKLDfM6VxZB/)
-4. [Facebook Chat Bot](https://www.udemy.com/share/105mDM3@7CwUlwIRCDmEJmVzrf4VHam6-UDNPSqtHoAXrmDF5_xSLVaR5KAMdwJLTVw5Sstk/)
-
-## Udacity.com
-
-### Nanodegree Program
-
-1. Basic
-
-## Pluralsight
-
-1. Securing React Apps with Auth0
-2. React Boilerplate Building Scalable Apps
-
-## SkillShare.com
 
 ### RANDOM
 
 1. Create Authentication React and Laravel RESTFull API ✔️
+2. [Redis Database Tutorial](https://www.udemy.com/share/10508g3@tHqaLhT4qL9Y0u3DeiwAZgNNsC1jD8LNyxJnMq2OBxtk_nsnS5I1FmSDuryClBg_/)
 
 ### REDUX
 
