@@ -1,9 +1,9 @@
 ---
 template: "post"
-title: Belajar C# & .NET dari Empunya
+title: Belajar C# dan Sertifikat Resmi
 cover: "../images/csharp.png"
 date: "2023-03-31T08:00:00Z"
-slug: "belajar-c-sharp-dari-empunya"
+slug: "belajar-c-sharp-sertifikat-resmi"
 keywords: "C#, DotNet"
 categories:
   - belajar
@@ -16,7 +16,7 @@ Bismillah ....
 
 ## Intro
 
-Sesuai judulnya, catatan kali ini tentang belajar C# dari sang Empu alias creatornya langsung, Microsoft! oh iya dalam pelatihannya ada Progressnya, mirip kayak pelatihan gw waktu di Progate (Bahasa Go-Lang tapi) kurang lebih ada beberapa path yang harus dilewati dan memiliki points power, berikut ini path yang harus kita pelajari agar lebih terarah belajarnya.
+Sesuai judulnya, catatan kali ini tentang belajar C# dari sang Empu alias creatornya langsung, Microsoft! oh iya dalam pelatihannya ada Progressnya, mirip kayak pelatihan gw waktu di Progate (Bahasa Go-Lang waktu itu) kurang lebih ada beberapa path yang harus dilewati dan memiliki points power, yang bisa digunakan untuk Claim Achivement di FreeCodeCamp, berikut ini path yang harus kita pelajari agar lebih terarah belajarnya.
 
 ![C# Learning Path](../images/csharppath.png)
 
@@ -28,48 +28,23 @@ Untuk video seriesnya juga banyak, kurang lebih kayak gini
 
 source: http://go.topidesta.my.id/dotnet-series
 
-Jadi, terus lah haus akan ilmu, teruslah belajar!
+
+## (New) Foundational C# with Microsoft from FreeCodeCamp
+
+---
+
+### Write Your First Code Using C#
+
+![Part #1](../images/part1csharp.png)
+
+### Create and Run Simple C# Console Applications
+
+![Part #2](../images/part2csharp.png)
+
+
+### Git Repository Latihan
+
+[Belajar C# Dasar](https://github.com/amati-tiru-modifikasi/c-sharp-dasar
+)
 
 Have a nice day!
-
-## WARNING ERROR
-
----
-
-### Level 2
-
-```javascript
-
-(5,22): error CS1009: Unrecognized escape sequence
-
-Console.WriteLine(@"c:\invoices");
-
-Penulisan dengan *Verbatim string literals*
-
-Console.WriteLine("c:\\source\\repos");
-
-Penulisan dengan *double backslash*
-
-Console.WriteLine("\u3053\u3093\u306B\u3061\u306F World!");
-
-Penulisan dengan *unicode escape*
-
-string message = greeting + " " +  firstName;
-
-*String Intervolation* dengan menggunakan **{ }** seperti berikut
-
-string message = $"{greeting} {firstName}!";
-
-```
-
-![Level 2](../images/level2.png)
-
----
-
-### Level 3
-
-- Matematika dasar dengan POMDAS style. alias, dikerjakan aritmatika tertinggi dulu.
-
-![Level 3](../images/level3.png)
-
-![Level 3 Part 2](../images/level32.png)
