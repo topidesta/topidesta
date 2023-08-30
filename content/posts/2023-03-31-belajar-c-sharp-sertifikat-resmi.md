@@ -29,7 +29,7 @@ Untuk video seriesnya juga banyak, kurang lebih kayak gini
 source: http://go.topidesta.my.id/dotnet-series
 
 
-## (New) Foundational C# with Microsoft from FreeCodeCamp
+## Foundational C# with Microsoft
 
 ---
 
