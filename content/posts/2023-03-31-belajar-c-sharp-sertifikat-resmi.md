@@ -41,6 +41,10 @@ source: http://go.topidesta.my.id/dotnet-series
 
 ![Part #2](../images/part2csharp.png)
 
+### Add Logic to C# Console Applications
+
+![Part #3](../images/part3csharp.png)
+
 
 ## Build .NET applications with C#
 ---
