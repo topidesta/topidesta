@@ -55,17 +55,23 @@ source: http://go.topidesta.my.id/dotnet-series
 
 ### Create a new .NET project and work with dependencies
 
+-
 ### Interactively debug .NET apps with the Visual Studio Code debugger
 
+-
 ### Work with files and directories in a .NET app
 
+- 
 ### Create a web API with ASP.NET Core controllers
 
-source: 
+-
 
-### Git Repository Latihan
 
-[Belajar C# Dasar](https://github.com/amati-tiru-modifikasi/c-sharp-dasar
-)
+
+### Link Bermanfaat
+
+[Repositori Belajar](https://github.com/amati-tiru-modifikasi/c-sharp-dasar)
+[Foundational C# with Microsoft](http://go.topidesta.my.id/c-sharp-foundation)
+[Build .NET applications with C#](http://go.topidesta.my.id/dot-net-path)
 
 Have a nice day!
