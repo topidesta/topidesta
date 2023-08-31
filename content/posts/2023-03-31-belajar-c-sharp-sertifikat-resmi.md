@@ -67,11 +67,11 @@ source: http://go.topidesta.my.id/dotnet-series
 -
 
 
-
+---
 ### Link Bermanfaat
 
-[Repositori Belajar](https://github.com/amati-tiru-modifikasi/c-sharp-dasar)
-[Foundational C# with Microsoft](http://go.topidesta.my.id/c-sharp-foundation)
-[Build .NET applications with C#](http://go.topidesta.my.id/dot-net-path)
+1. [Repositori Belajar](https://github.com/amati-tiru-modifikasi/c-sharp-dasar)
+2. [Foundational C# with Microsoft](http://go.topidesta.my.id/c-sharp-foundation)
+3. [Build .NET applications with C#](http://go.topidesta.my.id/dot-net-path)
 
 Have a nice day!
