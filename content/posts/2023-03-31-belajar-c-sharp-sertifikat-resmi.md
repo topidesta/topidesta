@@ -42,6 +42,27 @@ source: http://go.topidesta.my.id/dotnet-series
 ![Part #2](../images/part2csharp.png)
 
 
+## Build .NET applications with C#
+---
+
+### Write your first C# code
+
+![Part Dotnet #1](../images/dotnetkursus1.png)
+
+### Introduction to .NET
+
+![Part Dotnet #12](../images/dotnetkursus2.png)
+
+### Create a new .NET project and work with dependencies
+
+### Interactively debug .NET apps with the Visual Studio Code debugger
+
+### Work with files and directories in a .NET app
+
+### Create a web API with ASP.NET Core controllers
+
+source: 
+
 ### Git Repository Latihan
 
 [Belajar C# Dasar](https://github.com/amati-tiru-modifikasi/c-sharp-dasar
