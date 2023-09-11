@@ -45,6 +45,11 @@ source: http://go.topidesta.my.id/dotnet-series
 
 ![Part #3](../images/part3csharp.png)
 
+### Work with Variable Data in C# Console Applications
+
+![Part #4](../images/part4csharp.png)
+
+
 
 ## Build .NET applications with C#
 ---
