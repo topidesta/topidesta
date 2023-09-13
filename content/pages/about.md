@@ -27,6 +27,13 @@ I Believe I must be Professional in every Project i'm handling.
 For now, I'm learning C# (.NET) and do some Project with ReactJS or NextJS Cycle.
 ```
 
+## Siapa si Muchamad Desta Fadilah?
+
+Baiklah, berdasarkan hasil Test Genetikal, personal genetik adalah saya termasuk kategori IE **Intuiting Extrovert** Tulen (Darah B).
+
+
+---
+
 Beberapa teknologi pengembangan website sederhana ini:
 
 1. [EXABYTES](https://kutt.it/uF3WcK) ~ED: 15/04/2027
