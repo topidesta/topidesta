@@ -82,6 +82,6 @@ source: http://go.topidesta.my.id/dotnet-series
 1. [Repositori Belajar](https://github.com/amati-tiru-modifikasi/c-sharp-dasar)
 2. [Foundational C# with Microsoft](http://go.topidesta.my.id/c-sharp-foundation)
 3. [Build .NET applications with C#](http://go.topidesta.my.id/dot-net-path)
-4. [29 Agustus - 31 October 2023](https://learn.microsoft.com/en-us/training/challenges?id=8cf09b9b-743d-4f5f-9cd0-1aa1483d3d7a)
+4. [C# Certification with freeCodeCamp Challenge ~ Periode 29 Agustus s.d 31 Oktober 2023](https://learn.microsoft.com/en-us/training/challenges?id=8cf09b9b-743d-4f5f-9cd0-1aa1483d3d7a)
 
 Have a nice day!
