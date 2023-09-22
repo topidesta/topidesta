@@ -44,8 +44,9 @@ Yaps, 4 bahan itu yang akan membantu kita membangun sebuah server yang sederhana
 
 Untuk Pengecekan apakah IP VPS (Public) sudah mengarah ke DNS Cloudflare silahkan cek IP publik ya bukan domain utamanya dengan alamat berikut
 
-1. https://dnschecker.org/all-dns-records-of-domain.php
-2. https://dnschecker.org/port-scanner.php
+1. https://intodns.com/
+2. https://dnschecker.org/all-dns-records-of-domain.php
+3. https://dnschecker.org/port-scanner.php
 
 ## Permasalahan
 
