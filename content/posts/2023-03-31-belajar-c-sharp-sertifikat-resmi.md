@@ -49,7 +49,13 @@ source: http://go.topidesta.my.id/dotnet-series
 
 ![Part #4](../images/part4csharp.png)
 
+## Create Methods in C# Console Applications
 
+![Part #5](../images/part5csharp.png)
+
+## Debug C# Console Applications
+
+:TODO:
 
 ## Build .NET applications with C#
 ---
