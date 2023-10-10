@@ -31,6 +31,7 @@ For now, I'm learning C# (.NET) and do some Project with ReactJS or NextJS Cycle
 
 Baiklah, berdasarkan hasil Test Genetikal, personal genetik adalah saya termasuk kategori IE **Intuiting Extrovert** Tulen (Darah B).
 
+TOBE CONTINUED...
 
 ---
 
