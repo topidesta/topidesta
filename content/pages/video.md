@@ -103,6 +103,10 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 17. [Fast SQL in C# .NET Core By Live Project Windows Forms & SQL](https://www.udemy.com/share/108QOi3@6r-t_HdP0j_2WAO6OSOzVYtcu4PYepHuqxrV5ovM8gWXEVYelmVBPcGl_Hbm6i63/) **Certificate Avaliable**
 18. [Fast WPF in C# Windows Presentation Foundation for Beginners](https://www.udemy.com/share/108NtY3@Gttg2blIZ6IVDQuu0I3k4Je7bWKRw1fwAUcMhONbnQRTtXk2UvxoFv8IuIUkGRZQ/)
 19. [C# Complete Beginner's Guide](https://www.udemy.com/share/109ij43@rvWvffrQEpzsbmnye3tLDM5vCevso8v3Rf5bS2dKMakSD3AZAF1iaGnimHdXQhmc/)
+20. [C# Advanced Prictice on LinkedIn](https://www.linkedin.com/feed/update/urn:li:lyndaCourse:2875263/)
+21. [Learning C# on LinkedIn](https://www.linkedin.com/feed/update/urn:li:lyndaCourse:2874288/)
+22. [Object Oriented C# on LinkedIn](https://www.linkedin.com/feed/update/urn:li:lyndaCourse:2484213/)
+
 ### Penetration Test/ Web Security
 
 1. [Web Application Penetration Testing](https://www.udemy.com/share/103B1UAEIbdVZbTXo=/)
