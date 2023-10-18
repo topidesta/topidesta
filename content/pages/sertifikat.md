@@ -25,13 +25,16 @@ Berikut ini beberapa Pelatihan Online yang udah saya ikuti ditengah kesibukan se
 12. Amazon Web Services (AWS) Certified 2022
 13. Build Your Own WebServer For Multiple Websites On The Cloud
 
-
 ## Progate.com
 
 1. [Kursus GIT](https://progate.com/course_certificate/afebde4arfbmeq)
 2. [Kursus Golang Dasar](https://progate.com/course_certificate/eacf2b15rgg0xl)
 3. [Kursus React Dasar](https://progate.com/course_certificate/39097860rghz03)
 
-## Digitalent by Kominfo
+## Freecodecamp.org
+
+1. (New) Foundational C# with Microsoft
+
+## Digitalent Kominfo
 
 1. [Professional Academy ~ Golang](https://digitalent.kominfo.go.id/cek-sertifikat?registrasi=152308829101-277)
