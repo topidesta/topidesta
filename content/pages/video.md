@@ -107,6 +107,7 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 21. [Learning C# on LinkedIn](https://www.linkedin.com/feed/update/urn:li:lyndaCourse:2874288/)
 22. [Object Oriented C# on LinkedIn](https://www.linkedin.com/feed/update/urn:li:lyndaCourse:2484213/)
 23. [Web Scrapping with C#](https://youtu.be/B6I2VGB9LpM?si=_lF-7YFUqIvPJ9ao)
+24. [Quiz App in C#](https://youtu.be/rfMIayISSW0?si=MeVmlU6mN0Ln2VuN)
 
 ### Penetration Test/ Web Security
 
