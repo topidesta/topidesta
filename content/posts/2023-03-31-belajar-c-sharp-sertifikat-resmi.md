@@ -14,7 +14,7 @@ tags:
 
 Bismillah ....
 
-## Intro
+### Intro
 
 Sesuai judulnya, catatan kali ini tentang belajar C# dari sang Empu alias creatornya langsung, Microsoft! oh iya dalam pelatihannya ada Progressnya, mirip kayak pelatihan gw waktu di Progate (Bahasa Go-Lang waktu itu) kurang lebih ada beberapa path yang harus dilewati dan memiliki points power, yang bisa digunakan untuk Claim Achivement di FreeCodeCamp, berikut ini path yang harus kita pelajari agar lebih terarah belajarnya.
 
@@ -30,8 +30,6 @@ source: http://go.topidesta.my.id/dotnet-series
 
 
 ## Foundational C# with Microsoft
-
----
 
 ### Write Your First Code Using C#
 
@@ -49,16 +47,19 @@ source: http://go.topidesta.my.id/dotnet-series
 
 ![Part #4](../images/part4csharp.png)
 
-## Create Methods in C# Console Applications
+### Create Methods in C# Console Applications
 
 ![Part #5](../images/part5csharp.png)
 
-## Debug C# Console Applications
+### Debug C# Console Applications
 
-:TODO:
+![Part #6](../images/part6csharp.png)
+
+### Foundational C# with Microsoft Certification Exam
+
 
 ## Build .NET applications with C#
----
+
 
 ### Write your first C# code
 
@@ -80,7 +81,6 @@ source: http://go.topidesta.my.id/dotnet-series
 ### Create a web API with ASP.NET Core controllers
 
 -
-
 
 ---
 ### Link Bermanfaat
