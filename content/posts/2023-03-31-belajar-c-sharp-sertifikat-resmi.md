@@ -31,6 +31,12 @@ source: http://go.topidesta.my.id/dotnet-series
 
 ## Foundational C# with Microsoft
 
+This course offers a comprehensive introduction to C# programming, covering its core concepts, syntax, and practical application in software development.
+
+Through hands-on exercises and projects, you will learn the fundamentals of C#, including variables, data types, control structures, and object-oriented programming principles.
+
+By the end of this course, you will have gained the practical skills and knowledge needed to confidently leverage C# for building applications.
+
 ### Write Your First Code Using C#
 
 ![Part #1](../images/part1csharp.png)
@@ -57,9 +63,11 @@ source: http://go.topidesta.my.id/dotnet-series
 
 ### Foundational C# with Microsoft Certification Exam
 
+~ ON GOING ~
 
 ## Build .NET applications with C#
 
+.NET is a free, cross-platform, open source developer platform for building many different types of applications. With .NET, you can use multiple languages, editors, and libraries to build for web, mobile, desktop, games, and IoT, [this url](https://learn.microsoft.com/en-us/training/paths/build-dotnet-applications-csharp/).
 
 ### Write your first C# code
 
@@ -70,17 +78,9 @@ source: http://go.topidesta.my.id/dotnet-series
 ![Part Dotnet #12](../images/dotnetkursus2.png)
 
 ### Create a new .NET project and work with dependencies
-
--
 ### Interactively debug .NET apps with the Visual Studio Code debugger
-
--
 ### Work with files and directories in a .NET app
-
-- 
 ### Create a web API with ASP.NET Core controllers
-
--
 
 ---
 ### Link Bermanfaat
