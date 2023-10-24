@@ -33,7 +33,7 @@ Berikut ini beberapa Pelatihan Online yang udah saya ikuti ditengah kesibukan se
 
 ## Freecodecamp.org
 
-1. (New) Foundational C# with Microsoft
+1. [(New) Foundational C# with Microsoft](https://freecodecamp.org/certification/mdestafadilah/foundational-c-sharp-with-microsoft)
 
 ## Digitalent Kominfo
 

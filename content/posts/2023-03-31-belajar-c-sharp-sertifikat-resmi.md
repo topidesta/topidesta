@@ -63,7 +63,8 @@ By the end of this course, you will have gained the practical skills and knowled
 
 ### Foundational C# with Microsoft Certification Exam
 
-~ ON GOING ~
+![Part #7](../images/part7csharp.png)
+
 
 ## Build .NET applications with C#
 
