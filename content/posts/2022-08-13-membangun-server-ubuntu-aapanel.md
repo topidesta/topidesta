@@ -117,6 +117,17 @@ disana sudah ada dan detail, berhubung, saya develop di dunia PHP jadi saya shar
 
 Kalo mau liat service mana yang jalan, tinggal liat deh di modul Prima SIMRS.
 
+## UPDATE ~ 10 NOVEMBER 2023
+
+Server Hosting dipindah ke Biznet yang sebelumnya di local server penyedia Bali Tower. Setelah ada kejadian IP Public gak bisa akses CloudFlare. dan Speedtestnya wow. Berikut detailnya
+
+![VPS By Biznet](../images/cloud.png)
+[Biznet Cloud](https://www.speedtest.net/result/c/1279c5d4-4e59-488b-8783-1c41f7366181)
+
+
+![VPS By BaliTower](../images/local.png)
+[Bali Tower](https://www.speedtest.net/result/c/6e40eb8e-a986-49ac-9dab-fe7500fde978)
+
 
 ## Kesimpulan
 
