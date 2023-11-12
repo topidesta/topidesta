@@ -47,6 +47,7 @@ Untuk Pengecekan apakah IP VPS (Public) sudah mengarah ke DNS Cloudflare silahka
 1. https://intodns.com/
 2. https://dnschecker.org/all-dns-records-of-domain.php
 3. https://dnschecker.org/port-scanner.php
+4. https://zonemaster.se/en/
 
 ## Permasalahan
 
