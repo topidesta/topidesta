@@ -120,14 +120,16 @@ Kalo mau liat service mana yang jalan, tinggal liat deh di modul Prima SIMRS.
 
 ## UPDATE ~ 10 NOVEMBER 2023
 
-Server Hosting dipindah ke Biznet yang sebelumnya di local server penyedia Bali Tower. Setelah ada kejadian IP Public gak bisa akses CloudFlare. dan Speedtestnya wow. Berikut detailnya
+Server Hosting terbagi menjadi 2, Internet dan Local access, 1 ke Biznet 1 nya lagi ke Bali Tower. Hal ini dilakukan Setelah ada kejadian IP Public gak bisa akses CloudFlare untuk Provider Bali Tower.
+Berikut detail masing masing untuk speedtest.
 
 ![VPS By Biznet](../images/cloud.png)
 [Biznet Cloud](https://www.speedtest.net/result/c/1279c5d4-4e59-488b-8783-1c41f7366181)
-
+> https://persahabatan.co.id
 
 ![VPS By BaliTower](../images/local.png)
 [Bali Tower](https://www.speedtest.net/result/c/6e40eb8e-a986-49ac-9dab-fe7500fde978)
+> https://dev.persahabatan.co.id
 
 
 ## Kesimpulan
