@@ -44,6 +44,11 @@ Untuk server pernah gw bahas di postingan [membangun server dengan aapanel](/mem
 5. https://github.com/ngekoding/whatsapp-api-tutorial
 6. https://github.com/novaariyanto/Panel-WhatsApp-Gateway
 
+## Tambahan
+
+7. https://github.com/chrishubert/whatsapp-api
+8. https://github.com/wppconnect-team/wppconnect-server
+
 Ada kelebihan ada kekurangan masing masing API Restfull Whatsapp, misalkan ada yang bisa kirim sticker ada yang bisa kirim ke group saja, ada yang gak bisa kirim ke group, dan lain sebagianya, tapi secara umum semuanya bisa **kirim ke nomor whatsapp perorangan**
 
 Di group Petirs (Pengguna TI Rumah Sakit) pernah dibahas juga, tentang memanfaatkan Whatsapp API Free untuk mesin penjawab otomatis, lihat di point #4 salah satu contoh kodingannya, next mungkin gw bisa research deh, kalo ada yang mau pdf nya ini gw share ya.
@@ -59,8 +64,6 @@ https://github.com/codigoencasa/bot-whatsapp
 Kurang lebih akan muncul seperti ini
 
 ![Chat BOT](../images/chatbot.png)
-
-Untuk BOT Whatsapp ada dihalaman tersendiri, silahkan ke halaman ini ya, [BOT WHATSAPP PRIMA](/bot-prima)
 
 Done.
 
