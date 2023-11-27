@@ -25,8 +25,9 @@ const MainLayout = ({ children, hasFooter = true }) => (
 
     <Safe.script>{
       `
-        window.intergramCustomizations = {
-          titleClosed : "Tutup Obrolan",
+      window.intergramId = "717698723";
+      window.intergramCustomizations = {
+          titleClosed : "Klik Untuk Bertanya!",
           titleOpen : "Buka Obrolan",
           introMessage : "Selamat datang di Blog Programmer Gadungan",
           autoResponse : "Pesan akan segera terkirim..!!",
