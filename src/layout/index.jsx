@@ -18,8 +18,12 @@ const MainLayout = ({ children, hasFooter = true }) => (
       <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
       <link rel="canonical" href={useSlash(siteConfig.siteUrl)} />
       {/* <script src="https://cdn.jsdelivr.net/gh/anshumanfauzdar/contact-form@v3/src/contact-form.js" id="contactform" form_worker_url="https://v1.formtopidesta.workers.dev/"></script> */}
-      <Safe.script src="https://telegram.dev.persahabatan.co.id"></Safe.script>
+      <script>
+        window.intergramId = "717698723";
+        window.intergramServer = "https://telegram.dev.persahabatan.co.id";
+      </script>
 
+      <Safe.script id="intergram" type="text/javascript" src="https://telegram.dev.persahabatan.co.id/js/widget.js"></Safe.script>
       <Safe.script>{
         `
         window.intergramId = "717698723";
@@ -35,7 +39,6 @@ const MainLayout = ({ children, hasFooter = true }) => (
         `
       }
       </Safe.script>
-      <script id="intergram" type="text/javascript" src="https://telegram.dev.persahabatan.co.id/js/widget.js"></script>
 
     </Helmet>
     <Navigation
