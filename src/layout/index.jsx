@@ -23,7 +23,6 @@ const MainLayout = ({ children, hasFooter = true }) => (
         window.intergramServer = "https://telegram.dev.persahabatan.co.id";
       </script>
 
-      <Safe.script id="intergram" type="text/javascript" src="https://telegram.dev.persahabatan.co.id/js/widget.js"></Safe.script>
       <Safe.script>{
         `
         window.intergramId = "717698723";
@@ -39,6 +38,7 @@ const MainLayout = ({ children, hasFooter = true }) => (
         `
       }
       </Safe.script>
+      <script id="intergram" type="text/javascript" src="https://telegram.dev.persahabatan.co.id/js/widget.js"></script>
 
     </Helmet>
     <Navigation
