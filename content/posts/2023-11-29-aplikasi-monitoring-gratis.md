@@ -1,6 +1,6 @@
 ---
 template: "post"
-title: Aplikasi Monitoring Aplikasi Gratis
+title: Monitoring Aplikasi Gratis
 cover: "../images/kuma.png"
 date: "2023-11-29T08:00:00Z"
 slug: "aplikasi-monitoring-gratis"
