@@ -18,7 +18,7 @@ Baru kesempatan nulis lagi, karena belakang ini load pembuatan modul sekaligus a
 
 Share kali ini gw mau bahas tentang Membangun server VPS untuk berbagai aplikasi, mulai dari PHP, NodeJS, Python hingga Golang. Mungkin bahasan yang sama di halaman ini juga, terutama mulai persiapan hingga siap digunakan. Sekedar informasi, sebelum menggunakan panel yang sekarang [aaPanel](https://www.aapanel.com/new/download.html) gw udah coba install [NasiHosting](https://github.com/kurniawandata/nasihosting.git) dan explorer beberapa panel namun, melihat support, akhirnya apanel pilihannya.
 
-Untuk Project jadi, ada dihalaman ini https://persahabatan.co.id/ untuk bahannya kurang lebih sebagai berikut:
+Untuk Project jadi, ada dihalaman ini https://persahabatan.co.id/ dan https://dev.persahabatan.co.id/ untuk bahannya kurang lebih sebagai berikut:
 
 1. VPS dengan IP Publik
 2. Ubuntu Server 20.04
