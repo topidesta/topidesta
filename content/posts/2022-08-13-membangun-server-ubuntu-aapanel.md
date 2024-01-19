@@ -131,6 +131,25 @@ Berikut detail masing masing untuk speedtest.
 [Bali Tower](https://www.speedtest.net/result/c/6e40eb8e-a986-49ac-9dab-fe7500fde978)
 > https://dev.persahabatan.co.id
 
+## UPDATE ~ 1 JANUARI 2024
+
+Alhamdulillah, bisa configurasi server untuk [Halo Bayi Indonesia](https://halobayi.co.id), mulai migrasi domain name, pembelian vps dan configurasi untuk mail server juga. hihi, banyak yak. untuk mail server sempet masih dianggap spam, mungkin domain ini baru netes dan terindex di dns secara global jadi gak anggep domain spammer. ada beberapa kendala waktu itu diantaranya
+
+1. Mail server tidak bisa mengirim pesan
+2. Service mail server mati
+
+Untuk yang mail server tidak bisa mengirim pesan, di aapanel sudah dishare tricknya dihalaman forum, certnya suruh di arahkan ke subdomain mail server yang kita buat.
+
+> https://forum.aapanel.com/d/1254-how-to-use-the-mail-server-relay-function/22
+
+
+Selanjutnya service mail server mati, gak bisa login, ternyata service postfix mati, restart lah, dan berhasil, alhasil, masa harus tiap hari ngecek? gak mau kan, buat aja cronjob, ada juga yang share di forum aapanel, berikut ini linknya.
+
+> https://forum.aapanel.com/d/19112-notification-for-mail-server-status
+> https://gist.github.com/mdestafadilah/b862c95f12790b31b2cedc6ee184ab9c
+
+*Saya pake nginx dan server ubuntu ya.
+
 
 ## Kesimpulan
 
