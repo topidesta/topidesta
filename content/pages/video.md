@@ -123,6 +123,14 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 1. Create Authentication React and Laravel RESTFull API ✔️
 2. [Redis Database Tutorial](https://www.udemy.com/share/10508g3@tHqaLhT4qL9Y0u3DeiwAZgNNsC1jD8LNyxJnMq2OBxtk_nsnS5I1FmSDuryClBg_/)
 
+### MongoDB
+
+1. [Replication in MongoDB](https://learn.mongodb.com/courses/replication-in-mongodb)
+2. [Self-Managed Database Admin](https://learn.mongodb.com/learning-paths/self-managed-database-administrator)
+3. [Using MongoDB with C#](https://learn.mongodb.com/learning-paths/using-mongodb-with-csharp)
+4. [MongoDB C# Developer Path](https://learn.mongodb.com/learning-paths/using-mongodb-with-c-sharp)
+5. [MongoDB CRUD Operations in C#](https://learn.mongodb.com/courses/mongodb-crud-operations-in-c-sharp)
+
 ### REDUX
 
 1. Learn React Redux in less than 1 hour - Sandy Ludosky ✔️
