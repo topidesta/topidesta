@@ -137,6 +137,7 @@ Alhamdulillah, bisa configurasi server untuk [Halo Bayi Indonesia](https://halob
 
 1. Mail server tidak bisa mengirim pesan
 2. Service mail server mati
+3. Setting Terminal di aaPanel
 
 Untuk yang mail server tidak bisa mengirim pesan, di aapanel sudah dishare tricknya dihalaman forum, certnya suruh di arahkan ke subdomain mail server yang kita buat.
 
@@ -147,6 +148,7 @@ Selanjutnya service mail server mati, gak bisa login, ternyata service postfix m
 
 > https://forum.aapanel.com/d/19112-notification-for-mail-server-status
 > https://gist.github.com/mdestafadilah/b862c95f12790b31b2cedc6ee184ab9c
+> http://go.topidesta.my.id/root-cmd
 
 *Saya pake nginx dan server ubuntu ya.
 
