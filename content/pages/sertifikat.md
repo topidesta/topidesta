@@ -24,6 +24,7 @@ Berikut ini beberapa Pelatihan Online yang udah saya ikuti ditengah kesibukan se
 11. Master Class: React + Typescript Web Development
 12. Amazon Web Services (AWS) Certified 2022
 13. Build Your Own WebServer For Multiple Websites On The Cloud
+14. Complete ASP.NET Core MVC 6: A Project guide 2024
 
 ## Progate.com
 
