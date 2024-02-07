@@ -108,6 +108,7 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 22. [Object Oriented C# on LinkedIn](https://www.linkedin.com/feed/update/urn:li:lyndaCourse:2484213/)
 23. [Web Scrapping with C#](https://youtu.be/B6I2VGB9LpM?si=_lF-7YFUqIvPJ9ao)
 24. [Quiz App in C#](https://youtu.be/rfMIayISSW0?si=MeVmlU6mN0Ln2VuN)
+25. [Complete ASP.NET Core MVC 6: A Project guide 2024](https://www.udemy.com/share/106Lfo3@8dTeJO-RRlAUv5UZ5YKG7Wzppxr1XZW9D49nqSLA13LzbTitFM9SHldHlSNGkm-L/)
 
 ### Penetration Test/ Web Security
 
