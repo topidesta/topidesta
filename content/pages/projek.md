@@ -201,6 +201,7 @@ slug: 'projek'
 | Stack | Status | Akses |
 | :---: | :---: | :---: | 
 | Ubuntu, aaPanel, CloudFlare | 🚀 LIVE 🚀 | [link](https://persahabatan.co.id/)|
+| Ubuntu, aaPanel, CloudFlare | 🚀 LIVE 🚀 | [link](https://halobayi.co.id/)|
 
 </details>
 
@@ -269,3 +270,16 @@ slug: 'projek'
 | Javascript, Codeigniter, Extend Chrome | ⚙️DEV⚙️ | - |
 
 </details>
+
+### Sistem Informasi Managemen Klinik
+
+<details>
+  <summary> 👇 Klik Detail</summary>
+
+| Stack | Status | Akses |
+| :---: | :---: | :---: | 
+| Codeigniter 4, jQuery, Datatables, Bootstrap 5 | 🚀 LIVE 🚀 | [link](https://sim.halobayi.co.id/)|
+
+</details>
+
+<hr />
