@@ -36,7 +36,7 @@ Berikut ini daftar Aplikasi yang dibuat dengan teknologi React:
 | 7 | Google Sheet 1 | [Link](http://go.topidesta.my.id/sheet1) | [Link](https://github.com/amati-tiru-modifikasi/nextjs-playing-sheets/tree/sheet1) | waka | 
 | 8 | Build TODO List | [Link](https://www.udemy.com/share/105gKQ3@hpp8Cx732xknHlFM7h41TFTta8jMBTUXyJfQ2eA2QuMrc9be3APTQXf-aH8nxi6c/) | [Link](https://github.com/amati-tiru-modifikasi/react-go-nextjs.git) | - |
 | 9 | Go Admin | [Link](https://www.udemy.com/course/react-go-advanced/) | [Link](https://github.com/amati-tiru-modifikasi/go-admin) | - |
-
+| 10 | URL Shortener | [Link](http://go.topidesta.my.id/asp-net-url-shortener) | [Link](https://github.com/amati-tiru-modifikasi/url-shortener-dot-net) | - |
 
 Ada banyak, nanti update akan gw tulis dipostingan ini juga, untuk sourcecode bisa direpositori [Amati-Tiru-Modifikasi](https://github.com/amati-tiru-modifikasi).
 
