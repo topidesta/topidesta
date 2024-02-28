@@ -30,7 +30,7 @@ Biasanya kita clone project .Net tapi bingung langkah selanjutnya, inget ini mir
 
 // We will create model from Database Tables
 // -----------------------------------------
-// source: github.com/CuriousDrive/PublicProjects/Database/Backups
+// source: github.com/CuriousDrive/BookStores/blob/master/Database/GenerateData.sql
 // - Create Core API Project
 // - Select Nuget Package from Root Project Browser
 // - Install EntityFrameworkSqlServer
