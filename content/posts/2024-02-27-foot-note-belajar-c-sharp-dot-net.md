@@ -38,3 +38,19 @@ Biasanya kita clone project .Net tapi bingung langkah selanjutnya, inget ini mir
 // - Open Pacakge Manager Console to Run Scaffolding the model
 // - Scaffold-DbContext "Server=.\SQLExpress;Database=BookStoresDB;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
 ```
+
+Dotnet run error kayak gini
+
+![Dotnet Error](../images/dotnet-error.png)
+
+Silahkan pakai trick ini
+
+```csharp
+dotnet publish "C:\Users\RSUP\DEV\C#\FolderProject\NamaProject.Ya\NamaProject.Ya.csproj" "/p:PublishProfile=C:\Users\RSUP\DEV\C#\FolderProject\NamaProject.Ya\Properties\PublishProfiles\FolderProfile.pubxml"
+
+# simpan dalam bentul .bat
+# Jika sudah running hasil publish code tersebut
+
+$ dotnet Questio.Web.dll --urls=http://localhost:5001/
+```
+
