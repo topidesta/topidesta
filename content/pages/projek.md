@@ -271,6 +271,8 @@ slug: 'projek'
 
 </details>
 
+<hr />
+
 ### Sistem Informasi Managemen Klinik
 
 <details>
@@ -283,3 +285,14 @@ slug: 'projek'
 </details>
 
 <hr />
+
+### Proctoring
+
+<details>
+  <summary> 👇 Klik Detail</summary>
+
+| Stack | Status | Akses |
+| :---: | :---: | :---: | 
+| JavaScript | 🚀 ACTIVE DEVELOPMENT 🚀 | [link](https://lab.katalis.persahabatan.co.id/)|
+
+</details>
