@@ -152,6 +152,22 @@ Selanjutnya service mail server mati, gak bisa login, ternyata service postfix m
 
 *Saya pake nginx dan server ubuntu ya.
 
+## Testing Out dan In Email
+
+### Testing Email Keluar
+> https://www.appmaildev.com/en/dkim
+
+Jika ada error **DKIM** none, silahkan lakukan perintah berikut:
+
+```bash
+chmod 644 /www/server/dkim/xx.com/default.private
+systemctl restart rspamd
+```
+
+### Testing Email Masuk
+> https://www.gmass.co/smtp-test
+
+Isi sesuai dengan configurasi mail servernya ya.
 
 ## Kesimpulan
 
