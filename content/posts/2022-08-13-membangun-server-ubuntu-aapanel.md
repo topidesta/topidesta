@@ -149,6 +149,7 @@ Selanjutnya service mail server mati, gak bisa login, ternyata service postfix m
 > https://forum.aapanel.com/d/19112-notification-for-mail-server-status
 > https://gist.github.com/mdestafadilah/b862c95f12790b31b2cedc6ee184ab9c
 > http://go.topidesta.my.id/root-cmd
+> https://youtu.be/BPJb6tx9PSc?si=rJeTrg9emlDlAf5Z
 
 *Saya pake nginx dan server ubuntu ya.
 
