@@ -1,9 +1,9 @@
 ---
 template: "post"
-title: Proctoring.JS Open Source
+title: Online Proctoring System
 cover: "../images/proctoring.png"
 date: "2024-04-19T12:00:00Z"
-slug: "proctoring-js-open-source"
+slug: "online-proctoring-system"
 keywords: "proctoring"
 categories:
   - share
