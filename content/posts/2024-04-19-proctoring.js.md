@@ -30,7 +30,7 @@ Awal pengembangan masih file JS yang comot dari sourcecode github, inget cara ke
 
 ![Lab catalyst](../images/lab-katalis.png)
 
-Sayangnya, yang dibutuhkan itu file **.JS** only, alias bundling. Yaps, gw putuskan untuk membuka source dalam versi Bundler (Opensource App) itu project selanjutnya, untuk sekarang masih full single Javascript File yang itu menjadi hak milik Catalyst dimana gw kerja lepas disana.
+Sayangnya, yang dibutuhkan itu file **.JS** only, alias bundling. Yaps, gw putuskan untuk membuka source dalam versi Bundler (API) dan itu project selanjutnya, untuk sekarang masih full single Javascript File dan bantuan BE (dengan PHP sebagai REST API) yang itu menjadi hak milik Catalyst dimana gw kerja lepas disana.
 
 Untuk repository Proctoring.js Opensource ada di link berikut:
 > https://github.com/mdestafadilah/proctoring.js
