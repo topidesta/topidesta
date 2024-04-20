@@ -26,22 +26,27 @@ Dan didapatlah beberapa kecurangan yang sering terjadi, yang bisa di deteksi mel
 4. Detect suara disekitar peserta test
 5. Detect screen capture
 
-Awal pengembangan masih file JS yang comot dari Github. berikut ini list yang berhasil gw research.
+Awal pengembangan masih file JS yang comot dari sourcecode github, inget cara kerja dan belajar gw itu ATM (Amati Tiru Modifikasi), sumbernya akan gw share di bawah ya. Untuk freelance hasil research berikut ini list yang berhasil gw ujicoba.
 
 ![Lab catalyst](../images/lab-katalis.png)
 
-Sayangnya, yang dibutuhkan itu file **.JS** only, alias bundling. Yaps, gw putuskan untuk membuka source dalam versi Bundler (Opensource App).
+Sayangnya, yang dibutuhkan itu file **.JS** only, alias bundling. Yaps, gw putuskan untuk membuka source dalam versi Bundler (Opensource App) itu project selanjutnya, untuk sekarang masih full single Javascript File yang itu menjadi hak milik Catalyst dimana gw kerja lepas disana.
+
+Untuk repository Proctoring.js Opensource ada di link berikut:
+> https://github.com/mdestafadilah/proctoring.js
+
 
 ### Apa Itu Proctoring?
 
-TODO
+TODO!
 
 ### Teknologi yang Digunakan!
 
-TODO
+TODO!
 
 ### Refrensi
 
 1. https://kumparan.com/ragam-info/proctoring-definisi-dan-cara-kerja-sistemnya-20nteGRLsZM/2
 2. https://blog.mettl.com/guide/online-remote-proctoring/
 3. https://raccoongang.com/blog/online-proctoring-everything-you-need-know/
+4. 
