@@ -193,7 +193,7 @@ slug: 'projek'
 
 <hr />
 
-### Server VPS
+### Config and Maintenance Server
 
 <details>
   <summary> 👇 Klik Detail</summary>
@@ -201,6 +201,7 @@ slug: 'projek'
 | Stack | Status | Akses |
 | :---: | :---: | :---: | 
 | Ubuntu, aaPanel, CloudFlare | 🚀 LIVE 🚀 | [link](https://persahabatan.co.id/)|
+| Ubuntu, aaPanel, CloudFlare | 🚀 LIVE 🚀 | [link](https://dev.persahabatan.co.id/)|
 | Ubuntu, aaPanel, CloudFlare | 🚀 LIVE 🚀 | [link](https://halobayi.co.id/)|
 
 </details>
@@ -241,7 +242,7 @@ slug: 'projek'
 
 | Stack | Status | Akses |
 | :---: | :---: | :---: | 
-| ReactJS, ReduxJS, MaterialUI, Formik | ⚙️DEV⚙️ | [link](https://survei.rsuppersahabatan.co.id/) |
+| ReactJS, ReduxJS, MaterialUI, Formik, YUP | ⚙️DEV⚙️ | [link](https://survey.rsuppersahabatan.co.id/) |
 
 </details>
 
@@ -273,14 +274,14 @@ slug: 'projek'
 
 <hr />
 
-### Sistem Informasi Managemen Klinik
+### Sistem Informasi Management Klinik
 
 <details>
   <summary> 👇 Klik Detail</summary>
 
 | Stack | Status | Akses |
 | :---: | :---: | :---: | 
-| Codeigniter 4, jQuery, Datatables, Bootstrap 5 | 🚀 LIVE 🚀 | [link](https://sim.halobayi.co.id/)|
+| Codeigniter 4, jQuery, Datatables, Bootstrap 5 | ⚙️DEV⚙️ | [link](https://sim.halobayi.co.id/)|
 
 </details>
 
@@ -293,6 +294,7 @@ slug: 'projek'
 
 | Stack | Status | Akses |
 | :---: | :---: | :---: | 
-| JavaScript | 🚀 ACTIVE DEVELOPMENT 🚀 | [link](https://lab.katalis.persahabatan.co.id/)|
+| JavaScript, Codeigniter | 🚀 ACTIVE DEVELOPMENT 🚀 | [link](https://lab.katalis.persahabatan.co.id/rest-server/proctoring)|
+| JavaScript, NodeJS, ViteJS, Preact | 🚀 ACTIVE DEVELOPMENT 🚀 | [link](https://github.com/mdestafadilah/proctoring.js)|
 
 </details>
