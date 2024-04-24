@@ -39,8 +39,10 @@ slug: 'projek'
 
 | Stack | Status | Akses |
 | :---: | :---: | :---: | 
-| GravCMS, Github, CloudFlare | ⚙️ DEV ⚙️ | [link](https://v3.web.persahabatan.co.id) |
+| GravCMS, Github, CloudFlare | ⚙️ DEV ⚙️ | [link](https://grav.rspersahabatan.co.id/id) |
 | <td colspan="3"><fieldset><legend>Website RSUP Persahabatan V3</legend>![Website RSUP Persahabatan V3](../images/web-persahabatan-v3.png)</fieldset></td>|
+| Codeigniter, CanvasCMS | 🚀 LIVE 🚀 | [link](https://rsuppersahabatan.co.id )|
+
 
 </details>
 
