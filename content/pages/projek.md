@@ -289,7 +289,7 @@ slug: 'projek'
 
 <hr />
 
-### Proctoring
+### Online Proctoring System
 
 <details>
   <summary> 👇 Klik Detail</summary>
