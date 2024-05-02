@@ -55,6 +55,12 @@ Di group Petirs (Pengguna TI Rumah Sakit) pernah dibahas juga, tentang memanfaat
 
 [Chatbot by Petirs](https://github.com/topidesta/topidesta/raw/master/content/images/chat-bot-petirs.pdf)
 
+### PM2
+
+```bash
+sudo pm2 start 'npm run start:prod' --name nama_aplikasi --cron-restart="0 */6 * * *" -- start --node-args="--max-old-space-size=4096" --max-memory-restart 4G
+```
+
 ## UPDATE
 
 Ternyata dispanyol udah ada yang mengembangkan chatbot secara mudah difahami, cek di sini:
