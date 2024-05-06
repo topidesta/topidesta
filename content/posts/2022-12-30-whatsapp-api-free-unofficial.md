@@ -49,6 +49,17 @@ Untuk server pernah gw bahas di postingan [membangun server dengan aapanel](/mem
 7. https://github.com/chrishubert/whatsapp-api
 8. https://github.com/wppconnect-team/wppconnect-server
 
+
+## Bonus
+
+Ini bonus, service wa-unofficial yang gw pake buat project atau kerjaan
+
+9. https://go.topidesta.my.id/v1
+10. https://go.topidesta.my.id/v2
+11. https://go.topidesta.my.id/v3
+12. https://go.topidesta.my.id/v4
+
+
 Ada kelebihan ada kekurangan masing masing API Restfull Whatsapp, misalkan ada yang bisa kirim sticker ada yang bisa kirim ke group saja, ada yang gak bisa kirim ke group, dan lain sebagianya, tapi secara umum semuanya bisa **kirim ke nomor whatsapp perorangan**
 
 Di group Petirs (Pengguna TI Rumah Sakit) pernah dibahas juga, tentang memanfaatkan Whatsapp API Free untuk mesin penjawab otomatis, lihat di point #4 salah satu contoh kodingannya, next mungkin gw bisa research deh, kalo ada yang mau pdf nya ini gw share ya.
