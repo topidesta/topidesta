@@ -184,6 +184,23 @@ Or
 curl -Lso- bench.sh | bash
 ```
 
+## HDD Penuh
+
+Terkadang aplikasi sedikit tapi tetiba hdd sudah mencapai 80%, bisa jadi itu cache/ log dari aplikasi yang tersimpan, seperti dibawah ini:
+
+![HDD Server Penuh](../images/hdd-server-penuh.png)
+
+```bash
+$ sudo du -sh /www/wwwroot
+```
+atau
+```bash
+$ ncdu -x /
+```
+
+[Sumber Trick](https://askubuntu.com/questions/5444/how-to-find-out-how-much-disk-space-is-remaining)
+
+
 ## Kesimpulan
 
 Rasanya perlu juga ada kesimpulan? hehe.. baiklah, intinya **Belajar bukan tentang kompetisi, tapi disiplin diri untuk menghadapi berbagai tantangan [[1]](#1)**
