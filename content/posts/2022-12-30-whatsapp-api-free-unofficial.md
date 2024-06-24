@@ -69,6 +69,15 @@ Di group Petirs (Pengguna TI Rumah Sakit) pernah dibahas juga, tentang memanfaat
 sudo pm2 start 'npm run start:prod' --name nama_aplikasi --cron-restart="0 */6 * * *" -- start --node-args="--max-old-space-size=4096" --max-memory-restart 4G
 ```
 
+### USE NPM
+
+```bash
+npm install -g npm@latest
+npm cache clean --force
+npm run install
+```
+
+
 ## UPDATE
 
 Ternyata dispanyol udah ada yang mengembangkan chatbot secara mudah difahami, cek di sini:
