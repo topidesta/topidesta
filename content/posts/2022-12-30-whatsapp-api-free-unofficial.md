@@ -74,7 +74,7 @@ sudo pm2 start 'npm run start:prod' --name nama_aplikasi --cron-restart="0 */6 *
 ```bash
 npm install -g npm@latest
 npm cache clean --force
-npm run install
+npm install
 ```
 
 
