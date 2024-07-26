@@ -13,10 +13,19 @@ tags:
   - absensi
 ---
 
-
 ## Bismillah
 
-TODO...
+Alhamdulillah, absensi dengan realtime absen sudah bisa. Pake yang sourcecode yang dibawah ini, Simple ADMS Code. Sebelumnya gw kudu beli sourcecode 1 JT, muka gile, unlimited mesin 20 jt. hallooo... gw aja dapetin 20jt kudu 1 tahun. baru kekumpul.
+
+![sc-1-jut](../images/sc-1-jt.jpg)
+
+Akhirnya gw ubek ubek di github, sampe gw pull request dan di response sama owner reponya.
+
+![repo-adms](../images/repo-adms.png)
+
+... berlanjut ke email sampe ke wa owner reponya, dan berhasil handshake dan kirim data log.
+
+Have a nice day.
 
 ## Sumber
 
