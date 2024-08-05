@@ -16,7 +16,7 @@ Bismillah ....
 
 Baru kesempatan nulis lagi, karena belakang ini load pembuatan modul sekaligus aplikasi (UTDRS/ Mini PMI) ditambah Setup Server untuk domain `persahabatan.co.id` yang digunakan untuk Staging Area Pengembangan Aplikasi Programmer lainnya dan berbagai kesibukan offline (bermain dengan anak dan istri, hehe) bikin lupa untuk nulis hal tekhnis hehe...
 
-Share kali ini gw mau bahas tentang Membangun server VPS untuk berbagai aplikasi, mulai dari PHP, NodeJS, Python hingga Golang. Mungkin bahasan yang sama di halaman ini juga, terutama mulai persiapan hingga siap digunakan. Sekedar informasi, sebelum menggunakan panel yang sekarang [aaPanel](https://www.aapanel.com/new/download.html) gw udah coba install [NasiHosting](https://github.com/kurniawandata/nasihosting.git) dan explorer beberapa panel namun, melihat support, akhirnya apanel pilihannya.
+Share kali ini gw mau bahas tentang Membangun server VPS untuk berbagai aplikasi, mulai dari PHP, NodeJS, Python hingga Golang. Mungkin bahasan yang sama di halaman ini juga, terutama mulai persiapan hingga siap digunakan. Sekedar informasi, sebelum menggunakan panel yang sekarang [aaPanel](https://www.aapanel.com?referral_code=FDoEEhxd) gw udah coba install [NasiHosting](https://github.com/kurniawandata/nasihosting.git) dan explorer beberapa panel namun, melihat support, akhirnya apanel pilihannya.
 
 Untuk Project jadi, ada dihalaman ini https://persahabatan.co.id/ dan https://dev.persahabatan.co.id/ untuk bahannya kurang lebih sebagai berikut:
 
