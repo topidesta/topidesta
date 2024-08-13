@@ -19,6 +19,9 @@ Alhamdulillah, absensi dengan realtime absen sudah bisa. Pake yang sourcecode ya
 
 ![sc-1-jut](../images/sc-1-jt.jpg)
 
+![sc-1-juta](../images/adms-2.jpg)
+
+
 Akhirnya gw ubek ubek di github, sampe gw pull request dan di response sama owner reponya.
 
 ![repo-adms](../images/repo-adms.png)
@@ -30,7 +33,7 @@ Have a nice day.
 ## Sumber
 
 0. [How ADMS is Working](https://stackoverflow.com/a/72994156)
-1. [Simple ADMS Code](https://github.com/saifulcoder/adms-server-ZKTeco)
+1. [ADMS Server](https://github.com/saifulcoder/adms-server-ZKTeco)
 2. [Manual Solution Push](https://rawcdn.githack.com/topidesta/topidesta/baa6612c36ed6afa08d639ebc04ca72a4d1a8edd/content/images/HTTPPUSHSDK2_0_1_en.pdf)
 3. [Zkteco Push Protocol](https://rawcdn.githack.com/topidesta/topidesta/baa6612c36ed6afa08d639ebc04ca72a4d1a8edd/content/images/Attendance-PUSH-Communication-Protocol-20200325.pdf)
 4. [Server EasyApp](https://adms.easyapp.my.id/login)
