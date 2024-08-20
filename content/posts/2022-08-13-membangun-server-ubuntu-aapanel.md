@@ -94,7 +94,7 @@ bt status
 and done. semua bisa diakses.
 ## Implementasi di Server
 
-Saat ini implementasi diserver baru sebatas aplikasi PHP dan NodeJS, untuk Python dan Golang belum gw implementasi, mungkin yang Golang akan gw coba buat service, REST API sederhana ya, karena ada fiture Docker (versi demo yang terbatas), jadi gw bungkus pake Docker ajah. dan belum terimplentasi, dan .NET 6 core, sudah terinstall. :)
+Saat ini implementasi diserver baru sebatas aplikasi PHP dan NodeJS, untuk Python dan Golang belum gw implementasi, mungkin yang Golang akan gw coba buat service, REST API sederhana ya, karena ada fiture Docker (versi demo yang terbatas), jadi gw bungkus pake Docker ajah. dan belum terimplentasi, dan .NET 6 core, sudah terinstall.
 
 Untuk sekarang hanya berjalan aplikasi PHP (5,7,8) dan NodeJS (Api Whatsapp).
 
@@ -200,6 +200,36 @@ $ ncdu -x /
 
 [Sumber Trick](https://askubuntu.com/questions/5444/how-to-find-out-how-much-disk-space-is-remaining)
 
+## Gak bisa Login ke ssh
+
+![Failed ssh login](../images/ssh-failed-login.png)
+
+itu karena ssh keypair di portal biznet kita sudah ubah. langkah selanjutnya kita login dengan keypair baru.
+
+![Keypair baru](../images/biznetkoplak.png)
+
+```bash
+λ ssh-keygen -R 192.168.132.2
+```
+
+nanti konfirmasi keypair baru, seperti berikut:
+
+![login-ssh-berhasil](../images/login-ssh-berhasil.png)
+
+kalo udah tinggal login dengan file *.pem dari biznet.
+
+```bash
+λ ssh -i namafilecloud.pem username@ip_publik_biznet
+```
+
+![login](../images/ssh-berhasil.png)
+
+Jika sudah bisa login tinggal ubah deh Password, ikuti arahan berikut ini ya [[Rubah-root-password-server]](#3).
+
+Oh iya, jangan lupa copy id_rsa.pub ke terminal web base (terminal aapanel), seperti berikut:
+
+![terminal-aapanel](../images/terminal-aapanel.png)
+
 
 ## Kesimpulan
 
@@ -207,6 +237,10 @@ Rasanya perlu juga ada kesimpulan? hehe.. baiklah, intinya **Belajar bukan tenta
 
 ### Reference
 
-<a id="1">[1] http://go.topidesta.my.id/belajar-niru</a>
+<ul>
+<ol><a id="1">[1] http://go.topidesta.my.id/belajar-niru</a></ol>
+<ol><a id="2">[2] http://go.topidesta.my.id/akses-ssh-biznet</a></ol>
+<ol><a id="3">[3] http://go.topidesta.my.id/root-instance-server</a></ol>
+</ul>
 
 Have a nice day!
