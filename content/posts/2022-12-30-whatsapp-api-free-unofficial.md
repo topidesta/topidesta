@@ -66,7 +66,13 @@ Di group Petirs (Pengguna TI Rumah Sakit) pernah dibahas juga, tentang memanfaat
 ### PM2
 
 ```bash
+# Trick 1
 sudo pm2 start 'npm run start:prod' --name nama_aplikasi --cron-restart="0 */6 * * *" -- start --node-args="--max-old-space-size=4096" --max-memory-restart 4G
+```
+
+```bash
+# Trick 2
+sudo pm2 start 'npm run start' --name nama_aplikasi --cron-restart="0 */6 * * *" -- start --node-args="--max-old-space-size=4096" --max-memory-restart 4G --interpreter=/www/server/nodejs/v18.20.4
 ```
 
 ### USE NPM
