@@ -170,6 +170,15 @@ systemctl restart rspamd
 
 Isi sesuai dengan configurasi mail servernya ya.
 
+### Email SMPT Alternative
+
+> https://www.mailersend.com/pricing
+> https://www.smtp2go.com/pricing/
+> https://sendpulse.com/prices
+> https://www.brevo.com/pricing/
+> https://ahasend.com/pricing
+> https://www.mailjet.com/pricing/
+
 ## Test Jaringan
 
 ```bash
@@ -229,6 +238,11 @@ Jika sudah bisa login tinggal ubah deh Password, ikuti arahan berikut ini ya [[R
 Oh iya, jangan lupa copy id_rsa.pub ke terminal web base (terminal aapanel), seperti berikut:
 
 ![terminal-aapanel](../images/terminal-aapanel.png)
+
+## ModSecurity Install
+
+> https://www.youtube.com/watch?v=pNDH437ih6I
+> https://www.youtube.com/watch?v=478ku0_2LvI
 
 
 ## Kesimpulan
