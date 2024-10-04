@@ -49,18 +49,17 @@ Untuk server pernah gw bahas di postingan [membangun server dengan aapanel](/mem
 Ini bonus, service wa-unofficial yang gw implementasi di RS Persahabatan.
 
 7. https://go.topidesta.my.id/v1
-8. https://go.topidesta.my.id/v2 
-9. https://go.topidesta.my.id/v3 ✔️
-10. https://go.topidesta.my.id/v4
-11. https://go.topidesta.my.id/v5
-12. https://go.topidesta.my.id/v6
-13. https://go.topidesta.my.id/v7
-14. https://go.topidesta.my.id/v8
-15. https://go.topidesta.my.id/v9
-16. https://go.topidesta.my.id/v10 ✔️
-17. https://go.topidesta.my.id/v1-2 ✔️
-18. https://go.topidesta.my.id/v4-2 ✔️
-
+8. https://go.topidesta.my.id/v1-2 ✔️
+9. https://go.topidesta.my.id/v2 ✔️
+10. https://go.topidesta.my.id/v3 ✔️
+11. https://go.topidesta.my.id/v4
+12. https://go.topidesta.my.id/v4-2 ✔️
+13. https://go.topidesta.my.id/v5
+14. https://go.topidesta.my.id/v6
+15. https://go.topidesta.my.id/v7
+16. https://go.topidesta.my.id/v8
+17. https://go.topidesta.my.id/v9
+18. https://go.topidesta.my.id/v10 ✔️
 
 Ada kelebihan ada kekurangan masing masing API Restfull Whatsapp, misalkan ada yang bisa kirim sticker ada yang bisa kirim ke group saja, ada yang gak bisa kirim ke group, dan lain sebagianya, tapi secara umum semuanya bisa **kirim ke nomor whatsapp perorangan**
 
