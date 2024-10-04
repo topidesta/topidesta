@@ -23,7 +23,7 @@ tapi tenang, diluar sana ada juga kok yang memanfaatkan API yang free alias Grat
 
 > https://web.whatsapp.com
 
-beberapa library yang terkenal seperti [baileys](https://github.com/adiwajshing/Baileys), [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js), [WWPConnect](https://github.com/wppconnect-team/wppconnect) dan Venom, yang menggunakan bahasa typescript/ javascript, ada juga yang menggunakan python atau golang loh, mantap kan ya.
+beberapa library yang terkenal seperti [Baileys](https://github.com/WhiskeySockets/Baileys), [Whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js), [WWPConnect](https://github.com/wppconnect-team/wppconnect) dan [Venom-BOT](https://github.com/orkestral/venom), yang menggunakan bahasa typescript/ javascript, ada juga yang menggunakan python atau golang loh, mantap kan ya.
 
 lanjut, karena lingkup kerja gw butuh hasil ketimbang proses, dan gw sendiri lebih familiar dengan javascript, akhirnya coba hunting deh API yang ready to production. liat aja di pojok kanan github library tersebut, **Used by** nah, dapat deh beberapa yang berhasil mengembangkan yang sudah ada API Rest. Tinggal test deh endpointnya dengan postman atau insomnia, kalo udah bisa, running deh diserver, ouh iya, kalo mau di onlinekan, sebisa mungkin gunakan domain ya, jangan pake IP Publik, karena nanti port nodejsnya terexpose.
 
