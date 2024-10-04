@@ -46,15 +46,20 @@ Untuk server pernah gw bahas di postingan [membangun server dengan aapanel](/mem
 
 ## Bonus
 
-Ini bonus, service wa-unofficial yang gw pake di RS Persahabatan.
+Ini bonus, service wa-unofficial yang gw implementasi di RS Persahabatan.
 
 7. https://go.topidesta.my.id/v1
-8. https://go.topidesta.my.id/v2
-9. https://go.topidesta.my.id/v3
+8. https://go.topidesta.my.id/v2 
+9. https://go.topidesta.my.id/v3 ✔️
 10. https://go.topidesta.my.id/v4
 11. https://go.topidesta.my.id/v5
 12. https://go.topidesta.my.id/v6
 13. https://go.topidesta.my.id/v7
+14. https://go.topidesta.my.id/v8
+15. https://go.topidesta.my.id/v9
+16. https://go.topidesta.my.id/v10 ✔️
+17. https://go.topidesta.my.id/v1-2 ✔️
+18. https://go.topidesta.my.id/v4-2 ✔️
 
 
 Ada kelebihan ada kekurangan masing masing API Restfull Whatsapp, misalkan ada yang bisa kirim sticker ada yang bisa kirim ke group saja, ada yang gak bisa kirim ke group, dan lain sebagianya, tapi secara umum semuanya bisa **kirim ke nomor whatsapp perorangan**
@@ -93,6 +98,10 @@ https://github.com/codigoencasa/bot-whatsapp
 Kurang lebih akan muncul seperti ini
 
 ![Chat BOT](../images/chatbot.png)
+
+## SERVICE JOB
+
+Buat yang butuh configurasi server wa un-official bisa kontak gw ya.
 
 Done.
 
