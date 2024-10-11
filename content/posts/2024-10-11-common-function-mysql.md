@@ -23,3 +23,4 @@ TODO:
 2. https://www.queryexamples.com/sql/mysql/create-a-function-calculate-power-of-a-number-in-mysql/
 3. https://stackoverflow.com/a/57856940
 4. https://stackoverflow.com/a/50998046
+5. https://stackoverflow.com/a/9815396
