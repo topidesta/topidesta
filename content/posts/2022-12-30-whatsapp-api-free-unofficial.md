@@ -98,9 +98,9 @@ Kurang lebih akan muncul seperti ini
 
 ![Chat BOT](../images/chatbot.png)
 
-## SERVICE JOB
+## SERVICE OFFERING
 
-Buat yang butuh configurasi server wa un-official bisa kontak gw ya.
+Buat yang butuh configurasi server wa un-official bisa [kontak gw ya](https://api.whatsapp.com/send?phone=6283898973731&text=halo%20desta%20saya%20mau%20build%20server%20whatsapp).
 
 Done.
 

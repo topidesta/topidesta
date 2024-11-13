@@ -246,6 +246,24 @@ Oh iya, jangan lupa copy id_rsa.pub ke terminal web base (terminal aapanel), sep
 <ol>https://www.youtube.com/watch?v=478ku0_2LvI</ol>
 </ul>
 
+## Ganti Password
+
+```bash
+root@UbuntuServer:~# sudo passwd root
+New password:
+Retype new password:
+passwd: password updated successfully
+root@UbuntuServer:~#
+```
+
+```bash
+root@UbuntuServer:~# passwd
+New Password:
+Retype new password:
+passwd: password updated successfully
+root@UbuntuServer:~#
+```
+
 ## Kesimpulan
 
 Rasanya perlu juga ada kesimpulan? hehe.. baiklah, intinya **Belajar bukan tentang kompetisi, tapi disiplin diri untuk menghadapi berbagai tantangan [[1]](#1)**
