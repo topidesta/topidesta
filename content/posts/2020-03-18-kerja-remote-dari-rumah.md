@@ -54,6 +54,13 @@ Berikut ini web yang memberikan informasi perusahaan yang menerima kerja remote 
 31. https://100telecommutejobs.com/telejobs/
 32. https://boards.greenhouse.io/sysdig
 
+##
+
+33. https://www.toptal.com/
+34. https://nodesk.co/remote-jobs/
+35. https://remoteok.com/
+36. https://wellfound.com/jobs
+
 Nah lo, luar negeri semua ... hoho ... nice ... ntr kita coba cari tau, **responsibility** dan **requiredment** setiap kerjaan remote, kebetulan gw sendiri nyari remote untuk Admin Server (Setup dengan aaPanel), Codeigniter, Go-Lang dan React/ NextJS.
 
 have a nice day!
