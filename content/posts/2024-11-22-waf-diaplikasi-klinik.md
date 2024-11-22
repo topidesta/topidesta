@@ -171,6 +171,8 @@ class CodeIgniter4 implements FilterInterface
 
 gw udah buat Pull Request (PR) tapi belom di acc sama ownernya, jadi mau gak mau langsung ubah aja di folder **vendor** ya.
 
+> https://github.com/terrylinooo/shieldon/pull/68
+
 Sekian informasi dan trick yang gw implentasikan di aplikasi klinik hazika.
 
 Have a nice day!
