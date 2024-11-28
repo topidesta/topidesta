@@ -23,7 +23,11 @@ Selain menggunakan WAF dari sisi server gw implentasikan juga **Nginx Free Firew
 
 ![nginx-firewall](../images/nginx-firewall.png)
 
-kita bisa setting *whitelist* atau *blacklist* sebuah IP Address, apakah mencurigkan atau tidak dan lain sebagainya.
+kita bisa setting *whitelist* atau *blacklist* sebuah IP Address, apakah mencurigkan atau tidak dan menambahkan filter seperti berikut untuk menolak aplikasi web kita di scan oleh orang yang tidak berkepentingan.
+
+```bash
+2ip\ bot|360Spider|404checker|404enemy|80legs|Abonti|Aboundex|Aboundexbot|Acunetix|ADmantX|adscanner|AdsTxtCrawlerTP|AfD-Verbotsverfahren|AHC|AIBOT|AiHitBot|Aipbot|Alexibot|ALittle\ Client|Alligator|AllSubmitter|AlphaBot|Amazonbot|Anarchie|Anarchy|Anarchy99|Ankit|Anthill|anthropic-ai|Apache-HttpClient|Apexoo|archive.org_bot|arquivo-web-crawler|arquivo.pt|Aspiegel|ASPSeek|Asterias|Atomseobot|Attach|autoemailspider|Awario|AwarioBot|AwarioRssBot|AwarioSmartBot|BackDoorBot|Backlink-Ceck|backlink-check|BacklinkCrawler|BackStreet|BackWeb|Badass|Bandit|Barkrowler|BatchFTP|Battleztar\ Bazinga|BBBike|BDCbot|BDFetch|BetaBot|bidswitchbot|Bigfoot|Bitacle|Black\ Hole|Blackboard|BlackWidow|BLEXBot|Blow|BlowFish|Boardreader|Bolt|BotALot|Brandprotect|Brandwatch|Buck|Buddy|BuiltBotTough|BuiltWith|Bullseye|BunnySlippers|BuzzSumo|Bytedance|Bytespider|cah.io.community|Calculon|CATExplorador|CazoodleBot|CCBot|Cegbfeieh|CensysInspect|CF-UC|ChatGPT-User|check1.exe|CheeseBot|CherryPicker|CheTeam|ChinaClaw|Chlooe|Citoid|Claritybot|clark-crawler|Cliqzbot|Cloud\ mapping|coccocbot|Cocolyzebot|CODE87|Cogentbot|cognitiveseo|cohere-ai|Collector|com.plumanalytics|comscore|Copier|CopyRightCheck|Copyscape|Cosmos|Craftbot|crawl.sogou.com|crawler.feedback|crawler4j|Crawling\ at\ Home\ Project|CrazyWebCrawler|Crescent|CriteoBot|CrunchBot|CSHttp|Curious|Custo|CyotekWebCopy|DatabaseDriverMysqli|DataCha0s|dataforseo.com|DataForSeoBot|dataforseobot|DBLBot|demandbase-bot|Demon|Deusu|Devil|Digincore|DigitalPebble|DIIbot|Dirbuster|dirbuster|Disco|Discobot|Discoverybot|Dispatch|DittoSpyder|DnBCrawler-Analytics|DnyzBot|DomainAppender|DomainCrawler|Domains\ Project|DomainSigmaCrawler|domainsproject.org|DomainStatsBot|DomCopBot|Download\ Wonder|Dragonfly|Drip|DSearch|DTS\ Agent|EasyDL|Ebingbong|eCatch|ECCP/1.0|Ecxi|EirGrabber|EMail\ Siphon|EMail\ Wolf|EroCrawler|evc-batch|Evil|Exabot|Expanse|Express\ WebPictures|ExtLinksBot|Extractor|ExtractorPro|Extreme\ Picture\ Finder|EyeNetIE|Ezooms|FacebookBot|facebookscraper|FDM|FemtosearchBot|FHscan|Fimap|Firefox/7.0|FlashGet|Flunky|Foobot|Freeuploader|FriendlyCrawler|FrontPage|Fuzz|FyberSpider|Fyrebot|G-i-g-a-b-o-t|Gabanzabot|GalaxyBot|Genieo|GermCrawler|Getintent|GetRight|GetWeb|Gigabot|Go-Ahead-Got-It|Go-http-client|Go!Zilla|gopher|Gotit|GoZilla|GPTBot|Grabber|GrabNet|Grafula|GrapeFX|GrapeshotCrawler|GridBot|GT::WWW|Haansoft|HaosouSpider|harvest|Harvest|Havij|HEADMasterSEO|Heritrix|heritrix|Hloader|HMView|HonoluluBot|HTMLparser|HTTP::Lite|HTTrack|Humanlinks|HybridBot|Iblog|Id-search|IDBot|IDBTE4M|IlseBot|Image\ Fetch|Image\ Sucker|imagesift.com|ImagesiftBot|IndeedBot|Indy\ Library|InfoNaviRobot|InfoTekies|instabid|Intelliseek|InterGET|Internet\ Ninja|InternetSeer|internetVista\ monitor|IonCrawl|ips-agent|Iria|IRLbot|isitwp.com|Iskanie|IstellaBot|iubenda-radar|JamesBOT|Java|Jbrofuzz|JennyBot|JetCar|Jetty|JikeSpider|JOC\ Web\ Spider|Joomla|Jorgee|JustView|Jyxobot|Kenjin\ Spider|Keybot\ Translation-Search-Machine|Keyword\ Density|Kinza|Kozmosbot|Lanshanbot|Larbin|Leap|LeechFTP|LeechGet|LexiBot|Lftp|LibWeb|Libwhisker|LieBaoFast|Lightspeedsystems|Likse|Linkbot|linkdexbot|LinkextractorPro|LinkpadBot|LinkScan|LinksManager|LinkWalker|LinqiaMetadataDownloaderBot|LinqiaRSSBot|LinqiaScrapeBot|Lipperhey|Lipperhey\ Spider|Litemage_walker|Lmspider|LNSpiderguy|Ltx71|lwp-request|lwp-trivial|LWP::Simple|Mag-Net|Magnet|magpie-crawler|Mail.RU_Bot|Majestic-SEO|Majestic\ SEO|Majestic12|MarkMonitor|MarkWatch|Mass\ Downloader|Masscan|Mata\ Hari|MauiBot|Mb2345Browser|MBCrawler|MeanPath\ Bot|Meanpathbot|meanpathbot|Mediatoolkitbot|mediawords|MegaIndex.ru|Metauri|MFC_Tear_Sample|MicroMessenger|Microsoft\ Data\ Access|Microsoft\ URL\ Control|MIDown\ tool|MIIxpc|Minefield|Mister\ PiX|MJ12bot|MJ12Bot|Moblie\ Safari|Mojeek|Mojolicious|MolokaiBot|Morfeus\ Fucking\ Scanner|Mozlila|MQQBrowser|Mr.4x3|MSFrontPage|MSIECrawler|Msrabot|MTRobot|muhstik-scan)
+```
 
 Selain itu gw juga menambahan security lainnya, seperti **nG Firewall** dari sisi Server, menggunakan tools dari Perishable Press.
 
@@ -33,9 +37,12 @@ masih kurang? yaps, dari tampilan sebelum masuk ke sistem, gw implentasikan sebu
 
 ![waf-slider](../images/waf-slider.png)
 
-Untuk sementara bebarapa kali gw liat akses yang aneh, dan gak tembus, alhamduillah. jadi gw rasa 3 tools dengan 2 layer keamanaan sudah cukup ya.
 
 ## Catatan Implementasi ShieldOn
+
+gw udah buat Pull Request (PR) tapi belom di acc sama ownernya, jadi mau gak mau langsung ubah aja di folder **vendor** ya.
+
+> https://github.com/terrylinooo/shieldon/pull/68
 
 Saat implentasi shieldon agak sedikit tricky, karena ada sedikit error seperti ini
 
@@ -169,9 +176,13 @@ class CodeIgniter4 implements FilterInterface
 }
 ```
 
-gw udah buat Pull Request (PR) tapi belom di acc sama ownernya, jadi mau gak mau langsung ubah aja di folder **vendor** ya.
+## Kesimpulan
 
-> https://github.com/terrylinooo/shieldon/pull/68
+Baik, akan gw simpulkan *tools* yang digunakan dalam menghadapi kerasanya keaamanan dunia maya, terutama aplikasi berbasis web-base, diantaranya:
+
+1. Nginx Free Firewall with UA Filter
+2. 7G Firewall by PerishablePress
+3. Shieldon PHP
 
 Sekian informasi dan trick yang gw implentasikan di aplikasi klinik hazika.
 
@@ -184,3 +195,4 @@ Have a nice day!
 2. [nG Firewall](https://perishablepress.com/ng-firewall/)
 3. [ShieldOn for Codeigniter](https://github.com/terrylinooo/shieldon)
 4. [Patch Codeigniter 4](https://gist.github.com/mdestafadilah/9b3cab601c9492d552ebf59a2d698667)
+5. [UA Filter](https://github.com/idflorin/mixed/blob/main/nginx-ban-bad-user-agents.conf)
