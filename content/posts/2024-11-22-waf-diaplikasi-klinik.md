@@ -37,8 +37,18 @@ masih kurang? yaps, dari tampilan sebelum masuk ke sistem, gw implentasikan sebu
 
 ![waf-slider](../images/waf-slider.png)
 
+Ouh iya, waktu itu gw juga pake WAF diaplikasi klinik hazika dengan [Adel-WAF](https://github.com/Adel-Qusay/ADEL-WAF/issues/10) tapi ada keanehan, diserver aaPanel gw gak kedetect kalo scriptnya mengandung trojan, tapi di server laen yang pake directadmin malah kedetect dan langsung di delete filenya, penasaran akhirnya coba cek menggunakan VirusTotal, jreng bener aja ada trojan script
 
-## Catatan Implementasi ShieldOn
+![adel-waf](../images/adel-waf.png)
+
+> https://www.virustotal.com/gui/file/9772b53bcb8884cf5989e5a7b5a2258ad94364cfe9e21ac9e85b2ee42103432c?nocache=1
+
+Semoga owner repo tau apa yang dia share, kalo WAF nyah sangat tidak aman untuk server, dan gw juga udah kasih tau dan gw share juga alternatifnya, seperti [Shieldon](https://github.com/terrylinooo/shieldon) dan lainnya.
+
+> https://github.com/Adel-Qusay/ADEL-WAF/issues/10
+
+
+## Catatan Implementasi WAF Shieldon
 
 gw udah buat Pull Request (PR) tapi belom di acc sama ownernya, jadi mau gak mau langsung ubah aja di folder **vendor** ya.
 
