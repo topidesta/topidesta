@@ -186,6 +186,16 @@ class CodeIgniter4 implements FilterInterface
 }
 ```
 
+## Update ~ Celah dari Sisi Server
+
+> TODO: Penjelasannya
+
+![uploaded-to-public](../images/uploaded-to-public.png)
+
+![akses-mencurigakan](../images/akses-mencurigakan.png)
+
+
+
 ## Kesimpulan
 
 Baik, akan gw simpulkan *tools* yang digunakan dalam menghadapi kerasanya keaamanan dunia maya, terutama aplikasi berbasis web-base, diantaranya:
