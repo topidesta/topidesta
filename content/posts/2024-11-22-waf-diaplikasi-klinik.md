@@ -188,12 +188,45 @@ class CodeIgniter4 implements FilterInterface
 
 ## Update ~ Celah dari Sisi Server
 
-> TODO: Penjelasannya
+Jadi sebelum kejadian, gw ada update tp ko aplikasi gak berubah, alhasil gw masuk ke console, buat ngecek dengan melakukan `sudo git status` ternyata ada file yang gak diundang di folder `public`  seperti gambar dibawah ini:
 
 ![uploaded-to-public](../images/uploaded-to-public.png)
 
+Nah aneh kan, cuman sampe sekarang gw belum tau kenapa bisa terupload, akhirnya coba liat akses folder mana pake url apa seperti dibawah ini, tetep gak ketauhan celahnya.
+
 ![akses-mencurigakan](../images/akses-mencurigakan.png)
 
+### Patch Celah Folder Public
+
+Setelah mencari tahu, akhirnya folder `public` gw batasi dan assets image,css dan js diarahkan ke cdn. Berikut ini beberapa config patch untuk nginx.
+
+```bash
+location ~* \.(jpg|jpeg|gif|png|bmp|ico|flv|swf|js|css|ttf|woff|woff2) {
+  add_header        Cache-Control public;
+  add_header        Cache-Control must-revalidate;
+  expires           7d;
+}
+
+location ^~ /public/ {
+  deny all;
+}
+
+location /images/ {
+  access_log off;
+  expires max;
+    
+  location ~ "\.(png|jpg|ttf|woff|woff2|pdf)$" {
+      allow all;                # allow images, etc.
+  }
+
+  location ~ "/$" {
+      allow all;
+      autoindex off;             # allow listing directory contents
+  }
+}
+```
+
+dan ubah hak akses foldernya `755` dan file `644`, dan akhirnya tidak ada lagi file aneh yang terupload di folder public.
 
 
 ## Kesimpulan
