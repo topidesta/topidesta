@@ -92,7 +92,7 @@ npm install
 
 Ternyata dispanyol udah ada yang mengembangkan chatbot secara mudah difahami, cek di sini:
 
-https://github.com/codigoencasa/bot-whatsapp
+https://github.com/codigoencasa/builderbot
 
 Kurang lebih akan muncul seperti ini
 
