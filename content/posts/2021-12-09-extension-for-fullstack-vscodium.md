@@ -50,4 +50,12 @@ Berikut ini gw share tools yang gw pake dalam format **.vsix** silahkan akses gi
 
 > https://github.com/topidesta/vscodium-ext-for-fullstack-dev
 
+
+## Update
+
+Github Copilot di Vscodium.
+
+![Copiliot](../images/copilot.png)
+
+
 Have a nice day!
