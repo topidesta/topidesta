@@ -388,5 +388,30 @@ if ( !function_exists('backupDB')) {
 
 > Untuk backup DB melalui PHP
 
+```php
+/**
+ * @param $string - Input string to convert to array
+ * @param string $separator - Separator to separate by (default: ,)
+ * @return array
+ * @source http://snippets.khromov.se/convert-comma-separated-values-to-array-in-php/
+ * @contoh: [2,3,4] => { 0=>2, 1=>3, 2=>4 } 
+ */
+if ( !function_exists('comma_separated_to_array')) {
+function comma_separated_to_array($string, $separator = ',') {
+      //Explode on comma
+      $vals = explode($separator, $string);
+     
+      //Trim whitespace
+      foreach($vals as $key => $val) {
+        $vals[$key] = trim($val);
+      }
+      //Return empty array if no items found
+      //http://php.net/manual/en/function.explode.php#114273
+      return array_diff($vals, array(""));
+    }
+}
+```
+> Untuk membentuk array dari sebuah string
+
 # TODO masih ada Banyak ... staytune!
 
