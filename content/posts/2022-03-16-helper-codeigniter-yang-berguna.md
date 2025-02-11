@@ -20,6 +20,14 @@ Untuk aturan pembuatan helper silahkan liat dokumentasinya, untuk function yang 
 
 Lanjut ke scriptnya beserta manfaat singkatnya, untuk sumber *code* nyah gw sertakan juga ya sudah gw sertakan juga ya.
 
+<details>
+  <summary>Klik Untuk Detailnya</summary>
+
+  1. Merandom Kode Acak
+  2. dst..
+
+</details>
+
 ```php
 # source: https://gist.github.com/raveren/5555297
 if ( !function_exists('random_text')) {
@@ -71,7 +79,6 @@ if ( !function_exists('random_text')) {
   }
 }
 ```
-
 > script diatas untuk melakukan generate string semacam uniq-id.
 
 
@@ -412,6 +419,109 @@ function comma_separated_to_array($string, $separator = ',') {
 }
 ```
 > Untuk membentuk array dari sebuah string
+
+```php
+// source: http://stackoverflow.com/a/11479038
+if ( !function_exists('get_db_row_obj')) {
+  function get_db_row_obj($result)
+  {
+    return $result->num_rows() ? $result->row() : FALSE;
+  }
+}
+
+// source: http://stackoverflow.com/a/11479038
+if ( !function_exists('get_db_row_arr')) {
+  function get_db_row_arr($result)
+  {
+    return $result->num_rows() ? $result->row_array() : FALSE;
+  }
+}
+```
+> Untuk merubah sebuah value di kolom mysql ke bentuk array php
+
+```php
+// source: https://github.com/typesafer/codeigniter-enum-select-boxes
+if (!function_exists('dropdownKolom')) {
+  function dropdownKolom($table , $field, $all=false)
+  {
+      $ci = & get_instance();
+      $query = "SHOW COLUMNS FROM ".$table." LIKE '$field'";
+      $row = $ci->db->query("SHOW COLUMNS FROM ".$table." LIKE '$field'")->row()->Type;  
+      $regex = "/'(.*?)'/";
+      preg_match_all( $regex , $row, $enum_array );
+      $enum_fields = $enum_array[1];
+      
+      foreach ($enum_fields as $key=>$value)
+      {
+          if ($all) {
+              $enums['all'] = 'All'; 
+              $enums[$value] = strtoupper($value); 
+          }else{
+              $enums[$value] = strtoupper($value); 
+          }
+      }
+      return $enums;
+  }
+}
+```
+> Merubah sebuah kolom mysql menjadi dropdown value
+
+```php
+// source: https://stackoverflow.com/a/15198925
+if (!function_exists('isJson')) {
+  function isJson($string)
+  {
+    // decode the JSON data
+    $result = json_decode($string);
+
+    // switch and check possible JSON errors
+    switch (json_last_error()) {
+        case JSON_ERROR_NONE:
+            $error = ''; // JSON is valid // No error has occurred
+            break;
+        case JSON_ERROR_DEPTH:
+            $error = 'The maximum stack depth has been exceeded.';
+            break;
+        case JSON_ERROR_STATE_MISMATCH:
+            $error = 'Invalid or malformed JSON.';
+            break;
+        case JSON_ERROR_CTRL_CHAR:
+            $error = 'Control character error, possibly incorrectly encoded.';
+            break;
+        case JSON_ERROR_SYNTAX:
+            $error = 'Syntax error, malformed JSON.';
+            break;
+        // PHP >= 5.3.3
+        case JSON_ERROR_UTF8:
+            $error = 'Malformed UTF-8 characters, possibly incorrectly encoded.';
+            break;
+        // PHP >= 5.5.0
+        case JSON_ERROR_RECURSION:
+            $error = 'One or more recursive references in the value to be encoded.';
+            break;
+        // PHP >= 5.5.0
+        case JSON_ERROR_INF_OR_NAN:
+            $error = 'One or more NAN or INF values in the value to be encoded.';
+            break;
+        case JSON_ERROR_UNSUPPORTED_TYPE:
+            $error = 'A value of a type that cannot be encoded was given.';
+            break;
+        default:
+            $error = 'Unknown JSON error occured.';
+            break;
+    }
+
+    if ($error !== '') {
+        // throw the Exception or exit // or whatever :)
+        return $error;
+    }
+
+    // everything is OK
+    return $result;
+  }
+}
+```
+> Mendeteksi Apakah Format json valid atau tidak
 
 # TODO masih ada Banyak ... staytune!
 
