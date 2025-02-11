@@ -21,12 +21,14 @@ Untuk aturan pembuatan helper silahkan liat dokumentasinya, untuk function yang 
 Lanjut ke scriptnya beserta manfaat singkatnya, untuk sumber *code* nyah gw sertakan juga ya sudah gw sertakan juga ya.
 
 <details>
-  <summary>Klik Untuk Detailnya</summary>
+  <summary>Klik Untuk List Helper</summary>
 
   1. Merandom Kode Acak
   2. dst..
 
 </details>
+
+<hr />
 
 ```php
 # source: https://gist.github.com/raveren/5555297
