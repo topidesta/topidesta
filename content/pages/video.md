@@ -72,8 +72,9 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 1. [React & Typescript Master Class](https://www.udemy.com/share/107YkK3@dNB4VyxvLpG4cyZb51PjGPVFHRvF30ja3tSuZ3MU-gvYifYxhtIK8G2FfY2L-_9V/) **Certificate Avaliable**
 2. [React Typescript with Jest Testing](https://www.udemy.com/share/104i6w3@dNPTIKRkf6Jh3mwvCKFSEFULuI5Dr-33dSB6DAA4KwaE4e4UsPyXCHQHBiOP1K1t/) **Certificate Avaliable**
 3. [Learn Typescript with Svelte](https://www.udemy.com/share/1054Ue3@tO_ujGvzgGdbAm2uA4zJlmNBx8NnnpA05L2eklCUVpLTsIBIbJ2oAkZFnq2mWy6Z/) **Certificate Avaliable**
-4. [NestJS Zero to Hero with Typscript](https://www.udemy.com/share/101Xti3@pKqea8Nkj9iQg5OQhTIQeumXYrwTtSbjlQi4ClcnEUYN679UOByZiEagh8UINEpW/) **Certificate Avaliable**
+4. [NestJS Zero to Hero with Typscript](https://www.udemy.com/share/101Xti3@pKqea8Nkj9iQg5OQhTIQeumXYrwTtSbjlQi4ClcnEUYN679UOByZiEagh8UINEpW/) **Certificate Avaliable** [WAJIB]
 5. [Typescript Basic](https://www.udemy.com/share/105yeG3@BAZJBvceug_ZO41VG5MbLIWGlK734ploSjFijNEP54QW-ixs08VFvSBww-BuKGpG/)
+6. [TypeScript for Beginners: Mastering TypeScript Fundamentals](https://www.udemy.com/share/109GKQ3@g7qfjkvGCxP5SIbz66hcLmdTMG7krGl9sEqyetowQGOYVQzUoGi7NYYk3xl7p0zy/) **Certificate Avaliable** [WAJIB]
 
 ### NextJS Class
 
