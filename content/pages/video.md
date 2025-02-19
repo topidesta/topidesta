@@ -30,6 +30,11 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 
 ## Udemy.com
 
+### Server ~ DevOps
+
+1. [NGINX MasterClass: NGINX Server & Custom Load Balancer](https://www.udemy.com/share/103U1A3@HFTYN-X_pPB6yr4mbORbya_TGGCkYwfyBlPe8F52GuDSbqsorz8f0tLyFcL7kd-q/)
+
+
 ### Javascript Class
 
 1. [Learn Javascript For Beginners](https://www.udemy.com/share/101WeoAEIbdVZbTXo=/) **Certificate Avaliable**
