@@ -21,107 +21,101 @@ Untuk aturan pembuatan helper silahkan liat dokumentasinya, untuk function yang 
 Lanjut ke scriptnya beserta manfaat singkatnya, untuk sumber *code* nyah gw sertakan juga ya sudah gw sertakan juga ya.
 
 <details>
-  <summary>Generate Random String</summary>
-```php
-
-    # source: https://gist.github.com/raveren/5555297
-    if ( !function_exists('random_text')) {
-    function random_text( $type = 'alnum', $length = 8 ) {
-        switch ( $type ) {
-        case 'alnum':
-        $pool = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
-        break;
-        case 'alpha':
-        $pool = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
-        break;
-        case 'hexdec':
-        $pool = '0123456789abcdef';
-        break;
-        case 'numeric':
-        $pool = '0123456789';
-        break;
-        case 'nozero':
-        $pool = '123456789';
-        break;
-        case 'distinct':
-        $pool = '2345679ACDEFHJKLMNPRSTUVWXYZ';
-        break;
-        default:
-        $pool = (string) $type;
-        break;
+    <summary>Generate Random String</summary>
+    <pre>
+        // source: https://gist.github.com/raveren/5555297
+        if ( !function_exists('random_text')) {
+            function random_text( $type = 'alnum', $length = 8 ) {
+                switch ( $type ) {
+                case 'alnum':
+                $pool = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
+                break;
+                case 'alpha':
+                $pool = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
+                break;
+                case 'hexdec':
+                $pool = '0123456789abcdef';
+                break;
+                case 'numeric':
+                $pool = '0123456789';
+                break;
+                case 'nozero':
+                $pool = '123456789';
+                break;
+                case 'distinct':
+                $pool = '2345679ACDEFHJKLMNPRSTUVWXYZ';
+                break;
+                default:
+                $pool = (string) $type;
+                break;
+            }
+            $crypto_rand_secure = function ( $min, $max ) {
+                $range = $max - $min;
+                if ( $range < 0 ) return $min; // not so random...
+                $log    = log( $range, 2 );
+                $bytes  = (int) ( $log / 8 ) + 1; // length in bytes
+                $bits   = (int) $log + 1; // length in bits
+                $filter = (int) ( 1 << $bits ) - 1; // set all lower bits to 1
+                do {
+                    $rnd = hexdec( bin2hex( openssl_random_pseudo_bytes( $bytes ) ) );
+                    $rnd = $rnd & $filter; // discard irrelevant bits
+                    } while ( $rnd >= $range );
+                    return $min + $rnd;
+                };
+                $token = "";
+                $max   = strlen( $pool );
+                for ( $i = 0; $i < $length; $i++ ) {
+                $token .= $pool[$crypto_rand_secure( 0, $max )];
+                }
+                return $token;
+            }
         }
-
-        $crypto_rand_secure = function ( $min, $max ) {
-        $range = $max - $min;
-        if ( $range < 0 ) return $min; // not so random...
-        $log    = log( $range, 2 );
-        $bytes  = (int) ( $log / 8 ) + 1; // length in bytes
-        $bits   = (int) $log + 1; // length in bits
-        $filter = (int) ( 1 << $bits ) - 1; // set all lower bits to 1
-        do {
-            $rnd = hexdec( bin2hex( openssl_random_pseudo_bytes( $bytes ) ) );
-        $rnd = $rnd & $filter; // discard irrelevant bits
-        } while ( $rnd >= $range );
-        return $min + $rnd;
-        };
-
-        $token = "";
-        $max   = strlen( $pool );
-        for ( $i = 0; $i < $length; $i++ ) {
-        $token .= $pool[$crypto_rand_secure( 0, $max )];
-        }
-        return $token;
-    }
-    }
-```
-> script diatas untuk melakukan generate string semacam uniq-id.
-
+    </pre>
 </details>
 
+<details>
+    <summary>Kalimat Salam</summary>
+    <pre>
+        // source: https://stackoverflow.com/a/46574723
+        if(!function_exists('ucapan_selamat')) {
+            function ucapan_selamat() {
+            $hour = date("G");
+            return ($hour >= 3 && $hour < 12) 
+                    ? "Selamat Pagi, " 
+                    : (($hour >= 12 && $hour < 17) ? "Selamat Siang, " : "Selamat Malam, ");
+            }
+        }
+    </pre>
+</details>
 
-```php
-# source: https://stackoverflow.com/a/46574723
-if(!function_exists('ucapan_selamat')) {
-	function ucapan_selamat() {
-    $hour = date("G");
-    return ($hour >= 3 && $hour < 12) 
-              ? "Selamat Pagi, " 
-              : (($hour >= 12 && $hour < 17) ? "Selamat Siang, " : "Selamat Malam, ");
-	}
-}
-```
-
-> Kalimat Salam yang berdasarkan waktu komputer client.
-
-
-```php
-# source: https://github.com/typesafer/codeigniter-enum-select-boxes
-if (!function_exists('dropdownKolom')) {
-  function dropdownKolom($table , $field, $all=false)
-  {
-      $ci = & get_instance();
-      $query = "SHOW COLUMNS FROM ".$table." LIKE '$field'";
-      $row = $ci->db->query("SHOW COLUMNS FROM ".$table." LIKE '$field'")->row()->Type;  
-      $regex = "/'(.*?)'/";
-      preg_match_all( $regex , $row, $enum_array );
-      $enum_fields = $enum_array[1];
-      
-      foreach ($enum_fields as $key=>$value)
-      {
-          if ($all) {
-              $enums['all'] = 'All'; 
-              $enums[$value] = strtoupper($value); 
-          }else{
-              $enums[$value] = strtoupper($value); 
-          }
-      }
-      return $enums;
-  }
-}
-```
-
-> script diatas untuk menampilkan value dalam bentuk dropdown  yang diambil dari table -> field (column) dengan type field **enum**
-
+<details>
+    <summary>Dropdown Field Tabel Kolom Field Enum</summary>
+    <pre>
+        // source: https://github.com/typesafer/codeigniter-enum-select-boxes
+        if (!function_exists('dropdownKolom')) {
+            function dropdownKolom($table , $field, $all=false)
+            {
+                $ci = & get_instance();
+                $query = "SHOW COLUMNS FROM ".$table." LIKE '$field'";
+                $row = $ci->db->query("SHOW COLUMNS FROM ".$table." LIKE '$field'")->row()->Type;  
+                $regex = "/'(.*?)'/";
+                preg_match_all( $regex , $row, $enum_array );
+                $enum_fields = $enum_array[1];
+                
+                foreach ($enum_fields as $key=>$value)
+                {
+                    if ($all) {
+                        $enums['all'] = 'All'; 
+                        $enums[$value] = strtoupper($value); 
+                    }else{
+                        $enums[$value] = strtoupper($value); 
+                    }
+                }
+                return $enums;
+            }
+        }
+    </pre>
+</details>
 
 ```php
 # source: https://stackoverflow.com/a/33919648
