@@ -237,6 +237,7 @@ Baik, akan gw simpulkan *tools* yang digunakan dalam menghadapi kerasanya keaama
 2. 7G Firewall by PerishablePress
 3. Shieldon PHP
 4. Captcha Login
+5. Create Symbolic For Assets (CSS and JS)
 
 Sekian informasi dan trick yang gw implentasikan di aplikasi klinik hazika.
 
