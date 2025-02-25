@@ -42,6 +42,7 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 3. [Javascript DOM dynamic WEB](https://www.udemy.com/share/101XiEAEIbdVZbTXo=/)
 4. [Build 10 Javascript Project](https://www.udemy.com/share/103znq2@PW1gV1pbSlEGek5EOEhn/) **Certificate Avaliable**
 5. [The Modern JS for Beginer](https://www.udemy.com/share/109Y4c3@OfVTWTyBeKvGAbbrTP7DFf5e8cfm-DkjqfVSC8FLsXWP2eaVDuruFvSkDSyMGc3O/)
+6. [Javascript 10 Projects in 10 days](https://www.udemy.com/share/10b1Wc3@cMvxCYfe0JmX92INgqr_TXAdHStUI-suV3skqcU19FmV3145FyRCXOU9TjlqRIZp/)
 
 
 ### React Class
