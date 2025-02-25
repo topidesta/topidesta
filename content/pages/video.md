@@ -73,6 +73,9 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 24. [Intro to React: Build Youtube App](https://www.udemy.com/share/1049fI2@PUdKfWJjc1QPc0JKC3pxVD1uYFRL/) **Certificate Avaliable**
 25. [React Native Made Easy](https://www.udemy.com/share/104MJ42@PkdgfVpbSlEGek5EO0hNVA==/) **Certificate Avaliable**
 26. [MERN Stack Blogging System in 2022](https://www.udemy.com/share/1057983@QdZm7GmMsTwxB6Uw5VJyZuHcERCF7oCFWMlLO5Y0_e5hxNq-bzKBEWjBk6uHwx1b/) **Certificate Avaliable**
+27. [React Native Unveiled: From Basics to Mobile Mastery](https://www.udemy.com/share/109FR63@KtYy-KbLtUS7wBtNptxlEV3O9ACokLBoU50x41Yc3tR8cHUKTjODrGTSGlj-cyiK/) **Certificate Avaliable**
+28. [Master React.js with AI: From Basics to Advanced Development](https://www.udemy.com/share/10bxFb3@XolmwzuW3MFZ_RldC6JWZbj2FIwmoczKOZkJUS4wndVNkNyaW0O5I8MlSRa2ihzF/)
+
 
 ### TypeScript Class
 
