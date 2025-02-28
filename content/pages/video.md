@@ -130,6 +130,7 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 3. [Wireshark Packet analysis and Ethical Hacking, Core Skills](https://www.udemy.com/share/102iuwAEIbdVZbTXo=/)
 4. [Pentest and Securing web application](https://www.udemy.com/share/103PlyAEIbdVZbTXo=/)
 5. [Bug Bounty: Web Application Penetration Testing](https://www.udemy.com/share/103X4mAEIbdVZbTXo=/)
+6. [JavaScript Security Essentials: Exploring the Attack Surface](https://www.udemy.com/share/10ceQv3@Iz_4hNQ6GeKZ1FleYIUtEw-w-lTBbzxnDwejML4hiD3LQ5UfVlHMZfvLjo4dmYh7/)
 
 
 ### RANDOM
