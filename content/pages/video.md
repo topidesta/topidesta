@@ -75,6 +75,7 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 26. [MERN Stack Blogging System in 2022](https://www.udemy.com/share/1057983@QdZm7GmMsTwxB6Uw5VJyZuHcERCF7oCFWMlLO5Y0_e5hxNq-bzKBEWjBk6uHwx1b/) **Certificate Avaliable**
 27. [React Native Unveiled: From Basics to Mobile Mastery](https://www.udemy.com/share/109FR63@KtYy-KbLtUS7wBtNptxlEV3O9ACokLBoU50x41Yc3tR8cHUKTjODrGTSGlj-cyiK/) **Certificate Avaliable**
 28. [Master React.js with AI: From Basics to Advanced Development](https://www.udemy.com/share/10bxFb3@XolmwzuW3MFZ_RldC6JWZbj2FIwmoczKOZkJUS4wndVNkNyaW0O5I8MlSRa2ihzF/)
+29. [React.js AI Chatbot built with ChatGPT, Gemini and DeepSeek](https://www.udemy.com/share/10cgAH3@FR7Gn0zJSlSUBoDYnWqJsgmLl5Mt0WXhal-7iND7hc2LUmCk6B8cQLuUI9zoUWUw/)
 
 
 ### TypeScript Class
@@ -121,7 +122,6 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 24. [Quiz App in C#](https://youtu.be/rfMIayISSW0?si=MeVmlU6mN0Ln2VuN)
 25. [Complete ASP.NET Core MVC 6: A Project guide 2024](https://www.udemy.com/share/106Lfo3@8dTeJO-RRlAUv5UZ5YKG7Wzppxr1XZW9D49nqSLA13LzbTitFM9SHldHlSNGkm-L/)
 26. [Mastering C# Learn Building Games, Application, Softwares](https://www.udemy.com/share/10cMFV3@RR-lAjYhw2Y_v824BBpp9zX7uyrlDLeiQbf3ji7C-siCylF49oRksG2jKHSIK2dF/)
-27. [React.js AI Chatbot built with ChatGPT, Gemini and DeepSeek](https://www.udemy.com/share/10cgAH3@FR7Gn0zJSlSUBoDYnWqJsgmLl5Mt0WXhal-7iND7hc2LUmCk6B8cQLuUI9zoUWUw/)
 
 ### Penetration Test/ Web Security
 
