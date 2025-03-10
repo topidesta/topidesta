@@ -66,17 +66,21 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 16. [React vs Angular vs Vue.js by Example](https://www.udemy.com/share/101t9AAEIbdVZbTXo=/) **Certificate Avaliable**
 17. Master React Native Animations
 18. [React Native Bootcamp - Build Instagram Clone with Firebase](https://www.udemy.com/share/103WbYAEIbdVZbTXo=/) **Certificate Avaliable**
-19. [React Native E-Commerce - Mern Stack](https://www.udemy.com/share/103VTmAEIbdVZbTXo=/) **Certificate Avaliable**
-20. [Build Fast React App using Design System](https://www.udemy.com/share/103YtmAEIbdVZbTXo=/)
-21. [All about NextJS](https://www.udemy.com/share/103ZhYAEIbdVZbTXo=/) **Certificate Avaliable**
-22. [ReactJS Build Real Apps on cloud](https://www.udemy.com/course/reactjs-for-beginners-build-real-world-react-apps-deploy-on-cloud/)
-23. [30 Days Code, Django Build a Resume Website](https://www.udemy.com/share/103QDAAEIbdVZbTXo=/)
-24. [Intro to React: Build Youtube App](https://www.udemy.com/share/1049fI2@PUdKfWJjc1QPc0JKC3pxVD1uYFRL/) **Certificate Avaliable**
-25. [React Native Made Easy](https://www.udemy.com/share/104MJ42@PkdgfVpbSlEGek5EO0hNVA==/) **Certificate Avaliable**
-26. [MERN Stack Blogging System in 2022](https://www.udemy.com/share/1057983@QdZm7GmMsTwxB6Uw5VJyZuHcERCF7oCFWMlLO5Y0_e5hxNq-bzKBEWjBk6uHwx1b/) **Certificate Avaliable**
-27. [React Native Unveiled: From Basics to Mobile Mastery](https://www.udemy.com/share/109FR63@KtYy-KbLtUS7wBtNptxlEV3O9ACokLBoU50x41Yc3tR8cHUKTjODrGTSGlj-cyiK/) **Certificate Avaliable**
-28. [Master React.js with AI: From Basics to Advanced Development](https://www.udemy.com/share/10bxFb3@XolmwzuW3MFZ_RldC6JWZbj2FIwmoczKOZkJUS4wndVNkNyaW0O5I8MlSRa2ihzF/)
-29. [React.js AI Chatbot built with ChatGPT, Gemini and DeepSeek](https://www.udemy.com/share/10cgAH3@FR7Gn0zJSlSUBoDYnWqJsgmLl5Mt0WXhal-7iND7hc2LUmCk6B8cQLuUI9zoUWUw/)
+19. [Build Fast React App using Design System](https://www.udemy.com/share/103YtmAEIbdVZbTXo=/)
+20. [All about NextJS](https://www.udemy.com/share/103ZhYAEIbdVZbTXo=/) **Certificate Avaliable**
+21. [ReactJS Build Real Apps on cloud](https://www.udemy.com/course/reactjs-for-beginners-build-real-world-react-apps-deploy-on-cloud/)
+22. [30 Days Code, Django Build a Resume Website](https://www.udemy.com/share/103QDAAEIbdVZbTXo=/)
+23. [Intro to React: Build Youtube App](https://www.udemy.com/share/1049fI2@PUdKfWJjc1QPc0JKC3pxVD1uYFRL/) **Certificate Avaliable**
+24. [React Native Made Easy](https://www.udemy.com/share/104MJ42@PkdgfVpbSlEGek5EO0hNVA==/) **Certificate Avaliable**
+25. [React Native Unveiled: From Basics to Mobile Mastery](https://www.udemy.com/share/109FR63@KtYy-KbLtUS7wBtNptxlEV3O9ACokLBoU50x41Yc3tR8cHUKTjODrGTSGlj-cyiK/) **Certificate Avaliable**
+26. [Master React.js with AI: From Basics to Advanced Development](https://www.udemy.com/share/10bxFb3@XolmwzuW3MFZ_RldC6JWZbj2FIwmoczKOZkJUS4wndVNkNyaW0O5I8MlSRa2ihzF/)
+27. [React.js AI Chatbot built with ChatGPT, Gemini and DeepSeek](https://www.udemy.com/share/10cgAH3@FR7Gn0zJSlSUBoDYnWqJsgmLl5Mt0WXhal-7iND7hc2LUmCk6B8cQLuUI9zoUWUw/)
+
+#### MERN Stack ~ ReactJS
+
+1. [React Native E-Commerce - Mern Stack](https://www.udemy.com/share/103VTmAEIbdVZbTXo=/) **Certificate Avaliable**
+2. [MERN Stack Blogging System in 2022](https://www.udemy.com/share/1057983@QdZm7GmMsTwxB6Uw5VJyZuHcERCF7oCFWMlLO5Y0_e5hxNq-bzKBEWjBk6uHwx1b/) **Certificate Avaliable**
+3. [Build a Fullstack E-commerce Store with the MERN Stack](https://www.udemy.com/share/10cTSH3@IUOEYfSLhEwkUxOf_39C_40NfpjLLLktFXpMJDV1WqipuKcvENEUdaAbuimPDXfQ/)
 
 
 ### TypeScript Class
@@ -132,6 +136,7 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 4. [Pentest and Securing web application](https://www.udemy.com/share/103PlyAEIbdVZbTXo=/)
 5. [Bug Bounty: Web Application Penetration Testing](https://www.udemy.com/share/103X4mAEIbdVZbTXo=/)
 6. [JavaScript Security Essentials: Exploring the Attack Surface](https://www.udemy.com/share/10ceQv3@Iz_4hNQ6GeKZ1FleYIUtEw-w-lTBbzxnDwejML4hiD3LQ5UfVlHMZfvLjo4dmYh7/)
+7. [The Complete Ethical Hacking Course: Kali Linux 2025 Edition](https://www.udemy.com/share/10cTSh3@NLk7LjEeW4HtTiUImTKkl7E5w4c3HGSYKol8davSlMB-Y76BwabYa2Zar8rTXwfY/)
 
 ### RANDOM
 
