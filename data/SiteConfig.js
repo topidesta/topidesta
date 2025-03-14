@@ -57,9 +57,9 @@ const config = {
   latestPostsWidgetTitle: "Posting Terbaru",
   linksWidgetTitle: "Links",
   // Use for Google custom search
-  searchWidgetTitle: "Looking for?",
+  searchWidgetTitle: "Google Search",
   searchWidgetPlaceHolder: "Enter keyword",
-  searchEngineID: "008548374781244864787:9ybvtnkbt7o",
+  searchEngineID: "001989067992894107395:bqxk4ijd5_s",
   hasSearch: true,
   // Use for links widget
   sidebarSticky: true,
