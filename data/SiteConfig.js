@@ -65,16 +65,24 @@ const config = {
   sidebarSticky: true,
   sidebarLinks: [
     {
-      label: 'GatsbyJS Template',
-      url: 'https://github.com/completejavascript/gatsby-blog-template',
+      label: 'RS Persahabatan',
+      url: 'https://rspersahabatan.co.id',
     },
     {
-      label: 'RSUP Persahabatan',
-      url: 'https://rsuppersahabatan.co.id/',
+      label: 'Klinik Halo Bayi',
+      url: 'https://halobayi.co.id',
+    },
+    {
+      label: 'RS Sari Asih',
+      url: 'https://sariasih.id',
     },
     {
       label: 'Tania Rascia',
-      url: 'https://www.taniarascia.com/',
+      url: 'https://www.taniarascia.com',
+    },
+    {
+      label: 'GatsbyJS Template',
+      url: 'https://github.com/completejavascript/gatsby-blog-template',
     },
     {
       label: 'M Desta Fadilah',
@@ -83,7 +91,7 @@ const config = {
   ],
   // Use for user info
   userName: "mdestafadilah", // Username to display in the author segment.
-  userEmail: "desta@rsuppersahabatan.co.id", // Email used for RSS feed"s author segment
+  userEmail: "desta@rspersahabatan.co.id", // Email used for RSS feed"s author segment
   userTwitter: "emang_dasar", // Optionally renders "Follow Me" in the UserInfo segment.
   userLocation: "Jakarta, Indonesia", // User location to display in the author segment.
   userAvatar:
@@ -114,7 +122,7 @@ const config = {
     },
     {
       label: 'Linkedin',
-      url: 'https://www.linkedin.com/in/much-d-fadilah/',
+      url: 'https://www.linkedin.com/in/mdestafadilah',
       iconClassName: 'fab linkedin-in',
     },
   ],
@@ -172,7 +180,7 @@ const config = {
     { label: 'Sitemap', url: 'https://topidesta.netlify.app/sitemap.xml' },
     { label: 'Lagu', url: '/lagu' },
   ],
-  copyright: 'Copyright © 2019 - 2022 Topidesta. MIT license.',
+  copyright: 'Copyright © 2019 - 2025 Topidesta. MIT license.',
   // Use for manifest
   themeColor: "#2196F3", // Used for setting manifest and progress theme colors.
   backgroundColor: "#FFF", // Used for setting manifest background color.
