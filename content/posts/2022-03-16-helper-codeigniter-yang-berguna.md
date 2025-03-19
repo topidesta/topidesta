@@ -669,4 +669,29 @@ Lanjut ke scriptnya beserta manfaat singkatnya, untuk sumber *code* nyah gw sert
     </pre>
 </details>
 
+<details>
+    <summary>PDF File Upload Base64 Sturucture</summary>
+    <pre>
+    public function uploadFileFromBlobString($base64string = '', $file_name = '', $folder = '')
+    {
+        // source: https://dev.to/rogeriotaques/uploading-pdf-files-as-base64-strings-in-php-and-saving-it-in-the-hard-disk-f7o
+        $file_path = "";
+        $result = 0;
+        // Convert blob (base64 string) back to PDF
+        if (!empty($base64string)) {
+            // Detects if there is base64 encoding header in the string.
+            // If so, it needs to be removed prior to saving the content to a phisical file.
+            if (strpos($base64string, ',') !== false) {
+                @list($encode, $base64string) = explode(',', $base64string);
+            }
+            $base64data = base64_decode($base64string, true);
+            $file_path  = "{$folder}/{$file_name}";
+            // Return the number of bytes saved, or false on failure
+            $result = file_put_contents("{$file_path}", $base64data);
+        }
+        return $result;
+    }
+    </pre>
+</details>
+
 # masih ada Banyak ... staytune!
