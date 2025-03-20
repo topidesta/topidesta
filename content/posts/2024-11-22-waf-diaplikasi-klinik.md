@@ -228,6 +228,13 @@ location /images/ {
 
 dan ubah hak akses foldernya `755` dan file `644`, dan akhirnya tidak ada lagi file aneh yang terupload di folder public.
 
+## Update Menggunakan aaWAF
+
+Aplikasi klinik Hazika sudah menggunakan aaWAF.
+
+> https://www.aapanel.com/forum/d/18725-aawaf-install-tutorial
+> https://www.aapanel.com/forum/d/18726-aawaf-usage-tutorial
+
 
 ## Kesimpulan
 
@@ -238,6 +245,7 @@ Baik, akan gw simpulkan *tools* yang digunakan dalam menghadapi kerasanya keaama
 3. Shieldon PHP
 4. Captcha Login
 5. Create Symbolic For Assets (CSS and JS)
+6. Use aaWAF
 
 Sekian informasi dan trick yang gw implentasikan di aplikasi klinik hazika.
 
