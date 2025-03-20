@@ -236,6 +236,10 @@ Aplikasi klinik Hazika sudah menggunakan aaWAF.
 > https://www.aapanel.com/forum/d/18726-aawaf-usage-tutorial
 
 
+## TODO: INSTALL MOD SECURITY DI AAPANEL
+> https://medium.com/@habibi05/implementasi-waf-modsecurity-dengan-nginx-7672faed9359
+
+
 ## Kesimpulan
 
 Baik, akan gw simpulkan *tools* yang digunakan dalam menghadapi kerasanya keaamanan dunia maya, terutama aplikasi berbasis web-base, diantaranya:
