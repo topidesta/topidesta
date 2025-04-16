@@ -21,3 +21,4 @@ TODO: UJICOBA 10 SCANNERS!
 
 Sumber:
 - https://cybersecuritynews.com/scan-linux-servers/
+- https://linuxcapable.com/how-to-install-chkrootkit-on-ubuntu-linux/
