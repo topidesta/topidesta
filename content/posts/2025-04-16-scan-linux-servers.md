@@ -15,7 +15,7 @@ tags:
 
 ## Bismillah
 
-Postingan pertama diawal tahun 2025 dan diawal Bulan Syawal 1446H, jadi sebelumnya gw udah pernah share beberapa trick configurasi server Aplikasi Klinik Halobayi (Hazika) di [postingan ini](waf-diaplikasi-klinik-hazika).
+Postingan pertama diawal tahun 2025 dan diawal Bulan Syawal 1446H, jadi sebelumnya gw udah pernah share beberapa trick configurasi server Aplikasi Klinik Halobayi (Hazika) di [postingan ini](/waf-diaplikasi-klinik-hazika).
 
 TODO: UJICOBA 10 SCANNERS!
 
