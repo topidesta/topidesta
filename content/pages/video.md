@@ -80,7 +80,6 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 
 1. [React Native E-Commerce - Mern Stack](https://www.udemy.com/share/103VTmAEIbdVZbTXo=/) **Certificate Avaliable**
 2. [MERN Stack Blogging System in 2022](https://www.udemy.com/share/1057983@QdZm7GmMsTwxB6Uw5VJyZuHcERCF7oCFWMlLO5Y0_e5hxNq-bzKBEWjBk6uHwx1b/) **Certificate Avaliable**
-3. [Build a Fullstack E-commerce Store with the MERN Stack](https://www.udemy.com/share/10cTSH3@IUOEYfSLhEwkUxOf_39C_40NfpjLLLktFXpMJDV1WqipuKcvENEUdaAbuimPDXfQ/)
 
 
 ### TypeScript Class
