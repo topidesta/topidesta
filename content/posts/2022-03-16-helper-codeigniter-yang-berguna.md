@@ -694,4 +694,29 @@ Lanjut ke scriptnya beserta manfaat singkatnya, untuk sumber *code* nyah gw sert
     </pre>
 </details>
 
+<details>
+    <summary>Enkripsi dan Deskripsi</summary>
+    <pre>
+        #source: http://3v4l.org/CArS9
+        if ( !function_exists('en_de')) {
+            function en_de($act, $string) {
+                $output = false;
+                $encrypt_method = "AES-256-CBC"; // method enkripsinya
+                // Salt key
+                $secret_key = 'NAMA-SECRET-RAHASIA-KUNCI';
+                $secret_iv = 'NAMA-SECRET-RAHASIA-IV';
+                // hash
+                $key = hash('sha256', $secret_key);
+                $iv = substr(hash('sha256', $secret_iv), 0, 16); // varchar(16) it's true?
+                // cek
+                if($act == 'enkripsi') { $output = openssl_encrypt($string, $encrypt_method, $key, 0, $iv); $output = base64_encode($output); }
+                elseif ($act == 'dekripsi') { $output = $output = openssl_decrypt(base64_decode($string), $encrypt_method, $key, 0, $iv); }
+                // return 
+                return $output;
+            }
+            // How to use: $text = "text enkripsi";  $rahasia = en_de('enkripsi', $text); or en_de('dekripsi', $rahasia); simple.
+        }
+    </pre>
+</details>
+
 # masih ada Banyak ... staytune!
