@@ -246,7 +246,7 @@ Baik, akan gw simpulkan *tools* yang digunakan dalam menghadapi kerasanya keaama
 
 1. Nginx Free Firewall with UA Filter
 2. 7G Firewall by PerishablePress
-3. Shieldon PHP
+3. ~~Shieldon PHP~~
 4. Captcha Login
 5. Create Symbolic For Assets (CSS and JS)
 6. Use aaWAF
