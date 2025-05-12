@@ -123,8 +123,8 @@ Ini beberapa trick Function mySQL yang digunakan di project yang gw kerjakan unt
     </pre>
 </details>
 
-### Source
 
+### Source
 1. https://www.youtube.com/watch?v=j73M7OIkEcY
 2. https://www.queryexamples.com/sql/mysql/create-a-function-calculate-power-of-a-number-in-mysql/
 3. https://stackoverflow.com/a/57856940
