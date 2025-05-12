@@ -123,6 +123,7 @@ Ini beberapa trick Function mySQL yang digunakan di project yang gw kerjakan unt
     </pre>
 </details>
 
+<hr >
 
 ### Source
 1. https://www.youtube.com/watch?v=j73M7OIkEcY
