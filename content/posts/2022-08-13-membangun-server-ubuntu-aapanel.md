@@ -206,6 +206,10 @@ atau
 ```bash
 $ ncdu -x /
 ```
+atau
+```bash
+$ sudo du -h --max-depth=1 /www | sort -hr
+```
 
 [Sumber Trick](https://askubuntu.com/questions/5444/how-to-find-out-how-much-disk-space-is-remaining)
 
