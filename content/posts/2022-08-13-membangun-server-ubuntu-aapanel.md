@@ -16,7 +16,7 @@ Bismillah ....
 
 Baru kesempatan nulis lagi, karena belakang ini load pembuatan modul sekaligus aplikasi (UTDRS/ Mini PMI) ditambah Setup Server untuk domain `persahabatan.co.id` yang digunakan untuk Staging Area Pengembangan Aplikasi Programmer lainnya dan berbagai kesibukan offline (bermain dengan anak dan istri, hehe) bikin lupa untuk nulis hal tekhnis hehe...
 
-Share kali ini gw mau bahas tentang Membangun server VPS untuk berbagai aplikasi, mulai dari PHP, NodeJS, Python hingga Golang. Mungkin bahasan yang sama di halaman ini juga, terutama mulai persiapan hingga siap digunakan. Sekedar informasi, sebelum menggunakan panel yang sekarang [aaPanel](https://www.aapanel.com/new/download.html) gw udah coba install [NasiHosting](https://github.com/kurniawandata/nasihosting.git) dan explorer beberapa panel namun, melihat support, akhirnya apanel pilihannya.
+Share kali ini gw mau bahas tentang Membangun server VPS untuk berbagai aplikasi, mulai dari PHP, NodeJS, Python hingga Golang. Mungkin bahasan yang sama di halaman ini juga, terutama mulai persiapan hingga siap digunakan. Sekedar informasi, sebelum menggunakan panel yang sekarang [aaPanel](https://www.aapanel.com?referral_code=FDoEEhxd) gw udah coba install [NasiHosting](https://github.com/kurniawandata/nasihosting.git) dan explorer beberapa panel namun, melihat support, akhirnya apanel pilihannya.
 
 Untuk Project jadi, ada dihalaman ini https://persahabatan.co.id/ dan https://dev.persahabatan.co.id/ untuk bahannya kurang lebih sebagai berikut:
 
@@ -94,7 +94,7 @@ bt status
 and done. semua bisa diakses.
 ## Implementasi di Server
 
-Saat ini implementasi diserver baru sebatas aplikasi PHP dan NodeJS, untuk Python dan Golang belum gw implementasi, mungkin yang Golang akan gw coba buat service, REST API sederhana ya, karena ada fiture Docker (versi demo yang terbatas), jadi gw bungkus pake Docker ajah. dan belum terimplentasi, dan .NET 6 core, sudah terinstall. :)
+Saat ini implementasi diserver baru sebatas aplikasi PHP dan NodeJS, untuk Python dan Golang belum gw implementasi, mungkin yang Golang akan gw coba buat service, REST API sederhana ya, karena ada fiture Docker (versi demo yang terbatas), jadi gw bungkus pake Docker ajah. dan belum terimplentasi, dan .NET 6 core, sudah terinstall.
 
 Untuk sekarang hanya berjalan aplikasi PHP (5,7,8) dan NodeJS (Api Whatsapp).
 
@@ -170,6 +170,15 @@ systemctl restart rspamd
 
 Isi sesuai dengan configurasi mail servernya ya.
 
+### Email SMPT Alternative
+
+> https://www.mailersend.com/pricing
+> https://www.smtp2go.com/pricing/
+> https://sendpulse.com/prices
+> https://www.brevo.com/pricing/
+> https://ahasend.com/pricing
+> https://www.mailjet.com/pricing/
+
 ## Test Jaringan
 
 ```bash
@@ -197,9 +206,67 @@ atau
 ```bash
 $ ncdu -x /
 ```
+atau
+```bash
+$ sudo du -h --max-depth=1 /www | sort -hr
+```
 
 [Sumber Trick](https://askubuntu.com/questions/5444/how-to-find-out-how-much-disk-space-is-remaining)
 
+## Gak bisa Login ke ssh
+
+![Failed ssh login](../images/ssh-failed-login.png)
+
+itu karena ssh keypair di portal biznet kita sudah ubah. langkah selanjutnya kita login dengan keypair baru.
+
+![Keypair baru](../images/biznetkoplak.png)
+
+```bash
+λ ssh-keygen -R 192.168.132.2
+```
+
+nanti konfirmasi keypair baru, seperti berikut:
+
+![login-ssh-berhasil](../images/login-ssh-berhasil.png)
+
+kalo udah tinggal login dengan file *.pem dari biznet.
+
+```bash
+λ ssh -i namafilecloud.pem username@ip_publik_biznet
+```
+
+![login](../images/ssh-berhasil.png)
+
+Jika sudah bisa login tinggal ubah deh Password, ikuti arahan berikut ini ya [[Rubah-root-password-server]](#3).
+
+Oh iya, jangan lupa copy id_rsa.pub ke terminal web base (terminal aapanel), seperti berikut:
+
+![terminal-aapanel](../images/terminal-aapanel.png)
+
+## ModSecurity Install
+
+<ul>
+<ol>https://www.youtube.com/watch?v=pNDH437ih6I</ol>
+<ol>https://www.youtube.com/watch?v=478ku0_2LvI</ol>
+</ul>
+
+## Ganti Password
+
+```bash
+root@UbuntuServer:~# sudo passwd root
+New password:
+Retype new password:
+passwd: password updated successfully
+root@UbuntuServer:~#
+```
+
+```bash
+root@UbuntuServer:~# passwd
+New Password:
+Retype new password:
+passwd: password updated successfully
+root@UbuntuServer:~#
+```
 
 ## Kesimpulan
 
@@ -207,6 +274,10 @@ Rasanya perlu juga ada kesimpulan? hehe.. baiklah, intinya **Belajar bukan tenta
 
 ### Reference
 
-<a id="1">[1] http://go.topidesta.my.id/belajar-niru</a>
+<ul>
+<ol><a id="1">[1] http://go.topidesta.my.id/belajar-niru</a></ol>
+<ol><a id="2">[2] http://go.topidesta.my.id/akses-ssh-biznet</a></ol>
+<ol><a id="3">[3] http://go.topidesta.my.id/root-instance-server</a></ol>
+</ul>
 
 Have a nice day!

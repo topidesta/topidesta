@@ -30,12 +30,20 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 
 ## Udemy.com
 
+### Server ~ DevOps
+
+1. [NGINX MasterClass: NGINX Server & Custom Load Balancer](https://www.udemy.com/share/103U1A3@HFTYN-X_pPB6yr4mbORbya_TGGCkYwfyBlPe8F52GuDSbqsorz8f0tLyFcL7kd-q/)
+
+
 ### Javascript Class
 
 1. [Learn Javascript For Beginners](https://www.udemy.com/share/101WeoAEIbdVZbTXo=/) **Certificate Avaliable**
 2. [The Complete Full-Stack JavaScript Course!](https://www.udemy.com/share/101rwKAEIbdVZbTXo=/)
 3. [Javascript DOM dynamic WEB](https://www.udemy.com/share/101XiEAEIbdVZbTXo=/)
 4. [Build 10 Javascript Project](https://www.udemy.com/share/103znq2@PW1gV1pbSlEGek5EOEhn/) **Certificate Avaliable**
+5. [The Modern JS for Beginer](https://www.udemy.com/share/109Y4c3@OfVTWTyBeKvGAbbrTP7DFf5e8cfm-DkjqfVSC8FLsXWP2eaVDuruFvSkDSyMGc3O/)
+6. [Javascript 10 Projects in 10 days](https://www.udemy.com/share/10b1Wc3@cMvxCYfe0JmX92INgqr_TXAdHStUI-suV3skqcU19FmV3145FyRCXOU9TjlqRIZp/)
+7. [JavaScript OOP: Mastering Modern Object-Oriented Programming](https://www.udemy.com/share/10aLci3@-xY8qubL_miNpSdufOFKn-h1ij8gObkKznLAfIZsUlTLejLBF7qWzy-gao4srxGD/)
 
 
 ### React Class
@@ -58,22 +66,30 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 16. [React vs Angular vs Vue.js by Example](https://www.udemy.com/share/101t9AAEIbdVZbTXo=/) **Certificate Avaliable**
 17. Master React Native Animations
 18. [React Native Bootcamp - Build Instagram Clone with Firebase](https://www.udemy.com/share/103WbYAEIbdVZbTXo=/) **Certificate Avaliable**
-19. [React Native E-Commerce - Mern Stack](https://www.udemy.com/share/103VTmAEIbdVZbTXo=/) **Certificate Avaliable**
-20. [Build Fast React App using Design System](https://www.udemy.com/share/103YtmAEIbdVZbTXo=/)
-21. [All about NextJS](https://www.udemy.com/share/103ZhYAEIbdVZbTXo=/) **Certificate Avaliable**
-22. [ReactJS Build Real Apps on cloud](https://www.udemy.com/course/reactjs-for-beginners-build-real-world-react-apps-deploy-on-cloud/)
-23. [30 Days Code, Django Build a Resume Website](https://www.udemy.com/share/103QDAAEIbdVZbTXo=/)
-24. [Intro to React: Build Youtube App](https://www.udemy.com/share/1049fI2@PUdKfWJjc1QPc0JKC3pxVD1uYFRL/) **Certificate Avaliable**
-25. [React Native Made Easy](https://www.udemy.com/share/104MJ42@PkdgfVpbSlEGek5EO0hNVA==/) **Certificate Avaliable**
-26. [MERN Stack Blogging System in 2022](https://www.udemy.com/share/1057983@QdZm7GmMsTwxB6Uw5VJyZuHcERCF7oCFWMlLO5Y0_e5hxNq-bzKBEWjBk6uHwx1b/) **Certificate Avaliable**
+19. [Build Fast React App using Design System](https://www.udemy.com/share/103YtmAEIbdVZbTXo=/)
+20. [All about NextJS](https://www.udemy.com/share/103ZhYAEIbdVZbTXo=/) **Certificate Avaliable**
+21. [ReactJS Build Real Apps on cloud](https://www.udemy.com/course/reactjs-for-beginners-build-real-world-react-apps-deploy-on-cloud/)
+22. [30 Days Code, Django Build a Resume Website](https://www.udemy.com/share/103QDAAEIbdVZbTXo=/)
+23. [Intro to React: Build Youtube App](https://www.udemy.com/share/1049fI2@PUdKfWJjc1QPc0JKC3pxVD1uYFRL/) **Certificate Avaliable**
+24. [React Native Made Easy](https://www.udemy.com/share/104MJ42@PkdgfVpbSlEGek5EO0hNVA==/) **Certificate Avaliable**
+25. [React Native Unveiled: From Basics to Mobile Mastery](https://www.udemy.com/share/109FR63@KtYy-KbLtUS7wBtNptxlEV3O9ACokLBoU50x41Yc3tR8cHUKTjODrGTSGlj-cyiK/) **Certificate Avaliable**
+26. [Master React.js with AI: From Basics to Advanced Development](https://www.udemy.com/share/10bxFb3@XolmwzuW3MFZ_RldC6JWZbj2FIwmoczKOZkJUS4wndVNkNyaW0O5I8MlSRa2ihzF/)
+27. [React.js AI Chatbot built with ChatGPT, Gemini and DeepSeek](https://www.udemy.com/share/10cgAH3@FR7Gn0zJSlSUBoDYnWqJsgmLl5Mt0WXhal-7iND7hc2LUmCk6B8cQLuUI9zoUWUw/)
+
+#### MERN Stack ~ ReactJS
+
+1. [React Native E-Commerce - Mern Stack](https://www.udemy.com/share/103VTmAEIbdVZbTXo=/) **Certificate Avaliable**
+2. [MERN Stack Blogging System in 2022](https://www.udemy.com/share/1057983@QdZm7GmMsTwxB6Uw5VJyZuHcERCF7oCFWMlLO5Y0_e5hxNq-bzKBEWjBk6uHwx1b/) **Certificate Avaliable**
+
 
 ### TypeScript Class
 
 1. [React & Typescript Master Class](https://www.udemy.com/share/107YkK3@dNB4VyxvLpG4cyZb51PjGPVFHRvF30ja3tSuZ3MU-gvYifYxhtIK8G2FfY2L-_9V/) **Certificate Avaliable**
 2. [React Typescript with Jest Testing](https://www.udemy.com/share/104i6w3@dNPTIKRkf6Jh3mwvCKFSEFULuI5Dr-33dSB6DAA4KwaE4e4UsPyXCHQHBiOP1K1t/) **Certificate Avaliable**
 3. [Learn Typescript with Svelte](https://www.udemy.com/share/1054Ue3@tO_ujGvzgGdbAm2uA4zJlmNBx8NnnpA05L2eklCUVpLTsIBIbJ2oAkZFnq2mWy6Z/) **Certificate Avaliable**
-4. [NestJS Zero to Hero with Typscript](https://www.udemy.com/share/101Xti3@pKqea8Nkj9iQg5OQhTIQeumXYrwTtSbjlQi4ClcnEUYN679UOByZiEagh8UINEpW/) **Certificate Avaliable**
+4. [NestJS Zero to Hero with Typscript](https://www.udemy.com/share/101Xti3@pKqea8Nkj9iQg5OQhTIQeumXYrwTtSbjlQi4ClcnEUYN679UOByZiEagh8UINEpW/) **Certificate Avaliable** [WAJIB]
 5. [Typescript Basic](https://www.udemy.com/share/105yeG3@BAZJBvceug_ZO41VG5MbLIWGlK734ploSjFijNEP54QW-ixs08VFvSBww-BuKGpG/)
+6. [TypeScript for Beginners: Mastering TypeScript Fundamentals](https://www.udemy.com/share/109GKQ3@g7qfjkvGCxP5SIbz66hcLmdTMG7krGl9sEqyetowQGOYVQzUoGi7NYYk3xl7p0zy/) **Certificate Avaliable** [WAJIB]
 
 ### NextJS Class
 
@@ -109,6 +125,7 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 23. [Web Scrapping with C#](https://youtu.be/B6I2VGB9LpM?si=_lF-7YFUqIvPJ9ao)
 24. [Quiz App in C#](https://youtu.be/rfMIayISSW0?si=MeVmlU6mN0Ln2VuN)
 25. [Complete ASP.NET Core MVC 6: A Project guide 2024](https://www.udemy.com/share/106Lfo3@8dTeJO-RRlAUv5UZ5YKG7Wzppxr1XZW9D49nqSLA13LzbTitFM9SHldHlSNGkm-L/)
+26. [Mastering C# Learn Building Games, Application, Softwares](https://www.udemy.com/share/10cMFV3@RR-lAjYhw2Y_v824BBpp9zX7uyrlDLeiQbf3ji7C-siCylF49oRksG2jKHSIK2dF/)
 
 ### Penetration Test/ Web Security
 
@@ -117,12 +134,15 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 3. [Wireshark Packet analysis and Ethical Hacking, Core Skills](https://www.udemy.com/share/102iuwAEIbdVZbTXo=/)
 4. [Pentest and Securing web application](https://www.udemy.com/share/103PlyAEIbdVZbTXo=/)
 5. [Bug Bounty: Web Application Penetration Testing](https://www.udemy.com/share/103X4mAEIbdVZbTXo=/)
-
+6. [JavaScript Security Essentials: Exploring the Attack Surface](https://www.udemy.com/share/10ceQv3@Iz_4hNQ6GeKZ1FleYIUtEw-w-lTBbzxnDwejML4hiD3LQ5UfVlHMZfvLjo4dmYh7/)
+7. [The Complete Ethical Hacking Course: Kali Linux 2025 Edition](https://www.udemy.com/share/10cTSh3@NLk7LjEeW4HtTiUImTKkl7E5w4c3HGSYKol8davSlMB-Y76BwabYa2Zar8rTXwfY/)
 
 ### RANDOM
 
 1. Create Authentication React and Laravel RESTFull API ✔️
 2. [Redis Database Tutorial](https://www.udemy.com/share/10508g3@tHqaLhT4qL9Y0u3DeiwAZgNNsC1jD8LNyxJnMq2OBxtk_nsnS5I1FmSDuryClBg_/)
+3. [Mastering Data Magic : Power BI + Tableau + SQL , Analytics](https://www.udemy.com/course/mastering-data-magic-power-bi-tableau-analytics/?couponCode=ST10MT30325G1)
+4. [Interview Success For Interviews](https://www.udemy.com/share/10bII33@pxMZv0ZFxAmqJV4AgaSmYuomGtrBnbveBgfcIF4qnt7Qfj4eOQ-PJsDEarTqr7W_/)
 
 ### MongoDB
 

@@ -5,6 +5,8 @@ description: 'Halaman untuk menampilkan Sourcecode/ Project'
 slug: 'projek'
 ---
 
+Bismillah, ini adalah halaman Latihan dari Tutorial yang Saya Ikuti. Semoga tidak menjadikan "Tutorial Hell".
+
 ## 🆄🅳🅴🅼🆈 atau 🅴🅶🅶🅷🅴🅰🅳
 
 > 👉 [Klik untuk Kloningan dari Udemy/ Egghead](/project-kloningan-dari-udemy-egghead)

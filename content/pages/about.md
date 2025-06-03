@@ -29,9 +29,11 @@ For now, I'm learning C# (.NET) and do some Project with ReactJS or NextJS Cycle
 
 ## Siapa si Muchamad Desta Fadilah?
 
-Baiklah, berdasarkan hasil Test Genetikal, personal genetik adalah saya termasuk kategori IE **Intuiting Extrovert** Tulen (Darah B).
+Baiklah, berdasarkan hasil Test Genetikal, personal genetik adalah saya termasuk kategori IE **Intuiting Extrovert** Tulen (Darah B) yang artinya, kreatif yang mengandalkan tenaga anaerobik (karena perutnya panjang) dengan tenaga meledak-ledak, memiliki jiwa perubahan, dan memiliki ciri merakit atau ide brilian yang datang dari langit untuk didaratkan ke bumi sesuai keadaan masyarakat atau selera pasar.
 
-TOBE CONTINUED...
+Meski begitu saya akan tetap melaksanakan matrix eisenhower seperti berikut,
+
+![matrix eisenhower](../images/gak-penting-yg-produktif.png)
 
 ---
 

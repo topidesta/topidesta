@@ -39,6 +39,7 @@ slug: 'buku'
 10. [Full Stack ReactJS - 2017](https://topidesta.files.wordpress.com/2020/08/fullstack-react-book-r36.pdf)
 11. [React Native Ekspress](http://www.reactnativeexpress.com/)
 12. [Using GatsbyJS and NetlifyCMS 2020](https://topidesta.files.wordpress.com/2021/07/using-gatsby-netlify-cms-jamstack.pdf)
+13. [PayLoad CMS](https://payloadcms.com/docs/admin/overview)
 
 
 ## React Tutorial

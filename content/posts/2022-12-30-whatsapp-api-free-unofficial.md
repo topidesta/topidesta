@@ -23,7 +23,7 @@ tapi tenang, diluar sana ada juga kok yang memanfaatkan API yang free alias Grat
 
 > https://web.whatsapp.com
 
-beberapa library yang terkenal seperti [baileys](https://github.com/adiwajshing/Baileys), [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js), [WWPConnect](https://github.com/wppconnect-team/wppconnect) dan Venom, yang menggunakan bahasa typescript/ javascript, ada juga yang menggunakan python atau golang loh, mantap kan ya.
+beberapa library yang terkenal seperti [Baileys](https://github.com/WhiskeySockets/Baileys), [Whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js), [WWPConnect](https://github.com/wppconnect-team/wppconnect) dan [Venom-BOT](https://github.com/orkestral/venom), yang menggunakan bahasa typescript/ javascript, ada juga yang menggunakan python atau golang loh, mantap kan ya.
 
 lanjut, karena lingkup kerja gw butuh hasil ketimbang proses, dan gw sendiri lebih familiar dengan javascript, akhirnya coba hunting deh API yang ready to production. liat aja di pojok kanan github library tersebut, **Used by** nah, dapat deh beberapa yang berhasil mengembangkan yang sudah ada API Rest. Tinggal test deh endpointnya dengan postman atau insomnia, kalo udah bisa, running deh diserver, ouh iya, kalo mau di onlinekan, sebisa mungkin gunakan domain ya, jangan pake IP Publik, karena nanti port nodejsnya terexpose.
 
@@ -46,16 +46,20 @@ Untuk server pernah gw bahas di postingan [membangun server dengan aapanel](/mem
 
 ## Bonus
 
-Ini bonus, service wa-unofficial yang gw pake di RS Persahabatan.
+Ini bonus, service wa-unofficial yang gw implementasi di RS Persahabatan.
 
 7. https://go.topidesta.my.id/v1
-8. https://go.topidesta.my.id/v2
-9. https://go.topidesta.my.id/v3
-10. https://go.topidesta.my.id/v4
-11. https://go.topidesta.my.id/v5
-12. https://go.topidesta.my.id/v6
-13. https://go.topidesta.my.id/v7
-
+8. https://go.topidesta.my.id/v1-2 ✔️
+9. https://go.topidesta.my.id/v2 ✔️
+10. https://go.topidesta.my.id/v3 ✔️
+11. https://go.topidesta.my.id/v4
+12. https://go.topidesta.my.id/v4-2 ✔️
+13. https://go.topidesta.my.id/v5
+14. https://go.topidesta.my.id/v6
+15. https://go.topidesta.my.id/v7
+16. https://go.topidesta.my.id/v8
+17. https://go.topidesta.my.id/v9
+18. https://go.topidesta.my.id/v10 ✔️
 
 Ada kelebihan ada kekurangan masing masing API Restfull Whatsapp, misalkan ada yang bisa kirim sticker ada yang bisa kirim ke group saja, ada yang gak bisa kirim ke group, dan lain sebagianya, tapi secara umum semuanya bisa **kirim ke nomor whatsapp perorangan**
 
@@ -63,10 +67,25 @@ Di group Petirs (Pengguna TI Rumah Sakit) pernah dibahas juga, tentang memanfaat
 
 [Chatbot by Petirs](https://github.com/topidesta/topidesta/raw/master/content/images/chat-bot-petirs.pdf)
 
+### Update Puppeter Dependency
+
+> https://stackoverflow.com/a/65497048
+
+```bash
+sudo apt-get install chromium-browser
+sudo apt-get install gconf-service libasound2 libatk1.0-0 libc6 libcairo2 libcups2 libdbus-1-3 libexpat1 libfontconfig1 libgcc1 libgconf-2-4 libgdk-pixbuf2.0-0 libglib2.0-0 libgtk-3-0 libnspr4 libpango-1.0-0 libpangocairo-1.0-0 libstdc++6 libx11-6 libx11-xcb1 libxcb1 libxcomposite1 libxcursor1 libxdamage1 libxext6 libxfixes3 libxi6 libxrandr2 libxrender1 libxss1 libxtst6 ca-certificates fonts-liberation libappindicator1 libnss3 lsb-release xdg-utils wget
+```
+
 ### PM2
 
 ```bash
+# Trick 1
 sudo pm2 start 'npm run start:prod' --name nama_aplikasi --cron-restart="0 */6 * * *" -- start --node-args="--max-old-space-size=4096" --max-memory-restart 4G
+```
+
+```bash
+# Trick 2
+sudo pm2 start 'npm run start' --name nama_aplikasi --cron-restart="0 */6 * * *" -- start --node-args="--max-old-space-size=4096" --max-memory-restart 4G --interpreter=/www/server/nodejs/v18.20.4
 ```
 
 ### USE NPM
@@ -77,16 +96,19 @@ npm cache clean --force
 npm install
 ```
 
-
 ## UPDATE
 
 Ternyata dispanyol udah ada yang mengembangkan chatbot secara mudah difahami, cek di sini:
 
-https://github.com/codigoencasa/bot-whatsapp
+https://github.com/codigoencasa/builderbot
 
 Kurang lebih akan muncul seperti ini
 
 ![Chat BOT](../images/chatbot.png)
+
+## SERVICE OFFERING
+
+Buat yang butuh configurasi server wa un-official bisa [kontak gw ya](https://api.whatsapp.com/send?phone=6283898973731&text=halo%20desta%20saya%20mau%20build%20server%20whatsapp).
 
 Done.
 
