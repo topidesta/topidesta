@@ -126,6 +126,8 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 24. [Quiz App in C#](https://youtu.be/rfMIayISSW0?si=MeVmlU6mN0Ln2VuN)
 25. [Complete ASP.NET Core MVC 6: A Project guide 2024](https://www.udemy.com/share/106Lfo3@8dTeJO-RRlAUv5UZ5YKG7Wzppxr1XZW9D49nqSLA13LzbTitFM9SHldHlSNGkm-L/)
 26. [Mastering C# Learn Building Games, Application, Softwares](https://www.udemy.com/share/10cMFV3@RR-lAjYhw2Y_v824BBpp9zX7uyrlDLeiQbf3ji7C-siCylF49oRksG2jKHSIK2dF/)
+27. [Fundamentals of Programming: Understanding C#](https://www.udemy.com/share/101uxq3@0ePKiVx_mQ9kuZ9gZGgtYI5KZEi-nqaoo0rsf3H_jgRqYvFCsHBGql7S5pa8ae3I/)
+28. [C# Automation Framework for Web Apps using Selenium, Appium, Sauce Labs, .NET](https://www.udemy.com/share/104Wr43@fcNHpR_QMfBEAx6nGIIZ8FdrXQSUhCwdD30b73J_KEheuFxvgMYHuYTBrFjaUIdI/)
 
 ### Penetration Test/ Web Security
 
