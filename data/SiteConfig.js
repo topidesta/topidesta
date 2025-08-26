@@ -133,6 +133,7 @@ const config = {
     { label: 'Projek', url: '/projek' },
     { label: 'Konsep ATM', url: '/konsep-belajar-atm-amati-tiru-modifikasi' },
     { label: 'Sertifikat', url: '/sertifikat' },
+    { lable: 'CV', url: 'https://www.self.so/muchamad-desta-fadilah'}
   ],
   // Use for footer
   socialLinks: [
