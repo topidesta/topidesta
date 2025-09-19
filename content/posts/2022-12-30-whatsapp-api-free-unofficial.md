@@ -37,29 +37,12 @@ Untuk server pernah gw bahas di postingan [membangun server dengan aapanel](/mem
 
 ## Freedom
 
-1. https://github.com/syifarahmat/baileys.api.server
-2. https://github.com/canove/whaticket-community
-3. https://github.com/salman0ansari/whatsapp-api-nodejs
-4. https://github.com/aamdsam/wa-chat-bot (Dari Group PETIRS Telegram)
-5. https://github.com/ngekoding/whatsapp-api-tutorial
-6. https://github.com/novaariyanto/Panel-WhatsApp-Gateway
-
-## Bonus
-
-Ini bonus, service wa-unofficial yang gw implementasi di RS Persahabatan.
-
-7. https://go.topidesta.my.id/v1
-8. https://go.topidesta.my.id/v1-2 ✔️
-9. https://go.topidesta.my.id/v2 ✔️
-10. https://go.topidesta.my.id/v3 ✔️
-11. https://go.topidesta.my.id/v4
-12. https://go.topidesta.my.id/v4-2 ✔️
-13. https://go.topidesta.my.id/v5
-14. https://go.topidesta.my.id/v6
-15. https://go.topidesta.my.id/v7
-16. https://go.topidesta.my.id/v8
-17. https://go.topidesta.my.id/v9
-18. https://go.topidesta.my.id/v10 ✔️
+1. https://github.com/hallobayi/baileys-api
+2. https://github.com/hallobayi/wppconnect-server
+3. https://github.com/hallobayi/wa-gateway
+4. https://github.com/hallobayi/wwebjs-api.git
+5. https://github.com/hallobayi/wuzapi
+6. https://github.com/hallobayi/go-whatsapp-multidevice-rest
 
 Ada kelebihan ada kekurangan masing masing API Restfull Whatsapp, misalkan ada yang bisa kirim sticker ada yang bisa kirim ke group saja, ada yang gak bisa kirim ke group, dan lain sebagianya, tapi secara umum semuanya bisa **kirim ke nomor whatsapp perorangan**
 
