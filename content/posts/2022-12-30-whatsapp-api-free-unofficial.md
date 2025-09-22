@@ -42,7 +42,7 @@ Untuk server pernah gw bahas di postingan [membangun server dengan aapanel](/mem
 3. https://github.com/hallobayi/wa-gateway
 4. https://github.com/hallobayi/wwebjs-api.git
 5. https://github.com/hallobayi/wuzapi
-6. https://github.com/hallobayi/go-whatsapp-multidevice-rest
+6. https://github.com/hallobayi/go-whatsapp-web-multidevice
 
 Ada kelebihan ada kekurangan masing masing API Restfull Whatsapp, misalkan ada yang bisa kirim sticker ada yang bisa kirim ke group saja, ada yang gak bisa kirim ke group, dan lain sebagianya, tapi secara umum semuanya bisa **kirim ke nomor whatsapp perorangan**
 
