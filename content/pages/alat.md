@@ -8,7 +8,7 @@ slug: 'alat'
 Berikut Ini Daftar Alat/ Perkakas yang dipake gw dalam pengembangan aplikasi ataupun belajar Teknologi Baru!, diantaranya:
 
 1. Lenovo Thinkpad [T440P](https://kutt.it/t440p)
-2. HP Probook [430-G8](https://kutt.it/430-g8)
+2. ~~HP Probook [430-G8](https://kutt.it/430-g8)~~ (Lenovo Thinkpad E14 Gen 7)[http://go.topidesta.my.id/thinkpad-e14-g7]
 3. ASUS ROG Strix GL 10 (PC Desktop)
 4. Window 10 (T440P or PROBOOK)
 5. [Chocolatey Management](https://kutt.it/chocolatey)
