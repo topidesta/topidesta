@@ -10,7 +10,7 @@ Berikut Ini Daftar Alat/ Perkakas yang dipake gw dalam pengembangan aplikasi ata
 1. Lenovo Thinkpad [T440P](https://kutt.it/t440p)
 2. ~~HP Probook [430-G8](https://kutt.it/430-g8)~~ [Lenovo Thinkpad E14 Gen 7](http://go.topidesta.my.id/thinkpad-e14-g7)
 3. ASUS ROG Strix GL 10 (PC Desktop)
-4. Window 10 (T440P or PROBOOK)
+4. Windows 10/ 11 (T440P or PROBOOK)
 5. [Chocolatey Management](https://kutt.it/chocolatey)
 6. [VSCodium ~ Versi Komunitas](https://kutt.it/vscodium)
 7. [VSCode ~ Versi Microsoft](http://go.topidesta.my.id/vscode)
@@ -27,7 +27,8 @@ Berikut Ini Daftar Alat/ Perkakas yang dipake gw dalam pengembangan aplikasi ata
 18. [PHP Fiddle](https://3v4l.org/)
 19. [C# Fiddle](https://dotnetfiddle.net/)
 20. [.NET Playground](https://sharplab.io/)
-21. Samsung Tab 9S FE
+21. [Cursor Editor](https://cursor.com)
+22. Hackintosh
 
 
 Semua bisa didapatkan GRATIS or Freetier .. hehe, kalo mau yang jamu bisa cari di [TORRENT SEARCH](https://kutt.it/bitcq) aja, terus login di web torrent downloader, [ZBIGZ](https://kutt.it/zbigz), [ByteBX](https://kutt.it/bytebx), atau [SeeDr](https://kutt.it/seedr), baru deh download, done.
