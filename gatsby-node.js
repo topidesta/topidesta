@@ -59,28 +59,26 @@ exports.createPages = async ({ graphql, actions }) => {
   );
   const blogPageTemplate = path.resolve("src/templates/blog-template.jsx");
 
-  const markdownQueryResult = await graphql(
-    `
-      {
-        allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
-          edges {
-            node {
-              fields {
-                slug
-              }
-              frontmatter {
-                template
-                title
-                tags
-                categories
-                date
-              }
+  const markdownQueryResult = await graphql(`
+    {
+      allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+        edges {
+          node {
+            fields {
+              slug
+            }
+            frontmatter {
+              template
+              title
+              tags
+              categories
+              date
             }
           }
         }
       }
-    `
-  );
+    }
+  `);
 
   if (markdownQueryResult.errors) {
     console.error(markdownQueryResult.errors);

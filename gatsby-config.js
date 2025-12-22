@@ -1,4 +1,5 @@
-const urljoin = require("url-join");
+const urlJoinModule = require("url-join");
+const urljoin = urlJoinModule.default || urlJoinModule;
 const config = require("./data/SiteConfig");
 
 module.exports = {
@@ -21,11 +22,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-umami`,
       options: {
-        websiteId: 'f7575e5a-1de2-4659-85e7-ed809914a6d5',
-        srcUrl: 'https://umami.dev.persahabatan.co.id/script.js',
+        websiteId: "f7575e5a-1de2-4659-85e7-ed809914a6d5",
+        srcUrl: "https://umami.dev.persahabatan.co.id/script.js",
         includeInDevelopment: false,
         autoTrack: true,
-        respectDoNotTrack: true
+        respectDoNotTrack: true,
       },
     },
     {
@@ -36,9 +37,9 @@ module.exports = {
             resolve: "gatsby-remark-embed-gist",
             options: {
               // Optional:
-    
+
               // the github handler whose gists are to be accessed
-              username: 'mdestafadilah',
+              username: "mdestafadilah",
 
               // a flag indicating whether the github default gist css should be included or not
               // default: true
@@ -51,11 +52,11 @@ module.exports = {
 
               // a string that represents the github default gist css url.
               // defaults: "https://github.githubassets.com/assets/gist-embed-b3b573358bfc66d89e1e95dbf8319c09.css"
-              gistCssUrlAddress: "<string>"
-            }
-          }
-        ]
-      }
+              gistCssUrlAddress: "<string>",
+            },
+          },
+        ],
+      },
     },
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-lodash",
@@ -88,11 +89,11 @@ module.exports = {
           {
             resolve: `gatsby-remark-images-medium-zoom`, // Important!
             options: {
-              background: '#fff',
+              background: "#fff",
               margin: 36,
               scrollOffset: 0,
-              includedSelector: 'gatsby-resp-image-image'
-            }
+              includedSelector: "gatsby-resp-image-image",
+            },
           },
           {
             resolve: "gatsby-remark-embed-video",
@@ -110,15 +111,6 @@ module.exports = {
           "gatsby-remark-copy-linked-files",
           "gatsby-remark-autolink-headers",
         ],
-      },
-    },
-    {
-      resolve: `gatsby-plugin-netlify`,
-    },
-    {
-      resolve: "gatsby-plugin-google-analytics",
-      options: {
-        trackingId: config.googleAnalyticsID,
       },
     },
     {
@@ -192,6 +184,7 @@ module.exports = {
       `,
         feeds: [
           {
+            title: config.siteRss,
             serialize(ctx) {
               const { rssMetadata } = ctx.query.site.siteMetadata;
               return ctx.query.allMarkdownRemark.edges.map((edge) => ({
