@@ -93,5 +93,10 @@
     "plugins": [
       "remark-preset-lint-recommended"
     ]
+  },
+  "overrides": {
+    "eslint": "$eslint",
+    "react": "$react",
+    "react-dom": "$react-dom"
   }
 }
