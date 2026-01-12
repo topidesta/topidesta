@@ -17,14 +17,14 @@ tags:
 
 Postingan kali ini mencoba 5 WAF Opensource yang ada dipasaran, yang akan diimplentasikan di Project Klinik Halobayi Indonesia, hanya akan digunakan 1 dari sekian banyak. :)
 
-1. aaWAF
-2. uuWAF
-3. bunkerWAF
-4. SafeLineWAF
+1. SafeLineWAF
+2. bunkerWAF
+3. aaWAF
+4. uuWAF
 5. WafW00F
 
 ## TODO!
 
-
 ## Source
+
 https://github.com/hallobayi#waf-site
