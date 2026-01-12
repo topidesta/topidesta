@@ -2,7 +2,7 @@
 template: "post"
 title: Coba Coba 5 WAF Opensource
 cover: "../images/waf.png"
-date: "2025-05-13:08:00Z"
+date: "2025-05-13T08:00:00Z"
 slug: "coba-coba-lima-waf-opensource"
 keywords: "waf, security"
 categories:
