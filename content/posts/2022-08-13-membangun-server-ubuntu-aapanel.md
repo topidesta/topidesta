@@ -268,6 +268,14 @@ passwd: password updated successfully
 root@UbuntuServer:~#
 ```
 
+## Cloud Panel by [[GeminiAI]](#4)
+
+```bash
+su - rspwa-v1
+cd /home/rspwa-v1/htdocs/v1.rspwa.net
+dploy init ghost
+```
+
 ## Kesimpulan
 
 Rasanya perlu juga ada kesimpulan? hehe.. baiklah, intinya **Belajar bukan tentang kompetisi, tapi disiplin diri untuk menghadapi berbagai tantangan [[1]](#1)**
@@ -278,6 +286,7 @@ Rasanya perlu juga ada kesimpulan? hehe.. baiklah, intinya **Belajar bukan tenta
 <ol><a id="1">[1] http://go.topidesta.my.id/belajar-niru</a></ol>
 <ol><a id="2">[2] http://go.topidesta.my.id/akses-ssh-biznet</a></ol>
 <ol><a id="3">[3] http://go.topidesta.my.id/root-instance-server</a></ol>
+<ol><a id="4">[4] https://gemini.google.com/share/1727f3164261</a></ol
 </ul>
 
 Have a nice day!
