@@ -14,6 +14,8 @@ const Sidebar = ({ tagList, categoryList, yearList, latestPostEdges, links }) =>
         config.sidebarSticky ? "height-full" : ""
       }`}
     >
+      {yearList && yearList.length > 0 && <WidgetYear yearList={yearList} />}
+
       <WidgetSearch />
 
       {latestPostEdges && (
@@ -23,8 +25,6 @@ const Sidebar = ({ tagList, categoryList, yearList, latestPostEdges, links }) =>
       {categoryList && <WidgetCategory categoryList={categoryList} />}
 
       {tagList && <WidgetTag tagList={tagList} />}
-
-      {yearList && yearList.length > 0 && <WidgetYear yearList={yearList} />}
 
       {links && (
         <div className="position-sticky top-zero">
