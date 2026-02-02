@@ -107,7 +107,10 @@ exports.createPages = async ({ graphql, actions }) => {
     }
 
     if (edge.node.frontmatter.date) {
-      const year = moment(edge.node.frontmatter.date).format("YYYY");
+      const year = moment(
+        edge.node.frontmatter.date,
+        siteConfig.dateFromFormat,
+      ).format("YYYY");
       yearSet.add(year);
     }
 
@@ -245,7 +248,10 @@ exports.createPages = async ({ graphql, actions }) => {
   // Create year page
   yearList.forEach((year) => {
     const yearPosts = postEdges.filter((edge) => {
-      const postYear = moment(edge.node.frontmatter.date).format("YYYY");
+      const postYear = moment(
+        edge.node.frontmatter.date,
+        siteConfig.dateFromFormat,
+      ).format("YYYY");
       return postYear === year;
     });
 
