@@ -13,7 +13,7 @@ module.exports = {
       description: config.siteDescription,
       image_url: `${urljoin(
         config.siteUrl,
-        config.pathPrefix
+        config.pathPrefix,
       )}/logos/logo-512x512.png`,
       copyright: config.copyright,
     },
@@ -50,9 +50,8 @@ module.exports = {
               // default: false
               gistCssPreload: true,
 
-              // a string that represents the github default gist css url.
+              // Using default GitHub gist CSS URL
               // defaults: "https://github.githubassets.com/assets/gist-embed-b3b573358bfc66d89e1e95dbf8319c09.css"
-              gistCssUrlAddress: "<string>",
             },
           },
         ],
