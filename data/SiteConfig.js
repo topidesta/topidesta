@@ -55,9 +55,9 @@ const config = {
   yearHeader: "Posting Tahun", // use in header of year-template page
   yearHasThumbnail: true,
   // Use for widget
+  yearWidgetTitle: "Arsip Tahun",
   categoryWidgetTitle: "Kategori",
   tagWidgetTitle: "Tags",
-  yearWidgetTitle: "Arsip Tahun",
   latestPostsWidgetTitle: "Posting Terbaru",
   linksWidgetTitle: "Links",
   // Use for Google custom search

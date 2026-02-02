@@ -17,6 +17,16 @@ class Index extends React.Component {
     const postList = getPostList(postEdges);
     const { tagList, categoryList } = getTagCategoryList(postList);
 
+    // Generate yearList from postList
+    const yearSet = new Set();
+    postList.forEach((post) => {
+      if (post.date) {
+        const year = new Date(post.date).getFullYear().toString();
+        yearSet.add(year);
+      }
+    });
+    const yearList = Array.from(yearSet).sort((a, b) => b - a);
+
     const content = (
       <>
         <PostListing
@@ -45,6 +55,7 @@ class Index extends React.Component {
       <Sidebar
         tagList={tagList}
         categoryList={categoryList}
+        yearList={yearList}
         links={config.sidebarLinks}
       />
     );

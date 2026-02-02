@@ -24,7 +24,7 @@ const Sidebar = ({ tagList, categoryList, yearList, latestPostEdges, links }) =>
 
       {tagList && <WidgetTag tagList={tagList} />}
 
-      {yearList && <WidgetYear yearList={yearList} />}
+      {yearList && yearList.length > 0 && <WidgetYear yearList={yearList} />}
 
       {links && (
         <div className="position-sticky top-zero">
