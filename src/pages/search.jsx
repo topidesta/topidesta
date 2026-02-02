@@ -12,7 +12,7 @@ class SearchPage extends Component {
   componentDidMount() {
     // Load Google Custom Search script
     const script = document.createElement("script");
-    script.src = "https://cse.google.com/cse.js?cx=" + config.searchEngineID;
+    script.src = `https://cse.google.com/cse.js?cx=${config.searchEngineID}`;
     script.async = true;
     document.body.appendChild(script);
   }
