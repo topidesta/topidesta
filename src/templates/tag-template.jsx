@@ -41,6 +41,7 @@ const TagTemplate = ({ data, pageContext }) => {
     <Sidebar
       tagList={tagList}
       categoryList={categoryList}
+      yearList={pageContext.yearList}
       latestPostEdges={latestPostEdges}
       links={config.sidebarLinks}
     />

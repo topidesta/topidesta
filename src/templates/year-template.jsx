@@ -7,17 +7,14 @@ import MainContainer from "../components/MainContainer/MainContainer";
 import Sidebar from "../components/Sidebar/Sidebar";
 import PostListing from "../components/PostListing/PostListing";
 import Pagination from "../components/Pagination/Pagination";
-import {
-  getPostList,
-  getCategoryPathWithoutTrailingSlash,
-} from "../utils/helpers";
+import { getPostList, getYearPathWithoutTrailingSlash } from "../utils/helpers";
 import config from "../../data/SiteConfig";
 
-const CategoryTemplate = ({ data, pageContext }) => {
+const YearTemplate = ({ data, pageContext }) => {
   const {
-    category,
-    categoryList,
+    year,
     tagList,
+    categoryList,
     latestPostEdges,
     currentPage,
     totalPages,
@@ -28,14 +25,14 @@ const CategoryTemplate = ({ data, pageContext }) => {
     <>
       <PostListing
         postList={postList}
-        hasThumbnail={config.categoryHasThumbnail}
+        hasThumbnail={config.yearHasThumbnail}
         hasLoadmore={false}
       />
       <Pagination
         extraClass="margin-top padding-top-half"
         currentPage={currentPage}
         totalPages={totalPages}
-        pathPrefix={getCategoryPathWithoutTrailingSlash(category)}
+        pathPrefix={getYearPathWithoutTrailingSlash(year)}
         pathPrefixPagination={config.pathPrefixPagination}
       />
     </>
@@ -52,29 +49,31 @@ const CategoryTemplate = ({ data, pageContext }) => {
 
   return (
     <Layout>
-      <div className="category-container">
+      <div className="year-container">
         <Helmet
-          title={`${config.categoryHeader} ${category} - ${config.siteTitle}`}
+          title={`${config.yearHeader} ${year} - ${config.siteTitle}`}
         />
-        <Header title={`${config.categoryHeader} ${category}`} />
+        <Header title={`${config.yearHeader} ${year}`} />
         <MainContainer content={content} sidebar={sidebar} />
       </div>
     </Layout>
   );
 };
 
-export default CategoryTemplate;
+export default YearTemplate;
 
 /* eslint no-undef: "off" */
 export const pageQuery = graphql`
-  query CategoryPage($category: String, $skip: Int!, $limit: Int!) {
+  query YearPage($yearStart: Date, $yearEnd: Date, $skip: Int!, $limit: Int!) {
     allMarkdownRemark(
       limit: $limit
       skip: $skip
-      sort: { frontmatter: { date: DESC } }
+      sort: { fields: { date: DESC } }
       filter: {
+        fields: {
+          date: { gte: $yearStart, lt: $yearEnd }
+        }
         frontmatter: {
-          categories: { in: [$category] }
           template: { eq: "post" }
         }
       }
@@ -91,6 +90,7 @@ export const pageQuery = graphql`
           frontmatter {
             title
             tags
+            categories
             cover {
               childImageSharp {
                 gatsbyImageData(width: 660, quality: 100, layout: CONSTRAINED)

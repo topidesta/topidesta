@@ -55,9 +55,10 @@ exports.createPages = async ({ graphql, actions }) => {
   const pagePageTemplate = path.resolve("src/templates/page-template.jsx");
   const tagPageTemplate = path.resolve("src/templates/tag-template.jsx");
   const categoryPageTemplate = path.resolve(
-    "src/templates/category-template.jsx"
+    "src/templates/category-template.jsx",
   );
   const blogPageTemplate = path.resolve("src/templates/blog-template.jsx");
+  const yearPageTemplate = path.resolve("src/templates/year-template.jsx");
 
   const markdownQueryResult = await graphql(`
     {
@@ -88,6 +89,7 @@ exports.createPages = async ({ graphql, actions }) => {
   // Filter data
   const tagSet = new Set();
   const categorySet = new Set();
+  const yearSet = new Set();
   const postEdges = [];
   const pageEdges = [];
 
@@ -104,6 +106,11 @@ exports.createPages = async ({ graphql, actions }) => {
       });
     }
 
+    if (edge.node.frontmatter.date) {
+      const year = moment(edge.node.frontmatter.date).format("YYYY");
+      yearSet.add(year);
+    }
+
     if (edge.node.frontmatter.template === "post") {
       postEdges.push(edge);
     }
@@ -113,9 +120,10 @@ exports.createPages = async ({ graphql, actions }) => {
     }
   });
 
-  // Create tagList, categoryList
+  // Create tagList, categoryList, yearList
   const tagList = Array.from(tagSet);
   const categoryList = Array.from(categorySet);
+  const yearList = Array.from(yearSet).sort((a, b) => b - a); // Sort descending
 
   // Get latest posts
   const latestPostEdges = [];
@@ -143,6 +151,7 @@ exports.createPages = async ({ graphql, actions }) => {
         prevslug: prevEdge.node.fields.slug,
         tagList,
         categoryList,
+        yearList,
         latestPostEdges,
       },
     });
@@ -157,6 +166,7 @@ exports.createPages = async ({ graphql, actions }) => {
         slug: edge.node.fields.slug,
         tagList,
         categoryList,
+        yearList,
         latestPostEdges,
       },
     });
@@ -181,13 +191,14 @@ exports.createPages = async ({ graphql, actions }) => {
         path: useSlash(
           i === 0
             ? `${basePath}`
-            : `${basePath}${pathPrefixPagination}/${i + 1}`
+            : `${basePath}${pathPrefixPagination}/${i + 1}`,
         ),
         component: tagPageTemplate,
         context: {
           tag,
           tagList,
           categoryList,
+          yearList,
           latestPostEdges,
           limit: postsPerPage,
           skip: i * postsPerPage,
@@ -213,18 +224,54 @@ exports.createPages = async ({ graphql, actions }) => {
         path: useSlash(
           i === 0
             ? `${basePath}`
-            : `${basePath}${pathPrefixPagination}/${i + 1}`
+            : `${basePath}${pathPrefixPagination}/${i + 1}`,
         ),
         component: categoryPageTemplate,
         context: {
           category,
           tagList,
           categoryList,
+          yearList,
           latestPostEdges,
           limit: postsPerPage,
           skip: i * postsPerPage,
           currentPage: i + 1,
           totalPages: numCategoryPages,
+        },
+      });
+    }
+  });
+
+  // Create year page
+  yearList.forEach((year) => {
+    const yearPosts = postEdges.filter((edge) => {
+      const postYear = moment(edge.node.frontmatter.date).format("YYYY");
+      return postYear === year;
+    });
+
+    const numYearPages = Math.ceil(yearPosts.length / postsPerPage);
+    const basePath = `${siteConfig.pathPrefixYear}/${year}`;
+
+    for (let i = 0; i < numYearPages; i++) {
+      createPage({
+        path: useSlash(
+          i === 0
+            ? `${basePath}`
+            : `${basePath}${pathPrefixPagination}/${i + 1}`,
+        ),
+        component: yearPageTemplate,
+        context: {
+          year,
+          yearStart: `${year}-01-01`,
+          yearEnd: `${parseInt(year) + 1}-01-01`,
+          tagList,
+          categoryList,
+          yearList,
+          latestPostEdges,
+          limit: postsPerPage,
+          skip: i * postsPerPage,
+          currentPage: i + 1,
+          totalPages: numYearPages,
         },
       });
     }
@@ -240,12 +287,13 @@ exports.createPages = async ({ graphql, actions }) => {
         path: useSlash(
           i === 0
             ? `${basePath}`
-            : `${basePath}${pathPrefixPagination}/${i + 1}`
+            : `${basePath}${pathPrefixPagination}/${i + 1}`,
         ),
         component: blogPageTemplate,
         context: {
           tagList,
           categoryList,
+          yearList,
           latestPostEdges,
           limit: postsPerPage,
           skip: i * postsPerPage,

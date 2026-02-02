@@ -26,6 +26,12 @@ export const getCategoryPath = (category) =>
 export const getCategoryPathWithoutTrailingSlash = (category) =>
   `${config.pathPrefixCategory}/${slugify(category)}`;
 
+export const getYearPath = (year) =>
+  useSlash(`${config.pathPrefixYear}/${year}`);
+
+export const getYearPathWithoutTrailingSlash = (year) =>
+  `${config.pathPrefixYear}/${year}`;
+
 export const getPostList = (postEdges) =>
   postEdges.map((postEdge) => ({
     path: useSlash(postEdge.node.fields.slug),
