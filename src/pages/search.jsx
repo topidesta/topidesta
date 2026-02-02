@@ -55,7 +55,7 @@ class SearchPage extends Component {
           minHeight: '400px'
         }}
       >
-        <div className="gcse-search"></div>
+        <div className="gcse-searchresults-only"></div>
       </div>
     );
 
