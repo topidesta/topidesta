@@ -10,6 +10,13 @@ import { graphql } from "gatsby";
 
 class SearchPage extends Component {
   componentDidMount() {
+    // Configure Google CSE to use full-width results, not overlay/popup
+    // and open links in same tab
+    window.__gcse = {
+      parsetags: 'onload',
+      linkTarget: '_self'
+    };
+
     // Load Google Custom Search script
     const script = document.createElement("script");
     script.src = `https://cse.google.com/cse.js?cx=${config.searchEngineID}`;
@@ -39,7 +46,15 @@ class SearchPage extends Component {
     const yearList = Array.from(yearSet).sort((a, b) => b - a);
 
     const content = (
-      <div className="search-results-container">
+      <div 
+        className="search-results-container"
+        style={{
+          backgroundColor: '#ffffff',
+          padding: '20px',
+          borderRadius: '4px',
+          minHeight: '400px'
+        }}
+      >
         <div className="gcse-search"></div>
       </div>
     );
