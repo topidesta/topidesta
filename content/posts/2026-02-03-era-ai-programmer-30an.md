@@ -14,4 +14,6 @@ tags:
 
 ## Bismillah
 
-## TODO: Masih Draft di otak gw.
+Kali ini gw mau cerita tentang manfaat AI buat gw, programmer yang udah kepala 3. Bersyukur bisa menikmati kemudahan dan merasakan manfaat dari AI sebagai Programmer. Hampir 10 tahun bergulat dengan Google dan DuckDuckGo untuk setiap permasalahan yang dihadapai saat mengembangkan sebuah sistem.
+
+# TODO: Lanjutin nanti... otak gw ngereset dl.
