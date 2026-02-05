@@ -291,4 +291,5 @@ Done ya,  Have a nice day!
 Sumber:
 1. https://www.cloudpanel.io/docs/v2/getting-started/
 2. https://www.bitdoze.com/cloudpanel-setup-dockge/
+3. https://youtu.be/BuoyvbDVBe0?si=9TjpFIPqZm3WkvZX
 
