@@ -21,7 +21,9 @@ Ini postingan pertama di tahun 2026. Semoga bisa konsisten untuk update blog ini
 Itulah yang didapat dari Penjelasan di Website CloudPanel. Sekarang gw akan bahas, apa yang gw manfaatin dari cloudpanel ini, karena sebelumnya pake aaPanel terlalu overkill menurut gw kalo cuman buat service whatsapp.
 Pada postingan sebelumnya gw pernah nulis tentang [configurasi server](/membangun-server-ubuntu-aapanel) dan [configurasi whatsapp](/un-official-whatsapp-api), silahkan dibaca karena disana secara detail gw jelaskan.
 
-Untuk Postingan kali ini gw akan bahas tentang install cloudpanel dan configurasi cloudpanel untuk service whatsapp, dengan memanfaatkan teknologi docker. Berikut Ini langkah yang harus dilakukan.
+Untuk Postingan kali ini gw akan bahas tentang install cloudpanel dan configurasi cloudpanel untuk service whatsapp, dengan memanfaatkan teknologi docker. Berikut Ini langkah yang harus dilakukan. Ini spek server yang gw pake.
+
+![spek-server](../images/spek-server.png)
 
 Untuk install cloudpanel bisa mengikuti tutorial di [website resminya](https://www.cloudpanel.io/docs/v2/installation/) 
 
