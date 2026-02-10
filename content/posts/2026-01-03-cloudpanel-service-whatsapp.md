@@ -44,11 +44,11 @@ Dah selesai ... untuk service whatsapp, gw pake 8 service yang opensource. Berik
 1. [Baileys-API](https://go.topidesta.my.id/v1)
 2. [WPP-Connect](https://go.topidesta.my.id/v2)
 3. [Wa-Gateway](https://go.topidesta.my.id/v3)
-4. [wwebjs-api](http://go.topidesta.my.id/v4-3)
-5. [Wuzz-API](http://go.topidesta.my.id/v4-4)
-6. [Evolution-API](http://go.topidesta.my.id/v6)
-7. [Go-Whatsapp-Device](http://go.topidesta.my.id/v6-3)
-8. [Chattery-API](http://go.topidesta.my.id/v7-3)
+4. [Wuzz-API](https://go.topidesta.my.id/v4-4)
+5. [wwebjs-api](https://go.topidesta.my.id/v4-3)
+6. [Evolution-API](https://go.topidesta.my.id/v6)
+7. [Go-Whatsapp-Device](https://go.topidesta.my.id/v6-3)
+8. [Chattery-API](https://go.topidesta.my.id/v7-3)
 
 Dari beberapa service diatas, gw cuman pake yang 3,4,7,8 yang berjalan di dockge-cloudpanel. Ups, ada bonus neh docker compose yang gw pake.
 
