@@ -69,20 +69,20 @@ const config = {
   sidebarSticky: true,
   sidebarLinks: [
     {
+      label: "Belajar Tajwid",
+      url: "https://www.tajwidedu.com/",
+    },
+    {
+      label: "Catat Keuangan",
+      url: "https://qonaah.luqni.my.id/",
+    },
+    {
       label: "RS Persahabatan",
       url: "https://rspersahabatan.co.id",
     },
     {
       label: "Klinik Halo Bayi",
       url: "https://halobayi.co.id",
-    },
-    {
-      label: "RS Sari Asih",
-      url: "https://sariasih.id",
-    },
-    {
-      label: "Tania Rascia",
-      url: "https://www.taniarascia.com",
     },
     {
       label: "GatsbyJS Template",
