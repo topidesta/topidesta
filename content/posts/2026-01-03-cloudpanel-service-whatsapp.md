@@ -16,7 +16,7 @@ tags:
 
 Ini postingan pertama di tahun 2026. Semoga bisa konsisten untuk update blog ini. hehe, aamiin.
 
->CloudPanel adalah panel kontrol hosting open-source yang ringan dan mudah digunakan. CloudPanel mendukung PHP, Node.js, Python, dan Ruby. CloudPanel juga mendukung MySQL, PostgreSQL, dan MongoDB. CloudPanel juga mendukung Redis, Memcached, dan RabbitMQ. CloudPanel juga mendukung Docker, Kubernetes, dan OpenShift. CloudPanel juga mendukung Let's Encrypt, Cloudflare, dan Google Cloud DNS. CloudPanel juga mendukung Fail2ban, ModSecurity, dan Nginx.
+> CloudPanel adalah panel kontrol hosting open-source yang ringan dan mudah digunakan. CloudPanel mendukung PHP, Node.js, Python, dan Ruby. CloudPanel juga mendukung MySQL, PostgreSQL, dan MongoDB. CloudPanel juga mendukung Redis, Memcached, dan RabbitMQ. CloudPanel juga mendukung Docker, Kubernetes, dan OpenShift. CloudPanel juga mendukung Let's Encrypt, Cloudflare, dan Google Cloud DNS. CloudPanel juga mendukung Fail2ban, ModSecurity, dan Nginx.
 
 Itulah yang didapat dari Penjelasan di Website CloudPanel. Sekarang gw akan bahas, apa yang gw manfaatin dari cloudpanel ini, karena sebelumnya pake aaPanel terlalu overkill menurut gw kalo cuman buat service whatsapp.
 Pada postingan sebelumnya gw pernah nulis tentang [configurasi server](/membangun-server-ubuntu-aapanel) dan [configurasi whatsapp](/un-official-whatsapp-api), silahkan dibaca karena disana secara detail gw jelaskan.
@@ -25,7 +25,7 @@ Untuk Postingan kali ini gw akan bahas tentang install cloudpanel dan configuras
 
 ![spek-server](../images/spek-server.png)
 
-Untuk install cloudpanel bisa mengikuti tutorial di [website resminya](https://www.cloudpanel.io/docs/v2/installation/) 
+Untuk install cloudpanel bisa mengikuti tutorial di [website resminya](https://www.cloudpanel.io/docs/v2/introduction/)
 
 ### Update Server Dahulu
 
@@ -39,16 +39,18 @@ Jika proses install berhasil, maka bisa dilanjut untuk install docker, kali ini 
 
 Untuk install dockge bisa mengikuti tutorial di [website resminya](https://github.com/louislam/dockge/blob/master/README.md)
 
+![dockge](../images/dockge.png)
+
 Dah selesai ... untuk service whatsapp, gw pake 8 service yang opensource. Berikut ini adalah service yang gw pake:
 
-1. [Baileys-API](https://go.topidesta.my.id/v1)
-2. [WPP-Connect](https://go.topidesta.my.id/v2)
-3. [Wa-Gateway](https://go.topidesta.my.id/v3)
-4. [Wuzz-API](https://go.topidesta.my.id/v4-4)
-5. [wwebjs-api](https://go.topidesta.my.id/v4-3)
-6. [Evolution-API](https://go.topidesta.my.id/v6)
-7. [Go-Whatsapp-Device](https://go.topidesta.my.id/v6-3)
-8. [Chattery-API](https://go.topidesta.my.id/v7-3)
+1. [Baileys-API](https://go.topidesta.my.id/v1) ❌
+2. [WPP-Connect](https://go.topidesta.my.id/v2) ❌
+3. [Wa-Gateway](https://go.topidesta.my.id/v3) ✅
+4. [Wuzz-API](https://go.topidesta.my.id/v4-4) ✅
+5. [wwebjs-api](https://go.topidesta.my.id/v4-3) ❌
+6. [Evolution-API](https://go.topidesta.my.id/v6) ❌
+7. [Go-Whatsapp-Device](https://go.topidesta.my.id/v6-3) ✅
+8. [Chattery-API](https://go.topidesta.my.id/v7-3) ✅
 
 Dari beberapa service diatas, gw cuman pake yang 3,4,7,8 yang berjalan di dockge-cloudpanel. Ups, ada bonus neh docker compose yang gw pake.
 
@@ -286,10 +288,10 @@ networks:
 
 Jangan lupa buat `.env` file juga ya. sesuaikan dengan object yang dibutuhkan.
 
-Done ya,  Have a nice day!
+Done ya, Have a nice day!
 
 Sumber:
+
 1. https://www.cloudpanel.io/docs/v2/getting-started/
 2. https://www.bitdoze.com/cloudpanel-setup-dockge/
 3. https://youtu.be/BuoyvbDVBe0?si=9TjpFIPqZm3WkvZX
-
