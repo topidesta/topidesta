@@ -44,7 +44,7 @@ Untuk install dockge bisa mengikuti tutorial di [website resminya](https://githu
 Dah selesai ... untuk service whatsapp, gw pake 8 service yang opensource. Berikut ini adalah service yang gw pake:
 
 1. [Baileys-API](https://go.topidesta.my.id/v1) ❌
-2. [WPP-Connect](https://go.topidesta.my.id/v2) ❌
+2. [WPP-Connect](https://go.topidesta.my.id/v2) ✅
 3. [Wa-Gateway](https://go.topidesta.my.id/v3) ✅
 4. [Wuzz-API](https://go.topidesta.my.id/v4-4) ✅
 5. [wwebjs-api](https://go.topidesta.my.id/v4-3) ❌
@@ -57,8 +57,27 @@ Dari beberapa service diatas, gw cuman pake yang 3,4,7,8 yang berjalan di dockge
 <details>
   <summary> 👇 Klik Detail</summary>
 
-```bash
-# docker-compose.yaml
+
+```yaml
+# compose.yaml
+services:
+  wppconnect:
+    container_name: wpp-server
+    restart: unless-stopped
+    build:
+      context: .
+    volumes:
+      - ./config.ts:/usr/src/wpp-server/config.ts
+      - ./wppconnect_tokens:/usr/src/wpp-server/tokens
+    ports:
+      - 5002:21465
+volumes:
+  wppconnect_tokens: {}
+networks: {}
+```
+
+```yaml
+# compose.yaml
 services:
   wa-gateway:
     container_name: wa-gateway
@@ -73,8 +92,8 @@ services:
       - KEY=changeyoursupersecretkey
 ```
 
-```bash
-# docker-compose.yaml
+```yaml
+# compose.yaml
 services:
   wuzapi-server:
     build:
@@ -157,8 +176,8 @@ volumes:
   rabbitmq_data: null
 ```
 
-```bash
-# docker-compose.yaml
+```yaml
+# compose.yaml
 services:
   evolution-api:
     image: evoapicloud/evolution-api:latest
@@ -227,9 +246,8 @@ volumes:
 networks: {}
 ```
 
-```bash
-# docker-compose.yaml
-version: "3.8"
+```yaml
+# compose.yaml
 services:
   chatery:
     build:
@@ -247,29 +265,43 @@ services:
       - DASHBOARD_PASSWORD=${DASHBOARD_PASSWORD:-admin123}
       - API_KEY=${API_KEY:-}
     volumes:
-      # Persist WhatsApp sessions
       - chatery_sessions:/app/sessions
-      # Persist received media files
       - chatery_media:/app/public/media
-      # Persist message store
       - chatery_store:/app/store
     healthcheck:
+      # Logika baru: Membuat file penanda waktu saat container jalan pertama kali
+      # Jika umur file > 172800 detik (48 jam), status jadi unhealthy -> autoheal restart
       test:
-        - CMD
-        - wget
-        - --no-verbose
-        - --tries=1
-        - --spider
-        - http://localhost:3000/
-      interval: 30s
-      timeout: 10s
-      retries: 3
-      start_period: 10s
+        - CMD-SHELL
+        - >
+          if [ ! -f /tmp/container_start ]; then touch /tmp/container_start; fi;
+          uptime_seconds=$$(($(date +%s) - $(date -r /tmp/container_start
+          +%s))); if [ "$$uptime_seconds" -gt 172800 ]; then 
+            echo "Restart period reached (48h)"; exit 1; 
+          fi; wget --no-verbose --tries=1 --spider http://localhost:3000/ || exit 1
+      interval: 60s # Cek setiap 1 menit
+      timeout: 10s # Batas waktu respon wget
+      retries: 3 # Gagal 3x baru dianggap Unhealthy
+      start_period: 60s # Memberi waktu 1 menit untuk loading WhatsApp sessions
+    labels:
+      - autoheal=true
     logging:
       driver: json-file
       options:
         max-size: 10m
         max-file: "3"
+    networks:
+      - chatery-network
+  autoheal:
+    image: willfarrell/autoheal:latest
+    container_name: autoheal
+    restart: always
+    environment:
+      - AUTOHEAL_CONTAINER_LABEL=autoheal
+      - AUTOHEAL_INTERVAL=60
+      - DOCKER_SOCK=/var/run/docker.sock
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
     networks:
       - chatery-network
 volumes:
