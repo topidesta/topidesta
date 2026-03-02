@@ -1,0 +1,111 @@
+backend:
+  name: git-gateway
+  branch: master
+
+# Lokasi upload gambar (relatif dari root project)
+media_folder: content/images
+
+# Path yang digunakan di dalam markdown/frontmatter
+public_folder: ../images
+
+# URL site live
+site_url: https://topidesta.my.id
+display_url: https://topidesta.my.id
+
+# Aktifkan editorial workflow (draft → review → published)
+publish_mode: editorial_workflow
+
+# Koleksi konten
+collections:
+  # ──────────────── POSTS ────────────────
+  - name: posts
+    label: Posts
+    label_singular: Post
+    folder: content/posts
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    extension: md
+    format: frontmatter
+    preview_path: "{{slug}}"
+    fields:
+      - label: Template
+        name: template
+        widget: hidden
+        default: post
+
+      - label: Judul
+        name: title
+        widget: string
+
+      - label: Slug (URL)
+        name: slug
+        widget: string
+        hint: "Tulis tanpa spasi, gunakan tanda hubung. Contoh: cara-install-nodejs"
+
+      - label: Tanggal Posting
+        name: date
+        widget: datetime
+        format: "YYYY-MM-DDTHH:mm:ssZ"
+        date_format: "YYYY-MM-DD"
+        time_format: "HH:mm"
+
+      - label: Cover Image
+        name: cover
+        widget: image
+        required: false
+        hint: "Gambar thumbnail artikel"
+
+      - label: Keywords
+        name: keywords
+        widget: string
+        required: false
+        hint: "Kata kunci SEO, pisahkan dengan koma"
+
+      - label: Kategori
+        name: categories
+        widget: list
+        required: false
+        hint: "Pisahkan dengan Enter untuk tiap kategori"
+
+      - label: Tags
+        name: tags
+        widget: list
+        required: false
+        hint: "Pisahkan dengan Enter untuk tiap tag"
+
+      - label: Konten
+        name: body
+        widget: markdown
+
+  # ──────────────── PAGES ────────────────
+  - name: pages
+    label: Pages
+    label_singular: Page
+    folder: content/pages
+    create: true
+    slug: "{{slug}}"
+    extension: md
+    format: frontmatter
+    fields:
+      - label: Template
+        name: template
+        widget: hidden
+        default: page
+
+      - label: Judul
+        name: title
+        widget: string
+
+      - label: Slug (URL)
+        name: slug
+        widget: string
+
+      - label: Tanggal
+        name: date
+        widget: datetime
+        format: "YYYY-MM-DDTHH:mm:ssZ"
+        required: false
+
+      - label: Konten
+        name: body
+        widget: markdown
