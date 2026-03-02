@@ -1,1 +1,124 @@
 /* Custom css */
+
+/* ===== DARK / LIGHT MODE VARIABLES ===== */
+:root {
+    --bg-color: #ffffff;
+    --text-color: #222222;
+    --text-secondary: rgba(0, 0, 0, 0.6);
+    --nav-bg: #ffffff;
+    --nav-shadow: inset 0 -1px 0 0 #fff, 0 1px 5px rgba(0, 0, 0, 0.1);
+    --card-bg: #ffffff;
+    --card-border: rgba(0, 0, 0, 0.1);
+    --code-bg: #f4f4f4;
+    --link-color: #4a4af4;
+    --footer-bg: #f9f9f9;
+    --footer-text: #555;
+    --input-bg: #fff;
+    --input-border: #e0e0e0;
+    --hr-color: #e0e0e0;
+    --tag-bg: #f0f0f0;
+    --tag-text: #444;
+}
+
+[data-theme="dark"] {
+    --bg-color: #1a1a2e;
+    --text-color: #e8e8f0;
+    --text-secondary: rgba(232, 232, 240, 0.65);
+    --nav-bg: #16213e;
+    --nav-shadow: inset 0 -1px 0 0 #0f3460, 0 1px 5px rgba(0, 0, 0, 0.4);
+    --card-bg: #16213e;
+    --card-border: rgba(255, 255, 255, 0.07);
+    --code-bg: #0f3460;
+    --link-color: #7f7fff;
+    --footer-bg: #16213e;
+    --footer-text: #aaa;
+    --input-bg: #16213e;
+    --input-border: #0f3460;
+    --hr-color: #0f3460;
+    --tag-bg: #0f3460;
+    --tag-text: #ccc;
+}
+
+/* ===== APPLY THEME ===== */
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Navigation */
+.navigation-container {
+    background-color: var(--nav-bg) !important;
+    box-shadow: var(--nav-shadow) !important;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+
+    .brand a,
+    .nav-links .item,
+    .navigation-dropdown .nav-links .item {
+        color: var(--text-secondary) !important;
+        transition: color 0.2s;
+
+        &:hover,
+        &.active {
+            color: var(--text-color) !important;
+        }
+    }
+
+    .brand a {
+        color: var(--text-color) !important;
+    }
+}
+
+/* Cards / main content areas */
+.card,
+[class*="card"],
+main,
+article,
+.post-listing,
+.post-wrapper,
+.sidebar {
+    background-color: var(--card-bg);
+    transition: background-color 0.3s ease;
+}
+
+/* Links */
+a {
+    color: var(--link-color);
+}
+
+/* Code blocks */
+code,
+pre {
+    background-color: var(--code-bg) !important;
+    color: var(--text-color) !important;
+}
+
+/* HR / separators */
+hr {
+    border-color: var(--hr-color);
+}
+
+/* Footer */
+.footer {
+    background-color: var(--footer-bg);
+    color: var(--footer-text);
+    transition: background-color 0.3s ease;
+
+    a {
+        color: var(--footer-text);
+    }
+}
+
+/* Tags */
+.tag,
+[class*="tag"] {
+    background-color: var(--tag-bg) !important;
+    color: var(--tag-text) !important;
+}
+
+/* Nav actions wrapper */
+.nav-actions {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+}
