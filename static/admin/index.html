@@ -9,8 +9,14 @@
 </head>
 
 <body>
-    <!-- Netlify Identity Widget untuk autentikasi -->
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <!-- Load Netlify Identity Widget hanya di production (bukan localhost) -->
+    <script>
+        if (window.location.hostname !== "localhost" && window.location.hostname !== "127.0.0.1") {
+            var script = document.createElement("script");
+            script.src = "https://identity.netlify.com/v1/netlify-identity-widget.js";
+            document.head.appendChild(script);
+        }
+    </script>
     <!-- DecapCMS -->
     <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
 </body>
