@@ -2,6 +2,10 @@ backend:
   name: git-gateway
   branch: master
 
+# Aktifkan local backend saat development (localhost)
+# Jalankan: npx decap-server di terminal terpisah
+local_backend: true
+
 # Lokasi upload gambar (relatif dari root project)
 media_folder: content/images
 
