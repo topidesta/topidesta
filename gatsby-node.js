@@ -50,7 +50,16 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
 };
 
 exports.createPages = async ({ graphql, actions }) => {
-  const { createPage } = actions;
+  const { createPage, createRedirect } = actions;
+
+  // Redirect /admin/ ke static DecapCMS admin page
+  createRedirect({
+    fromPath: "/admin/",
+    toPath: "/admin/index.html",
+    isPermanent: false,
+    redirectInBrowser: true,
+  });
+
   const postPageTemplate = path.resolve("src/templates/post-template.jsx");
   const pagePageTemplate = path.resolve("src/templates/page-template.jsx");
   const tagPageTemplate = path.resolve("src/templates/tag-template.jsx");
