@@ -32,4 +32,12 @@ Akhirnya selain buat aplikasi backend beberapa aplikasi internal termasuk blog t
 
 Jadi, buat gw yang berumur 36 Tahun ini, selama jadi Programmer, AI itu lumayan juga buat Assisten budak yang pintar ketika otak gw mau meledak ~ Burn Out ~, meskipun gw masih menggunakan Pencarian Normal di Forum forum atau duckduckgo.
 
+### UPDATE
+
+Barusan buka linkedin, dan nemu info ini.
+
+![ai-tech-structure](../images/ai-tech-structure.png)
+
+Ternyata kita bisa bikin perusahaan dimana AI sebagai karyawan kita yang bukan sebagai Pengambil keputusan.
+
 Have a nice day!
