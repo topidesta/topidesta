@@ -41,3 +41,7 @@ Barusan buka linkedin, dan nemu info ini.
 Ternyata kita bisa bikin perusahaan dimana AI sebagai karyawan kita yang bukan sebagai Pengambil keputusan.
 
 Have a nice day!
+
+Source
+
+1. https://www.linkedin.com/posts/activity-7423712953775902720-dGOk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAheWi0BIInoyxeMs_pYYJU9nfDkVe20DQI
