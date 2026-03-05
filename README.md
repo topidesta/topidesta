@@ -15,7 +15,7 @@ npm run develop # or gatsby develop
 
 Or you can fork the project, make your changes there and merge new features when needed.
 
-Alternatively:
+Alternatively ~ Original Project
 
 ```bash
 git clone https://github.com/completejavascript/gatsby-blog-template YourProjectName # Clone the project
