@@ -3,26 +3,30 @@ import React, { createContext, useContext, useState, useEffect } from "react";
 const ThemeContext = createContext();
 
 export const ThemeProvider = ({ children }) => {
-    const [darkMode, setDarkMode] = useState(() => {
-        if (typeof window !== "undefined") {
-            const saved = localStorage.getItem("darkMode");
-            if (saved !== null) return JSON.parse(saved);
-            return window.matchMedia("(prefers-color-scheme: dark)").matches;
+    const [darkMode, setDarkMode] = useState(false);
+    const [hasMounted, setHasMounted] = useState(false);
+
+    // Read saved theme only after mount to avoid hydration mismatch
+    useEffect(() => {
+        const saved = localStorage.getItem("darkMode");
+        if (saved !== null) {
+            setDarkMode(JSON.parse(saved));
+        } else {
+            setDarkMode(window.matchMedia("(prefers-color-scheme: dark)").matches);
         }
-        return false;
-    });
+        setHasMounted(true);
+    }, []);
 
     useEffect(() => {
-        if (typeof window !== "undefined") {
-            const root = document.documentElement;
-            if (darkMode) {
-                root.setAttribute("data-theme", "dark");
-            } else {
-                root.removeAttribute("data-theme");
-            }
-            localStorage.setItem("darkMode", JSON.stringify(darkMode));
+        if (!hasMounted) return;
+        const root = document.documentElement;
+        if (darkMode) {
+            root.setAttribute("data-theme", "dark");
+        } else {
+            root.removeAttribute("data-theme");
         }
-    }, [darkMode]);
+        localStorage.setItem("darkMode", JSON.stringify(darkMode));
+    }, [darkMode, hasMounted]);
 
     const toggleTheme = () => setDarkMode((prev) => !prev);
 
