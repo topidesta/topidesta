@@ -23,7 +23,7 @@ Pada postingan sebelumnya gw pernah nulis tentang [configurasi server](/membangu
 
 Untuk Postingan kali ini gw akan bahas tentang install cloudpanel dan configurasi cloudpanel untuk service whatsapp, dengan memanfaatkan teknologi docker. Berikut Ini langkah yang harus dilakukan. Ini spek server yang gw pake.
 
-![spek-server](../images/spek-server.png)
+![dashboard-cloudpanel](../images/dashboard-cloudpanel.png)
 
 Untuk install cloudpanel bisa mengikuti tutorial di [website resminya](https://www.cloudpanel.io/docs/v2/introduction/)
 
