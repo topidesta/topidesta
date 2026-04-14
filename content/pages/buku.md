@@ -5,6 +5,10 @@ description: 'Ini Adalah Halaman Daftar Ebook Tutorial!'
 slug: 'buku'
 ---
 
+## AI
+
+1. 
+
 ## JavaScript
 
 1. [Javascript bhs Indonesia](https://topidesta.files.wordpress.com/2015/10/javascript-_indonesia.pdf)
