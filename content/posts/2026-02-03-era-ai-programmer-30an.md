@@ -16,7 +16,9 @@ tags:
 
 Kali ini gw mau cerita tentang manfaat AI buat gw, programmer yang udah kepala 3. Bersyukur bisa menikmati kemudahan dan merasakan manfaat dari AI sebagai Programmer. Hampir 10 tahun bergulat dengan Google dan DuckDuckGo untuk setiap permasalahan yang dihadapai saat mengembangkan sebuah sistem.
 
-Jadi, bulan Desember kemaren gw sempet ngerjain project dibantu AI, sebetulnya kalo gak pake AI bisa jadi otak gw bisa meledak lagi. hehe, Selama 1 bulan gw buat Aplikasi Backend dan Admin Travel Vizitrip, kurang lebih tampilan seperti ini.
+Ok, Selain mempercepat pekerjaan, AI juga mempermudah gw buat update update aplikasi yang aman, karena kadang ketika update package, ada aja celah keamaanannya, dan AI bisa mendeteksi ituh. Termasuk blog topidesta ini, dibantu AI buat upgrade-upgrade package yang kadaluarsa yang ada celah celah keamaanan, dan penambahan feature tahun di sidebar sebelah kanan. 
+
+Kebetulan saat implementasi AI di pekerjaan itu saat project pembuatan Halaman Administrasi dan Service API untuk travel, di bulan Desember kemaren gw sempet ngerjain project dibantu AI, sebetulnya kalo gak pake AI bisa jadi otak gw bisa meledak lagi. hehe, Selama 1 bulan gw buat Aplikasi Backend dan Admin Travel Vizitrip, kurang lebih tampilan seperti ini.
 
 ![dashboard](../images/dashboard-vizitrip.png)
 
