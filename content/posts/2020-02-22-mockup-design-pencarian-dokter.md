@@ -1,10 +1,10 @@
 ---
-template: 'post'
+template: "post"
 title: Mockup Design Aplikasi Pencarian Dokter
-cover: '../images/react-native-persahabatan.png'
-date: '2020-02-22T13:40:00Z'
-slug: 'mockup-design-aplikasi-pencarian-dokter'
-keywords: 'Mockup Design Aplikasi Pencarian Dokter'
+cover: "../images/react-native-persahabatan.png"
+date: "2020-02-22T13:40:00Z"
+slug: "mockup-design-aplikasi-pencarian-dokter"
+keywords: "Mockup Design Aplikasi Pencarian Dokter"
 categories:
   - belajar
 tags:
@@ -16,7 +16,7 @@ tags:
 
 ## bismillah
 
-Langsung aja ini adalah mockup atau design dari aplikasi yang akan gw kembangkan, yang sudah running dihalaman [ini](https://rsuppersahabatan.co.id/dokter) cuman kurang puas getu, dari sisi `frontend` ataupun `backend` ya, karena dikembangkan dengan butuh cepet, alhasil gw kembangkan sesuai template yang sudah dibeli.
+Langsung aja ini adalah mockup atau design dari aplikasi yang akan gw kembangkan, yang sudah running dihalaman [ini](https://rspersahabatan.co.id/dokter) cuman kurang puas getu, dari sisi `frontend` ataupun `backend` ya, karena dikembangkan dengan butuh cepet, alhasil gw kembangkan sesuai template yang sudah dibeli.
 
 Dipostingan lainnya akan gw jelaskan juga dari sisi backend API/ REST data dari aplikasi PRIMA, karena yang sekarang belum bisa sharing api/ rest, kudu pake password dan username basic, next implementasi JWT sebagai authnyah dari sisi backend.
 

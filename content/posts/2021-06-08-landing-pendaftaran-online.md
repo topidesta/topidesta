@@ -1,10 +1,10 @@
 ---
-template: 'post'
+template: "post"
 title: Landing Page Pendaftaran Online
-cover: '../images/react-persahabatan.png'
-date: '2021-06-08T20:00:00Z'
-slug: 'landing-page-pendaftaran-online'
-keywords: 'Landing Page Pendaftaran Online'
+cover: "../images/react-persahabatan.png"
+date: "2021-06-08T20:00:00Z"
+slug: "landing-page-pendaftaran-online"
+keywords: "Landing Page Pendaftaran Online"
 categories:
   - belajar
 tags:
@@ -20,7 +20,7 @@ Sekedar mau share hasil [ATM (Amati-Tiru-Modifikasi)](projek) yang diadaptasi da
 
 ![Landing Pendaftaran](../images/landingpendaftaran.png)
 
-> Untuk review dari Google Speed, ini untuk landing-page versi Pertama: [48](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.rsuppersahabatan.co.id%2Fpendaftaran)
+> Untuk review dari Google Speed, ini untuk landing-page versi Pertama: [48](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.rspersahabatan.co.id%2Fpendaftaran)
 
 ![Landing Pendaftaran Pertama](../images/landingpage-pertama.png)
 

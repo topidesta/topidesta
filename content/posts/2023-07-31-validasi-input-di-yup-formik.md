@@ -14,10 +14,9 @@ tags:
   - mui
 ---
 
-
 ## Bismillah
 
-Kali ini share trick validasi kolom yang terikat dengan kolom lain dengan Formik+Yup+MUI, langsung ke kasusnya aja ya, di halaman [survey keluhan](https://keluhan.survey.rsuppersahabatan.co.id) disana ada 1 kolom yang boleh kosong, sebut saja kolom B, kalo kolom A dipilih `tidak` , begitu juga sebaliknya kalo kolom A dipilih `ya` maka wajib diisi.
+Kali ini share trick validasi kolom yang terikat dengan kolom lain dengan Formik+Yup+MUI, langsung ke kasusnya aja ya, di halaman [survey keluhan](https://keluhan.survey.rspersahabatan.co.id) disana ada 1 kolom yang boleh kosong, sebut saja kolom B, kalo kolom A dipilih `tidak` , begitu juga sebaliknya kalo kolom A dipilih `ya` maka wajib diisi.
 
 silahkan lihat vidio singkatnya berikut:
 

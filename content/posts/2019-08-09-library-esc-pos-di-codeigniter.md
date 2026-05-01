@@ -5,12 +5,12 @@ cover: "../images/esc.png"
 date: "2019-08-08T08:00:00Z"
 slug: "library-esc-post-dicodeigniter-server-side-printing"
 keywords: "Library ESC Post Codeigniter Server Side Printing"
-categories: 
-    - trick
+categories:
+  - trick
 tags:
-    - codeigniter
-    - printer
-    - php
+  - codeigniter
+  - printer
+  - php
 ---
 
 ## Bismillah...
@@ -41,16 +41,17 @@ Terus, karena ngoding langsung pake RAW-TEXT dari printer ribet, contoh RAW-TEXT
 ^XZ
 ```
 
-
 Nah, karena yang dipake itu dari EPSON, akhirnya searching eh dapet deh di Github yang senang hati berbagi ini linknya:
+
 <blockquote>[https://github.com/mike42/escpos-php/tree/master](https://github.com/mike42/escpos-php/tree/master)</blockquote>
 Ternyata TM-U220 didukung sama libarary ini, yaudah oprek deh, cara gunanya gampang banget, karena udah pake bootstrap auotloader, jadi yah tinggal load sebagai library ... selebihnya bisa dicek di repo gw:
-<blockquote>[https://github.com/rsuppersahabatan/ESC-POS](https://github.com/rsuppersahabatan/ESC-POS)</blockquote>
+<blockquote>[https://github.com/rspersahabatan/ESC-POS](https://github.com/rspersahabatan/ESC-POS)</blockquote>
 Gw Kagak fork, soalnya gw pake manual download dan upload file git nyah .... hehehe.
 
 Have a nice day!
 
 source:
+
 <ol>
  	<li>https://github.com/mike42/escpos-php/tree/master</li>
  	<li>https://github.com/RSUP/ESC-POS</li>

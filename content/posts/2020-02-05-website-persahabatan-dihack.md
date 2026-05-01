@@ -1,10 +1,10 @@
 ---
-template: 'post'
+template: "post"
 title: Website Persahabatan diHack
-cover: '../images/hekel.png'
-date: '2020-02-05T08:40:00Z'
-slug: 'website-persahabatan-di-hack'
-keywords: 'Website Persahabatan di Hack Oleh pengangguran'
+cover: "../images/hekel.png"
+date: "2020-02-05T08:40:00Z"
+slug: "website-persahabatan-di-hack"
+keywords: "Website Persahabatan di Hack Oleh pengangguran"
 categories:
   - relax
 tags:
@@ -29,7 +29,7 @@ Kurang lebih ini filenya:
 ![hekel2](../images/hekel2.png)
 ![hekel1](../images/hekel3.png)
 
-Setelah dianalisa, ternyata folder `files` rwxrwxrwx ... OMG ... haha. dannn.... kelemahan dari KCFinder. :( 
+Setelah dianalisa, ternyata folder `files` rwxrwxrwx ... OMG ... haha. dannn.... kelemahan dari KCFinder. :(
 
 Nama Hackernya yang keren dan Ganteng.
 
@@ -57,7 +57,7 @@ Untuk sekarang fungsi upload via cms di non-aktifkan. setiap yang mau isi conten
 Untuk yang mau file hacker yang terupload bisa cek di github ya:
 
 ```bash
-https://github.com/rsuppersahabatan/hacker.git
+https://github.com/rspersahabatan/hacker.git
 ```
 
 Everything is done!

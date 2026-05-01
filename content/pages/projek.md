@@ -42,7 +42,7 @@ Bismillah, ini adalah halaman Latihan dari Tutorial yang Saya Ikuti. Semoga tida
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------: | :------------------------------------------: |
 |                                                                GravCMS, Github, CloudFlare                                                                | ⚙️ DEV ⚙️  | [link](https://grav.rspersahabatan.co.id/id) |
 | <td colspan="3"><fieldset><legend>Website RSUP Persahabatan V3</legend>![Website RSUP Persahabatan V3](../images/web-persahabatan-v3.png)</fieldset></td> |
-|                                                                  Codeigniter, CanvasCMS                                                                   | 🚀 LIVE 🚀 |    [link](https://rsuppersahabatan.co.id)    |
+|                                                                  Codeigniter, CanvasCMS                                                                   | 🚀 LIVE 🚀 |     [link](https://rspersahabatan.co.id)     |
 
 </details>
 
@@ -66,9 +66,9 @@ Bismillah, ini adalah halaman Latihan dari Tutorial yang Saya Ikuti. Semoga tida
 <details>
   <summary> 👇 Klik Detail</summary>
 
-|                                                                    Stack                                                                     |   Status   |                     Akses                      |
-| :------------------------------------------------------------------------------------------------------------------------------------------: | :--------: | :--------------------------------------------: |
-|                                                   ReactJS, Bootstrap, ReduxJS, Codeigniter                                                   | 🚀 LIVE 🚀 | [link](https://dokter.rsuppersahabatan.co.id/) |
+|                                                                    Stack                                                                     |   Status   |                    Akses                     |
+| :------------------------------------------------------------------------------------------------------------------------------------------: | :--------: | :------------------------------------------: |
+|                                                   ReactJS, Bootstrap, ReduxJS, Codeigniter                                                   | 🚀 LIVE 🚀 | [link](https://dokter.rspersahabatan.co.id/) |
 | <td colspan="3"><fieldset><legend>Pencarian Dokter Per Spesialis</legend>![Pencarian Dokter](../images/pencarian-dokter.png)</fieldset></td> |
 |        <td colspan="3"><fieldset><legend>Detail Dokter</legend>![Pencarian Dokter](../images/pencarian-dokter-2.png)</fieldset></td>         |
 
@@ -81,9 +81,9 @@ Bismillah, ini adalah halaman Latihan dari Tutorial yang Saya Ikuti. Semoga tida
 <details>
   <summary> 👇 Klik Detail</summary>
 
-|                 Stack                  |  Status   |                     Akses                     |
-| :------------------------------------: | :-------: | :-------------------------------------------: |
-| ReactJS, Codeigniter 4, API WA, Golang | ⚙️ DEV ⚙️ | [link](https://surat.rsuppersahabatan.co.id/) |
+|                 Stack                  |  Status   |                    Akses                    |
+| :------------------------------------: | :-------: | :-----------------------------------------: |
+| ReactJS, Codeigniter 4, API WA, Golang | ⚙️ DEV ⚙️ | [link](https://surat.rspersahabatan.co.id/) |
 
 </details>
 
@@ -96,7 +96,7 @@ Bismillah, ini adalah halaman Latihan dari Tutorial yang Saya Ikuti. Semoga tida
 
 |     Stack     |   Status   |                       Akses                       |
 | :-----------: | :--------: | :-----------------------------------------------: |
-| Codeigniter 3 | 🚀 LIVE 🚀 |   [link 1](https://rsuppersahabatan.co.id/apis)   |
+| Codeigniter 3 | 🚀 LIVE 🚀 |    [link 1](https://rspersahabatan.co.id/apis)    |
 | Codeigniter 3 | ⚙️ DEV ⚙️  | [link 3](https://dev.ci3.api.persahabatan.co.id/) |
 | Codeigniter 4 | 🚀 LIVE 🚀 |     [link 2](https://api.persahabatan.co.id/)     |
 | Codeigniter 4 | ⚙️ DEV ⚙️  |   [link 2](https://dev.api.persahabatan.co.id/)   |
@@ -139,9 +139,9 @@ Bismillah, ini adalah halaman Latihan dari Tutorial yang Saya Ikuti. Semoga tida
 <details>
   <summary> 👇 Klik Detail</summary>
 
-|                                                               Stack                                                               |   Status   |                      Akses                       |
-| :-------------------------------------------------------------------------------------------------------------------------------: | :--------: | :----------------------------------------------: |
-|                                             ReactJS, ReduxJS, Bootstrap, Codeigniter                                              | 🚀 LIVE 🚀 | [link](https://lowongan.rsuppersahabatan.co.id/) |
+|                                                               Stack                                                               |   Status   |                     Akses                      |
+| :-------------------------------------------------------------------------------------------------------------------------------: | :--------: | :--------------------------------------------: |
+|                                             ReactJS, ReduxJS, Bootstrap, Codeigniter                                              | 🚀 LIVE 🚀 | [link](https://lowongan.rspersahabatan.co.id/) |
 | <td colspan="3"><fieldset><legend>Lowongan Pekerjaan</legend>![Lowongan Pekerjaan](../images/lowongan-online.png)</fieldset></td> |
 
 </details>
@@ -153,9 +153,9 @@ Bismillah, ini adalah halaman Latihan dari Tutorial yang Saya Ikuti. Semoga tida
 <details>
   <summary> 👇 Klik Detail</summary>
 
-|                                                                           Stack                                                                            |   Status   |                        Akses                        |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------: | :-------------------------------------------------: |
-|                                                                GatsbyJS, NetlifyCMS, Vercel                                                                | 🚀 LIVE 🚀 | [link](https://pendaftaran.rsuppersahabatan.co.id/) |
+|                                                                           Stack                                                                            |   Status   |                       Akses                       |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------: | :-----------------------------------------------: |
+|                                                                GatsbyJS, NetlifyCMS, Vercel                                                                | 🚀 LIVE 🚀 | [link](https://pendaftaran.rspersahabatan.co.id/) |
 |   <td colspan="3"><fieldset><legend>Landing Pendaftaran Online</legend>![Landing Pendaftaran Online](../images/pendaftaran-landing.png)</fieldset></td>    |
 | <td colspan="3"><fieldset><legend>Landing Pendaftaran Online 2</legend>![Landing Pendaftaran Online 2](../images/pendaftaran-landing2.png)</fieldset></td> |
 
@@ -168,10 +168,10 @@ Bismillah, ini adalah halaman Latihan dari Tutorial yang Saya Ikuti. Semoga tida
 <details>
   <summary> 👇 Klik Detail</summary>
 
-|                                                                                 Stack                                                                                  |   Status   |                         Akses                          |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------: | :----------------------------------------------------: |
-|                                                               ReactJS, ReduxJS, RHF, Codeigniter, Golang                                                               | 🚀 LIVE 🚀 |  [link 1](https://bankdarah.rsuppersahabatan.co.id/)   |
-|                                                             ReactJS, ReduxJS, Formik, Codeigniter, Golang                                                              | 🚀 LIVE 🚀 | [link 2](https://ic.bankdarah.rsuppersahabatan.co.id/) |
+|                                                                                 Stack                                                                                  |   Status   |                        Akses                         |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------: | :--------------------------------------------------: |
+|                                                               ReactJS, ReduxJS, RHF, Codeigniter, Golang                                                               | 🚀 LIVE 🚀 |  [link 1](https://bankdarah.rspersahabatan.co.id/)   |
+|                                                             ReactJS, ReduxJS, Formik, Codeigniter, Golang                                                              | 🚀 LIVE 🚀 | [link 2](https://ic.bankdarah.rspersahabatan.co.id/) |
 | <td colspan="3"><fieldset><legend>Bank Darah (UTDRS) RSUP Persahabatan</legend>![Bank Darah (UTDRS) RSUP Persahabatan](../images/bankdarah-online.png)</fieldset></td> |
 |       <td colspan="3"><fieldset><legend>Formulir Inform Consent (IC)</legend>![Formulir Inform Consent (IC)](../images/ic-bankdarah-online.png)</fieldset></td>        |
 
@@ -213,9 +213,9 @@ Bismillah, ini adalah halaman Latihan dari Tutorial yang Saya Ikuti. Semoga tida
 <details>
   <summary> 👇 Klik Detail</summary>
 
-|                                                       Stack                                                        |  Status   |                    Akses                     |
-| :----------------------------------------------------------------------------------------------------------------: | :-------: | :------------------------------------------: |
-|                                            NextJS, GraphQL, Google API                                             | ⚙️ DEV ⚙️ | [link](https://zoom.rsuppersahabatan.co.id/) |
+|                                                       Stack                                                        |  Status   |                   Akses                    |
+| :----------------------------------------------------------------------------------------------------------------: | :-------: | :----------------------------------------: |
+|                                            NextJS, GraphQL, Google API                                             | ⚙️ DEV ⚙️ | [link](https://zoom.rspersahabatan.co.id/) |
 | <td colspan="3"><fieldset><legend>Zoom Meeting</legend>![Zoom Meeting](../images/zoom-meeting.png)</fieldset></td> |
 
 </details>
@@ -227,9 +227,9 @@ Bismillah, ini adalah halaman Latihan dari Tutorial yang Saya Ikuti. Semoga tida
 <details>
   <summary> 👇 Klik Detail</summary>
 
-|            Stack            | Status  |                     Akses                     |
-| :-------------------------: | :-----: | :-------------------------------------------: |
-| NextJS, GraphQL, Google API | ⚙️DEV⚙️ | [link](https://putar.rsuppersahabatan.co.id/) |
+|            Stack            | Status  |                    Akses                    |
+| :-------------------------: | :-----: | :-----------------------------------------: |
+| NextJS, GraphQL, Google API | ⚙️DEV⚙️ | [link](https://putar.rspersahabatan.co.id/) |
 
 </details>
 
@@ -240,9 +240,9 @@ Bismillah, ini adalah halaman Latihan dari Tutorial yang Saya Ikuti. Semoga tida
 <details>
   <summary> 👇 Klik Detail</summary>
 
-|                   Stack                   | Status  |                     Akses                      |
-| :---------------------------------------: | :-----: | :--------------------------------------------: |
-| ReactJS, ReduxJS, MaterialUI, Formik, YUP | ⚙️DEV⚙️ | [link](https://survey.rsuppersahabatan.co.id/) |
+|                   Stack                   | Status  |                    Akses                     |
+| :---------------------------------------: | :-----: | :------------------------------------------: |
+| ReactJS, ReduxJS, MaterialUI, Formik, YUP | ⚙️DEV⚙️ | [link](https://survey.rspersahabatan.co.id/) |
 
 </details>
 
@@ -253,9 +253,9 @@ Bismillah, ini adalah halaman Latihan dari Tutorial yang Saya Ikuti. Semoga tida
 <details>
   <summary> 👇 Klik Detail</summary>
 
-|             Stack              | Status  |                     Akses                     |
-| :----------------------------: | :-----: | :-------------------------------------------: |
-| NextJS, ReduxJS, ChakraUI, RHF | ⚙️DEV⚙️ | [link](https://login.rsuppersahabatan.co.id/) |
+|             Stack              | Status  |                    Akses                    |
+| :----------------------------: | :-----: | :-----------------------------------------: |
+| NextJS, ReduxJS, ChakraUI, RHF | ⚙️DEV⚙️ | [link](https://login.rspersahabatan.co.id/) |
 
 </details>
 
@@ -319,8 +319,8 @@ Bismillah, ini adalah halaman Latihan dari Tutorial yang Saya Ikuti. Semoga tida
 <details>
   <summary> 👇 Klik Detail</summary>
 
-|                         Stack                          |  Status   |                              Akses                               |
-| :----------------------------------------------------: | :-------: | :--------------------------------------------------------------: |
-| Codeigniter 4, Socket.io, WebSockets, NodeJS, adminLTE | ⚙️ DEV ⚙️ | [link](https://github.com/rsuppersahabatan/Realtime_Antrian.git) |
+|                         Stack                          |  Status   |                             Akses                              |
+| :----------------------------------------------------: | :-------: | :------------------------------------------------------------: |
+| Codeigniter 4, Socket.io, WebSockets, NodeJS, adminLTE | ⚙️ DEV ⚙️ | [link](https://github.com/rspersahabatan/Realtime_Antrian.git) |
 
 </details>

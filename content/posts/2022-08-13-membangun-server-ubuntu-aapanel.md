@@ -30,6 +30,7 @@ Yaps, 4 bahan itu yang akan membantu kita membangun sebuah server yang sederhana
 ## Persiapan
 
 ### Download aaPanel
+
 1. Login ssh menggunakan Putty atau lainnya.
 2. Install aaPanel `wget -O install.sh http://www.aapanel.com/script/install-ubuntu_6.0_en.sh && sudo bash install.sh 93684c35`
 3. Done
@@ -57,7 +58,7 @@ Dalam Instalasi tak semudah membalikkan tangan, ada beberapa configurasi lanjuta
 
 gw share di forum aapanel -> https://forum.aapanel.com/d/13472-error-php-info
 
-dan oleh Kern, salah satu Tim Support menjawab, kurang lebih disuruh install ``` sudo apt-get install libc-ares-dev  ```
+dan oleh Kern, salah satu Tim Support menjawab, kurang lebih disuruh install `sudo apt-get install libc-ares-dev `
 
 Sebetulnya ada banyak trouble saat pertama kali gw ngebangung server VPS dengan aaPanel ini, mulai DNS yang tak kunjung resolve, port ip public yang tertutup, dan aapanel yang sering ngecrash, hingga ada 1 insiden yang bikin gw panik, gegara menjalankan perintah aneh, kurang lebih perintah anehnya seperti ini
 
@@ -92,6 +93,7 @@ bt status
 ```
 
 and done. semua bisa diakses.
+
 ## Implementasi di Server
 
 Saat ini implementasi diserver baru sebatas aplikasi PHP dan NodeJS, untuk Python dan Golang belum gw implementasi, mungkin yang Golang akan gw coba buat service, REST API sederhana ya, karena ada fiture Docker (versi demo yang terbatas), jadi gw bungkus pake Docker ajah. dan belum terimplentasi, dan .NET 6 core, sudah terinstall.
@@ -105,8 +107,7 @@ Untuk sekarang hanya berjalan aplikasi PHP (5,7,8) dan NodeJS (Api Whatsapp).
 3. [aaPanel Plugin Development](https://topidesta.files.wordpress.com/2022/08/aapanel_linux_panel_plug-in_development_documentation_v1.1.pdf)
 4. [aaPanel Install Setup](https://topidesta.files.wordpress.com/2022/08/aapanel-nodejs-centos7-setup.pdf)
 
-
-## API Service 
+## API Service
 
 aaPanel menyediakan API untuk mengakses informasi tanpa login ke aaPanel, informansinya ada dihalaman berikut
 
@@ -114,7 +115,7 @@ aaPanel menyediakan API untuk mengakses informasi tanpa login ke aaPanel, inform
 
 disana sudah ada dan detail, berhubung, saya develop di dunia PHP jadi saya share juga api nya
 
-> https://github.com/rsuppersahabatan/api_aapanel
+> https://github.com/rspersahabatan/api_aapanel
 
 Kalo mau liat service mana yang jalan, tinggal liat deh di modul Prima SIMRS.
 
@@ -125,10 +126,12 @@ Berikut detail masing masing untuk speedtest.
 
 ![VPS By Biznet](../images/cloud.png)
 [Biznet Cloud](https://www.speedtest.net/result/c/1279c5d4-4e59-488b-8783-1c41f7366181)
+
 > https://persahabatan.co.id
 
 ![VPS By BaliTower](../images/local.png)
 [Bali Tower](https://www.speedtest.net/result/c/6e40eb8e-a986-49ac-9dab-fe7500fde978)
+
 > https://dev.persahabatan.co.id
 
 ## UPDATE ~ 1 JANUARI 2024
@@ -143,7 +146,6 @@ Untuk yang mail server tidak bisa mengirim pesan, di aapanel sudah dishare trick
 
 > https://forum.aapanel.com/d/1254-how-to-use-the-mail-server-relay-function/22
 
-
 Selanjutnya service mail server mati, gak bisa login, ternyata service postfix mati, restart lah, dan berhasil, alhasil, masa harus tiap hari ngecek? gak mau kan, buat aja cronjob, ada juga yang share di forum aapanel, berikut ini linknya.
 
 > https://forum.aapanel.com/d/19112-notification-for-mail-server-status
@@ -151,11 +153,12 @@ Selanjutnya service mail server mati, gak bisa login, ternyata service postfix m
 > http://go.topidesta.my.id/root-cmd
 > https://youtu.be/BPJb6tx9PSc?si=rJeTrg9emlDlAf5Z
 
-*Saya pake nginx dan server ubuntu ya.
+\*Saya pake nginx dan server ubuntu ya.
 
 ## Testing Out dan In Email
 
 ### Testing Email Keluar
+
 > https://www.appmaildev.com/en/dkim
 
 Jika ada error **DKIM** none, silahkan lakukan perintah berikut:
@@ -166,6 +169,7 @@ systemctl restart rspamd
 ```
 
 ### Testing Email Masuk
+
 > https://www.gmass.co/smtp-test
 
 Isi sesuai dengan configurasi mail servernya ya.
@@ -202,11 +206,15 @@ Terkadang aplikasi sedikit tapi tetiba hdd sudah mencapai 80%, bisa jadi itu cac
 ```bash
 $ sudo du -sh /www/wwwroot
 ```
+
 atau
+
 ```bash
 $ ncdu -x /
 ```
+
 atau
+
 ```bash
 $ sudo du -h --max-depth=1 /www | sort -hr
 ```
@@ -229,7 +237,7 @@ nanti konfirmasi keypair baru, seperti berikut:
 
 ![login-ssh-berhasil](../images/login-ssh-berhasil.png)
 
-kalo udah tinggal login dengan file *.pem dari biznet.
+kalo udah tinggal login dengan file \*.pem dari biznet.
 
 ```bash
 λ ssh -i namafilecloud.pem username@ip_publik_biznet
