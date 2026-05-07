@@ -48,7 +48,7 @@ Dah selesai ... untuk service whatsapp, gw pake 8 service yang opensource. Berik
 3. [Wa-Gateway](https://go.topidesta.my.id/v3) ✅
 4. [Wuzz-API](https://go.topidesta.my.id/v4-4) ✅
 5. [wwebjs-api](https://go.topidesta.my.id/v4-3) ❌
-6. [Go-Whatsapp-Device](https://go.topidesta.my.id/v6-3) ❌
+6. [Go-Whatsapp-MultiDevice](https://github.com/rsuppersahabatan/go-whatsapp-multidevice-rest) ❌
 7. [Evolution-API](https://go.topidesta.my.id/v6) ✅
 8. [Chattery-API](https://go.topidesta.my.id/v7-3) ✅
 
