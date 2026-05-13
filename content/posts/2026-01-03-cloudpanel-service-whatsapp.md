@@ -269,22 +269,13 @@ services:
       - chatery_media:/app/public/media
       - chatery_store:/app/store
     healthcheck:
-      # Logika baru: Membuat file penanda waktu saat container jalan pertama kali
-      # Jika umur file > 172800 detik (48 jam), status jadi unhealthy -> autoheal restart
-      test:
-        - CMD-SHELL
-        - >
-          if [ ! -f /tmp/container_start ]; then touch /tmp/container_start; fi;
-          uptime_seconds=$$(($(date +%s) - $(date -r /tmp/container_start
-          +%s))); if [ "$$uptime_seconds" -gt 172800 ]; then 
-            echo "Restart period reached (48h)"; exit 1; 
-          fi; wget --no-verbose --tries=1 --spider http://localhost:3000/ || exit 1
-      interval: 60s # Cek setiap 1 menit
-      timeout: 10s # Batas waktu respon wget
-      retries: 3 # Gagal 3x baru dianggap Unhealthy
-      start_period: 60s # Memberi waktu 1 menit untuk loading WhatsApp sessions
+      test: ["CMD-SHELL", "wget --no-verbose --tries=1 --spider http://localhost:3000/ || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
     labels:
-      - autoheal=true
+      - "autoheal=true"
     logging:
       driver: json-file
       options:
@@ -292,6 +283,7 @@ services:
         max-file: "3"
     networks:
       - chatery-network
+
   autoheal:
     image: willfarrell/autoheal:latest
     container_name: autoheal
@@ -304,6 +296,7 @@ services:
       - /var/run/docker.sock:/var/run/docker.sock
     networks:
       - chatery-network
+
 volumes:
   chatery_sessions:
     driver: local
@@ -311,6 +304,7 @@ volumes:
     driver: local
   chatery_store:
     driver: local
+
 networks:
   chatery-network:
     driver: bridge
