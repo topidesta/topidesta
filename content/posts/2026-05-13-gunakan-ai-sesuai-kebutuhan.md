@@ -19,16 +19,16 @@ Dari banyaknya AI tergantung kebutuhannya masing masing, misalkan yang terkenal 
 
 Berikut ini AI yang bisa kita manfaatkan sesuai kebutuhan.
 
-1. ChatGPT
-2. Gemini AI
-3. Grok
-4. Claude
-5. Llama
-6. Perplexity
-7. DeepSeek
-8. Kimi
-9. Qwen
-10. Manus
+1. [ChatGPT](https://chat.openai.com)
+2. [Gemini AI](https://gemini.google.com)
+3. [Grok](https://grok.com)
+4. [Claude](https://claude.ai)
+5. [Llama](https://www.llama.com)
+6. [Perplexity](https://www.perplexity.ai)
+7. [DeepSeek](https://www.deepseek.com)
+8. [Kimi](https://www.kimi.com)
+9. [Qwen](https://chat.qwen.ai)
+10. [Manus](https://manus.im)
 
 Kesimpulannya:
 
