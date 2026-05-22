@@ -34,6 +34,32 @@ Akhirnya selain buat aplikasi backend beberapa aplikasi internal termasuk blog t
 
 Jadi, buat gw yang berumur 36 Tahun ini, selama jadi Programmer, AI itu lumayan juga buat Assisten budak yang pintar ketika otak gw mau meledak ~ Burn Out ~, meskipun gw masih menggunakan Pencarian Normal di Forum forum atau duckduckgo.
 
+### FLOW BUILD APP WITH AI
+
+Flow development yang Anda pakai bisa dijelaskan seperti ini:
+
+1. PRD First
+Semua kebutuhan sistem ditulis dulu dalam bentuk PRD (Product Requirement Document) agar scope, fitur, dan alur kerja jelas sejak awal.
+
+2. Markdown-Based Documentation
+PRD disimpan dalam format Markdown (.md) supaya ringan, mudah di-versioning di Git, dan gampang diproses AI.
+
+3. Reusable AI Skills
+Dokumen kemudian dipecah menjadi modul kecil berbentuk AI skills/prompts reusable mengikuti pola seperti AgentSkills.io, sehingga tiap skill punya tugas spesifik dan bisa dipakai ulang lintas project.
+
+4. AI-Assisted Development
+Skill tersebut diintegrasikan ke:
+- GitHub Copilot untuk coding assistance
+- Ollama dengan model lokal seperti Qwen agar workflow tetap privat, cepat, dan bisa berjalan offline.
+
+5. Result
+Hasilnya adalah workflow development yang:
+- terdokumentasi,
+- AI-native,
+- reusable,
+- scalable,
+dan lebih konsisten dari requirement sampai implementasi kode.
+
 ### UPDATE
 
 Barusan buka linkedin, dan nemu info ini.
