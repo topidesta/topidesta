@@ -6,10 +6,10 @@ slug: "link"
 ---
 
 ### GatsbyJS Tutorial
-1. https://kutt.it/gatsbyJS-1
-2. https://kutt.it/gatsbyJS-2
-3. https://kutt.it/gatsbyJS-3
-4. https://kutt.it/gatsbyJS-4
+1. https://kutt.to/gatsbyJS-1
+2. https://kutt.to/gatsbyJS-2
+3. https://kutt.to/gatsbyJS-3
+4. https://kutt.to/gatsbyJS-4
 
 
 ### SignalR

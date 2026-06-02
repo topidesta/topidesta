@@ -13,7 +13,7 @@ tags:
 
 Bismillah...
 
-Belakangan ini [web langganan](https://kutt.it/kgWOxj) gw kalo mau nongton **Psycho Pass 3** belum update lagi, katanya sih di Jepang lagi Lockdown jadi dihold juga nongtonya, alhamdulillah sih ada alternatifnya, sumber [dari sini](https://kutt.it/6ubq5t) misalnya:
+Belakangan ini [web langganan](https://kutt.to/kgWOxj) gw kalo mau nongton **Psycho Pass 3** belum update lagi, katanya sih di Jepang lagi Lockdown jadi dihold juga nongtonya, alhamdulillah sih ada alternatifnya, sumber [dari sini](https://kutt.to/6ubq5t) misalnya:
 
 1. Top Secret – The Revelation
 2. Ghost in the Shell: Stand Alone Complex
@@ -21,7 +21,7 @@ Belakangan ini [web langganan](https://kutt.it/kgWOxj) gw kalo mau nongton **Psy
 4. Terror in Resonance
 5. Monster
 
-Kebetulan gw tertarik dengan nomor 2, **Ghost in the Shell** di web langganan gw gak ada ternyata, akhirnya searching via google dapet juga alternatifnya di web [ryuukoi.web.id](https://kutt.it/LjJ7kW) dan [bakadame.org](https://kutt.it/tbyJYX), dan ternyata ini anime bagus, rating diatas 7.5 dan udah lama juga dan berseries, hems, dimulai dari tahun 1995 - 2015, diantaranya:
+Kebetulan gw tertarik dengan nomor 2, **Ghost in the Shell** di web langganan gw gak ada ternyata, akhirnya searching via google dapet juga alternatifnya di web [ryuukoi.web.id](https://kutt.to/LjJ7kW) dan [bakadame.org](https://kutt.to/tbyJYX), dan ternyata ini anime bagus, rating diatas 7.5 dan udah lama juga dan berseries, hems, dimulai dari tahun 1995 - 2015, diantaranya:
 
 1. Ghost in the Shell (1995) 📥
 2. Ghost in the Shell 2.0 (Remake GITS 1 - Produksi 2008) 📥

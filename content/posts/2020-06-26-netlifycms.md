@@ -33,4 +33,4 @@ Mudah bukan? ya. Karena belajar memang harus mudah dan menyenangkan.
 
 Have a nice day!
 
-source: https://kutt.it/ZMivyK
+source: https://kutt.to/ZMivyK

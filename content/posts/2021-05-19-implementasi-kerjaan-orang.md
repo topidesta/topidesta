@@ -20,7 +20,7 @@ kali ini gw mau share ide, belum gw kerjain tapi akan gw kerjakan dan gw share d
 
 Coba itu lo lihat deh, 1 Juta buat 5 Halaman? tunggu, kan dishare templatenya juga, iya sih udah ready (emang gak perlu dipelajari, butuh waktu kan?) kalo penasaran ini link templatenya (reactjs f/w nextjs). Katanya cuman Frontend karena backend sudah dibuatkan (Gak Perlu backend, pake fake backend juga bisa, sebetulnya). 
 
-[Template Admin](https://kutt.it/eleven-template)
+[Template Admin](https://kutt.to/eleven-template)
 
 Untuk yang mau nyari versi Gratis Template (Nulled) bisa kunjungin postingan gw yang pernah gw share, pasti ada, coba cek [dihalaman ini](daftar-website-penyedia-script-nulled) tapi saran gw kalo nanti diakses public mending lo beli deh, hitung hitung menghargai Developernya (hanya 14$), kurang lebih 200K.
 

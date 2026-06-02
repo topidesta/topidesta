@@ -47,5 +47,5 @@ Berikut ini tampilannya:
 Selesai, Have a nice day!
 
 sumber:
-1. https://kutt.it/xoRCeB
-2. https://kutt.it/xC99tg
+1. https://kutt.to/xoRCeB
+2. https://kutt.to/xC99tg
