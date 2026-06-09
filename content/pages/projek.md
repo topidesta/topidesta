@@ -324,3 +324,23 @@ Bismillah, ini adalah halaman Latihan dari Tutorial yang Saya Ikuti. Semoga tida
 | Codeigniter 4, Socket.io, WebSockets, NodeJS, adminLTE | ⚙️ DEV ⚙️ | [link](https://github.com/rspersahabatan/Realtime_Antrian.git) |
 
 </details>
+
+### Vibe Code with Teteh AyAy (Babu AI)
+
+<details>
+  <summary> 👇 Admin RBAC with Shield</summary>
+
+|                         Stack                          |  Status   |                             Akses                              |
+| :----------------------------------------------------: | :-------: | :------------------------------------------------------------: |
+| Codeigniter 4 | ⚙️ DEV ⚙️ | [link](https://github.com/mdestafadilah/codeigniter4-rbac-shield) |
+
+</details>
+
+<details>
+  <summary> 👇 Realtime Antrian with Python + ReactJS</summary>
+
+|                         Stack                          |  Status   |                             Akses                              |
+| :----------------------------------------------------: | :-------: | :------------------------------------------------------------: |
+| FastAPI, ReactJS | ⚙️ DEV ⚙️ | [link](https://github.com/rsuppersahabatan/Realtime_Antrian_Python) |
+
+</details>
