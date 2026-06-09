@@ -325,10 +325,12 @@ Bismillah, ini adalah halaman Latihan dari Tutorial yang Saya Ikuti. Semoga tida
 
 </details>
 
+<hr />
+
 ### Vibe Code with Teteh AyAy (Babu AI)
 
 <details>
-  <summary> 👇 Admin RBAC with Shield</summary>
+  <summary> 👇 Codeigniter 4 Admin RBAC with Shield</summary>
 
 |                         Stack                          |  Status   |                             Akses                              |
 | :----------------------------------------------------: | :-------: | :------------------------------------------------------------: |
@@ -342,5 +344,41 @@ Bismillah, ini adalah halaman Latihan dari Tutorial yang Saya Ikuti. Semoga tida
 |                         Stack                          |  Status   |                             Akses                              |
 | :----------------------------------------------------: | :-------: | :------------------------------------------------------------: |
 | FastAPI, ReactJS | ⚙️ DEV ⚙️ | [link](https://github.com/rsuppersahabatan/Realtime_Antrian_Python) |
+
+</details>
+
+<details>
+  <summary> 👇 Qris Dynamic with BHVR</summary>
+
+|                         Stack                          |  Status   |                             Akses                              |
+| :----------------------------------------------------: | :-------: | :------------------------------------------------------------: |
+| BHVR Stack | ⚙️ DEV ⚙️ | [link](https://github.com/hallobayi/Qris-Dynamic) |
+
+</details>
+
+<details>
+  <summary> 👇 ADMS Server, Absensi Machine X100C</summary>
+
+|                         Stack                          |  Status   |                             Akses                              |
+| :----------------------------------------------------: | :-------: | :------------------------------------------------------------: |
+| Laravel 10 | ⚙️ DEV ⚙️ | [link](https://github.com/hallobayi/webroster-adms-server) |
+
+</details>
+
+<details>
+  <summary> 👇 TTS Server - Text To Speach</summary>
+
+|                         Stack                          |  Status   |                             Akses                              |
+| :----------------------------------------------------: | :-------: | :------------------------------------------------------------: |
+| fastAPI | ⚙️ DEV ⚙️ | [link](https://github.com/rsuppersahabatan/Edge-TTS-API) |
+
+</details>
+
+<details>
+  <summary> 👇 Pendekin URL</summary>
+
+|                         Stack                          |  Status   |                             Akses                              |
+| :----------------------------------------------------: | :-------: | :------------------------------------------------------------: |
+| BHVR Stack | ⚙️ DEV ⚙️ | [link](https://github.com/rsuppersahabatan/pendekin-url) |
 
 </details>
