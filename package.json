@@ -96,9 +96,6 @@
     ]
   },
   "overrides": {
-    "eslint": "$eslint",
-    "react": "$react",
-    "react-dom": "$react-dom",
     "@babel/plugin-transform-modules-systemjs": "^7.29.4",
     "@babel/preset-env": "^7.29.5",
     "sanitize-html": ">=2.17.4"
