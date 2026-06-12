@@ -339,11 +339,20 @@ Bismillah, ini adalah halaman Latihan dari Tutorial yang Saya Ikuti. Semoga tida
 </details>
 
 <details>
-  <summary> 👇 Realtime Antrian with Python + ReactJS</summary>
+  <summary> 👇 Realtime Antrian with Codeigniter 3 + NodeJS</summary>
 
 |                         Stack                          |  Status   |                             Akses                              |
 | :----------------------------------------------------: | :-------: | :------------------------------------------------------------: |
-| FastAPI, ReactJS | ⚙️ DEV ⚙️ | [link](https://github.com/rsuppersahabatan/Realtime_Antrian_Python) |
+| Codeigniter 3, NodeJS | ⚙️ DEV ⚙️ | [link](https://github.com/rsuppersahabatan/Realtime_Antrian) |
+
+</details>
+
+<details>
+  <summary> 👇 Realtime Antrian with Python 3 + ReactJS + Docker</summary>
+
+|                         Stack                          |  Status   |                             Akses                              |
+| :----------------------------------------------------: | :-------: | :------------------------------------------------------------: |
+| FastAPI, ReactJS, Docker | ⚙️ DEV ⚙️ | [link](https://github.com/rsuppersahabatan/Realtime_Antrian_Python) |
 
 </details>
 
