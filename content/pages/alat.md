@@ -29,6 +29,14 @@ Berikut Ini Daftar Alat/ Perkakas yang dipake gw dalam pengembangan aplikasi ata
 20. [.NET Playground](https://sharplab.io/)
 21. [Cursor Editor](https://cursor.com)
 22. Hackintosh
+23. AnyDesk
+24. Trae IDE
+25. Kiro IDE
+26. Antigravity IDE
+27. Cursor IDE
+28. Insomnia
+29. Postman
+
 
 
 Semua bisa didapatkan GRATIS or Freetier .. hehe, kalo mau yang jamu bisa cari di [TORRENT SEARCH](https://kutt.to/bitcq) aja, terus login di web torrent downloader, [ZBIGZ](https://kutt.to/zbigz), [ByteBX](https://kutt.to/bytebx), atau [SeeDr](https://kutt.to/seedr), baru deh download, done.
