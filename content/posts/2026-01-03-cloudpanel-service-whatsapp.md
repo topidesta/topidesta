@@ -43,17 +43,18 @@ Untuk install dockge bisa mengikuti tutorial di [website resminya](https://githu
 
 Dah selesai ... untuk service whatsapp, gw pake 8 service yang opensource. Berikut ini adalah service yang gw pake:
 
-1. [Baileys-API](https://go.topidesta.my.id/v1) ❌
-2. [WPP-Connect](https://go.topidesta.my.id/v2) ✅
-3. [Wa-Gateway](https://go.topidesta.my.id/v3) ❌
-4. [Wuzz-API](https://go.topidesta.my.id/v4-4) ✅
-5. [wwebjs-api](https://go.topidesta.my.id/v4-3) ❌
-6. [Go-Whatsapp-MultiDevice](https://github.com/rsuppersahabatan/go-whatsapp-multidevice-rest) ❌
-7. [Evolution-API](https://go.topidesta.my.id/v6) ✅
-8. [Chattery-API](https://go.topidesta.my.id/v7-3) ❌
-9. [WAGO-API](http://go.topidesta.my.id/v10-2) ✅
-
-Dari beberapa service diatas, gw cuman pake yang 3,4,7,8 yang berjalan di dockge-cloudpanel. Ups, ada bonus neh docker compose yang gw pake.
+| Keterangan | Stack | Is Used? |
+| :---: | :---: | :---: |
+| 1 | [Baileys-API](https://go.topidesta.my.id/v1) |  ❌ |
+| 2 | [WPP-Connect](https://go.topidesta.my.id/v2) |  ✅ |
+| 3 | [Wa-Gateway](https://go.topidesta.my.id/v3) |  ❌ |
+| 4 | [Wuz-API](https://go.topidesta.my.id/v4-4) |  ✅ |
+| 5 | [wwebjs-api](https://go.topidesta.my.id/v4-3) | ❌ |
+| 6 | [Go-Whatsapp-MultiDevice](https://github.com/rsuppersahabatan/go-whatsapp-multidevice-rest) |  ❌ |
+| 7 | [Evolution-API](https://go.topidesta.my.id/v6) |  ✅ |
+| 8 | [Chattery-API](https://go.topidesta.my.id/v7-3) |  ❌ |
+| 9 | [WAGO-API](http://go.topidesta.my.id/v10-2) |  ✅ |
+| 10 | [WA-AKG](http://go.topidesta.my.id/v16) | ❌ |
 
 <details>
   <summary> 👇 Klik Detail</summary>
