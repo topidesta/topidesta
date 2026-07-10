@@ -54,6 +54,7 @@ Rekomendasi dari Pemilik Postingan
 
 Gimana? Mulai ada gambaran kan, jangan asal pake AI, maksimalkan model AI untuk mempermudah pekerjaan kita.
 
+> Saran gw, pake [9router](https://github.com/decolua/9router)  atau [keirouter](https://github.com/mydisha/keirouter) buat mengatur dan memilih model AI yang kita butuhkan.
 
 source
 - https://lnkd.in/p/gfuYHjaV
