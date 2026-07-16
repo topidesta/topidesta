@@ -46,15 +46,16 @@ Dah selesai ... untuk service whatsapp, gw pake 8 service yang opensource. Berik
 | Keterangan | Stack | Is Used? |
 | :---: | :---: | :---: |
 | 1 | [Baileys-API](https://go.topidesta.my.id/v1) |  ❌ |
-| 2 | [WPP-Connect](https://go.topidesta.my.id/v2) |  ✅ |
+| 2 | [WPP-Connect](https://go.topidesta.my.id/v2) |  ❌ |
 | 3 | [Wa-Gateway](https://go.topidesta.my.id/v3) |  ❌ |
-| 4 | [Wuz-API](https://go.topidesta.my.id/v4-4) |  ✅ |
+| 4 | [Wuz-API](https://go.topidesta.my.id/v4-4) |  ❌ |
 | 5 | [wwebjs-api](https://go.topidesta.my.id/v4-3) | ❌ |
 | 6 | [Go-Whatsapp-MultiDevice](https://github.com/rsuppersahabatan/go-whatsapp-multidevice-rest) |  ❌ |
 | 7 | [Evolution-API](https://go.topidesta.my.id/v6) |  ✅ |
 | 8 | [Chattery-API](https://go.topidesta.my.id/v7-3) |  ❌ |
 | 9 | [WAGO-API](http://go.topidesta.my.id/v10-2) |  ✅ |
 | 10 | [WA-AKG](http://go.topidesta.my.id/v16) | ❌ |
+| 11 | [HONO WA](https://github.com/rsuppersahabatan/hono-wa-web-multidevice) |  ❌ |
 
 <details>
   <summary> 👇 Klik Detail</summary>
