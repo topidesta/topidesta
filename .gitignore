@@ -62,3 +62,6 @@ bundle-stats.json
 .trae/
 .demian/
 .claude
+
+.yarn.lock
+.package-lock.json
