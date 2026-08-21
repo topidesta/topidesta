@@ -17,143 +17,74 @@ Link [Buku](/buku) adalah halaman untuk buku tutorial yang gw coba baca. hehe. k
 
 Link [Sertifikat](/sertifikat) adalah halaman bukti belajar gw sudah kelar dan sourcecode belajar disimpan di Halaman [ATM Github](https://github.com/amati-tiru-modifikasi).
 
-### php
-
-Dalam perkembangan PHP, saya dapat beradaptasi baik dari sisi **front-End** atau **back-End** dengan PHP.
-
-#### Framework
-
-- [x] Codeigniter Fundamental
-- [x] Phalcon Fundamental
-
-### JavaScript
-
-Dalam perkembangan JavaScript, saya lebih fokus pada sisi **front-End** dan sedang mencoba untuk sisi back-end dengan Teknologi NodeJS.
-
-#### Konsep JS
-
-- [x] Variabel, Tipe Data, Mutation, dan Coersion Type
-- [x] Function Declaration dan Function Expression
-
-#### Konsep ReactJS
-
-- [x] Variabel, Let, Const
-- [x] State
-- [x] Komponen - Class atau Function
-- [ ] Hooks
-- [ ] CONTEXT
-- [ ] Redux
-
-#### Konsep React Native
-
-- [ ] Variabel
-- [ ] et
-
-#### Framework
-
-- [x] JQuery Basic
-- [ ] ReactJS
-- [ ] React Native
-
-### C# (.NET)
-
-Untuk C# (c-sharp) saya belajar untuk mengembangkan pendapatan di dunia Freelance, kebutuhan desktop, web ataupun REST API.
-
-#### Konsep Dasar[[1]](#1)
-
-- [ ] Tipe Data, Deklarasi dan Definisi Variable
-- [ ] C# Operator
-- [ ] Type Conversion
-- [ ] String di C#
-- [ ] Input dan Output di C#
-- [ ] C# Kondisi (If, If-Else, Switch-Case)
-- [ ] Looping (While, do-while, For)
-- [ ] Handling Exceptions
-- [ ] Access Modifiers
-- [ ] Methods
-- [ ] Ref dan Keyword OUT
-- [ ] Metode Recursion dan Recursive
-- [ ] Array (Single atau Multidimensional)
-- [ ] Cara Kerja dengan Berkas atau Folder dan Directory
-
-Semua hasil ujicoba bisa dicek dihalaman github [c-sharp-dasar](https://github.com/amati-tiru-modifikasi/c-sharp-dasar)
-
-#### Konsep Lanjutan (Intermediet)[[2]](#2)
-
-- [ ] Class dan Constructor
-- [ ] Properties
-
-#### .NET Collection
-
-- [ ] Arrays di C#
-- [ ] List dan Dictinory di C#
-- [ ] List di C#
-- [ ] SortedList di C#
-- [ ] Dictinory di C#
-
-#### ORM
-
-- [ ] Entity Framework (EF ORM)
-- [ ] Dapper ORM
-
-#### Trick Belajar C# DotNet
-
-Search by keyword di bawah ini aja lalu pelajari 1 per 1:
-
-- nullable reference type
-- linq query
-- yield return
-- collection initializer
-- IAsyncEnumerable
-- C# Action & Func
-- C# record
-- C# init
-- C# required
-- C# tuple
-- recursive pattern
-- switch expression
-- aspnetcore minimal API
-- blazor
-
-
-sumber:
-1. <a id="1">[1] https://code-maze.com/csharp-back-to-basics/</a>
-2. <a id="2">[2] https://code-maze.com/csharp-intermediate-tutorial-oop/</a>
-3. <a id="3">[3] https://t.me/dotnetcore_id/86246</a>
-
-
-### Go
-
-Jika dalam perkembangan Go, saya lebih fokus pada sisi **back-End** tapi tidak menutup kemungkinan akan mix pada sisi **front-End**.
-
-#### Konsep
-
-- [ ] Variabel, Tipe Data dan Operator
-- [x] Library/ Package and Import Package/ Library
-- [ ] [Array, Slice](/memahami-slice-array-di-golang), Map dan Fungsi
-- [ ] Pointer, Struct, Method dan Properti
-- [ ] Regex, Layout dan Exec
-- [ ] Web Service, Parsing dan JSON
-- [ ] AJAX
-- [ ] SOKET
-
 ### Python 3
 
-Jika dalam perkembangan Python, saya lebih fokus pada sisi **back-End** tapi tidak menutup kemungkinan akan mix pada sisi **front-End**.
+Target saya di Python bukan sekadar back-End biasa, tapi menjadi **AI/ML Engineer**: fokus pada integrasi model AI/LLM ke dalam aplikasi, pengelolaan data pipeline, dan pemrosesan API/Cloud.
 
-#### Konsep
-- [ ] list
-- [ ] 
+Target ini berdasarkan lowongan kerja berikut:
+![belajar-python](../images/python-programmer.png)
 
-### Tools
+#### Phase 1: Pondasi Pemrograman & Data
 
-- [x] Git
+- [ ] Bahasa Python
 
-  - [x] Push, Pull, Commit
-  - [x] Merge, Rebase, Branch, Stash, Pull Request
+  - [ ] Dasar Python: variabel, tipe data, kontrol alur
+  - [ ] Data Structures: list, tuple, dict, set, comprehension
+  - [ ] Object-Oriented Programming (OOP)
+  - [ ] Library pemrosesan data: **Pandas, NumPy, Pydantic**
 
-- [ ] Docker
+- [ ] Data Preprocessing & Pipeline
 
-### Network
+  - [ ] Pembersihan data dan penanganan missing values
+  - [ ] Normalisasi teks/ citra
+  - [ ] Pembuatan alur kerja data (data pipelines)
 
-- [x] [Web Sockets](/library-esc-post-dicodeigniter-server-side-printing)
+- [ ] REST API & Backend Basic
+
+  - [ ] Membuat dan mengonsumsi API dengan FastAPI atau Flask
+  - [ ] Menjembatani model AI dengan aplikasi backend
+
+#### Phase 2: Spesialisasi AI, LLM & Framework
+
+- [ ] Integrasi LLM & Generative AI
+
+  - [ ] OpenAI API dan Hugging Face Transformers
+  - [ ] Prompt Engineering
+  - [ ] Function Calling
+  - [ ] Embeddings
+
+- [ ] Orkestrasi LLM (RAG)
+
+  - [ ] Framework LangChain atau LlamaIndex
+  - [ ] Membangun sistem Retrieval-Augmented Generation (RAG)
+  - [ ] Vector Databases: ChromaDB, Pinecone, atau Qdrant
+
+- [ ] Visi Komputer & NLP Dasar
+
+  - [ ] Dasar OpenCV untuk pemrosesan gambar (Computer Vision)
+  - [ ] Klasifikasi dan analisis teks (NLP)
+
+#### Phase 3: Infrastruktur & Cloud Deployment
+
+- [ ] Containerization
+
+  - [ ] Docker untuk membungkus aplikasi Python/AI
+  - [ ] Menjalankan container secara konsisten di server mana pun
+
+- [ ] Cloud Services (AWS, GCP, atau Azure)
+
+  - [ ] VM (EC2/ Compute Engine)
+  - [ ] Serverless Function
+  - [ ] Cloud Storage
+
+- [ ] Clean Code & Git
+
+  - [ ] Standar penulisan kode rapi (PEP 8)
+  - [ ] Dokumentasi teknis (Swagger/ OpenAPI)
+  - [ ] Manajemen versi menggunakan Git
+
+#### Phase 4: Portofolio & Lamaran Kerja
+
+- [ ] Proyek 1 (LLM/RAG): aplikasi tanya-jawab dokumen internal (PDF Chatbot) dengan LangChain, OpenAI API, dan FastAPI
+- [ ] Proyek 2 (Computer Vision/ Predictive): API deteksi objek atau prediksi data tabular yang di-containerize dengan Docker
+- [ ] Dokumentasi kode: semua proyek disimpan di GitHub dengan README.md lengkap (arsitektur, cara instalasi, dokumentasi API)
