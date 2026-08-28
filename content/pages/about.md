@@ -24,7 +24,7 @@ Sometimes research about trend Technology about Web Development or Mobile Develo
 
 I Believe I must be Professional in every Project i'm handling.
 
-For now, I'm learning C# (.NET) and do some Project with ReactJS or NextJS Cycle.
+For now, I'm learning Python ML/ AI.
 ```
 
 ## Siapa si Muchamad Desta Fadilah?
