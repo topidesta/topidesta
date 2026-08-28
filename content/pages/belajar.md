@@ -1,8 +1,8 @@
 ---
-template: 'page'
-title: 'Belajar'
-description: 'Halaman - Catatan/ Daftar/ Langkah Belajar'
-slug: 'belajar'
+template: "page"
+title: "Belajar"
+description: "Halaman - Catatan/ Daftar/ Langkah Belajar"
+slug: "belajar"
 ---
 
 Ada banyak teknologi yang berkembang, halaman ini sebagai pengingat saya dalam belajar, secara umum basic dunia perkodingan diawali dari **PHP - Codeigniter**, hingga sekarang saya bekerja.
@@ -85,6 +85,8 @@ Target ini berdasarkan lowongan kerja berikut:
 
 #### Phase 4: Portofolio & Lamaran Kerja
 
-- [ ] Proyek 1 (LLM/RAG): aplikasi tanya-jawab dokumen internal (PDF Chatbot) dengan LangChain, OpenAI API, dan FastAPI
-- [ ] Proyek 2 (Computer Vision/ Predictive): API deteksi objek atau prediksi data tabular yang di-containerize dengan Docker
+- [ ] Proyek 1 Hate Speech Detection Using Machine Learning Project
+- [ ] Proyek 2 Complete Face Recognition Using SQL Database Project 2025
+- [ ] Proyek 3 (LLM/RAG): aplikasi tanya-jawab dokumen internal (PDF Chatbot) dengan LangChain, OpenAI API, dan FastAPI
+- [ ] Proyek 4 (Computer Vision/ Predictive): API deteksi objek atau prediksi data tabular yang di-containerize dengan Docker
 - [ ] Dokumentasi kode: semua proyek disimpan di GitHub dengan README.md lengkap (arsitektur, cara instalasi, dokumentasi API)
