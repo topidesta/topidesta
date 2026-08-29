@@ -1,8 +1,8 @@
 ---
-template: 'page'
-title: 'Pencari Ilmu dari Video'
-description: 'Ini Adalah Halaman Daftar Video Tutorial!'
-slug: 'video'
+template: "page"
+title: "Pencari Ilmu dari Video"
+description: "Ini Adalah Halaman Daftar Video Tutorial!"
+slug: "video"
 ---
 
 Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan SkillShare.com, semuanya berbahasa inggris. Vidio ini ada list Focus belajar gw dengan React cycle (JavaScript/ Typescript), .NET cycle dan Server. Untuk PHP terutama Codeigniter tidak terlalu dominan, karena kerjaan utama masih di dunia PHP.
@@ -34,7 +34,6 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 
 1. [NGINX MasterClass: NGINX Server & Custom Load Balancer](https://www.udemy.com/share/103U1A3@HFTYN-X_pPB6yr4mbORbya_TGGCkYwfyBlPe8F52GuDSbqsorz8f0tLyFcL7kd-q/)
 
-
 ### Javascript Class
 
 1. [Learn Javascript For Beginners](https://www.udemy.com/share/101WeoAEIbdVZbTXo=/) **Certificate Avaliable**
@@ -44,7 +43,6 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 5. [The Modern JS for Beginer](https://www.udemy.com/share/109Y4c3@OfVTWTyBeKvGAbbrTP7DFf5e8cfm-DkjqfVSC8FLsXWP2eaVDuruFvSkDSyMGc3O/)
 6. [Javascript 10 Projects in 10 days](https://www.udemy.com/share/10b1Wc3@cMvxCYfe0JmX92INgqr_TXAdHStUI-suV3skqcU19FmV3145FyRCXOU9TjlqRIZp/)
 7. [JavaScript OOP: Mastering Modern Object-Oriented Programming](https://www.udemy.com/share/10aLci3@-xY8qubL_miNpSdufOFKn-h1ij8gObkKznLAfIZsUlTLejLBF7qWzy-gao4srxGD/)
-
 
 ### React Class
 
@@ -81,7 +79,6 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 1. [React Native E-Commerce - Mern Stack](https://www.udemy.com/share/103VTmAEIbdVZbTXo=/) **Certificate Avaliable**
 2. [MERN Stack Blogging System in 2022](https://www.udemy.com/share/1057983@QdZm7GmMsTwxB6Uw5VJyZuHcERCF7oCFWMlLO5Y0_e5hxNq-bzKBEWjBk6uHwx1b/) **Certificate Avaliable**
 
-
 ### TypeScript Class
 
 1. [React & Typescript Master Class](https://www.udemy.com/share/107YkK3@dNB4VyxvLpG4cyZb51PjGPVFHRvF30ja3tSuZ3MU-gvYifYxhtIK8G2FfY2L-_9V/) **Certificate Avaliable**
@@ -98,6 +95,14 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 3. [Nextjs Prisma Postgres](https://vercel.com/guides/nextjs-prisma-postgres)
 4. [SWR Feat Axios with NextJS](https://youtu.be/AhkUYTvwguQ)
 
+### Python Class
+
+1. [Python OOP : Four Pillars of OOP in Python 3 for Beginners](https://www.udemy.com/share/101w6U3@5VUZz53f4T9A7RVJwkmhrQcz7QSFK1lCz1zUysYWRk5YUKLYUO1Ofgflh8gr3Kbq/)
+2. [Applied Python: Building Projects with Python Programming](https://www.udemy.com/share/104ZQi3@JRtBma_w8SLvMf6bHun3S_9iDSCnhS3thGqCD-RdKtGZPGpTNNGR_YOoL0FkCopG/)
+3. [Complete Face Recognition Using SQL Database Project 2025](https://www.udemy.com/share/10avCu3@2P2AytZNgOlngukZ30EG5rJHuzOPGo4JawvFIAnZI89pZlRuyWI0Q65ZG-fHVMQ-/)
+4. [Hate Speech Detection Using Machine Learning Project](https://www.udemy.com/share/10aLzO3@hNm3z8q0NDCrJyn-f0G3-LFAVr2pUASZmoDhwiWc9fSKsWoP6LM4kAVeBve6t-n9/)
+5. [Face Recognition using Python Language](https://www.udemy.com/share/104TEI3@s-U28EUkcsSuWKqXU6bNZxDirUvmH106l_Z0rZVAKcSzSWTZmaInu3GRcjH3HGrX/)
+
 ### Dotnet/ C# Class
 
 1. [For Novice Dotnet](https://www.youtube.com/@amantinband)
@@ -109,7 +114,7 @@ Baiklah, Kali ini gw lagi belajar di Lynda.Com, Udemy.Com, Udacity.Com, dan Skil
 7. [Inventory System](https://youtu.be/WoN8-rCY5o8)
 8. [Dotnet From Microsoft](https://dotnet.microsoft.com/en-us/learn/videos)
 9. [Dotnet Windows Worker Services](https://youtube.com/playlist?list=PLGWG_rRY_j4MOABOppTH8XHJe8aOTyx2V)
-10. [Dotnet  Windows Services](https://youtu.be/67DtZbPYNKg)
+10. [Dotnet Windows Services](https://youtu.be/67DtZbPYNKg)
 11. [C# .NET Essentsials](https://youtube.com/playlist?list=PLGWG_rRY_j4PkTOpcqLN9QzqnlcY0rNz9)
 12. [Monthly Learning Class](https://learn.microsoft.com/en-us/shows/lets-learn-dotnet/)
 13. [Fast 5 Learning C#](https://www.udemy.com/share/109bnM3@DW8PaMa4ksT4gVz5ybi8FyCy6jYM51rOlXaMSSI3ylE2gBWs_U5L9xn15omNfMqb/) **Certificate Avaliable**
