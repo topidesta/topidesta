@@ -61,6 +61,8 @@ Dah selesai ... untuk service whatsapp, gw pake 8 service yang opensource. Berik
 | 14 | [APIMee](https://github.com/rsuppersahabatan/apime) |  ❌ |
 | 15 | [Zapmeow](https://github.com/rsuppersahabatan/zapmeow) |  ❌ |
 | 16 | [OpenWA](https://github.com/rsuppersahabatan/OpenWA) |  ❌ |
+| 17 | [Waxum](https://github.com/rsuppersahabatan/waxum) |  ❌ |
+
 
 <details>
   <summary> 👇 Klik Detail</summary>
