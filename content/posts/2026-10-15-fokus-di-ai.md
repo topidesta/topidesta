@@ -1,6 +1,6 @@
 ---
 template: "post"
-title: Fokus di AI
+title: Fokus di AI Era
 cover: "../images/ai-roadmap.png"
 date: "2026-10-15T08:00:00Z"
 slug: "fokus-di-ai"
@@ -33,4 +33,4 @@ Berikut ini beberapa link yang gw jadiin refrensi sebagai bantuan belajar, meski
 2. [Catat Perkembangan Belajar](https://topidesta.my.id/belajar/)
 3. [Kumpulan Vidio Belajar Python](https://topidesta.my.id/video/#python-class)
 
-Dahlah ya, gw gak tau apa apa, gw cuma belajar. Cari cuan dollar, gw gak bisa jadi youtuber, 😭😭😭sumpahh seriuss.. 
+Dahlah ya, gw gak tau apa apa, gw cuma belajar. Cari lagi fokus cari cuan dollar, gw gak bisa jadi youtuber, 😭😭😭sumpahh seriuss.. 
