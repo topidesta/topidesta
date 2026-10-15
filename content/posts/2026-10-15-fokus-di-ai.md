@@ -29,7 +29,7 @@ Selama menjelajahi AI dengan kerjaan sekarang yang disebut Vibe Code, gw cukupka
 
 Berikut ini beberapa link yang gw jadiin refrensi sebagai bantuan belajar, meski tetep tanya AI untuk penjelasan detail. 
 
-1. [AI Engineering](aiengineeringfromscratch.com) ~ https://github.com/mdestafadilah/ai-engineering-from-scratch
+1. [AI Engineering](aiengineeringfromscratch.com) ~ [Repository](https://github.com/mdestafadilah/ai-engineering-from-scratch)
 2. [Catat Perkembangan Belajar](https://topidesta.my.id/belajar/)
 3. [Kumpulan Vidio Belajar Python](https://topidesta.my.id/video/#python-class)
 
