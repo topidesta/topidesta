@@ -46,7 +46,7 @@ Dah selesai ... untuk service whatsapp, gw pake 8 service yang opensource. Berik
 | Keterangan | Stack | Is Used? |
 | :---: | :---: | :---: |
 | 1 | [Baileys-API](https://go.topidesta.my.id/v1) |  ❌ |
-| 2 | [WPP-Connect](https://go.topidesta.my.id/v2) |  ❌ |
+| 2 | [WPP-Connect](https://go.topidesta.my.id/v2) |  ✔️ |
 | 3 | [Wa-Gateway](https://go.topidesta.my.id/v3) |  ❌ |
 | 4 | [Wuz-API](https://go.topidesta.my.id/v4-4) |  ✔️ |
 | 5 | [wwebjs-api](https://go.topidesta.my.id/v4-3) | ❌ |
