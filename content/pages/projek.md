@@ -332,8 +332,8 @@ Bismillah, ini adalah halaman Latihan dari Tutorial yang Saya Ikuti. Semoga tida
 <details>
   <summary> 👇 Codeigniter 4 Admin RBAC with Shield</summary>
 
-|                         Stack                          |  Status   |                             Akses                              |
-| :----------------------------------------------------: | :-------: | :------------------------------------------------------------: |
+|     Stack     |  Status   |                               Akses                               |
+| :-----------: | :-------: | :---------------------------------------------------------------: |
 | Codeigniter 4 | ⚙️ DEV ⚙️ | [link](https://github.com/mdestafadilah/codeigniter4-rbac-shield) |
 
 </details>
@@ -341,8 +341,8 @@ Bismillah, ini adalah halaman Latihan dari Tutorial yang Saya Ikuti. Semoga tida
 <details>
   <summary> 👇 Realtime Antrian with Codeigniter 3 + NodeJS</summary>
 
-|                         Stack                          |  Status   |                             Akses                              |
-| :----------------------------------------------------: | :-------: | :------------------------------------------------------------: |
+|         Stack         |  Status   |                            Akses                             |
+| :-------------------: | :-------: | :----------------------------------------------------------: |
 | Codeigniter 3, NodeJS | ⚙️ DEV ⚙️ | [link](https://github.com/rsuppersahabatan/Realtime_Antrian) |
 
 </details>
@@ -350,8 +350,8 @@ Bismillah, ini adalah halaman Latihan dari Tutorial yang Saya Ikuti. Semoga tida
 <details>
   <summary> 👇 Realtime Antrian with Python 3 + ReactJS + Docker</summary>
 
-|                         Stack                          |  Status   |                             Akses                              |
-| :----------------------------------------------------: | :-------: | :------------------------------------------------------------: |
+|          Stack           |  Status   |                                Akses                                |
+| :----------------------: | :-------: | :-----------------------------------------------------------------: |
 | FastAPI, ReactJS, Docker | ⚙️ DEV ⚙️ | [link](https://github.com/rsuppersahabatan/Realtime_Antrian_Python) |
 
 </details>
@@ -359,8 +359,8 @@ Bismillah, ini adalah halaman Latihan dari Tutorial yang Saya Ikuti. Semoga tida
 <details>
   <summary> 👇 Qris Dynamic with BHVR</summary>
 
-|                         Stack                          |  Status   |                             Akses                              |
-| :----------------------------------------------------: | :-------: | :------------------------------------------------------------: |
+|   Stack    |  Status   |                       Akses                       |
+| :--------: | :-------: | :-----------------------------------------------: |
 | BHVR Stack | ⚙️ DEV ⚙️ | [link](https://github.com/hallobayi/Qris-Dynamic) |
 
 </details>
@@ -368,8 +368,8 @@ Bismillah, ini adalah halaman Latihan dari Tutorial yang Saya Ikuti. Semoga tida
 <details>
   <summary> 👇 ADMS Server, Absensi Machine X100C</summary>
 
-|                         Stack                          |  Status   |                             Akses                              |
-| :----------------------------------------------------: | :-------: | :------------------------------------------------------------: |
+|   Stack    |  Status   |                           Akses                            |
+| :--------: | :-------: | :--------------------------------------------------------: |
 | Laravel 10 | ⚙️ DEV ⚙️ | [link](https://github.com/hallobayi/webroster-adms-server) |
 
 </details>
@@ -377,8 +377,8 @@ Bismillah, ini adalah halaman Latihan dari Tutorial yang Saya Ikuti. Semoga tida
 <details>
   <summary> 👇 TTS Server - Text To Speach</summary>
 
-|                         Stack                          |  Status   |                             Akses                              |
-| :----------------------------------------------------: | :-------: | :------------------------------------------------------------: |
+|  Stack  |  Status   |                          Akses                           |
+| :-----: | :-------: | :------------------------------------------------------: |
 | fastAPI | ⚙️ DEV ⚙️ | [link](https://github.com/rsuppersahabatan/Edge-TTS-API) |
 
 </details>
@@ -386,8 +386,8 @@ Bismillah, ini adalah halaman Latihan dari Tutorial yang Saya Ikuti. Semoga tida
 <details>
   <summary> 👇 Pendekin URL</summary>
 
-|                         Stack                          |  Status   |                             Akses                              |
-| :----------------------------------------------------: | :-------: | :------------------------------------------------------------: |
+|   Stack    |  Status   |                          Akses                           |
+| :--------: | :-------: | :------------------------------------------------------: |
 | BHVR Stack | ⚙️ DEV ⚙️ | [link](https://github.com/rsuppersahabatan/pendekin-url) |
 
 </details>
@@ -395,17 +395,17 @@ Bismillah, ini adalah halaman Latihan dari Tutorial yang Saya Ikuti. Semoga tida
 <details>
   <summary> 👇 Multiple PHP SDK Whatsapp Unofficial </summary>
 
-|                         Stack                          |  Status   |                             Akses                              |
-| :----------------------------------------------------: | :-------: | :------------------------------------------------------------: |
-| PHP | ⚙️ DEV ⚙️ | [link](https://github.com/mdestafadilah/sikuwa) |
+| Stack |  Status   |                      Akses                      |
+| :---: | :-------: | :---------------------------------------------: |
+|  PHP  | ⚙️ DEV ⚙️ | [link](https://github.com/mdestafadilah/sikuwa) |
 
 </details>
 
 <details>
   <summary> 👇 Pizza Snack Play ~ PSP </summary>
 
-|                         Stack                          |  Status   |                             Akses                              |
-| :----------------------------------------------------: | :-------: | :------------------------------------------------------------: |
+|           Stack            |  Status   |                           Akses                           |
+| :------------------------: | :-------: | :-------------------------------------------------------: |
 | BHVR Stack + D1 Cloudflare | ⚙️ DEV ⚙️ | [link](https://github.com/mdestafadilah/pizza-snack-play) |
 
 </details>
@@ -413,8 +413,8 @@ Bismillah, ini adalah halaman Latihan dari Tutorial yang Saya Ikuti. Semoga tida
 <details>
   <summary> 👇 Proctoring bundling with ViteJS </summary>
 
-|                         Stack                          |  Status   |                             Akses                              |
-| :----------------------------------------------------: | :-------: | :------------------------------------------------------------: |
+| Stack  |  Status   |                         Akses                          |
+| :----: | :-------: | :----------------------------------------------------: |
 | ViteJS | ⚙️ DEV ⚙️ | [link](https://github.com/mdestafadilah/proctoring.js) |
 
 </details>
@@ -431,8 +431,18 @@ Bismillah, ini adalah halaman Latihan dari Tutorial yang Saya Ikuti. Semoga tida
 <details>
   <summary> 👇 Printing with Multiple Godex in 1 Host (Windows) </summary>
 
-|                         Stack                          |  Status   |                             Akses                              |
-| :----------------------------------------------------: | :-------: | :------------------------------------------------------------: |
+|  Stack   |  Status   |                                 Akses                                  |
+| :------: | :-------: | :--------------------------------------------------------------------: |
 | Python 3 | ⚙️ DEV ⚙️ | [link](https://github.com/rsuppersahabatan/multiprinter-godex-windows) |
+
+</details>
+
+<details>
+
+<summary> 👇 Simple RESTful WhatsApp API </summary>
+
+|       Stack        |  Status   |                          Akses                          |
+| :----------------: | :-------: | :-----------------------------------------------------: |
+| Javascript, NodeJS | ⚙️ DEV ⚙️ | [link](https://github.com/rsuppersahabatan/baileys-api) |
 
 </details>
