@@ -391,3 +391,48 @@ Bismillah, ini adalah halaman Latihan dari Tutorial yang Saya Ikuti. Semoga tida
 | BHVR Stack | ⚙️ DEV ⚙️ | [link](https://github.com/rsuppersahabatan/pendekin-url) |
 
 </details>
+
+<details>
+  <summary> 👇 Multiple PHP SDK Whatsapp Unofficial </summary>
+
+|                         Stack                          |  Status   |                             Akses                              |
+| :----------------------------------------------------: | :-------: | :------------------------------------------------------------: |
+| PHP | ⚙️ DEV ⚙️ | [link](https://github.com/mdestafadilah/sikuwa) |
+
+</details>
+
+<details>
+  <summary> 👇 Pizza Snack Play ~ PSP </summary>
+
+|                         Stack                          |  Status   |                             Akses                              |
+| :----------------------------------------------------: | :-------: | :------------------------------------------------------------: |
+| BHVR Stack + D1 Cloudflare | ⚙️ DEV ⚙️ | [link](https://github.com/mdestafadilah/pizza-snack-play) |
+
+</details>
+
+<details>
+  <summary> 👇 Proctoring bundling with ViteJS </summary>
+
+|                         Stack                          |  Status   |                             Akses                              |
+| :----------------------------------------------------: | :-------: | :------------------------------------------------------------: |
+| ViteJS | ⚙️ DEV ⚙️ | [link](https://github.com/mdestafadilah/proctoring.js) |
+
+</details>
+
+<details>
+  <summary> 👇 Sistem absensi sekolah berbasis QR Code + RFID</summary>
+  
+|                         Stack                          |  Status   |                             Akses                              |
+| :----------------------------------------------------: | :-------: | :------------------------------------------------------------: |
+| Codeigniter 4 | ⚙️ DEV ⚙️ | [link](https://github.com/mdestafadilah/absensi-sekolah-qr-code) |
+
+</details>
+
+<details>
+  <summary> 👇 Printing with Multiple Godex in 1 Host (Windows) </summary>
+
+|                         Stack                          |  Status   |                             Akses                              |
+| :----------------------------------------------------: | :-------: | :------------------------------------------------------------: |
+| Python 3 | ⚙️ DEV ⚙️ | [link](https://github.com/rsuppersahabatan/multiprinter-godex-windows) |
+
+</details>

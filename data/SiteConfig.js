@@ -85,6 +85,10 @@ const config = {
       url: "https://halobayi.co.id",
     },
     {
+      label: "Bangkok Muaythai",
+      url: "https://bangkokmuaythai.id/",
+    },
+    {
       label: "GatsbyJS Template",
       url: "https://github.com/completejavascript/gatsby-blog-template",
     },
