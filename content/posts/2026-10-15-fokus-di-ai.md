@@ -32,5 +32,6 @@ Berikut ini beberapa link yang gw jadiin refrensi sebagai bantuan belajar, meski
 1. [AI Engineering](aiengineeringfromscratch.com) ~ [Repository](https://github.com/mdestafadilah/ai-engineering-from-scratch)
 2. [Catat Perkembangan Belajar](https://topidesta.my.id/belajar/)
 3. [Kumpulan Vidio Belajar Python](https://topidesta.my.id/video/#python-class)
+4. [Python Learning by Harvard](https://cs50.harvard.edu/python/)
 
 Dahlah ya, gw gak tau apa apa, gw cuma belajar. Cari lagi fokus cari cuan dollar, gw gak bisa jadi youtuber, 😭😭😭sumpahh seriuss.. 
