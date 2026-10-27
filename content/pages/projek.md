@@ -446,3 +446,12 @@ Bismillah, ini adalah halaman Latihan dari Tutorial yang Saya Ikuti. Semoga tida
 | Javascript, NodeJS | ⚙️ DEV ⚙️ | [link](https://github.com/rsuppersahabatan/baileys-api) |
 
 </details>
+
+<details>
+  <summary> 👇 AAPanel API </summary>
+
+| Stack |  Status   |                        Akses                         |
+| :---: | :-------: | :--------------------------------------------------: |
+|  PHP  | ⚙️ DEV ⚙️ | [link](https://github.com/mdestafadilah/AAPanel-API) |
+
+</details>
