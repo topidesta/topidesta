@@ -65,3 +65,4 @@ bundle-stats.json
 
 .yarn.lock
 .package-lock.json
+.workbuddy-ai/*
